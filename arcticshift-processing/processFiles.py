@@ -11,8 +11,8 @@ from fileStreams import getFileJsonStream
 from utils import FileProgressLog
 
 time_lower_bound = 1735344000
-fileOrFolderPath = r"./zstandard_files/"
-subreddits_to_search = ["k12sysadmin"]
+fileOrFolderPath = r"/scratch/jacobli/post_zst/"
+subreddits_to_search = ["cybersecurity", "teachers", "k12sysadmin", "technology", "edtech", "highschool", "canadianteachers", "k12cybersecurity", "technews", "msp", "internationalteachers", "canada", "toronto", "askto", "raleigh", "sacramento", "chicagosuburbs", "connecticut", "winnipeg", "bullcity", "masssachusetts", "anchorage", "ontarioteachers", "pwnhub", "privacy", "askuk", "teachinguk", "columbus", "charlotte"]
 recursive = True
 
 def process_file(path: str):
@@ -26,7 +26,7 @@ def process_file(path: str):
         progress_log = FileProgressLog(path, f)
         for row in json_stream:
             progress_log.onRow()
-            if row["subreddit"] in subreddits_to_search and time_lower_bound < row["created_utc"]:
+            if row["subreddit"].lower() in subreddits_to_search and time_lower_bound < row["created_utc"]:
                 out_data.append(row)
         progress_log.logProgress("\n")
     return out_data
@@ -46,7 +46,7 @@ def processFolder(path: str):
     for i, file in enumerate(file_iterator):
         print(f"Processing file {i+1: 3} {file}")
         out_data = process_file(file)
-        with open(f"output{i+1}.jsonl", "w") as f:
+        with open(f"/scratch/jacobli/posts/output{i+1}.jsonl", "w") as f:
             for obj in out_data:
                 f.write(json.dumps(obj) + "\n")
 
