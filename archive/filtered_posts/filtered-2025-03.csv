@@ -1,0 +1,113 @@
+,author,time_of_post,subreddit,post_id,post_link,title,content,num_comments,num_upvotes,num_downvotes,title_length,post_length
+4165,rjp94sep,1741185818,k12sysadmin,1j44mfa,https://www.reddit.com/r/k12sysadmin/comments/1j44mfa/is_it_just_me_or_is_this_everywhere/,Is it just me? Or is this everywhere?," It’s a snow day here so I’m jumping on here to vent something I’ve been mulling over for a few months now.
+
+I’m so torn and filled with imposter syndrome because this is my first K12 IT job, so I’m not sure if this is normal or its insane. I’m a 1-person department so I can’t even infer with a “co-worker” who isn’t in the trenches with me. I need you to help me if this is just me or if its a “Welcome to K12 IT” problem.
+
+For context, I am in Minnesota. It is an urban K-8 Public Charter. Roughly 500 kids in person, 300 online. I make $74k, salaried, so I cannot timesheet for overtime.
+
+* I’m in charge of everything. I know this is a lot of people that say “everything that plugs in” but literally staff refer to me as the “Technology Expert.” We have an MSP that does our Internet and Firewall. They are supposed to help with tickets, but when half of them have never heard of Securely or Clever, or can’t touch PowerSchool for PPI reasons, I’m doing most of the Tier 1 desk stuff anyway.
+* And yet I know I’m making $6k less than my predecessor who didn’t have any training. I have in the last year gotten my CompTIA Plus, Google Admin Cert, and “Clever Trainer” and “Google Trainer” certified. All on my own time and dime.
+* Last year it was my predecessor AND me (Help Desk). When they fired him and asked me to step up (IT Manager), they said they would get a “me” replacement. It is almost a year and that has still yet to happen.
+* I had a meeting with HR about having people needing to use the ticket system. She tells me I have the right to tell people they need to use the ticket system. Next day, she turns around, calls me. I remind her, she says “I’m proud of you for reinforcing it!” Doesn’t send a ticket. Then stops me in the hall 2 days later and asks the same thing.   
+
+   * \^\^I have had this conversation now 2 more times with her and nothing has changed.
+* I am seen over by the Director of Ops who barely understands email. But he’s not only my supervisor. He’s also in charge of transportation, and attendance, and he’s also the Middle School Assistant Principal. Since December he’s only talked to me for 5 hours total when we are supposed to have two 1 hour meetings a week.  
+
+   * I also have to go through him for every financial purchase. From $10 to $10k, I need his signature.
+* They make tech decisions about platforms/apps/security hardware/which projectors they are going to buy but don’t include me in the conversation. And then 3-4 months later, they are surprised why XYZ project isn’t rolling out smoothly.
+
+I’m so lost at what to do. I love this kind of work. I love the problem solving. I love that I’m helping kids and not some corporate hedge fund. But the lack of professionalism is infuriating to me. The fact that I am the one who has to drag this place kicking and screaming into the 21st Century is giving me migraines. The idea that I have to quarterback its operational maturity and not, oh I don’t know, Admin/Leadership. And the biggest mental hurdle: I’m putting in 55-60 hours a week just to keep my head above water, for what I know is lower 10% of the pay for a Tech Director in Minnesota, with probably 4 times the staff on their IT Department payroll.
+
+So, what do I do?
+
+[View Poll](https://www.reddit.com/poll/1j44mfa)",22,3,0,37,3286
+4496,Hooray_Gamer,1741205857,highschool,1j4crmc,https://i.redd.it/uaeu3wyyixme1.jpeg,My bad grades broke PowerSchool,Don’t worry guys it’s just missing work that piled up because I switched to a class ahead of my old one.,8,21,0,31,104
+8964,Dark-Marc,1741631110,pwnhub,1j85jwb,https://www.reddit.com/r/pwnhub/comments/1j85jwb/powerschool_breach_exposes_students_after_hackers/,PowerSchool Breach Exposes Students After Hacker's Months-Long Access,"
+**A hacker accessed PowerSchool's network months before a major data breach in December, putting millions of student records at risk.**
+
+**Key Points:**
+
+- Unauthorized access to PowerSchool's network began as early as August 2024.
+- Compromised support credentials were used to access sensitive customer information.
+- The breach affects personal information of over 60 million students.
+
+PowerSchool, a leading player in the edtech industry, faced a significant cybersecurity breach that compromised its network much earlier than previously acknowledged. According to an investigation by CrowdStrike, unauthorized access to its systems started as early as August 2024, well before the massive data breach reported in December. The findings indicate that the same compromised support credentials, originally believed to be part of the December incident, granted access to sensitive data, highlighting profound vulnerabilities within PowerSchool's cybersecurity measures.
+
+The investigation revealed that the hacker exploited access to PowerSchool's PowerSource, a customer support portal that enables technicians to maintain system operations. This prolonged access raises serious concerns about the company's security protocols and how quickly they acted to mitigate the threat. Even though CrowdStrike didn't conclusively link the hacker from the earlier access to the December breach, the implications are stark: had PowerSchool addressed the compromised credentials sooner, the significant data breach impacting 60 million students might have been avoided. Questions linger regarding what else could be done to fortify systems against such threats and how transparency can be improved in addressing breaches with affected parties.
+
+What steps should companies take to enhance their cybersecurity measures and prevent similar breaches in the future?
+
+**Learn More:** [TechCrunch](https://techcrunch.com/2025/03/10/hacker-accessed-powerschools-network-months-before-massive-december-breach/)
+
+**Want to stay updated on the latest cyber threats?** 
+
+ 👉 **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,2,0,69,2117
+9034,BlasphemousLemons,1741634858,CanadianTeachers,1j872zb,https://www.reddit.com/r/CanadianTeachers/comments/1j872zb/surreyburnaby_teachers_do_you_like_like_the/,Surrey/Burnaby teachers! Do you like like the Workboard application by PowerSchool? Pros and cons?,My school district is going to start using Workboard soon and I can’t find anything about the software online. ,4,1,0,98,111
+9872,Dark-Marc,1741711272,pwnhub,1j8v5yz,https://www.reddit.com/r/pwnhub/comments/1j8v5yz/powerschool_reveals_earlier_cyber_breaches_months/,PowerSchool Reveals Earlier Cyber Breaches Months Before Data Theft,"
+**PowerSchool has disclosed significant cybersecurity breaches from August and September 2024, raising concerns about the security of student and teacher data.**
+
+**Key Points:**
+
+- PowerSchool was hacked in August and September 2024 before the December breach.
+- Hackers accessed sensitive data of potentially 72 million users, including students and teachers.
+- The breaches involved compromised credentials accessing the customer support portal, PowerSource.
+- CrowdStrike's investigation revealed ongoing access by threat actors, heightening transparency concerns.
+- The incident affected over 6,500 school districts across multiple countries.
+
+PowerSchool, a major cloud-based K-12 software provider, has come under fire following the revelation that it had been compromised not just once, but multiple times prior to its December 2024 data breach. The initial breaches occurred in August and September, utilizing compromised support credentials to gain unauthorized access to its customer support portal, known as PowerSource. This unexpected access allowed threat actors to potentially exfiltrate sensitive information from approximately 72 million accounts, stirring alarm among educators and parents alike regarding the safety of their data.
+
+The implications of such breaches are far-reaching, especially in the education sector, where trust and confidentiality are paramount. With over 6,500 school districts reportedly affected, the sheer volume of compromised sensitive information—including names, addresses, Social Security numbers, and academic records—underscores the urgent need for organizations to reassess their cybersecurity protocols. CrowdStrike's report indicates a concerning lack of transparency from PowerSchool, as the company has not publicly shared the total number of individuals or institutions impacted by these incidents. As cybersecurity threats continue to evolve, organizations serving vulnerable populations must prioritize safeguarding their data with robust security measures.
+
+How should companies improve transparency in reporting data breaches to protect users better?
+
+**Learn More:** [Bleeping Computer](https://www.bleepingcomputer.com/news/security/powerschool-previously-hacked-in-august-months-before-data-breach/)
+
+**Want to stay updated on the latest cyber threats?** 
+
+ 👉 **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,1,0,67,2387
+13346,ZenGMFan,1741983918,highschool,1jbdev3,https://www.reddit.com/r/highschool/comments/1jbdev3/would_you_throw_your_report_card_in_the_trash_can/,Would you throw your Report Card in The Trash Can? (D on the Grammar),"We got report cards today! So I throw away my finished lunch in the trash can, but I end up looking inside and I see 2 report cards in there 💀. Parents can see your grades through PowerSchool so I’m not sure how dumb that is 😭.",8,3,0,69,227
+13354,hydrojames,1741984751,edtech,1jbdqf0,https://www.reddit.com/r/edtech/comments/1jbdqf0/any_techysysadmin_types_that_i_can_pay_you_to/,Any techy/sysadmin types that I can pay you to deep dive into SIS integrations with me?  There's just too much out there and I need some guidance from someone that has gone down this road before.,"I'm trying to build a tool for students and noticed that SIS integrations is pretty important these days to make that possible, especially with SSO.  I've been reading a ton and I'm not sure if this is the right place to solicit for help, but I'd be happy to pay anyone with deep knowledge around these topics:
+
+* Google Classroom / Microsoft Team for Education / Clever / EdLink integrations and how important those are for choosing software
+* Integrating with specific SIS's, like Blackbaud, FACTS, PowerSchools, etc
+* How schools / school districts make purchasing decisions in general.
+
+  
+Thank you!!!!",4,2,0,195,607
+14854,fatima-ff,1742144399,OntarioTeachers,1jcq10j,https://www.reddit.com/r/OntarioTeachers/comments/1jcq10j/first_day_ot/,first day OT,"Hi, I got recently hired by OCDSB as a OT and completed all the training. Even after the training I am unsure on where I get my name tag from and how is attendance done in Ottawa. I know school boards have different attendance tools like Hamilton uses PowerSchool, Halton used Aspen. Please hellpppp",4,1,0,12,299
+15762,2qrc_,1742230958,highschool,1jdhpi6,https://i.redd.it/vw3nmrf47ape1.jpeg,Anyone know why this is happening? (PowerSchool),"So whenever I try to input the district code of my school and I select either the parent or student option, I get this page. What’s causing this? Thanks in advance ",12,4,0,48,164
+17332,GraceDaysThree,1742347819,highschool,1jelr7r,https://www.reddit.com/r/highschool/comments/1jelr7r/what_do_i_do_about_my_teacher_not_putting_in_my/,What do I do about my teacher not putting in my grades?,"Yes, I know I should’ve had the work turned in when it’s due. BUT IN MY DEFENSE, it’s only a few assignments that weighted my grade down heavily and I was absent when they were assigned.
+
+Bro my literature teacher is not putting my grades in. And my parents are on my ass about it and they think I’m not putting in the work, My lit teacher is also getting on me about my missing assignments but the only thing wrong with that is oh idk I TURNED THEM IN AND TOLD YOU I TURNED THEM IN. YOU JUST DIDN’T PUT THEM IN POWERSCHOOL. 
+
+Even the assignments that I did complete on time, she’s not putting them in. It’s making my grades look worse than they are. My mom said that if my grades don’t go up she’ll start taking away privileges. I TURNED IN THE WORK!! SHES NOT PUTTING THEM IN.
+
+I was thinking about sending a passive aggressive email. She’s not going to be here when I see her again on Thursday so I can’t tell her in person. But then I don’t want to look like an asshole. I just want my grade to be fixed so my family will cut me some slack, man.",10,0,0,55,1050
+17735,admin_of_insanity,1742396632,k12sysadmin,1jez2mg,https://www.reddit.com/r/k12sysadmin/comments/1jez2mg/powerschool_oidc_pitfalls/,PowerSchool OIDC Pitfalls,"I am tasked with switching over to PowerSchool OIDC during our upcoming Spring Break. I will be using Microsoft Entra as our Identity provider. All of it is cloud-hosted except for Active Directory, which is on prem.
+
+I have downloaded the directions PowerSchool provides and I understand them. What I want to know is have you done this, and what unexpected snags did you run into that I should look out for? Give me your horror stories!",10,3,0,25,437
+19343,piratesandromantics,1742517845,k12sysadmin,1jg4izg,https://www.reddit.com/r/k12sysadmin/comments/1jg4izg/help_bringing_new_calendarsyncingtool_for_schools/,Help: Bringing new Calendar/Syncing/Tool for schools to market,"Hi EdTech Community, Vendor here and looking for your honest help, feedback and wisdom.
+
+**Context:**  
+I’m a 20-year EdTech/SaaS veteran, on the vendor side of serving schools. My years have been spent in building enterprise solutions for private/independent schools.  
+  
+Over the last 4 years, I have developed a successful system/product called SchoolCal that fits into a school's existing ecosystem to make calendars/scheduling less painful for administrators, teachers, counselors, learning specialists, etc.   
+  
+The system makes it easy for users in google or outlook to find and coordinate availability and meeting times across the school (tons of wasted time spent on this).    
+  
+The system does this by syncing SIS data (class schedules for teachers and students and rooms/resources, etc) to Google Calendar and Outlook Calendar using native API's to automatically keep the information up to date.   
+  
+**Problem:** As a new tool that relies on SIS data (Infinite Campus, Aeries, Skyward, PowerSchool, etc), I'm finding it difficult to build the API mapping because we need access to the source data/API's to make it work.  
+  
+With that being said, is there anyone out there who might be interested in partnering together to bring this tool to their schools?? Ideally, you'd be excited about being an early adopter and willing to be part of the build/design process.
+
+I have a working/shipped product for PowerSchool districts, and now looking to build integrations with the other major SIS's. 
+
+**My Questions for You:**  
+**General:** If you were bringing a new EdTech tool to market, how would you do it?  
+**Calendars:** Is improving calendars something that would be helpful for your schools?  
+**Availability:** Do your schools/districts struggle with finding available people/rooms?  
+**Technical:** How would you recommend building integrations with Aeries, Infinite Campus, Skyward, etc.?  
+**Sales/Outreach:** How do you recommend contacting/connecting with tech leaders and administrators to let them know about this new tool? Conferences (which ones?), listservs (which ones?), or word of mouth?
+
+Bringing a product to market is challenging, and I’m navigating a lot of noise right now. Any guidance, recommendations, or wisdom you can share would be greatly appreciated.",1,1,0,62,2299

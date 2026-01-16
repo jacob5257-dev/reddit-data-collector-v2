@@ -1,0 +1,181 @@
+,author,time_of_post,subreddit,post_id,post_link,title,content,num_comments,num_upvotes,num_downvotes,title_length,post_length
+1539,ThisisMyThirdPenName,1746195779,Winnipeg,1kd27dr,https://www.reddit.com/r/Winnipeg/comments/1kd27dr/class_action_against_pembina_trails_powerschool/,Class Action against Pembina Trails & PowerSchool over cyber security incident?,"Today I have to enroll my five-year-old child in identity protection monitoring services because of the Pembina Trails cyber security breach which was first revealed back on December 4, 2024.
+
+The incident involved the PowerSchool software, but the email we received today from PowerSchool offering two years of free identity protection services was the first time ""PowerSchool"" was actually mentioned in relation to the Pembina Trails incident.
+
+Does anyone know if a class action suit is being organized against Pembina Trails or PowerSchool in relation to the breach? Is such a thing even feasible / practical? 
+
+I'm just livid / heartbroken that I have to enroll a Kindergarten-age-child in identity monitoring already.",43,0,0,79,723
+6313,Fair_Scientist2347,1746625390,bullcity,1kgxoyn,https://www.wral.com/news/education/powerschool-breach-why-children-are-vulnerable-how-to-protect-them-may-2025/,PowerSchool breach: Why children are especially vulnerable to data breaches and how to protect them :: WRAL.com,"Have any other parents of a DPS student been contacted by DPS or their child's school regarding this data breach? This school system has lived and breathed, basically survived by this system for many years.
+
+I found the lack of contact from DPS about it disconcerting and am only aware of it because of this news. 
+
+",16,9,0,111,316
+6651,orphantech,1746642190,k12sysadmin,1kh4kya,https://www.reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/,PowerSchool Cyber security incident update:,"Just received this email from PowerSchool.
+
+Dear Valued Customers:
+
+We are writing to inform you of a recent development related to the cybersecurity incident PowerSchool experienced in December 2024.
+
+PowerSchool recently became aware that a threat actor has reached out to some PowerSchool SIS customers in an attempt to extort them using data from the previously reported December 2024 incident. We do not believe this is a new incident, but we wanted our customers to be informed, nonetheless.
+
+As you all are likely aware, in the days following our discovery of the December 2024 incident, we made the decision to pay a ransom because we believed it to be in the best interest of our customers and the students and communities we serve. It was a difficult decision, which our leadership team did not make lightly. As is always the case with these situations, there was a risk that the bad actors would not delete the data they stole, despite assurances and evidence that were provided to us.
+
+In light of this, I want to take a moment to remind you all that following the December 2024 incident, PowerSchool also offered and made widely available credit monitoring and identity protection services for a period of two years to students and faculty of our PowerSchool SIS customers, regardless of whether they were individually involved. We encourage you all to take this opportunity to remind your communities that these services are still available. If you choose to send an update to your families and educators, we have included a suggested message for you to send below.
+
+As a reminder, information about credit monitoring and identity protection services and enrollment can be found on our website:
+
+For customers in the U.S.: https://www.powerschool.com/security/sis-incident/notice-of-united-states-data-breach/
+
+For customers in Canada: https://www.powerschool.com/security/sis-incident/notice-of-canada-data-breach/
+We sincerely regret the occurrence of the 2024 incident. We will continue supporting our valued customers and law enforcement as we work through this together. If you have any questions or concerns, please don’t hesitate to reach out to your CSM.
+
+Sincerely,
+Hardeep Gulati
+Chief Executive Officer, PowerSchool",21,50,0,43,2240
+6670,cleveradmin,1746643044,msp,1kh4xlx,https://www.reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/,PowerSchool Breach Update,"Shocking that it appears the hackers didn’t actually delete the data they were paid to delete. I mean, if you can’t trust hackers, who can you trust?
+
+https://cbe.ab.ca/about-us/policies-and-regulations/freedom-of-information-and-protection-of-privacy-foip/Documents/20250507-PowerSchool-Data-Breach-Letter.pdf",13,23,0,25,310
+7475,Sunitha_Sundar_5980,1746712332,cybersecurity,1khqnbw,https://www.reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/,School Ransomware attacks,"Just read about how the PowerSchool breach led to ransom demands sent directly to families across North America, even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+
+What’s worse? Some of the info goes back decades, student IDs, medical details, emergency contacts. School boards are now scrambling to respond. This really shows how damaging one weak access point (like a compromised admin account) can be.
+
+Do you think schools and edtech platforms are doing enough to secure such sensitive data?
+
+Source: [https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277](https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277)",25,125,0,25,719
+7605,k12techpro,1746720973,k12sysadmin,1khu3sh,https://www.reddit.com/r/k12sysadmin/comments/1khu3sh/powerschools_ransom_aftermath_a_deeper_look_at/,PowerSchool’s Ransom Aftermath: A Deeper Look at the Follow-Up Extortion Attempts,"Some districts are now facing direct extortion attempts from a threat actor, linked to the attack on PowerSchool in December... [https://k12techpro.com/powerschools-ransom-aftermath-a-deeper-look-at-the-follow-up-extortion-attempts/](https://k12techpro.com/powerschools-ransom-aftermath-a-deeper-look-at-the-follow-up-extortion-attempts/)",1,18,0,81,338
+8078,ewikstrom,1746750105,k12sysadmin,1ki5hlo,https://www.reddit.com/r/k12sysadmin/comments/1ki5hlo/arbiter_sports/,Arbiter Sports,"Does anyone use Arbiter for sports registration, clearance/medical info, rosters, etc.? What do you think of it? Do you use something else? For those who store medical info in it, is it just for sports clearance for athletes or for all students? Do you also store health info like physicals and immunizations in your SIS? We use PowerSchool.",2,4,0,14,341
+8505,CISO_Series_Producer,1746799528,cybersecurity,1kijbr2,https://www.reddit.com/r/cybersecurity/comments/1kijbr2/top_cybersecurity_stories_for_the_week_of_050525/,Top cybersecurity stories for the week of 05-05-25 to 05-09-25,"Host Rich Stroffolino will be chatting with our guest, **Dan Holden, CISO, BigCommerce** about some of the biggest stories in cybersecurity this past week. You are invited to watch and participate in the live discussion. 
+
+We go to air at 12:30pm PT/3:30pm ET. Just go to YouTube Live here [https://youtube.com/live/Zb2Oe9WaAKY](https://youtube.com/live/Zb2Oe9WaAKY) or you can [subscribe to the Cyber Security Headlines podcast](https://cisoseries.com/subscribe-podcast/) and get it into your feed.
+
+Here are the stories we plan to cover:
+
+**Ransomware attacks on food and agriculture industry have increased this year**  
+Speaking at RSA, Jonathan Braley, director of the Food and Agriculture-Information Sharing and Analysis Center, (Food and Ag-ISAC), said that paired with the increase in ransomware attacks is the fact that many go unreported, preventing visibility into the full scope of the problem. The increase in attacks seems to stem from activities by the Clop ransomware gang, specifically its exploitation of MOVEit, GoAnywhere and Accellion, as well as activity from the groups RansomHub and Akira. The industry saw 84 attacks from January to March, more than double the number seen in Q1 2024. A report from Food and Ag-ISAC says that industries in food, agriculture, and manufacturing typically face ransomware attacks because they tend to have more legacy equipment and industrial control systems, making them easier targets.  
+([The Record](https://therecord.media/ransomware-attacks-food-and-ag-double-2025))
+
+**Congress challenges Noem over proposed CISA cuts**  
+On Tuesday, Homeland Security Secretary Kristi Noem faced tough questioning from members of Congress about the Trump administration’s proposal to cut CISA’s funding by $491 million, as part of their “skinny budget.” Homeland Security subcommittee chair Rep. Mark Amodei, R-Nev., said at a time when government leaders are saying China is getting the better of the U.S. in cyberspace, appropriators need more information on the budget proposal. Top panel Democrat, Rep. Lauren Underwood (D-Ill.), said to Noem, “Last week you said we should ‘just wait’ for the president’s grand cyber plan. But you have not waited to erode the department’s cyber defense capabilities by removing resources and personnel from CISA and other components.” Noem maintained that instead of “censorship,” CISA is now focused on securing critical infrastructure. She added that the president’s cyber plan would be “coming out shortly and that’s the president’s prerogative.”  
+([CyberScoop](https://cyberscoop.com/house-questions-trump-cisa-budget-cuts-2025/) and[ The Record](https://therecord.media/noem-house-hearing-proposed-cisa-funding-cuts))
+
+**Disney Slack attacker turns out to be Ryan from California**  
+Following up on a story we covered last July, in which The Walt Disney Company suffered the theft of more than one terabyte of data through its Slack channels, it turns out that the perpetrator was not a Russian hacktivist group, but was instead, 25-year-old California resident Ryan Mitchell Kramer. The hack was originally described as retribution against Disney for how it handled artist contracts, their use of AI, and how it treated its consumers. Now, according to the Department of Justice, “Kramer published a program online that purported to be an AI art generation app but actually contained malware that gave him remote access to the victim’s computer. A Disney employee downloaded the program, allowing Kramer to nab login credentials for various accounts in their name, including their Disney Slack account.” Kramer has agreed to plead guilty to one count of accessing a computer and obtaining information, and one count of threatening to damage a protected computer, which could lead to ten years in prison.  
+([The Register](https://www.theregister.com/2025/05/02/disney_slack_hacker_revealed_to/))
+
+**NSO Group to pay WhatsApp $167 million in damages**  
+On Tuesday, after a five-year legal battle, a jury ruled that NSO Group must pay the Meta-owned platform $167,256,000 in punitive damages and around $444,719 in compensatory damages. WhatsApp accused NSO Group of exploiting an audio-calling vulnerability in the chat app to target around 1,400 people, including dissidents, human rights activists, and journalists. WhatsApp was seeking more than $400,000 in compensatory damages, based on the time its employees spent on investigating and remediating the attacks. A WhatsApp’s spokesperson hailed the historic ruling as, “the first victory against illegal spyware that threatens the safety and privacy of everyone.” NSO Group said it plans to carefully review the details of the verdict and left the door open for an appeal.  
+([TechCrunch](https://techcrunch.com/2025/05/06/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign/))
+
+**Telemessage stores plaintext chat logs, suspends services**  
+TeleMessage, a federal contractor that sold a modified version of Signal called TM SGNL to senior US officials, can reportedly access plaintext chat logs—despite marketing claims suggesting end-to-end encryption. Security researcher Micha Lee analyzed the app’s Android source code and found it insecure, confirming TeleMessage’s access. The company was recently hacked twice, leaking sensitive data and prompting it to suspend operations. Senator Ron Wyden has now called for a DOJ investigation, citing the app as a potential national security threat due to its insecure design and foreign ties.  
+([Micha Lee](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/))
+
+**LockBit ransomware gang hacked**  
+As quoted in BleepingComputer, “the LockBit ransomware gang has suffered a data breach after its dark web affiliate panels were defaced and replaced with a message linking to a MySQL database dump,” which itself appears to have occurred on April 29. It is not known who carried out this breach or how they did it, but the defacement message, which reads, “Don't do crime CRIME IS BAD xoxo from Prague,"" matches one used in a recent breach of the dark web site belonging to Everest ransomware, suggesting a possible link. BleepingComputer continues “It's too early to tell if this additional reputation hit will be the final nail in the coffin for the ransomware gang.”  
+([BleepingComputer](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/))
+
+**PowerSchool hacker now extorting individual school districts**  
+Following up on a story we have been covering since January, the education technology company PowerSchool now says that despite having paid a ransom, “the same threat actor is now attempting to use the stolen data to extort the individual school districts that it works with.” The breach, which occurred in December, exposed sensitive personal data of more than 60 million K-12 students and more than nine million teachers. PowerSchool had expressed confidence that the incident had been resolved, telling Bleeping Computer the hacker shared a video which purported to show the data being deleted. Apparently, this was not the end of the story as at least four school boards have contacted with extortion requests.  
+([The Record](https://therecord.media/despite-ransom-payment-powerschool-extorting))",0,7,0,62,7383
+8709,K12TechTalkPodcast,1746811978,k12sysadmin,1kiobkp,https://www.reddit.com/r/k12sysadmin/comments/1kiobkp/tiktok_chromebook_trends_more_powerschool_woes/,TikTok Chromebook Trends & More PowerSchool Woes,"Listen here [https://k12techtalkpodcast.com/e/episode-213-powerschool-extortion-demands-and-tiktok-trends/](https://k12techtalkpodcast.com/e/episode-213-powerschool-extortion-demands-and-tiktok-trends/) and all major podcast platforms.
+
+This week, we discuss CoSN's initiative to train educators in AI readiness, aiming to scale AI adoption in K12 schools nationwide. The program features expert trainers and a K12 Gen AI Maturity Tool to help districts navigate the opportunities and risks of AI integration. Additionally, over 250 tech CEOs, including leaders from companies like Adobe, Microsoft, and IBM, have signed an open letter calling for mandatory AI education in all US schools, highlighting the growing importance of computer science education.
+
+It's not all positive news!!! We'll also cover the troubling issue of PowerSchool districts receiving an extortion attempt from the attackers. Finally, we touch on a viral TikTok trend that is causing widespread panic in schools as students are damaging Chromebooks, leading to shortages and disruptions in learning.",0,17,0,48,1074
+8727,Dark-Marc,1746812308,pwnhub,1kiogda,https://www.reddit.com/r/pwnhub/comments/1kiogda/toronto_school_district_struggles_after_paying/,Toronto School District Struggles After Paying Ransom to Hacker,"
+**Despite paying a ransom, the Toronto District School Board faces new threats regarding compromised student data.**
+
+**Key Points:**
+
+- PowerSchool paid ransom to hackers, but data remains at risk.
+- TDSB warns parents of ongoing extortion attempts linked to previous data breach.
+- Sensitive student information, including health records, may be compromised.
+
+The Toronto District School Board (TDSB) is facing a disturbing situation after paying a ransom to hackers in December 2024, which led to the compromise of sensitive data for over 235,000 students. Despite assurances from PowerSchool, the technology partner that processed the payment, freshly received communications from a hacker revealed that the threat of exposure persists. Parents were informed that there may be a risk that the hacked data was not deleted as promised, raising alarms about the safety of personal information such as health care numbers and disciplinary records.
+
+The incident underscores a troubling trend in cybersecurity where paying ransoms does not guarantee data protection or recovery. The PowerSchool incident, while initially believed to be contained, showcases the unpredictable nature of cybercrime. TDSB has reported that their investigation has revealed a pattern of extortion, indicating that multiple school boards are under similar attacks. With sensitive data potentially compromised, both parents and authorities must grapple with the persisting risks and the complexities of how to respond to ransom demands in the future.
+
+What actions should schools take to protect student data from cyber threats?
+
+**Learn More:** [The Record](https://therecord.media/toronto-school-district-says-data-not-deleted-after-ransom)
+
+**Want to stay updated on the latest cyber threats?** 
+
+ 👉 **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,9,0,63,1841
+12737,popciclecity,1747171975,ChicagoSuburbs,1kly3q5,https://www.reddit.com/r/ChicagoSuburbs/comments/1kly3q5/my_kids_data_was_part_of_a_december_2024_hack_of/,My kid's data was part of a December 2024 hack of PowerSchool. His school is now being extorted. https://www.nbcnews.com/tech/security/school-districts-hit-extortion-attempts-powerschool-breach-rcna205429,"Back in March, my kid's previous school emailed to let us know our child's data was hacked from the vendor our district uses to hold student data such as test scores and grades as well as teacher data. 
+
+The vendor is called PowerSchool and is used by a lot of the suburban districts. At the time, PowerSchool told our district admin that they paid the hackers to delete the data vs. release it or try to sell it. The school bought that. Come to find out now that there is a ""threat actor"" reaching out to the schools impacted by the December 2024 incident and they are being extorted. 
+
+The school told us for now we should take PowerSchool up on their offer of two years of free ID protection for our kid's info and credit monitoring. I want to sue PowerSchool but it turns out there is no way to do that. 
+
+Anyone else experiencing this? What are your thoughts?",25,96,0,204,864
+13871,Western-Lynx-9172,1747261250,highschool,1kmsb2r,https://www.reddit.com/r/highschool/comments/1kmsb2r/i_didnt_cheat_on_a_test_and_paid_dearly_for_it/,I didn't cheat on a test and paid dearly for it.,"
+
+Last Monday, I wasn't able to take a Medical test due to me taking AP tests that day. And all last week I had to Umpire baseball games for a travel ball Mother’s Day tournament. Safe to say, I was not prepared to take the test and wasn't able to be ready. On Tuesday, she said we had to take the test during class and sit outside in the hallway due to her going over the answers in the classroom. The test was super difficult. The average mean of all of the grades was a 76%. She allowed us to have a paper the size of a note card and to write on both sides. With all of the info that was in the test, it would've been impossible to cram all of it in their. Reminder, I wasn't able to study at all due to me Umping over the weekend and taking the AP test on Monday. But, the other student who took the AP test was out in the hallway with me and she had her notes out, which was not allowed. I tried my best to remember what we covered and the little info I had on my note card. In the end, the person who cheated got an 85% and I got a D+. I know i couldve studied or what not in the afternoon of Monday, but I completely forgot about the test I missed until I actively walked through the doors to her class. And you might think I have a good excuse for why I did poorly but my dad will not hear it. He is the textbook definition of strict. He made me make revisions to a math test that I got a B on. That's how strict he is. And once he sees that grade in Powerschool, this might be the last time you ever hear from me again. (This is a joke but I do actively fear what my dad might say.)
+
+Idk why but I feel guilty for not taking advantage of the situation like that kid did, but I decided to be morally right and got a D. I just need some advice.",2,2,0,48,1751
+16917,K12TechTalkPodcast,1747532482,k12sysadmin,1kp8s33,https://www.reddit.com/r/k12sysadmin/comments/1kp8s33/cell_phone_bans_powerschool_and_summer_device/,"Cell Phone Bans, PowerSchool, and Summer Device Collection","[https://k12techtalkpodcast.com/e/cell-phone-bans-lawsuits-and-end-of-year-tech-talks/](https://k12techtalkpodcast.com/e/cell-phone-bans-lawsuits-and-end-of-year-tech-talks/) and all major podcast platforms
+
+We discuss: 
+
+[Memphis. vs PowerSchool Lawsuit](https://www.fox13memphis.com/education/memphis-shelby-county-schools-sues-software-provider-over-data-breach/article_f7fb19c9-db1d-4b1b-914b-d4b021291ec8.html)
+
+[Congress vs. Wifi Hotspots in E-Rate](https://www.congress.gov/bill/119th-congress/senate-joint-resolution/7/text)
+
+[End of Student Privacy Pledge](https://studentprivacypledge.org/privacy-pledge-2-0/)
+
+[Missouri ](https://www.govtech.com/education/k-12/missouri-set-to-implement-ban-on-phones-during-school-hours)vs. [Maine](https://www.govtech.com/education/k-12/maine-faces-local-control-controversy-over-school-phone-policy) Cell Phone Laws
+
+Device Collection",0,1,0,58,881
+16943,k12techpro,1747534901,k12sysadmin,1kp9hwn,https://www.reddit.com/r/k12sysadmin/comments/1kp9hwn/security_watch_51625/,Security Watch 5/16/25,"On K12TechPro, we've launched a weekly cyber threat intelligence and vulnerability newsletter with NTP and K12TechPro. We'll post the ""public"" news to k12sysadmin from each newsletter. For the full ""k12 techs only"" portion (no middle schoolers, bad guys, vendors, etc. allowed), log into [k12techpro.com](http://k12techpro.com) and visit the Cybersecurity Hub.
+
+A major breach at **PowerSchool** exposed sensitive student and faculty data across thousands of school districts. Despite paying a ransom, the company now reports renewed extortion attempts, underscoring the risks of trusting threat actors to honor such agreements.
+
+The **CoGUI phishing kit** has sent millions of targeted emails using “precision validated phishing” techniques. By filtering targets based on system attributes, the kit evades detection and tricks users into entering credentials or financial details on fake login pages. 
+
+In another emerging threat, attackers are leveraging **fake CAPTCHA pages** to trick users into executing scripts via the command prompt. 
+
+Lastly, researchers uncovered serious vulnerabilities in **Apple’s AirPlay protocol**, including zero-click exploits capable of spreading malware across networks.",0,5,0,22,1206
+19738,k12techpro,1747790368,k12sysadmin,1krlo2d,https://www.reddit.com/r/k12sysadmin/comments/1krlo2d/powerschool_hacker/,Powerschool Hacker,"PowerSchool hacker pleads guilty to student data extortion scheme
+
+[https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p\_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ\_aem\_xnM-yAJu8HX6UjynZ-D-wg](https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ_aem_xnM-yAJu8HX6UjynZ-D-wg)",6,74,0,18,530
+19769,embeester,1747793277,ChicagoSuburbs,1krmm54,https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/,PowerSchool hacker,"
+",4,0,0,18,1
+19793,Tycho_Jissard,1747794853,k12cybersecurity,1krn49t,https://www.reddit.com/r/k12cybersecurity/comments/1krn49t/powerschool_breach_update_guilty_plea/,PowerSchool Breach Update - Guilty Plea,"19 Year old from MA. Unnamed conspirator in IL
+
+[https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p\_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ\_aem\_xnM-yAJu8HX6UjynZ-D-wg](https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ_aem_xnM-yAJu8HX6UjynZ-D-wg)
+
+[https://www.justice.gov/usao-ma/pr/worcester-college-student-plead-guilty-cyber-extortions](https://www.justice.gov/usao-ma/pr/worcester-college-student-plead-guilty-cyber-extortions)
+
+[https://www.justice.gov/d9/2025-05/us\_v.\_matthew\_lane\_-\_information.pdf](https://www.justice.gov/d9/2025-05/us_v._matthew_lane_-_information.pdf)",0,3,0,39,850
+20437,luvvie90,1747854326,k12sysadmin,1ks65yo,https://www.reddit.com/r/k12sysadmin/comments/1ks65yo/staff_titles/,Staff Titles?,"Hey all,
+We're switching SIS's (from PowerSchool to Infinite Campus) and I'm using this opportunity to clean up. We currently have 148 different titles for staff, and only about 200 staff members. 
+
+My question specifically is at the middle and high school levels. Do y'all set the teachers' title as their grade level, their subject, or both?
+i.e. 6th Grade Teacher, Social Studies Teacher, or 6th Grade Social Studies Teacher
+
+Thank you! 
+",17,21,0,13,441
+20829,Poneer-AVR-VSX-530,1747876332,Teachers,1kseg7z,https://www.reddit.com/r/Teachers/comments/1kseg7z/help/,Help.,"Im not going to pretend to be a teacher cause that would be dishonest but if any of you use powerschool, is there something on your end that freezes updates to the overall grade percentage while still allowing grades to be put in. If so, is it possible my teacher might use such a feature to worry me into doing more extra credit work?. I know that sounds insane but I had gotten a 100% on my Honors Bio EOC, 95% on a disection final worth whatever a summative is, a presentation I got an 87% on and 2 extra credit assignments we were offered worth 200 points in total. Nothing is late that wasn't before and nothing has escaped the collection basket in this time. I have also gotten a 95% on a classwork packet we did over the past week with all the daily work in it, plus the pre/post lab questions for the aforementioned disection on which I got a 96%. All of these are over the 79% I have in the class before all of this so logically, this would significantly boost my average right? It hasn't moved. Am I doing something wrong? Is my teacher messing with me from her end? I dont know who else to ask. Sorry to bother you all but im very confused.",12,0,0,5,1151
+21938,ButterscotchHuman554,1747968094,Teachers,1kt8xes,https://www.reddit.com/r/Teachers/comments/1kt8xes/today_was_the_last_day_of_school_grades_are_due/,"Today was the last day of school, grades are due tomorrow!","This semester was my first semester as a licensed teacher. Today was the last day of school, and my grades are due tomorrow at 4 pm. I don't know how I'm going to get it done! I can't start until midnight tonight because students are allowed to work up until midnight. 
+
+  
+I have to go to each student's profile in Genius (we use this instead of powerschool) and check that the grade is the same as what I have in our LMS, and then manually select the students as complete. I'm beyond overwhelmed that I have tomorrow to finalize over 300 grades. We also have some students with IEPs that give them extra time, meaning they have until 4 pm tomorrow to turn everything in. Exactly when my grades are due. 
+
+  
+Has anyone else experienced this? I feel like this is a highly unreasonable expectation considering I can't start until midnight tonight. Any suggestions? There's no way around going into each individual student, and I feel like I'm drowning here. ",10,1,0,58,958
+22092,angeetoile,1747994117,highschool,1ktfmyc,https://www.reddit.com/r/highschool/comments/1ktfmyc/does_power_school_round_up_5_semester_grades/,Does power school round up .5 semester grades?,"In my macro class, I got an 85 quarter 3 and a 94 quarter 4. This means I would average an 89.5 in the class. Does this round up to a 90 if my school rounds up? Or does it have to be .6 or greater? ",1,1,0,46,198
+22498,K12TechTalkPodcast,1748027037,k12sysadmin,1ktrqc0,https://www.reddit.com/r/k12sysadmin/comments/1ktrqc0/episode_215_powerschool_hacker_has_been_caught/,Episode 215 - PowerSchool Hacker Has Been Caught!,"[https://k12techtalkpodcast.com/e/unmasking-the-powerschool-hacker-an-inside-job/](https://k12techtalkpodcast.com/e/unmasking-the-powerschool-hacker-an-inside-job/) and all major podcast platforms
+
+Josh and Mark dive into the arrest of the notorious PowerSchool hacker, revealing the unexpected identity of the mastermind behind one of the year's biggest cyber breaches. Join them as they speak with cybersecurity expert Michael Klein, who provides insights into the hacker's profile and discusses the implications for school districts and policymakers moving forward.
+
+The discussion doesn't stop there. The hosts also examine two contrasting approaches to school security: one from a Texas startup using drones equipped with pepper spray and flashbangs, and another from Virginia employing AI for weapons detection. The episode explores the effectiveness and potential consequences of these tech-driven safety solutions.",0,15,0,49,922
+23858,Personal_Writer8993,1748153598,highschool,1kuvq2k,https://www.reddit.com/r/highschool/comments/1kuvq2k/how_to_see_grade_with_percentages/,How to see grade with percentages?,I've seen a lot of posts showing grades with percentages on the subreddit but I have no idea how to see these myself - my school uses Schoology and PowerSchool for reference,5,1,0,34,173
+25843,HSsysITadmin,1748356201,k12sysadmin,1kwopmc,https://www.reddit.com/r/k12sysadmin/comments/1kwopmc/anyone_have_an_alternative_to_littlesis_for/,Anyone have an alternative to LittleSIS for Google Classroom Management? Maybe that links to Powerschool?,"Been using LittleSIS for years, love to tool. It has its quirks and limitations, but alongside GAM I'm able to reliably sync rosters nightly, manage and make changes to the ownership and other roles in classrooms through their admin interface, and get information and troubleshoot as needed.  Admin has pushed back on it this year and tasked me with finding an alternative that may also sync grades from Classroom to PowerTeacher Pro Gradebook.
+
+Anyone have any different products? I know I can sync my rosters to Clever, then import with the sync in Workspace for Edu Plus, but I'd lose the classroom management explorer LittleSIS provides. For ease of use, I'd rather not have to rely on GAM -- yet if I had to I'm sure I could script some of the more common uses of it if I needed to.
+
+I did find the ""gradetransferer"" chrome plugin to empower teachers to take their GC grades and import them to PS.
+
+Anyone have any great tools for managing google classroom creation/archiving/rostering? Bonus Nachos if it handles grade transfers to PS!",5,2,0,105,1041

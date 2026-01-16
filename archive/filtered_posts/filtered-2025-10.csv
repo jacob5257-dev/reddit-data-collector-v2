@@ -1,0 +1,133 @@
+,author,time_of_post,subreddit,post_id,post_link,title,content,num_comments,num_upvotes,num_downvotes,title_length,post_length
+176,HSBioGuy,1759291225,Teachers,1nuyaro,https://www.reddit.com/r/Teachers/comments/1nuyaro/feeling_overwhelmed_as_a_5th_year/,Feeling Overwhelmed as a 5th Year,"I know, it sounds odd. I should be in my groove and simply tweaking things at this point. But this year I started at a new school in a new division - new systems (thank God they still use Canvas) but are OneDrive school not Google, Synergy not PowerSchool, yearly classes on an A/B instead of semester classes that meet every day. 
+
+Even though I’m only teaching gen and advance biology this year compared to a mix of biology/chemistry/A&P and in total have 5 classes instead of 3+3 each semester, I feel swamped in preparing and grading.  
+
+Part of it may lie in how this division does their units or that they do unit test instead of larger tests covering ~3 units. Part of it is the lack of cohesion among the 6 of us biology teachers. Everyone does their own thing - from slides to notes to activities to lab to projects to quizzes. This phenomenon baffled me because at my old school we were a must closer 3 person team that collaborated a lot. 
+
+For anyone out there that has made similar moves from one school division to another larger one or one there the team isn’t cohesive, what advice do you have?",1,6,0,33,1110
+1100,frizziefrazzle,1759375426,Teachers,1nvt0uf,https://www.reddit.com/r/Teachers/comments/1nvt0uf/dear_parent_just_because_its_news_to_you_doesnt/,Dear parent: just because it's news to you doesn't mean it's news to your child,"I sent home the district policy the second day of school. I included a comment in PowerSchools to let you know your child wasn't doing the work. It's not my fault you didn't have access. I covered this at Open House (you were there). So don't act shocked when I send home a written notice after two missed quizzes! 
+
+
+At school I've gone over the expectations every day. Gave time every day in class.  Your child screwed around every day right up until I sent the letter home.  
+
+
+I met with one parent last week whose child never showed the parent the letter. Or the policy. 🤦🏻‍♀️ I'm sure when report cards come out parents will lose their shit. I'm prepared. I have signatures of the kids saying they got their letters. And by kids I mean teenagers. This isn't elementary. ",133,3143,0,79,776
+4564,Mariothemexican,1759711160,highschool,1nz505d,https://www.reddit.com/gallery/1nz505d,High school attendance question,"So to anyone who uses PowerSchool for their attendance did my school fuck up or what because it says I’ve missed a total of 37 classes but on the attendance totals it says I’ve missed up to 4 days of school  for context once you missed up to 4 classes that counts as a full day so in total it should be 9 days and  heres photos sorry my grammar is bad 
+Also anyone ever went to court for missing too many days because in my state once you missed 10 then they say you go to court but I never seen anyone at my school go to court for attendance ",16,13,0,31,543
+6968,Ok-Reputation-9978,1759940859,k12sysadmin,1o1fb7z,https://www.reddit.com/r/k12sysadmin/comments/1o1fb7z/powerschool_training_vids/,Powerschool Training Vids,Is anyone aware of any Database Management Certification training vids or documentation for PowerSchool SIS?,2,1,0,25,108
+7994,AgeOfWorry0114,1760030863,Teachers,1o2c6z1,https://www.reddit.com/r/Teachers/comments/1o2c6z1/what_numeric_data_would_you_actually_want/,What numeric data would you ACTUALLY want?,"I am on the board of my local school district. I am also a teacher who works with coding/data science/etc. At last night's meeting, I was tasked with revamping the entire dataset of the district, because essentially everything data-wise that they have been doing is meaningless and unhelpful.
+
+*I am going to ask the district teachers of course*, but I wanted to come here as well:
+
+What data would actually be impactful for you, both on an individual level and on a school level? This would have to be something gained from demographic data, an LMS (Canvas, Blackboard, Schoology, etc.), or a roster management system (Blackbaud, PowerSchool, etc.).
+
+Here are some that I have been thinking about:
+
+* From the LMS:
+   * Assignment completion rates, including missing or late work patterns
+   * Summative assessment scores vs. course grades
+   * LMS activity logs, e.g. how often students are logging in
+   * Grade distribution by course/teacher/department
+   * Failure rates
+   * AP course enrollment, Enrollment by subgroups
+* General:
+   * Household data: zip code, commute times, parent education, internet access
+   * Extracurricular involvement: sports, clubs, volunteer hours
+   * Standardized test scores
+   * Attendance and tardiness patterns
+   * Course evaluation data
+   * School climate evaluation results
+
+What else? What would be really impactful for you? ",5,2,0,42,1371
+9644,_cybersecurity_,1760196688,pwnhub,1o3yki6,https://www.reddit.com/r/pwnhub/comments/1o3yki6/prosecutors_pursue_7year_sentence_for_powerschool/,Prosecutors Pursue 7-Year Sentence for PowerSchool Hacker,"
+**Matthew Lane, a Massachusetts man, faces a seven-year prison term for hacking into PowerSchool and stealing sensitive data of millions.**
+
+**Key Points:**
+
+- Hacker Matthew Lane hacked PowerSchool, exposing data of 60 million students and 9 million teachers.
+- Lane demanded a ransom of 30 bitcoin, threatening to leak sensitive information if not paid.
+- Prosecutors assert his actions were driven by greed and exhibit a pattern of prior hacks.
+- PowerSchool incurred costs exceeding $14 million due to the incident, alongside the ransom payment.
+- Lane allegedly used sophisticated methods to cover his tracks, including VPNs and anonymous communications.
+
+Matthew Lane, a 19-year-old from Massachusetts, has pleaded guilty to a significant cybercrime involving the education technology firm PowerSchool. He accessed sensitive databases containing personal information of over 60 million students and 9 million teachers. Lane allegedly executed his plan with shameless disregard for the potential impact on the victims, demanding a ransom of 30 bitcoin, which at that time valued around $2.85 million. He threatened to leak the Social Security numbers of young children if his demands were not met. Prosecutors depict Lane's actions as not just criminal but as the outcome of a calculated scheme executed with 'sophisticated' tactics to evade detection, showcasing a disturbing escalation in cybercrime targeting educational institutions.
+
+The ramifications of this breach have been severe for PowerSchool, with the company reporting losses exceeding $14 million associated with identity theft monitoring for the affected individuals, alongside the ransom. As part of his defense, Lane's history of hacking at least seven other entities since 2021 springs into focus, indicating a troubling pattern of cybercriminal behavior. His charged actions not only compromised sensitive data but also created a profound distrust in the security measures of educational platforms, leading to significant legal and financial ramifications for PowerSchool. The case has drawn attention to the vulnerabilities in cybersecurity within the education sector, emphasizing the urgent need for enhanced protective measures to safeguard student information.
+
+What measures do you think educational institutions should take to better protect against cyber threats?
+
+**Learn More:** [The Record](https://therecord.media/powerschool-prison-sentence-hacker)
+
+**Want to stay updated on the latest cyber threats?** 
+
+ 👉 **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,1,0,57,2559
+14022,_cybersecurity_,1760635263,pwnhub,1o8caq5,https://www.reddit.com/r/pwnhub/comments/1o8caq5/fouryear_prison_sentence_for_powerschool_hacker/,Four-Year Prison Sentence for PowerSchool Hacker Matthew Lane,"
+**Matthew Lane has received a four-year prison sentence for extortion and hacking activities involving PowerSchool and another telecommunications provider.**
+
+**Key Points:**
+
+- Lane extorted approximately $3 million from two companies, threatening to expose stolen customer data.
+- He accessed sensitive student and teacher information from a cloud service provider linked to PowerSchool.
+- PowerSchool confirmed it had paid a ransom to avoid data leaks, but data was not fully erased by the attackers.
+
+Matthew Lane, a college student in Massachusetts, pleaded guilty to hacking and extorting two companies, including a significant breach involving PowerSchool, which serves schools across the US. Between April and May 2024, Lane and his associates demanded $200,000 from a telecommunications company, threatening to leak customer information. Later in December, he accessed the network of a cloud storage provider, exfiltrating sensitive personal data such as names, addresses, and Social Security numbers. This attack is part of a broader pattern affecting approximately 70 million individuals within school systems, highlighting the severe risks associated with data breaches in educational institutions.
+
+In court, it was revealed that although Lane returned around $160,000 of the extorted funds, he was ultimately sentenced to four years in prison, along with three years of supervised release. The financial penalties included $14 million in restitution and a substantial fine. This case illustrates the serious legal repercussions surrounding cybercrime, especially as it pertains to the education sector and the protection of vulnerable data.
+
+What measures can companies and educational institutions implement to better protect against data breaches and extortion threats?
+
+**Learn More:** [Security Week](https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/)
+
+**Want to stay updated on the latest cyber threats?** 
+
+ 👉 **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,1,0,61,2021
+16654,ProBrawlKing66,1760895120,highschool,1oavn6u,https://www.reddit.com/gallery/1oavn6u,GPA tracker,"So I found this app on App Store, but when I open it it wants me enter my power school username and password. Just wondering if it’s some app that steals ur stuff or if it is legit",15,0,0,11,180
+19271,Clean-Temporary7607,1761144215,Teachers,1oda7k2,https://www.reddit.com/r/Teachers/comments/1oda7k2/clamping_down_on_physical_bullying_among_students/,Clamping down on physical bullying among students via AI-enabled CCTV cameras. Possible or not?,"Physical bullying especially school fights continues to be one of the toughest problems schools around the world face. Many people have seen incidents that escalate quickly (usually on social media), where victims are physically hurt, evidence is unclear, and follow-up is inconsistent. Too often, the victim’s report is downplayed or brushed aside by school staff, while aggressors face minimal consequences. This isn’t just about student behaviour; it’s also about staff accountability. The way schools respond can shape whether students ever trust adults with their safety again.
+
+That’s why I’ve been wondering whether AI-enabled CCTV systems could help close the accountability gap and prevent escalation before anyone gets hurt. Unlike traditional cameras that only record footage, these systems can analyse behaviour in real time. They are capable of tracking movement, posture, facial expression, and escalation patterns to identify signs of potential aggression. If a fight breaks out, or if a student is shoving, punching, or showing distress, the system assigns a risk score and sends an immediate alert to nearby staff. The alert comes through a centralised platform or mobile app, showing the exact location and a short encrypted video clip so teachers can verify and intervene on the spot as soon as possible before more harm is done. In more serious situations, such as the presence of a weapon or a group assault, the system can automatically notify administrators or security officers.
+
+This works best when every single bit of non-private area of the school is covered — classrooms, corridors, stairwells, sports halls, fields, and carparks. Physical bullying often happens in secluded areas with no witnesses, so having near-zero blind spots (via highly visible AI enabled cctv cameras literally everywhere) could change that. Private spaces like bathrooms and counselling rooms would of course remain completely off-limits. Students and parents should be thoroughly informed before implementation so the purpose is clear: it’s about safety, fairness, and accountability, not control. Simply knowing that aggression will be detected and reviewed fairly can act as a strong deterrent to possible bullies, thereby reducing physical aggression.
+
+Still, technology alone doesn’t fix deeper issues. AI surveillance can only work if paired with genuine staff accountability. Teachers and administrators must be required to respond promptly to alerts, document outcomes transparently, and apply consequences consistently. If alerts are ignored or evidence is tampered with, there should be clear and severe consequences. Bias, denial, and selective enforcement are what erode trust — and the presence of objective, tamper-proof evidence would help prevent that. To support this, staff training in ethics, privacy, and intervention would be essential. Accountability must apply to both students and staff, ensuring that everyone knows their actions are subject to fair review.
+
+Privacy concerns are understandable, and schools must address them seriously. The AI system should focus only on behaviour patterns that suggest harm, not on constant personal tracking. Footage should be encrypted, stored securely, and accessible only to special authorised personnel solely for investigation and safety purposes. Remember, the goal is to protect everyone fairly, not purely punish. When implemented transparently and ethically, this doesn’t turn schools into prisons; it makes them safer and fairer environments where students and teachers alike can feel protected.
+
+Of course, cameras can’t teach empathy or self-control. The best results would come from combining AI systems with strong anti-bullying education, mental health support, and proactive conflict management. These tools should empower schools to intervene earlier and more consistently, not replace the human role of guidance and care.
+
+The way forward is about balance. AI-enabled surveillance provides objective evidence and immediate alerts, but it must work hand in hand with clear accountability policies, compassionate education, and ethical oversight. Done right, this could finally shift school safety from being reactive to proactive — ensuring that no student is ever ignored or left unprotected again. Because the goal isn’t surveillance. The real goal is ensuring safety, fairness, and trust among students and school staff.",0,1,0,95,4406
+19275,Clean-Temporary7607,1761144467,Teachers,1odabmd,https://www.reddit.com/r/Teachers/comments/1odabmd/can_we_clamp_down_on_physical_bullying_by_using/,Can we clamp down on physical bullying by using AI enabled cctv cameras? Staff accountability and education needs to seriously improve in order for bullying prevention to work.,"Physical bullying especially school fights continues to be one of the toughest problems schools around the world face. Many people have seen incidents that escalate quickly (usually on social media), where victims are physically hurt, evidence is unclear, and follow-up is inconsistent. Too often, the victim’s report is downplayed or brushed aside by school staff, while aggressors face minimal consequences. This isn’t just about student behaviour; it’s also about staff accountability. The way schools respond can shape whether students ever trust adults with their safety again.
+
+That’s why I’ve been wondering whether AI-enabled CCTV systems could help close the accountability gap and prevent escalation before anyone gets hurt. Unlike traditional cameras that only record footage, these systems can analyse behaviour in real time. They are capable of tracking movement, posture, facial expression, and escalation patterns to identify signs of potential aggression. If a fight breaks out, or if a student is shoving, punching, or showing distress, the system assigns a risk score and sends an immediate alert to nearby staff. The alert comes through a centralised platform or mobile app, showing the exact location and a short encrypted video clip so teachers can verify and intervene on the spot as soon as possible before more harm is done. In more serious situations, such as the presence of a weapon or a group assault, the system can automatically notify administrators or security officers.
+
+This works best when every single bit of non-private area of the school is covered — classrooms, corridors, stairwells, sports halls, fields, and carparks. Physical bullying often happens in secluded areas with no witnesses, so having near-zero blind spots (via highly visible AI enabled cctv cameras literally everywhere) could change that. Private spaces like bathrooms and counselling rooms would of course remain completely off-limits. Students and parents should be thoroughly informed before implementation so the purpose is clear: it’s about safety, fairness, and accountability, not control. Simply knowing that aggression will be detected and reviewed fairly can act as a strong deterrent to possible bullies, thereby reducing physical aggression.
+
+Still, technology alone doesn’t fix deeper issues. AI surveillance can only work if paired with genuine staff accountability. Teachers and administrators must be required to respond promptly to alerts, document outcomes transparently, and apply consequences consistently. If alerts are ignored or evidence is tampered with, there should be clear and severe consequences. Bias, denial, and selective enforcement are what erode trust — and the presence of objective, tamper-proof evidence would help prevent that. To support this, staff training in ethics, privacy, and intervention would be essential. Accountability must apply to both students and staff, ensuring that everyone knows their actions are subject to fair review.
+
+Privacy concerns are understandable, and schools must address them seriously. The AI system should focus only on behaviour patterns that suggest harm, not on constant personal tracking. Footage should be encrypted, stored securely, and accessible only to special authorised personnel solely for investigation and safety purposes. Remember, the goal is to protect everyone fairly, not purely punish. When implemented transparently and ethically, this doesn’t turn schools into prisons; it makes them safer and fairer environments where students and teachers alike can feel protected.
+
+Of course, cameras can’t teach empathy or self-control. The best results would come from combining AI systems with strong anti-bullying education, mental health support, and proactive conflict management. These tools should empower schools to intervene earlier and more consistently, not replace the human role of guidance and care.
+
+The way forward is about balance. AI-enabled surveillance provides objective evidence and immediate alerts, but it must work hand in hand with clear accountability policies, compassionate education, and ethical oversight. Done right, this could finally shift school safety from being reactive to proactive — ensuring that no student is ever ignored or left unprotected again. Because the goal isn’t surveillance. The real goal is ensuring safety, fairness, and trust among students and school staff.",6,0,0,176,4406
+20910,Prudent_Tap3271,1761271680,Teachers,1oelsmn,https://www.reddit.com/r/Teachers/comments/1oelsmn/conferences/,Conferences,"Rant forthcoming...
+
+OK, not a teacher here... I have my masters in education and have been in an education adjacent field, (environmental Education), until retirement in 2022.  My wife is an educator, high school chemistry.  She has two masters degrees and a doctorate in education; I share this for reference only.  She has been teaching science for 29 years.  I sub at her high school because I generally like the kids and it helps out the school.
+
+Today, my wife had conferences with parents as the second quarter begins.   She has 89 total students and she had 37 conferences scheduled for today and tomorrow.  I cannot wait for my wife to retire from the shit storm that is education.  I really can't wait.
+
+Today, she had all good meetings with parents except for one set.  They happened to be the superintendent and his wife who have a 10th grade student in my wife's honors chemistry class who is earning a 79% at the end of quarter 1.  The parents were frustrated that their child was getting a ""C"" because ""he doesn't get Cs"".  They wanted to know why he was getting a C.  Mind you, they have access to Powerschool and can see all grades and assignments, both turned in and missing.  My wife thought the meeting went well as she discussed strategies to bring his grade up and how he needed to pay closer attention to detail when doing his work.  The inability to properly follow directions in class could lead to a disaster when it comes to lab work, especially with volatile chemicals...  which was explained to the parents.  The parents came in loaded for bear and ready to confront my wife which is exactly what they did.  The meeting ended cordially with a plan for their son's future success.
+
+On my wife's way home at 8:00 pm, she received an email from her principal saying that he had received a call from the superintendent who was very upset about how the meeting went.  He felt the need to contact the principal to let him know just how upset he and his wife were.  Bold power move from my perspective.  The principal wants to have a meeting with her.  She doesn't understand why.
+
+My wife has approximately 3.5 years left to teach.  She is the junior class advisor, in charge of prom, takes money at sports events, goes to every concert and student performance, is a building rep, and volunteers often when a teacher needs to leave their room for a period if she is available.  She is a presidential award winner, volunteers on international trips with the students, grades AP chem tests nationally, works closely with the Knowles Foundation and the National Science Foundation.   Has been invited to Columbia University for curriculum development think tanks and quantum physics curriculum development and has worked with NASA.  She has tenure and above excellent ratings within the district.  Her AP scores are off the charts.  Among many other things...
+
+This.  This act of the superintendent and his wife are the exact reason excellent teachers are leaving the field in droves.  As I said earlier, I can't wait for my wife to be done being a teacher.  She is dedicated to her profession and is damned good at what she does.  But she is also a damned good human being who is regularly questioned about her methodology and qualifications, and in this case, by the very person who should have her back come hell or high water.  
+
+ 
+
+ 
+
+ 
+
+",6,15,0,11,3363
+21179,cheezythot,1761311726,Teachers,1oexgez,https://www.reddit.com/r/Teachers/comments/1oexgez/first_teaching_position_help/,First Teaching Position Help!,"Hi! I’m really looking for some advice here. I am starting my first full time teaching position this upcoming Monday teaching middle school science. I am starting 2 months into the school year and I don’t believe I am being given any type of orientation time (aka they’re just throwing me into the classroom on Monday). I don’t currently have any access to my email, PowerSchool, etc, so I’m walking in blind. Does anyone have any ideas of what I could do with my classes on my first day? I’m thinking just some get to know you activities but they all already know each other and it’s just me that they don’t know yet. Any tips or advice for that first week? I’m freaking out a bit and could use anything I can get!",4,2,0,29,715

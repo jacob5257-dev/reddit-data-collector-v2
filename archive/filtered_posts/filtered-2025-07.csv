@@ -1,0 +1,41 @@
+,author,time_of_post,subreddit,post_id,post_link,title,content,num_comments,num_upvotes,num_downvotes,title_length,post_length
+1825,1teaney,1751488534,k12sysadmin,1lq6ltd,https://www.reddit.com/r/k12sysadmin/comments/1lq6ltd/google_sso_for_powerschool/,Google SSO for PowerSchool?,"Has anyone set this up recently? Our goal would be to have staff only, authenticate to our locally hosted PowerSchool server with their district Google credentials. If anyone has a guide, or words of wisdom I'm all ears.",15,10,0,27,220
+3818,ahumblethief,1751675110,Teachers,1lrxec6,https://www.reddit.com/r/Teachers/comments/1lrxec6/first_day_of_school_is_monday_its_my_first_year/,First day of school is Monday. It's my first year teaching. My classroom is bare. What do I prioritize?,"OK, so for context: The school I'm working at is a year-round school. They only have June off. So the first day is 7/7. I was hired very last minute. 
+
+When I got to see my classroom for the first time yesterday, I was immediately overwhelmed. It was a disaster. The desks were filthy. The shelves were either empty or disorganized. There were no supplies. 
+
+In between getting the curriculum coaching I'd missed and trying to get my credentials in order so I could even see my class list on power school, I washed the desks organized them so there would be enough for all my students. I didn't have time to do much else, and I'm not able to go in again before Monday. 
+
+On Saturday, I'm going to hit up some stores and try and get some things-- I have no idea when I'm getting my materials stipend or what supplies I will be able to get from the school. I'm embarrassed at how bare my classroom is. I don't think students will be enthused by it. 
+
+What's the most important/manageable for day 1? I can go to Walmart, 5 Below, and Michaels. ",199,453,0,103,1041
+20672,nickborowitz,1753228806,k12sysadmin,1m6ucbx,https://www.reddit.com/r/k12sysadmin/comments/1m6ucbx/apple_school_manager_powerschool_sis/,Apple School Manager / Powerschool SIS,"Has anyone tied their SIS into ASM to import classes and students into apple classroom while using microsoft as the ldp?
+
+  
+I think I have everything setup right, but I connected powerschool to ASM as the directory sync, and it's past 6 hours with no real movement. We have 26-27,000 kids, so it's a lot of data, plus all their schedules etc, Does anyone know how long it takes for something like.this? I have a 9AM call tomorrow with apple because they so graciously offered us an hour of support a week for the huge rollout of iPads we are going to do. I have just about everything done I just need to pull in the SIS data.",20,0,0,38,626
+21056,Hazy_Arc,1753273675,k12sysadmin,1m77wf1,https://www.reddit.com/r/k12sysadmin/comments/1m77wf1/any_raptor_and_powerschool_districts_here/,Any Raptor and PowerSchool Districts Here?,"Hi all - Raptor won our most recent visitor management/safety bid in our district.  We had been using Ident-a-kid up to this point.  In the bid process Raptor indicated they had PowerSchool writeback for attendance during student check in/check out, which is what was asked for in the bid.
+
+However, we've since discovered that they only support daily attendance writeback, not period.  This is fine for our elementary schools, but our middle and high schools use period attendance.  
+
+Anyone else in this situation and have figured out a workaround?  Or are we boned?",14,15,0,42,568
+21255,havdog20,1753287879,Teachers,1m7dt3p,https://www.reddit.com/r/Teachers/comments/1m7dt3p/student_data_in_panorama/,Student data in Panorama,"I am looking for help from any interventionists, MTSS tier 3 teams etc. on how you use Panorama to track students.  Specifically at the secondary level.  I'm not talking about the srvys, I am more wanting to know how you use it with academic, behavioral and attendance data.
+A little background, I head our site intervention team at a high school in Iowa(hence not needed info on srvys.  We're not allowed to ask kids how they are feeling any more.) and we have been using panorama for a couple of years to some degree but I don't feel we are using it to it full potential.  We also have our own home grown data process that we've used for years, pulling data out of Powerschool, but its labor intensive and is not timely.
+So if anyone uses Panorama and feels they are successful with it.  I would greatly appreciate a conversation.
+Sorry for the abbreviation of the ""S"" word.  New here and didn't know it was a no-no.
+
+Thanks",0,1,0,24,926
+23632,K12TechTalkPodcast,1753484100,k12sysadmin,1m9dioc,https://www.reddit.com/r/k12sysadmin/comments/1m9dioc/vendor_support_in_small_districts/,Vendor Support in Small Districts,"[https://k12techtalkpodcast.com/e/exploring-ai-and-vendor-support-in-small-districts/](https://k12techtalkpodcast.com/e/exploring-ai-and-vendor-support-in-small-districts/) and all major podcast platforms
+
+Join us this week as we welcome our new AI co-host and delve into the unique challenges and opportunities of vendor support in small districts. From the highlights of the [MidwestTechTalk](https://www.midwesttechtalk.com/) conference to the intricacies of tech support for small schools, we cover it all. Hear about the latest AI updates in education with Canvas integrating ChatGPT and the DOE's new AI guidelines. We also discuss the importance of vendor relationships, pricing transparency, and the impact of federal funding freezes.
+
+Articles Referenced:
+
+||
+||
+|[https://mashable.com/article/open-ai-education-canvas-partnership](https://mashable.com/article/open-ai-education-canvas-partnership)|
+|[https://www.businesswire.com/news/home/20250708034741/en/PowerSchool-Announces-Antonio-Pietri-as-Next-CEO-Effective-October-6-2025](https://www.businesswire.com/news/home/20250708034741/en/PowerSchool-Announces-Antonio-Pietri-as-Next-CEO-Effective-October-6-2025)|
+|[https://www.cnbc.com/2025/07/22/microsoft-sharepoint-chinese-hackers.html](https://www.cnbc.com/2025/07/22/microsoft-sharepoint-chinese-hackers.html)|
+|[https://www.k12dive.com/news/gop-senators-letter-trump-omb-frozen-education-funds/753366/](https://www.k12dive.com/news/gop-senators-letter-trump-omb-frozen-education-funds/753366/)|
+|[https://www.k12dive.com/news/states-sue-over-frozen-education-funds-Linda-McMahon-Trump-OMB/752995/](https://www.k12dive.com/news/states-sue-over-frozen-education-funds-Linda-McMahon-Trump-OMB/752995/)|
+|[https://thejournal.com/articles/2025/07/23/ed-grant-portal-target-of-phishing-campaign.aspx?admgarea=News1](https://thejournal.com/articles/2025/07/23/ed-grant-portal-target-of-phishing-campaign.aspx?admgarea=News1)|
+|[https://www.ed.gov/about/news/press-release/us-department-of-education-issues-guidance-artificial-intelligence-use-schools-proposes-additional-supplemental-priority](https://www.ed.gov/about/news/press-release/us-department-of-education-issues-guidance-artificial-intelligence-use-schools-proposes-additional-supplemental-priority)|",1,3,0,33,2272

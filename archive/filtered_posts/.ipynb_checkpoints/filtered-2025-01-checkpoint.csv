@@ -1,0 +1,377 @@
+,author,time_of_post,subreddit,post_id,post_link,title,content,num_comments,num_upvotes,num_downvotes,title_length,post_length
+5751,Chuckfromis,1736282963,k12sysadmin,1hw1m3x,https://www.reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/,So PowerSchool had a breach....,"The email we received:
+
+  
+Dear Valued Customer,  
+As the Technical Contact for your district or school, we are reaching out to inform you that on December 28, 2024, PowerSchool become aware of a potential cybersecurity incident involving unauthorized access to certain information through one of our community-focused customer support portals, PowerSource. Over the succeeding days, our investigation determined that an unauthorized party gained access to certain PowerSchool Student Information System (“SIS”) customer data using a compromised credential, and we regret to inform you that your data was accessed.
+
+  
+",79,205,0,31,619
+5752,NorthernBob69,1736283037,k12sysadmin,1hw1n69,https://www.reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/,Powerschool breach,"So, how many of us got an email from PowerSchool with info that they were compromised on Dec 28th? No other info in the email just a couple of links to webinars the next couple of days. This could be huge.",15,34,0,18,205
+6665,Timewyrm007,1736366040,k12sysadmin,1hwt7ox,https://www.reddit.com/r/k12sysadmin/comments/1hwt7ox/powerschool_breach/,Powerschool Breach,"Just waiting in the lobby for the breach meeting to start and this is part of their graphic
+
+https://preview.redd.it/cl6k9sugrtbe1.png?width=426&format=png&auto=webp&s=78791e4b0da2297087d61030b1fb73ae192a9dd8
+
+hmm I can think of 1 off the top of my head :):)
+
+  
+",5,50,0,18,263
+6677,flunky_the_majestic,1736366726,k12sysadmin,1hwthy5,https://www.reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/,Powerschool Breach webinar,"**CEO greets.  Provides cover and corporate speak.**  Acknowledges the responsibility they have, and that it should be contained.  Assured they have taken every step possible.  Confident that the breach is contained, understood, and no ongoing concerns on the system exist.  Commitment to communication.  We have assurances that the information is contained and will not be publicly available.  And if there is PII released, monitoring should be in place.  Powerschool takes security seriously, though this incident undermines it.  THey are increasing investment in security.",60,152,0,26,575
+6822,NewsboyHank,1736375660,OntarioTeachers,1hwx1n1,https://www.reddit.com/r/OntarioTeachers/comments/1hwx1n1/weeee_powerschool_got_hacked/,Weeee! PowerSchool got hacked!,I wonder how this will affect reports in the coming weeks.,25,9,0,30,58
+7030,Beckylately,1736389534,Teachers,1hx27xz,https://www.reddit.com/r/Teachers/comments/1hx27xz/question_re_standards_based_report_cards_in/,Question re: standards based report cards in PowerSchool,"Hey teacher friends,
+
+Our school switched to PowerSchool this year and they also shifted to SBG. We don’t use traditional grades at all. Our data manager and I have been trying to figure out how to print a report card with only the standards on it and it has been a challenge, as it seems like PS is set up to document standards but wants to default to a traditional grade?
+
+Has anyone had success with making a solely standards based report card print, specifically for middle school? We are struggling over here.",1,2,0,56,514
+7039,K12TechTalkPodcast,1736390180,k12sysadmin,1hx2ghr,https://www.reddit.com/r/k12sysadmin/comments/1hx2ghr/powerschool_cybersecurity_breach_what_you_need_to/,PowerSchool Cybersecurity Breach: What You Need to Know,"[https://k12techtalkpodcast.com/e/powerschool-cybersecurity-breach-what-you-need-to-know/](https://k12techtalkpodcast.com/e/powerschool-cybersecurity-breach-what-you-need-to-know/)
+
+This special episode of the K12 Tech Talk podcast dissects the recent cybersecurity incident involving PowerSchool, a major provider of Student Information Systems (SIS) in the United States. Hosts Josh, Chris, and Mark discuss the details of the breach that saw PowerSchool send notifications to its customers about the possibility of sensitive data exposure.
+
+We discuss the details of the breach that have been released by PowerSchool and discussed by customers on K12TechPro and Reddit (/k12sysadmin) within the first 24 hours.
+
+For more information, check out K12TechPro where you can find a special section on the PowerSchool breach with resources you need, including sample letters to families, instructions to download your system logs, and relevant news articles.
+
+[https://members.k12techpro.com/](https://members.k12techpro.com/) (click sponsorship to join for free)",4,20,0,55,1059
+7040,k12techpro,1736390254,k12sysadmin,1hx2hhh,https://www.reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/,What we know about the PowerSchool breach so far…,"It has only been 24 hours since PowerSchool announced it had an “incident,” so there’s very little information available to the public. However, what PowerSchool has shared and what school districts are seeing is concerning, to say the least. [https://k12techpro.com/what-we-know-about-the-powerschool-breach-so-far/](https://k12techpro.com/what-we-know-about-the-powerschool-breach-so-far/)",25,88,0,49,391
+7356,Road_Trail_Roll,1736434097,k12sysadmin,1hxedsq,https://www.reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/,PowerSchool Users what are you telling parents?,"We’re working on a message to our parents and staff. I’m curious, what has everyone else sent out to explain what happened and what your steps are?",20,24,0,47,147
+7373,Tycho_Jissard,1736435516,k12cybersecurity,1hxewgl,https://www.reddit.com/r/k12cybersecurity/comments/1hxewgl/powerschool_cybersecurity_incident/,PowerSchool Cybersecurity Incident,"Dear Valued Customer,  
+  
+As the Technical Contact for your district or school, we are reaching out to inform you that on December 28, 2024, PowerSchool become aware of a potential cybersecurity incident involving unauthorized access to certain information through one of our community-focused customer support portals, PowerSource. Over the succeeding days, our investigation determined that an unauthorized party gained access to certain PowerSchool Student Information System (“SIS”) customer data using a compromised credential, and we regret to inform you that your data was accessed.  
+  
+Please review the following information and be sure to share this with relevant security individuals at your organization.  
+  
+As soon as we learned of the potential incident, we immediately engaged our cybersecurity response protocols and mobilized a cross-functional response team, including senior leadership and third-party cybersecurity experts. We have also informed law enforcement.  
+We can confirm that the information accessed belongs to certain SIS customers and relates to families and educators, including those from your organization. The unauthorized access point was isolated to our PowerSource portal. As the PowerSource portal only permits access to the SIS database, **we can confirm no other PowerSchool products were affected as a result of this incident**.  
+  
+Importantly, the incident is contained, and we have no evidence of malware or continued unauthorized activity in the PowerSchool environment. PowerSchool is not experiencing, nor expects to experience, any operational disruption and continues to provide services as normal to our customers.  
+  
+Rest assured, we have taken all appropriate steps to prevent the data involved from further unauthorized access or misuse. We do not anticipate the data being shared or made public, and we believe it has been deleted without any further replication or dissemination.  
+We have also deactivated the compromised credential and restricted all access to the affected portal. Lastly, we have conducted a full password reset and further tightened password and access control for all PowerSource customer support portal accounts.  
+  
+PowerSchool is committed to working diligently with customers to communicate with your educators, families, and other stakeholders. We are equipped to conduct a thorough notification process to all impacted individuals. Over the coming weeks, we ask for your patience and collaboration as we work through the details of this notification process.  
+  
+We have taken all appropriate steps to further prevent the exposure of information affected by this incident. While we are unaware of and do not expect any actual or attempted misuse of personal information or any financial harm to impacted individuals as a result of this incident, PowerSchool will be providing credit monitoring to affected adults and identity protection services to affected minors in accordance with regulatory and contractual obligations. The particular information compromised will vary by impacted customer. We anticipate that only a subset of impacted customers will have notification obligations.  
+  
+In the coming days, we will provide you with a communications package to support you in engaging with families, teachers and other stakeholders about this incident. The communications package will include tailored outreach emails, talking points, and a robust FAQ so that district and school leadership can confidently discuss this incident with your community.  
+  
+We understand that you may have additional questions as a result of this update. FAQs are available on [PowerSchool Community](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-lNANUkyGGxCoLDamGhQQARxPRodf27tqlml3Gf3gOtP97WTooodR-ZOnLxW8BeYV2c=). Additionally, we will be holding webinars with senior leaders, including our Chief Information Security Officer, to address additional concerns. Please click the link below to register for a webinar that fits your schedule. Note that content for all sessions will be identical, so you need only attend one.  
+  
+Wednesday, January 8: [REGISTER HERE](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-yIbGRSE1JEeUOBdCYucPn1A-V2qfrt0xRi-zNtWgDA0bbRkJaD4oQoyogQkwVq0nXc=)  
+  
+Thursday, January 9: [REGISTER HERE](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-5v1gwwrpurNLGkJRATtvlPG_jFh-D19PGq4Tpnr0nwlBQqDbkU_oRpe-wRUWXDjpFY=)
+
+In the meantime, please reach out to your Customer Success Manager (CSM), Support, or other established PowerSchool contact should you have any questions. We will be sending communications later today to other stakeholders in your organization who are responsible for other PowerSchool products notifying them of no impact to the other PowerSchool products.  
+We are addressing the situation in an organized and thorough manner, and we are committed to providing affected customers with the resources and support they may need as we work through this together.
+
+Thank you for your continued support and partnership.
+
+  
+Sincerely,
+
+**Hardeep Gulati**Chief Executive Officer  
+  
+**Paul Brook**Chief Customer Officer  
+  
+cc: **Mishka McCowan**Chief Information Security Officer",1,2,0,34,5216
+7396,JaniceRossi_in_2R,1736437158,Teachers,1hxfi5c,https://www.reddit.com/r/Teachers/comments/1hxfi5c/no_idea_when_assignments_are_due/,No idea when assignments are due,"I (a parent)have a middle school student that struggles with one class having assignments  turned in on time. This student is smart enough to do the assignments and even takes math at the high school two grades ahead. This issues is he seems to never know when assignments for this class are due. The teacher doesn’t always put due dates in power school or Google classroom. There is not a paper schedule available either. At the teacher’s suggestion, he has a planner now and  uses it somewhat.  I know he gets distracted and that’s why watch his PS and GC like a hawk to keep him on track. Kid has 100% in every class but this one he has missed turning a few things in. I email and ask the teacher for assistance. A couple times it has been in a no name bin. A couple it’s just vanished into thin air. It’s only this one class. I’m at my wits end trying to keep my kid in line with due dates but they’re just not posted anywhere. 
+
+  What can I do as a parent without annoying the crap out of the teacher? I just want to be able to support my kid so he has a fighting chance at completing things on time. This last assignment was apparently due early December. I’ve scoured PS and GC and it was never posted for a due date. The missing assignments want posted until Jan 6th. End of MP was Jan 8th and teacher was absent. I emailed on the 6th asking about it and no answer until, AFTER he cannot turn it in. We struggled with the same issue last year, same school, different subject and teacher. (That teacher is no longer at the school- one year and out. Many parents had the same issue). 
+
+How can I help my kid?!?",2,1,0,32,1617
+7685,ewikstrom,1736455116,k12sysadmin,1hxmm9t,https://www.reddit.com/r/k12sysadmin/comments/1hxmm9t/powerschool_parentstudent_portal_grades_view/,PowerSchool Parent/Student Portal Grades View,"Currently, even though teachers create and grade assignments using different possible point values (ex. 20/25, 40/50, 80/100, etc.), parents and students see every grade as a percentage so it looks like all assignments are of equal weight, which they aren't. This is confusing the parents and students. Can the Parent/Student Portal grades view be changed to reflect the actual grades as they appear in the teachers' PowerTeacher Pro grade book? Our hosting partner’s engineer says it can’t be done. Just wanted to get a second opinion.",1,2,0,45,536
+7865,Billy_Bob_Joe_Mcoy,1736465809,raleigh,1hxqotl,https://www.reddit.com/r/raleigh/comments/1hxqotl/nc_student_data_compromised_in_breach_nc_and/,"NC student data compromised in breach, NC and PowerSchool say",https://www.wral.com/news/education/nc-student-data-compromised-in-breach-january-2025/,38,128,0,61,87
+8242,philr79,1736515477,k12sysadmin,1hy4bgy,https://www.reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/,EdTech Vendors and Their Poor Cybersecurity Practices,"So, in light of the PowerSchool incident, how do we as a community best band together to pound on organizations like NWEA, PBISApps, Acadience (among others) to offer at least the basic levels of security (SSO/2FA, limited IP address connection filters, etc.)?   I just find it stunning that with all the attention K-12 has received, that these companies are not making this more of a priority.  Our Alexandria library program is one.  We upload similar demographic data to that system so parents are aware of books checked out, overdues and all that.  Yet, it's a simple, unassuming HTTP 1.x authentication window and then you're in.  Its enough to keep my blood pressure way too high.",28,84,0,53,686
+8483,K12TechTalkPodcast,1736531121,k12sysadmin,1hya51w,https://www.reddit.com/r/k12sysadmin/comments/1hya51w/sharing_passwords_youre_fired/,Sharing Passwords? You're Fired!,"Available here... [https://k12techtalkpodcast.com/e/powerschool-password-perils-a-tale-of-tech-troubles/](https://k12techtalkpodcast.com/e/powerschool-password-perils-a-tale-of-tech-troubles/) and all major podcast platforms
+
+The main focus of this episode is the story where a teacher was terminated for allegedly sharing her password, leading to students tampering with electronic records and facing charges. We tackle tough questions about accountability: Should a teacher lose their job for password sharing? Are students facing reasonable repercussions? Who bears the blame in cases of security breaches like this? We discuss the essential measures for cybersecurity in schools, emphasizing the necessity of multi-layered security approaches. [https://www.yahoo.com/news/liverpool-high-school-staff-member-215453485.html](https://www.yahoo.com/news/liverpool-high-school-staff-member-215453485.html)
+
+",7,28,0,32,906
+8791,Froufoxy,1736552383,Internationalteachers,1hyifqc,https://www.reddit.com/r/Internationalteachers/comments/1hyifqc/powerschool_data_breach/,PowerSchool Data Breach,"Has anyone anywhere heard about this or rceived a message about It?
+
+I received the following message from owner of an international school;
+
+Dear (Name of School) Alumni and Friends,
+
+I am writing to inform you about a data security incident involving PowerSchool, our Student Information System provider. 
+
+On December 28, 2024, PowerSchool experienced a cybersecurity breach affecting thousands of schools worldwide. They shared details about the breach with us earlier this week. While this data breach was external and not due to any lapse in our internal systems, we want to be transparent about its impact.
+
+The breach may have exposed certain personal information for alumni enrolled from the 2001-2002 school year onward, including:
+Names, dates of birth, and contact information provided at the time of enrollment. 
+Academic records, including entry and exit dates, grade level at departure, and year of graduation. 
+Parent or guardian names and contact details recorded during enrollment.
+Mailing addresses and allergy information for students who graduated prior to 2011.
+
+PowerSchool has assured us that they have taken steps to secure their systems and prevent further unauthorized access. We are closely monitoring the situation and will ensure compliance with all legal reporting requirements.
+
+We deeply regret any inconvenience this may cause and appreciate your understanding. We encourage you to remain vigilant and practice due diligence by monitoring your accounts and staying alert for any suspicious activity. If you have any questions, please contact me or the IT Department at itsupport@xx",8,10,0,23,1615
+9358,Ok_Adhesiveness5924,1736617320,Teachers,1hz18no,https://www.reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/,PowerSchool Data Breach,"I'm having trouble finding much already posted but PowerSchool told my district and our neighboring district that they were hacked and some student and teacher data may be breached, and the few sources I can find suggest that the breach wasn't limited to any one district in particular, it is potentially any and all users.
+
+I'm old enough that my SSN is probably out there from at least 5 other breaches of trusted institutions, I'm used to monitoring my credit etc not so worried about that part.
+
+But PowerSchool has a lot of privileged student information. How concerned should I be as a teacher about what information may now be public? Is this just like when health care organizations are hacked but hackers usually don't bother with anything other than SSNs?
+
+Best not-district-specific article I can find:
+
+https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/",27,84,0,23,953
+10210,sertshark,1736707226,Teachers,1hztim2,https://www.reddit.com/r/Teachers/comments/1hztim2/powerschool_powerteacher_as_both_a_parent_and/,Powerschool (Powerteacher) as both a parent and teacher?,"I use Powerteacher as a teacher, but I am wondering if I would use my ""teacher"" account to check my kids' grades (I have two in the school I teach at, and one at another school, high school). I can't access my kids' grades at my school with my teacher account, since they are not in my classes. Do any of you have kids in school and use a different account to check on their grades? Or, do you use the account you already have. ",4,0,0,56,428
+11429,K12TechTalkPodcast,1736811747,k12sysadmin,1i0s99y,https://www.reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/,One week later and we still have questions about the PowerSchool breach,How did one compromised account lead to this? How many districts were impacted by this? How many students were impacted? Is there a silver lining? Where do we go from here? [https://k12techpro.com/one-week-later-and-we-still-have-questions-about-the-powerschool-breach/](https://k12techpro.com/one-week-later-and-we-still-have-questions-about-the-powerschool-breach/),12,33,0,71,367
+11847,Square_Pear1784,1736863183,k12sysadmin,1i16nj9,https://www.reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/,How are you all storing FERPA and other sensitive student data. ,"I know I post a lot, but I learning new things everyday. I am 3-4months into my first time in tech education at a small Charter Public Highschool. 
+
+I learned something yesterday that I was not aware of. The nurse spoke to me about storing sensitive medical student data. Aparantly she has been using paper documents and they wanted to change that. The issue of HIPAA immediatly came up, but we learned the data is more under FERPA. Knowing that, the nurse said we can store with other sensitive student data. 
+
+I immediately got the Nurse in with the Head of School to talk about this. Come to find out sensitive enrollment data is being kept in a google drive that ""only has permissions"" for student services to view. This includes Birth Certificates, Addresses, and more. The plan now is to store the medical data with this data. 
+
+Look, I am spread so thin right now. I spent all day scrambling over a down UPS and if anyone has been following my posts I think they understand the spread thin part. I didnt respond yesterday becuase I needed time. I also just didnt have time to respond. 
+
+I have a meeting Thursday with a 3rd party nonprofit that helps schools in our state navigate tech. Mostly networking, but they have agreed to a meeting this thursday for security concerns. I initially am speaking to them about a lack of any MDM for our windows machines. Absoluttely no management over the machines. No Domain, no management, all local accounts.. So the plan now, is to also bring up with storage issue. 
+
+Alarms are sounding in my head though. However, with everything I am dealing with, this may need to be a summer project. 
+
+So with all of that said. Google Docs does not seem like a secure way to handle sensitive data like this! right?! I am freaking out a bit here. Look at what just happened to PowerSchool... 
+
+Please give me advice on storing this data. Does maybe infinite campus provide secure data storage for this type of info?",17,15,0,64,1952
+12426,SonicAgeless,1736899803,Teachers,1i1kkz8,https://www.reddit.com/r/Teachers/comments/1i1kkz8/i_had_a_new_student_for_a_brief_and_shining_moment/,"I had a new student, for a brief and shining moment","(I know this post will make me sound like a cranky old maid ... that's cool.)
+
+I got a new student today, 3rd day. Nice dude. We got him a laptop and into Schoology, so he could do his (few low-stakes) late assignments and get to the real work ... and he was chewing gum.
+
+Me: Please spit out your gum. There's no gum allowed in my room.
+
+Student: \*blinks\*
+
+Me: I'm serious. Please spit out your gum. I don't allow gum-chewing in my room. It's in the syllabus, which you will need to read and submit before next week's progress report.
+
+Student: Are you kidding?
+
+Me: I am not kidding. Please spit out your gum.
+
+Liliana from the next table: Dude, she's not kidding. We can't chew gum in here.
+
+Student: Okay, I'm just gonna go talk to my counselor.
+
+Maybe 10 minutes later, I got an email from PowerSchool that he'd been moved out of my room. Dude ... it's GUM. It's not insulin. Meh, next-door teacher's issue now, and he's okay with gum so win-win for me and Student.
+
+What rules of yours do students feel is ridiculous to have to follow? Besides ""no phones, no earbuds, hoods down,"" of course, which as we all know are human rights which we are massively violating when we ask them to knock them off.",123,285,0,51,1206
+12835,Square_Pear1784,1736948852,k12sysadmin,1i1xqiw,https://www.reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/,I need to ask about Powerschool's response,"The school stopped using Powerschool for 2024-2025 school year and switched to Infinite Campus. Well, that does not exclude us from the situation since the issue goes back all the way to 2013. Since I am new they did not grant me access (since I never had access to powerschool when the school had it), but the head of school was able to get access and pull the data they told us about. 
+
+So they sent an email basically telling us what type of data to look for and how many in each category was compromised. Also, telling us how to view and export that data. 
+
+However, then telling us that we don't need to notify any student, parent, or staff of these details. That they would be reaching out themselves to let families and staff know. However, they said they didnt know all the details in the data compromised 
+
+My head of school feels that by doing this they have put liability on us to an extent. I can't help but agree. By giving us this info and telling us that they can't be for sure on all info in certain text fields, it puts liability on us. However we don't need to contact the families?? 
+
+Also, so we are just to believe that the bad actors truly deleted the data and that it isnt out there.  
+  
+The Head of School and myself can't help but feel stressed, frustrated, and unsure of next steps. The communication from Powerschool feels like ""trust us, the data is gone. But hey here is what was compromised to the exact details. We will be notifying individuals so you dont have to, but we also dont know all the details in the data so be aware and take a look at the data compromised, but yeah its not out there so dont worry.""  Then our already busy admin is bracing for questions they are not sure how to answer. 
+
+Sorry for the vent. Am I missing something? How do you all feel about the response so far?
+
+",19,33,0,42,1825
+13921,Zero_Trust00,1737039237,edtech,1i2qncf,https://www.reddit.com/r/edtech/comments/1i2qncf/mba_behavior_power_school_plugin/,MBA Behavior Power School Plugin ,"Does anybody have the MBA behavior Plugin Implemented in their PowerSchool Servers? 
+
+
+
+I'm having to try and figure out what fields to add for my principals to use when they make log entries and I wondered if I could, ""Take a look at your homework"" ",5,2,0,33,250
+14440,krakelohm,1737072890,anchorage,1i33iq3,https://techcrunch.com/2025/01/15/powerschool-data-breach-victims-say-hackers-stole-all-historical-student-and-teacher-data/,PowerSchool data breach and ASD,Looking on the ASD site it does look like they use PowerSchool.,3,21,0,31,63
+14494,Mundane-Penalty9596,1737077441,raleigh,1i3525l,https://www.reddit.com/r/raleigh/comments/1i3525l/powerschool_data_breach/,PowerSchool Data Breach,"If anyone is interested, there is one tidbit left out of the district’s notification on the PowerSchool breach. I am not faulting them, but it’s important to know what the Wisconsin School District said to its parents (second paragraph). https://www.infosecurity-magazine.com/news/powerschool-pays-ransom-data-leak/",3,16,0,23,315
+16108,NorthernVenomFang,1737234160,k12sysadmin,1i4hbrr,https://www.reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/,PowerSchool - Internal security concerns,"So it looks like Powerschool may have a second compromised account, this time a subcontractors developer account that was compromised by malware...
+
+https://techcrunch.com/2025/01/17/malware-stole-internal-powerschool-passwords-from-engineers-hacked-computer/
+
+Anyone else having doubts about Powerschool's internal security processes, especially around contractors/subcontractors?",6,53,0,40,381
+16849,rjp94sep,1737312074,k12sysadmin,1i55j0j,https://www.reddit.com/r/k12sysadmin/comments/1i55j0j/how_you_do_find_the_money_for_repairs_technology/,How you do find the money for repairs? Technology Fees/Safety Deposits? Warranties? Hard-shells? Billing parents? All of the above?,"Sorry for the novel, but I am lost at what to do.
+
+CONTEXT:  Stateside. Minnesota. Over 90% of those students qualify for free-reduced lunch. Urban/city. 500 in person students 300 and growing online/hybrid students (enrollment will close in March supposedly). I am a Theater major turned one-person IT Department for a public K-8 Charter. Was working in the school as a paraprofessional two years ago when they noticed I was good with computers and asked if I waned to help the IT Manager who was drowning. Did helpdesk/Tier 1 stuff for about 6 months, and when they fired the IT Manager (still don't know why), they offered me the job. 
+
+In person kids: Chromebooks  are *supposed* to live in the carts. Teachers/students have a bad habit of putting them in desks overnight/weekend. We supply headphones. \~500
+
+Online: we have \~40-50 and growing kids 100% online from their homes. Devices, headphones, 45W Charger brick.
+
+ Hybrid: \~300 kids spread across 1 of 6 community centers we partner with and a staff member ""manages"" the online-kids in person while an online teacher does instruction. Then the in person staff member helps facilitate breaks/lunch/recess/parent pickup and drop off. I was ALSO just told last week most of our hybrid kids bring the Chromebooks home with them over the weekend and they just rip chargers out of the carts; therefore getting a spike in missing headphones/devices/chargers for carts that were pre-strung. 
+
+No hard shell/softshell cases on any of them. No software tracking them/managing them outside of Google Admin and spreadsheets. Half the Chromebook fleet was purchased/donated by the local prison back in 2019/2020. Other half just purchased in the last year thanks to me, has a 3-year warranty with the MSP we bought them from. (If you have any good 'buy-back' vendors in the Midwest, please drop their name).
+
+ Previous IT Manager just put the broken headphones and Chromebooks in a pile in the corner to ""take care of in the summer.""  No documenting. No asset tagging. No numbering.  Not even color coding. If a teacher/staff was in need of a replacement and he didn't have it, he'd just go out and buy a batch of 5-10 devices from either Best Buy or a get a quote from the local owned MSP we use who is robbing this school blind--No Edu discount-whole sale cost for the device, whole sale license,  plus $93 install/ set up fee PER device, and $100 three year warranty. None of the IT Department budget was/is subdivided, just all out of the ""one bucket budget."" As far as I can tell, he got help for E-rates for Network/Cybersecurity/paying the MSP, but no help for device repairs from any grants/vendors/local colleges/ local repair shops, and no Technology Fee for staff and/or students.
+
+  
+So my question is, is it normal to ask parents/guardians to pay a technology fee? The tate of MN doesn't allow ""enrollment fees"" but they do allow Safety Deposits and in the event the student destroys/loses ""educational materials"" that money is then used. 
+
+I had he kids and parents sign a LCA's back in August that says 'I agree to pay if my kid breaks something,' so why aren't we collecting? Do I have to be the one to reach out to the parents/guardians? 
+
+I want to go to the school board and propose starting next year do we ask for a $30 security deposit per kid if they are in person and $50 for the online/hybrid students. If your kid breaks it, it comes out of that fee and if  they didn't break anything all year long, you can either get the money back for 3 months or have it roll over to the next school year until something happens.
+
+Again, am I crazy to ask this? Is this too much work? Should I just be using my time more wisely applying for grants? I feel like the only way kids/parents are going to respect the school and its materials is if they are held liable for paying for them if/when their kid does something outside of ""Accidental."" But I'd say with a 28% breakage rate for headphones and 30% breakage rate from Chromebooks, only 10% of each of those are accidents. 
+
+What billing/software do you use? I am begging them to get me something like Incident IQ for next year so it can generate bills straight to PowerSchool (while also being an asset management for me and tech ticket forum). Any better ideas/ experience telling you I should look at another company? Right now I'm just using spreadsheets and updating them what feels like every other minute. I know there are billing tools inside PowerSchool, are any of them free? Preference? Annual cost?
+
+I have a meeting with CFO in a few weeks to explain why every months she's getting invoices for $1k-$2k from repair shops and CDW-G for more headphones. I have the data. I have the numbers.  I just don't know which road do go down? Do we start asking for safety deposits? Do we get a grant to put hard shell cases on computers and hope that is enough? Do we reach out to a 3rd party that does warranties AND repairs that don't cost us an arm and a leg? A part of me wants to propose all of them, but I'm afraid it will be too much to swallow in one meeting. 
+
+Please, if you have any help/guidance, I'd gladly take it. These kids deserve good tech, but I can't make something out of nothing if all the money is evaporating around me in keyed/scratched lids with profanity on it, caved in LCD screens and missing keyboard tiles.",9,10,0,131,5354
+17517,k12techpro,1737384060,k12sysadmin,1i5rluo,https://www.reddit.com/r/k12sysadmin/comments/1i5rluo/how_victims_of_powerschools_data_breach_helped/,How victims of PowerSchool’s data breach helped each other investigate massive hack,This article references this community and folks that have been helping address the PowerSchool breach... [https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/](https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/),3,61,0,83,344
+17522,k12techpro,1737384409,k12sysadmin,1i5rqf2,https://www.reddit.com/r/k12sysadmin/comments/1i5rqf2/updates_on_powerschool_episode/,Updates on PowerSchool Episode,"[https://k12techtalkpodcast.com/e/powerschool-breach-what-you-need-to-know/](https://k12techtalkpodcast.com/e/powerschool-breach-what-you-need-to-know/) and on all major podcast platforms
+
+In this episode of the K12 Tech Talk Podcast, the team dives into the recent PowerSchool breach and shares updates and insights into the breach's technical aspects. The discussion also highlights the roles and responsibilities of K12 tech leaders in managing data breaches and emphasizes the importance of transparency and communication with parents, staff, and state agencies. The team talks through the ethical considerations and the potential implications on data privacy agreements and industry standards like SOC 2 and ISO certifications.",0,10,0,30,732
+17775,Overthemoontraveller,1737401486,CanadianTeachers,1i5ypr8,https://www.reddit.com/r/CanadianTeachers/comments/1i5ypr8/powerschool_hack_tdsb/,Powerschool hack TDSB,"This email just went out. Seems like a significant amount of information that was potentially hacked.
+
+Dear Parents/Guardians/Caregivers,
+
+Further to the[ information shared](http://track.spe.schoolmessenger.com/f/a/NRtt_An3I1ta910NA4nSDQ~~/AAAAAQA~/RgRpb9aWP0Q8aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9ob21lL2N0bC9EZXRhaWxzL21pZC80MzgyMy9pdGVtaWQvNDAwVwdzY2hvb2xtQgpnhxajjmepYCJOUhVzdXNhbnRvb3JAaG90bWFpbC5jb21YBAAAAAI~) on January 8, 2025, we are writing with an update on the cyber incident involving PowerSchool’s Student Information System – the application used by TDSB and many school boards across North America to store certain student information.   
+
+
+**This notification applies to all those who were students with TDSB between September 3, 1985 to December 28, 2024. Please note that we will also be posting this letter on** [**our website**](http://track.spe.schoolmessenger.com/f/a/s5KiU3Mlcynwy10RGI0s-Q~~/AAAAAQA~/RgRpb9aWP0Q6aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9BYm91dC1Vcy9Qb3dlclNjaG9vbC1DeWJlci1JbmNpZGVudFcHc2Nob29sbUIKZ4cWo45nqWAiTlIVc3VzYW50b29yQGhvdG1haWwuY29tWAQAAAAC) **to notify TDSB’s former students who may be affected.**    
+
+
+**What Happened?**
+
+As you may recall, on Tuesday, January 7, 2025, PowerSchool notified TDSB and other school boards in Ontario and across North America that a PowerSchool system had experienced a data breach between December 22-28, 2024. TDSB’s cybersecurity team promptly activated our response plan, taking immediate steps to ensure that our critical systems remain operational. TDSB can confirm that our environment is secure, and that there is no ongoing unauthorized access to any data, either stored in PowerSchool’s Student Information System or elsewhere.   
+
+
+**What Information was Impacted?** 
+
+While our investigation into the incident continues, we have now confirmed the types of personal information stored in PowerSchool’s Student Information System that may have been accessed and acquired by an unauthorized user. The information includes the following:  
+
+
+**Students between September 1, 2017 and December 28, 2024**
+
+||
+||
+|First, Middle & Last Names Date of Birth Gender Health Card Number Grade Level and School Information Start/End Date as a Student Ontario Education Number EQAO Accommodation Information|Medical Information (ie. allergies, conditions, injuries) Home Addresses Home Phone Numbers TDSB Student Number TDSB Email Address First Nations, Métis, Inuit Information Residency Status Principal/Vice Principal Notes (including discipline notes) |
+
+With respect to medical information, if you provided information to your child’s school about your child’s allergies, medical conditions or injuries when completing the start of school year forms, this information was included in the data that may have been accessed or acquired. Please note that medical information provided to members of TDSB’s Professional Support Services team (e.g. Psychologists, Occupational Therapists, Physiotherapists, Audiologists, Speech-Language Pathologists, and Social Workers) was not impacted by this incident. 
+
+**Students between September 3, 1985 and August 31, 2017**
+
+||
+||
+|First, Middle & Last Names Date of Birth Gender Health Card Number Ontario Education Number|Home Addresses Home Phone Numbers TDSB Student Number TDSB Email Address First Nations, Métis, Inuit Information |
+
+This historical student information is kept in PowerSchool’s Student Information System in order to respond to requests for former student records.
+
+**Parent/guardian/caregiver and emergency contact information (individuals connected to students who were registered from September 1, 2017 and December 28, 2024)**
+
+||
+||
+|First, Middle & Last Names Home & Mobile Phone Numbers Email Addresses|Relationship to Student Home Addresses|
+
+To be clear, TDSB does not store any Social Insurance Numbers, financial or banking information in the PowerSchool Student Information System, so that information was not affected in any way.   
+
+
+**PowerSchool has reported that it received confirmation that the data acquired by the unauthorized user was deleted and that the data was not posted online.** Nevertheless, TDSB continues to take this incident very seriously, and is working with PowerSchool to ensure an incident like this does not happen again in the future.    
+
+
+This breach has been reported to the Office of the Information and Privacy Commissioner of Ontario (the IPC) and an investigation file has been opened. While you are entitled to file a complaint, the IPC has advised that it is not necessary as they are already investigating the matter. You can visit the IPC’s website at[ www.ipc.on.ca](http://track.spe.schoolmessenger.com/f/a/H27uyTqlsN-9_zl8U2z4ZQ~~/AAAAAQA~/RgRpb9aWP0QVaHR0cDovL3d3dy5pcGMub24uY2EvVwdzY2hvb2xtQgpnhxajjmepYCJOUhVzdXNhbnRvb3JAaG90bWFpbC5jb21YBAAAAAI~).   
+
+
+**Where Can I Find the Latest Information?**
+
+We will continue to provide additional updates as we receive them. Information on this evolving situation is[ available here](http://track.spe.schoolmessenger.com/f/a/s5KiU3Mlcynwy10RGI0s-Q~~/AAAAAQA~/RgRpb9aWP0Q6aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9BYm91dC1Vcy9Qb3dlclNjaG9vbC1DeWJlci1JbmNpZGVudFcHc2Nob29sbUIKZ4cWo45nqWAiTlIVc3VzYW50b29yQGhvdG1haWwuY29tWAQAAAAC) on the TDSB’s website. We also recognize that you may have questions about what has occurred. Should you have any questions, please contact [cyberincident@tdsb.on.ca](mailto:cyberincident@tdsb.on.ca).   
+
+
+Sincerely,  
+
+
+Stacey Zucker  
+Interim Director of Education
+
+\-------------  
+",2,1,0,21,5533
+18414,sounds_familiar_too,1737467673,askTO,1i6j2jo,https://www.reddit.com/r/askTO/comments/1i6j2jo/current_and_former_students_and_teachers_of_the/,"Current and former students and teachers of the TDSB, how are you feeling about the Powerschool cyber breach? ","A couple of articles about this:
+
+[https://www.thestar.com/news/gta/personal-information-of-ontario-students-going-back-decades-may-have-been-breached-in-cyberattack/article\_c4933936-d431-11ef-b492-57df3a162eca.html](https://www.thestar.com/news/gta/personal-information-of-ontario-students-going-back-decades-may-have-been-breached-in-cyberattack/article_c4933936-d431-11ef-b492-57df3a162eca.html)
+
+[https://toronto.citynews.ca/2025/01/20/students-information-dating-back-to-1985-may-have-been-accessed-in-tdsb-cyber-incident/](https://toronto.citynews.ca/2025/01/20/students-information-dating-back-to-1985-may-have-been-accessed-in-tdsb-cyber-incident/)
+
+My kids are impacted, and other people affected were students as far back as 1985 (and I even read 1965 in Peel district).
+
+If you were a student back then, did you sign anything permitting the TDSB to upload your data to Powerschool? Sounds like you might want to contact the Office of the Information and Privacy Commissioner of Ontario. There are several class action lawsuits on the go in the USA against Powerschool, do we need one here?
+
+And it impacts teachers too: [https://www.techradar.com/pro/security/powerschool-breach-worse-than-thought-company-says-all-student-and-teacher-data-accessed](https://www.techradar.com/pro/security/powerschool-breach-worse-than-thought-company-says-all-student-and-teacher-data-accessed)
+
+What can be done? I'm particularly interested in some kind of incentive to prevent this happening again. There will be lots of finger-pointing by those responsible. I don't think this should be just another ""<shrug>Oh well!""",20,25,0,110,1616
+18485,GlennB_RMS,1737472604,k12sysadmin,1i6kucg,https://www.reddit.com/r/k12sysadmin/comments/1i6kucg/ps_asm_sync_got_stuck/,PS -> ASM sync got stuck,"Has anyone else seen an issue pushing data from PowerSchool to School Manager this past weekend? I checked the last sync, it says it got stuck on step 2, Get data for Apple School Manager. The details show that everything synced, but then it says ""Status code int 202."" Previous syncs were fine. ",1,2,0,24,296
+18965,Zachary1707,1737501769,highschool,1i6wk12,https://www.reddit.com/r/highschool/comments/1i6wk12/teacher_took_3_points_off_of_whole_class_labs_for/,Teacher took 3 points off of whole class’ labs for working with partners,"So about a week or two ago we were doing a lab in Science. It was with a partner and the partners she assigns is the other person who sits at your table
+
+In PowerSchool she made them as 5 different grade for the 4 different labs. In my class period she took off 3 points for 4/5 of the labs because she thought the answers we had weren’t ours, and couldn’t trust our academic honesty. In partner work.  Only one she didn’t had to deal with a coloring sheet. This is ridiculous 
+
+Had anyone else ever had this happen to them?
+
+Has anyone else ",0,1,0,72,542
+20737,mjh2901,1737650371,k12sysadmin,1i87jzh,https://www.reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/,Question to those dealing with the PowerSchool Data breach,"Before this goes any further, we are not a powerschool shop and my heart goes out to everyone dealing with this. I am looking at our processess for handling a data breach, and am wondering.
+
+Are any of you tracking the cost of dealing with this breach?  For my district we would be probably around 5 or 6 grand in attorney time vetting the notifications and advising admin/board.  We have about 6000 students but if this was a Campus breach it would include graduates going back about 10 years so we would be notifying in the range of 30,000 people via mail, the estimate for that is about $2 per letter including employee time and a good couple grand in database employee time getting the exports and excel files ready for the mail merges.
+
+What I am getting at is this type of breach the vendor is completely at fault and cost the district close to a 100 grand, which exceeds the yearly hosting/licensing costs for the SIS system.  I am guessing the math is similar for other districts and just scales based on size.
+
+I am going to ignore all the class action lawsuit stuff and go straight to is anyone approaching power school, or considering approaching a vendor that does this with a request for the direct costs?
+
+As a group should we be talking about our future vendor contracts and cost shifting language should a databreach cost the district, and the fault lies completely with the vendor?
+
+I am trying to look at this from how do we learn from this in how we deal with vendors that store student data.",20,18,0,58,1511
+21099,cudmore,1737674033,Sacramento,1i8h026,https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/,"Data breach hitting PowerSchool looks very, very bad","“The hack, which came to light earlier this month, hit PowerSchool, a Folsom, California, firm that provides cloud-based software to some 16,000 K–12 schools worldwide. The schools serve 60 million students and employ an unknown number of teachers. Besides providing software for administration, grades, and other functions, PowerSchool stores personal data for students and teachers, with much of that data including Social Security numbers, medical information, and home addresses.”",32,81,0,52,484
+23538,Kartoos69,1737900753,cybersecurity,1iafidv,https://www.reddit.com/r/cybersecurity/comments/1iafidv/what_learnings_can_i_present_from_the_powerschool/,What Learnings Can I Present from the PowerSchool Breach?,"My founder asked me to study the PowerSchool data breach (summary: credentials were compromised, leading to unauthorized access) and present actionables for our organization by Tuesday. We're a tech company providing SIS solutions, so this is highly relevant to us.
+
+Apart from the obvious points like MFA, regular audits, and monitoring, what specific learnings or actionable steps do you think I should include to strengthen our security? Any advice or insights are welcome!
+
+Thanks in advance!",6,0,0,57,496
+23588,k12techpro,1737905108,k12sysadmin,1iah8vv,https://www.reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/,Top 10 Things to Change in K-12,"The PowerSchool breach has been a difficult wake-up call for all of us, but it’s not the first breach and it will not be the last. School districts and ed-tech partners have all had the chance to revisit their cybersecurity plans over the last few weeks, and this has afforded us the opportunity to rethink some common practices in K-12 technology. Here's our top 10 --> [https://k12techpro.com/top-10-things-to-change-in-k-12/](https://k12techpro.com/top-10-things-to-change-in-k-12/)",8,17,0,31,485
+23594,K12TechTalkPodcast,1737905407,k12sysadmin,1iahdgc,https://www.reddit.com/r/k12sysadmin/comments/1iahdgc/top_10_changes_to_k12_cyber_security_wed_like_to/,Top 10 Changes to K12 Cyber Security We'd Like to See,"In this episode, the discussion focuses on recent updates regarding the PowerSchool data breach. We talk about the critical changes necessary for enhancing cybersecurity in school districts, including expanding MFA, moving away from outdated FTP to modern solutions, and embracing a culture of data reduction.
+
+Listen here [https://k12techtalkpodcast.com/e/tech-mishaps-and-k-12-cybersecurity-a-chilly-discussion/](https://k12techtalkpodcast.com/e/tech-mishaps-and-k-12-cybersecurity-a-chilly-discussion/) and all major podcast platforms.",1,3,0,53,538
+24626,Low_Pollution_9546,1737998540,Teachers,1ibeifg,https://www.reddit.com/r/Teachers/comments/1ibeifg/students_with_helicopter_parents/,Students with helicopter parents,How do the kids with micromanager parents fare in the real world? I've always wondered how these kids do in college and at jobs after their parents drag them through high school.  Ive been a teacher for 20+ years and every year I get parents who constantly check Powerschool and Schoology and question every score or question every empty field asking when scores will be in. I've also had plenty of parents who obviously do the work for their kid. What happens to the kid after graduation?,29,10,0,32,489
+25164,No-Effort-9291,1738034651,Teachers,1ibsdbm,https://www.reddit.com/r/Teachers/comments/1ibsdbm/powerschool_data_breech_my_school_says_were_safe/,Powerschool data breech: my school says we're safe(?),"Like so many teachers, we were made vaguely aware of the data breech. Our school forced a password change, and little else was said. 
+
+Today, however, we received word that our school was not affected by this. Is this possible? I don't believe this since, I assume, the hackers gained access to the whole of the PslS database. 
+
+Additionally, I am aware that my phone number is on Powerschool, but is other, more sensitive info like my SSN in there? 
+
+I'm not sure who to even discuss this with in terms of finding out if we were truly affected, but wanted to start somewhere.
+
+What have you all heard? ",10,3,0,53,603
+25866,Square_Pear1784,1738097670,k12sysadmin,1icc1eu,https://www.reddit.com/r/k12sysadmin/comments/1icc1eu/solo_k12_it_admin_feeling_overwhelmed_need/,Solo K12 IT Admin Feeling Overwhelmed - Need Support/Advice,"I am looking for some advice/support. I'm a solo IT admin at a school, relatively new to K12, and feeling pretty overwhelmed trying to clean up things up while keeping daily operations running.
+
+Current situation:
+
+* Inherited a bit of mess: Plain text passwords, unmanaged Windows machines, poor Chromebook policies, minimal documentation
+* No ticketing system when I started (implemented one while handling constant walk-ups)
+* Currently managing:
+   * Day loaner Chromebook program
+   * All student account management (took on some SIS admin responsibilities after ours left)
+   * Aging Windows fleet needing refresh
+   * Daily helpdesk (printers, whitelist requests, etc.)
+   * Multiple ongoing projects (Intune implementation, mDNS issues, phone system needs)
+   * Security concerns (no MFA on Google accounts, staff BYOD on LAN)
+   * Budget planning/proposals with tight deadlines
+   * PowerSchool situation adding extra stress
+   * two lunch duties and a club due to staff shortages. 
+
+The Head of School suggested blocking out project days, which I've tried, but I'm still drowning in daily support tickets. Budget is tight, and additional help seems unlikely. Staff doesn't seem to understand the scope of what IT manages.
+
+I took this role hoping to improve the school' situation and build my resume (currently working on CCNA too), but lately, I'm just exhausted trying to keep up. I want to be able to get this plane off the ground and flying before I consider what is next. Coming from a teir 2 background this position gives me good potential for building my career. 
+
+There are deadlines for budgets and I really want to get a proposal ready and confirmed for a windows fleet refresh and management solution. 
+
+How did you manage priorities and communicate the workload to administration? Any strategies for staying sane as a solo admin? I am coming home most days feeling completely burnt and unhappy with things. 
+
+Ideally the plan would be to get things to a place where I can focus on the daily helpdesk stuff more, but right now I just see so many things that need fixed. I sense frustration from some staff on my inability to respond to requests in a short timeframe.",11,1,0,59,2188
+26953,SuzanneSmalley,1738187473,privacy,1id5plr,https://www.reddit.com/r/privacy/comments/1id5plr/reporter_seeking_individuals_impacted_by/,Reporter seeking individuals impacted by PowerSchool breach to speak with,"Hi,
+
+I'm writing about the massive PowerSchool data breach. It is believed to have exposed data belonging to millions, mostly minors (PowerSchool won't confirm but based on the number of school districts to say they were hit the number should be in that range). In Toronto, students' special ed accommodations and disciplinary records were exposed (PowerSchool didn't list these categories in their public statement about the breach, making it sound less damaging than it was). If you are interested in speaking with me -- parents, teachers, students -- I can be reached at [suzanne.smalley@therecord.media](mailto:suzanne.smalley@therecord.media), 202-931-9538 or on Signal at Suzanne.236.
+
+[https://therecord.media/disciplinary-special-records-toronto-powerschool](https://therecord.media/disciplinary-special-records-toronto-powerschool)",2,10,0,73,840
+27129,Weird_Marionberry16,1738199246,Teachers,1ida6ab,https://www.reddit.com/r/Teachers/comments/1ida6ab/chat_im_feeling_cooked/,Chat I'm feeling cooked,"I got evaled by my principal today and am feeling a little too tempted to throw in the towel on teaching art in the current school system. I know plenty of us are struggling with behaviors, not having enough time in the day, and rough culture- my intention with posting is just to commiserate a bit with people who will understand how much my situation sucks. 
+I came into this year (my 2nd teaching and at this school) very hopeful about implementing improvements to my classroom. I am lucky to have a huge room with lots of storage and an okay budget but during my first year I was treading water so hard I never got a chance to properly inventory and set things up the way I wanted. There were also several short term people between the last proper art teacher  who just shoved things everywhere. 
+I had two goals in august: make a place for everything so the kids can learn to manage materials and to get my grading together. During the week of PDs before classes I was promised 2 days of classroom setup time. My principal scheduled setup days for the days that I was at district PDs so I literally had no time to set my room up before students arrived. I also was unable to enter in any assignments or grades for 2 months because nobody in admin would assign my classes in powerschool. I asked over and over and it took until the week before first quarter grades were due for me to finally have all my classes in powerschool. 
+I was angry about these things and it didn't help that my principal seemed to view getting a new music teacher as a pass to comment on her preference between specials subjects. She told me that my afterschool art program was a hassle and she didn't want it, but she did want the music teacher (in her first year of teaching) to run elementary band with 0 band instruments by pulling students from my class at certain times. She also mentions often how she just 'is more connected to music'.  The principal made another slight to me with the gym teacher telling them that they can ask me for whatever supplies they want because she gives me enough money. This happened after the gym teacher asked me at 6am the day of for 70 posterboards. My answer? Sure, but I need you to replace them at your convenience using your budget because thats 50$ worth of paper product. Gym teacher said no thanks then complained to the principal. 
+School PDs happen in my classroom. During one of these we had breakout groups with some people meeting and others getting to do work in their classrooms. She was asked where the second group would meet and in front of the whole staff she said probably art room. My vp jumped in and said definitely library because art teacher will be working here but the damage was done. It's so clear to me from these comments that she does not think of me as a meaningful part of this school. 
+The principal only comes to my room when she has a problem. The kids are too loud or she sees students out of their seats from the hallway, etc. I have had plenty of comments from her about raising expectations for students and how I need to shape up routines. The kicker is that I have been stripped of authority by my principal more and more over the course of the year to the extent that she emailed me telling me I am not allowed to give students consequences, referencing a lunch detention that was given to a student by their own teacher because I told that teacher that the student was unsafe with scissors and not listening to reminders! 
+To shortly mention my other complaints: 
+-Voluntold to take a class she initiated for new teachers that required me canceling a regular workout class and weekly friend meetup for several months. 
+-made to ditch my own incentive system for basically the same thing but made by my admin. 
+-ghosted when I email 60% of the time. 
+As for the eval, it came as a surprise to me because my last eval (OCTOBER 31ST AT THE END OF THE DAY WITH THE SCHOOLS WORST CLASS) has yet to be uploaded. Now, that one was done by my vp and last year my principal didn't eval me at all so I was a little shook that she came in and stated that I had an eval for my incoming class. 
+The guilt is creeping in though because I did indeed fuck up. My plans were on an index card so when she asked for plans I said yeah I don't have those typed up. She raised her eyebrows and moved back as students arrived. The class was fine and I referenced our goal from the board and showed off all the routines we were practicing but I felt such a weight of that one mistake. For the record, in no other eval have I been asked to present my lesson plan and I spoke to the music teacher and they said our principal did not ask for a lesson plan when they had an eval with her.  
+I hate that the context of my work is shadowed by the politics of my admin and I am flipping between anxiety that my principal will use my mistake to write off everything I have worked hard on and apathy because she hasn't helped me one bit even when I asked. 
+I feel like if my admin was at least neutral I would have more confidence to face all the actual problems. I feel like I came to this position with a realistic perspective of teaching. I knew it would be hard, I knew the first years take a lot, I knew that culture pushes teachers to give everything they have and then some. I was prepared for a tough journey with big challenge and big rewards but now I am feeling like I stepped into a half dug grave and got handed a shovel. 
+If you read all that seriously thank you for hearing me out. I am open to advice or your own stories, I really needed to put my thoughts out there before I go insane. 
+
+Tldr: principal problems making life hell. Spiraling after surprise eval. ",0,3,0,23,5711

@@ -1,0 +1,86 @@
+,author,time_of_post,subreddit,post_id,post_link,title,content,num_comments,num_upvotes,num_downvotes,title_length,post_length
+1987,So_Mad-Rita97,1738563056,Teachers,1igimoo,https://www.reddit.com/r/Teachers/comments/1igimoo/need_help_in_choosing_software/,Need Help in Choosing Software,"I'm an admin in a K-12 school in Minnesota. We're preparing to shift to a new school management system, and a recent data breach on PowerSchool is making us think repeatedly.  
+We've gone through some of the platforms like Alma, Classe365, and Ellucian. Among them, only Classe365 offers AI assistance, overall customization, and module-based pricing. Besides, their support team is amazing.  
+Can anyone tell me more about the platform? Their website is: [www.classe365.com](http://www.classe365.com)",0,1,0,30,501
+2788,dooleyrd,1738628658,k12sysadmin,1ih4o2p,https://www.reddit.com/r/k12sysadmin/comments/1ih4o2p/powerschool_automated_progress_report/,PowerSchool Automated Progress Report,"I am either having a senior moment or the PTSD of school technology is finally catching up with me.  I cannot for the life of me find where to change the time that the automated messages are sent out.  Is it even possible?  When the first Monday hits, starting at midnight the emails for progress reports, attendance and lunch alerts blow through the 10000 recipients allowed through Office 365 by 2:30am, which locks the mailbox from sending out for 24 hours.  Any thoughts or suggestions?",7,9,0,37,490
+3936,Some_Topic_2653,1738722888,Teachers,1ihzs0i,https://www.reddit.com/r/Teachers/comments/1ihzs0i/powerschool_data_breach_email_unequal/,PowerSchool Data Breach Email — Unequal Notifications?,"Hello! I wanted to check if anyone else has received an email from PowerSchool regarding the recent data breach. Every one of my coworkers who is not Hispanic has said they didn’t receive it, while every Hispanic teacher I’ve spoken with did get the email. 
+
+Is anyone else noticing this pattern? Do you think this could be a coincidence, or could it be connected in some way to the Trump administration’s recent order for mass deportations? I’d love to hear your thoughts and if you’re seeing anything similar in your districts. Thanks! ",13,2,0,54,538
+6282,stargazed144,1738932239,k12sysadmin,1iju4te,https://www.reddit.com/r/k12sysadmin/comments/1iju4te/do_you_guys_think_ai_might_take_over_some_of_our/,Do you guys think AI might take over some of our positions?,"Just for context: I'm right out of college and started a  new job as a PowerSchool Admin at my local school district. But as I go through my daily tasks, I can't help but get this feeling that all of this could be done by an AI and although I intend to stay here for a long time, I just get the feeling my position might be eliminated and replaced by an AI. Does anyone else feel that way? Thoughts?",58,9,0,59,399
+14440,zumaro,1739669906,k12sysadmin,1iqh5s8,https://www.reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/,PowerSchool incident further problems?,"One of our parents affected by the PowerSchool breach has received an email from PowerSchool <Ps-sis-incident@mail1.csid.com> following closely the template that PowerSchool suggested we send out to families. It lists her daughter and was sent to her personal email address. 
+
+This looks on the face of it to be a phishing attempt with the stolen information?",7,14,0,38,359
+16062,BrewYork,1739828407,k12sysadmin,1irvpck,https://www.reddit.com/r/k12sysadmin/comments/1irvpck/sis_consultants/,SIS consultants?,"Hey everyone! For some reason we store some of our grades in Renaissance DnA (formerly Illuminate), even though PowerSchool is our SIS.  I need to import our historical grades from DnA to PS, and I could figure it out myself but honestly would rather just pay a professional.  Do any of you have SIS implementation consultants you can recommend?",6,3,0,16,345
+18069,combobulated,1740003985,k12sysadmin,1itikdo,https://www.reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/,"Powerschool SIS - Security, Responsibility, Best Practice, and what have you got?","Apologies for another Powerschool post - I suspect many of you (like me) are honestly tired of hearing/dealing with Powerschool ANYTHING at this point.
+
+Wall of text incoming - thanks for those who survive to the end.
+
+But as I continue diving into things on our end, I'm finding more and more issues and have more and more questions.  
+
+Like most other PS users, we were part of the recent massive data breach they had.  (We're 100% hosted).  That was the catalyst to looking deeper into all things Powerschool here.
+
+And I'd also bet that another similarity to many others is that in our school, Powerschool has been around for a long time (15+ years here) and has passed through the hands of many ""administrators"" .
+
+For us (a small, private school with about 400 current students and ~100 active staff) Powerschool has mostly been a ""school administration"" asset.  The IT department helped with some of the initial setup and working on grades and such (long ago) but overall support and maintenance was part of our then Technology Coordinator's job.  Just shy of a decade ago, we had turnover at that position and the Powerschool duties were primarily put into the hands of our school Administrative Assistant. There was an informal agreement at that time that no one else would be entering data related to users (staff/students) so that we didn't have issues with knowing who did what.  
+
+And that's where it sat for several years.  In the IT Department, we never touched Powerschool.  If someone had a PS question/issue, I'd direct them to the Administrative Assistant. Our current Technology Coordinator would sometimes act as a backup support person if the AA was unavailable. 
+
+AA attended several trainings and seemed to have a grasp on the day-to-day operation of Powerschool for our needs.
+
+Not sure if you can already see the problem coming here or not.
+
+Anyway, fast forward to the breach last month.  Suddenly, lots of higher-up people here have a whole lot of questions and concerns about PS and how we use it.  Most started with ""Well, who ""owns"" it here?  Who is in charge? Who's our expert?"" (perhaps code-word for ""whose fault is this?""...) and of course IT was part of those meetings to hear and respond to  questions.  
+
+It makes some sense - on one hand, it IS data. And in general that'd lump into ""This is the IT Department's responsibility"".  But I explained that IT has had basically nothing to do with it for probably over a decade.
+
+It's immediately clear that our AA has no real idea how any of it works outside of the simple checklist she may follow to complete her assigned tasks.
+
+So now we (our 2 person IT Department - Me SysAdmin and a Helpdesk tech) are involved again trying to gather information as it pertains to this particular breach.  
+
+It's quickly clear that I'm shining light on things that haven't seen light in a long, long time.  Questions that I had for our AA had no answer (""Who entered this data?"" ""Why is this data here?"" ""What's the practice for removing data?).  We learn that some staff have all sorts of PII in Powerschool - the full bit, SSN, DOB, Address, Phone, Email, etc.  About 1/3 of them.  And no one knows why - we don't need/use any of that data in Powerschool.  It's likely some past employee was entering it (likely with good intentions) years ago.
+
+So I'm stuck trying to figure out what we have, what we need, what was compromised, and how to clean it up moving forward.
+
+A simple question of ""Well, who has admin access?"" is suddenly not so simple as I dig in...  I ask our AA about Security Groups in PS - and she has no idea what I'm talking about.  I ask about user roles and permissions - again, not anything she's familiar with.  I ask about page permissions - nope.  I ask about any routine/practice for handling terminated staff - it's not consistent or formally documented.  
+
+And I learn that with Powerschool, you simply CAN'T remove records.  I can't delete users. Can't delete groups. You can mark them as ""inactive"".  Outside of that, I plan on just ""blanking"" or filling in fields with gibberish instead of actual PII.
+
+Ok, so there must be some other built-in pruning/cleaning/wiping/overwriting process, right?  Nope.  Maybe there's a 3rd party tool?  Otherwise, better get comfortable with the art of creating report queries and exporting data to CSV files to then edit and re-import.  And plan on building a process/policy that plans on doing that manually at whatever regular interval you feel is sufficient.
+
+I've been banging my head against the wall here.  The Powerschool Community is so hit-and-miss with data that I haven't gotten much value out of it,  But I'm not sure where else to turn (hence, this too long post...).  Our ""rep"" that reached out shortly after the breach has provided just about zero assistance with my specific questions. 
+
+And as I'm spending hours attempting to learn the ins and outs of Powerschool - plus put that in context of how we use it and our practices  - it again dawns on me that it's still not formally my responsibility.  Much of the time I feel like I'm just the middle man : Powerschool says XYZ - so I go to our AA and ask about XYZ and they either know nothing about it or give their limited understanding in context of how the school handles it.  Then I go back and try to put the pieces together.  So I feel like I'm not learning someone else's job...
+
+I don't have an issue if PS is clearly marked as part of my job description and reasonability.  But I don't want to find myself walking on thin ice of someone else's frozen pond of mistakes.
+
+So how are you handling it? How is it at your school (bonus points if you're a small /private school)?
+
+Whose job/responsibility/accountability is your SiS?   Do you have policy in place for addressing data security, retention, and PII as it relates to Powerschool (or any other hosted platform!)  Would you be willing to share it?  How are you handling retention in a system that doesn't allow deletion of records??
+
+Is it an IT thing at your school? How are you auditing things like permissions and users? *Are* you auditing them?
+
+Is there a better place for Powerschool Admins/experts/wanna-be learners to converse? 
+
+Does anyone use Veracross (https://www.veracross.com/) as their SiS?  I hadn't heard of them previously, but I've heard good things about their security approach. I'm afraid going with a smaller SiS will limit our integrations and available tools.  (Not that I'm sure there's a change in SiS in our future anyway...)
+
+Anyway - it all leads into a quest for resources to do a full data security audit - one that must include 3rd party hosted/cloud platforms. As it is, I don't know what's in the software platforms used by Food service, accounting, facilities, or any other department as they each operate in their own (3rd party, cloud) data silos.  We'd gladly pay for an Expert to come in and facilitate that.  But I can't find such a thing.  Sure, general ""cyber security"" audits, pen testing, etc are common.  But we've done that and they don't cover this particular item.",24,8,0,81,7083
+20045,wishadoo,1740175968,raleigh,1iv3ajb,https://www.reddit.com/r/raleigh/comments/1iv3ajb/wcpss_emergency_notification_question/,WCPSS emergency notification question,"Sorry this is long. It has been a frustrating situation from the jump and I'm hoping someone here may be able to offer more insight or suggestions since it's anonymous. lol 
+
+I'm the grandparent of a kindergartener. At the school orientation day when the forms were filled out, his mom (my daughter) and her partner put their info on the form as parents. I am listed as an emergency contact. We didn't know at the time that those two names and contact info are the only ones who get emergency notifications from the school. This is a huge problem because his mom travels a lot, often to different time zones, and I watch him. I'm also the person who takes him and picks him up. That's why I followed this subreddit to get snow closing info because I couldn't on her to forward info in a timely manner! lol 
+
+When we first discovered this I called the principal to explain the situation and was gently told it's up to the parents to add me. Which is fair. But my daughter can't see how to add me; she can't see how to even add an additional number under her profile at PowerSchool and just use my number. (In the olden days there were options for home, work and cell). School Messenger didn't work either. Her partner is not in the picture at this moment. 
+
+I know if there is an individual emergency that I'll eventually be called, but if there is news of early dismissal or something that is school or district-wide, I can't rely on the teachers to use ClassDojo. I need to have access to the district notification system. I was on it years ago when my daughter was a student and it continued long after she graduated, and now I regret ever getting off of the list. 
+
+I'm panicking a wee bit because my daughter is going out of the country this week and I don't want to have to stay glued to this subreddit in case something school-related happens that I need to know about. lol 
+
+Daughter has very little time and patience right now, so it would help if I could give her specific instructions as to how to get me added. Any suggestions? TIA! ",17,2,0,37,2044
+20307,SpecialistArm4741,1740203482,k12sysadmin,1ivbwjq,https://www.reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/,What I think about the PowerSchool breach and its implications,"What I think is this that breach highlights a failure not just in protecting data but in implementing basic security practices. It doesnt necessarily mean PS didn’t encrypt its data, but it suggests they didn’t use data segregation or robust role based access control RBAC. These would have limited the impact by ensuring only authorized users from a specific school or district could access their data. If PS had used unique encryption keys per school, only people from School B could see their data, and the same for School C. District admins would have access only to their district’s data. This approach, combined with RBAC and authorization layers, wouldve improved their security posture and compliance with regulations like GDPR, HIPAA, and FERPA. Ignoring these standards shows poor data handling and a disregard for regulatory frameworks IDK. The fact that stolen credentials granted access to a wide range of data suggests this might have been a company level credential breach. Such credentials often have broad privileged access for maintenance or support, which, when exploited, can be devastating big time. This points to a lack of proper segregation of duties and principle of least privilege. Poor implementation is also evident if their admin panel had vulnerabilities, like weak authentication, lack of MFA, or flaws such as insecure APIs. If attackers could impersonate an admin or bypass login mechanisms, encryption wouldnt help they’d still get full database access easily just like that. What could be the result? Beyond reputational damage, schools might rethink contracts with PS platform if you think about it. Stricter government regulations could follow, mandating better security for student data systems. For PowerSchool, this is a wakeup call and robust security isn’t optional, and ignoring it undermines trust and compliance.  
+  
+thoughts?",7,11,0,62,1873
+22056,Objective_Sugar5667,1740380694,highschool,1iww5e6,https://www.reddit.com/r/highschool/comments/1iww5e6/yalls_power_school_uses_letters/,Y’all’s power school uses letters?,I was scrolling through grades when I noticed I was the only ones PowerSchool who had numbers instead of letters. Now that I think of it on test we get numbers back too I’ve never got a test back with a letter on it. I thought that was lowkey a movie thing………,4,3,0,34,259
+24742,Vast_Equal8,1740610944,Teachers,1iz108m,https://www.reddit.com/r/Teachers/comments/1iz108m/powerschool_data_breach/,PowerSchool data breach,"So I just received an email notifying me that I'm one of the people whose data was stolen during the PowerSchool data breach back in January. It listed that my SSN was potentially stolen but that they ""do not have evidence"" yet.
+
+They've offered two free years of identity protection services but that feels like a lowball considering the damage that can be done because of this. Their system was obviously so unsecure from the beginning considering it lacked basic multifactor authentication.
+
+Does anyone know if legal action is being taken for those affected? Because I very much want in and I'm very upset over it all.",6,3,0,23,622

@@ -1,0 +1,553 @@
+Column 1,Author,Post Time (UTC),Subreddit,Post ID,Link,Post Title,Post Content,No. Comments,No. Upvotes,No. Downvotes,Title Length,Post Length,Breach/Non-breach
+5751,Chuckfromis,1/7/2025 20:49,k12sysadmin,1hw1m3x,https://www.reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/,So PowerSchool had a breach....,"The email we received:
+ 
+  
+ DearÂ Valued Customer, 
+ As the Technical Contact for your district or school, we are reaching out to inform you that on December 28, 2024, PowerSchool become aware of a potential cybersecurity incident involving unauthorized access to certain information through one of our community-focused customer support portals, PowerSource. Over the succeeding days, our investigation determined that an unauthorized party gained access to certain PowerSchool Student Information System (â€œSISâ€) customer data using a compromised credential, and we regret to inform you that your data was accessed.",79,205,0,31,619,Breach
+5752,NorthernBob69,1/7/2025 20:50,k12sysadmin,1hw1n69,https://www.reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/,Powerschool breach,"So, how many of us got an email from PowerSchool with info that they were compromised on Dec 28th? No other info in the email just a couple of links to webinars the next couple of days. This could be huge.",15,34,0,18,205,Breach
+6665,Timewyrm007,1/8/2025 19:54,k12sysadmin,1hwt7ox,https://www.reddit.com/r/k12sysadmin/comments/1hwt7ox/powerschool_breach/,Powerschool Breach,"Just waiting in the lobby for the breach meeting to start and this is part of their graphic
+ 
+ https://preview.redd.it/cl6k9sugrtbe1.png?width=426&format=png&auto=webp&s=78791e4b0da2297087d61030b1fb73ae192a9dd8
+ 
+ hmm I can think of 1 off the top of my head :):)",5,50,0,18,263,Breach
+6677,flunky_the_majestic,1/8/2025 20:05,k12sysadmin,1hwthy5,https://www.reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/,Powerschool Breach webinar,"**CEO greets. Provides cover and corporate speak.** Acknowledges the responsibility they have, and that it should be contained. Assured they have taken every step possible. Confident that the breach is contained, understood, and no ongoing concerns on the system exist. Commitment to communication. We have assurances that the information is contained and will not be publicly available. And if there is PII released, monitoring should be in place. Powerschool takes security seriously, though this incident undermines it. THey are increasing investment in security.",60,152,0,26,575,Breach
+6822,NewsboyHank,1/8/2025 22:34,OntarioTeachers,1hwx1n1,https://www.reddit.com/r/OntarioTeachers/comments/1hwx1n1/weeee_powerschool_got_hacked/,Weeee! PowerSchool got hacked!,I wonder how this will affect reports in the coming weeks.,25,9,0,30,58,Breach
+7039,K12TechTalkPodcast,1/9/2025 2:36,k12sysadmin,1hx2ghr,https://www.reddit.com/r/k12sysadmin/comments/1hx2ghr/powerschool_cybersecurity_breach_what_you_need_to/,PowerSchool Cybersecurity Breach: What You Need to Know,"[https://k12techtalkpodcast.com/e/powerschool-cybersecurity-breach-what-you-need-to-know/](https://k12techtalkpodcast.com/e/powerschool-cybersecurity-breach-what-you-need-to-know/)
+ 
+ This special episode of the K12 Tech Talk podcast dissects the recent cybersecurity incident involving PowerSchool, a major provider of Student Information Systems (SIS) in the United States. Hosts Josh, Chris, and Mark discuss the details of the breach that saw PowerSchool send notifications to its customers about the possibility of sensitive data exposure.
+ 
+ We discuss the details of the breach that have been released by PowerSchool and discussed by customers on K12TechPro and Reddit (/k12sysadmin) within the first 24 hours.
+ 
+ For more information, check out K12TechPro where you can find a special section on the PowerSchool breach with resources you need, including sample letters to families, instructions to download your system logs, and relevant news articles.
+ 
+ [https://members.k12techpro.com/](https://members.k12techpro.com/) (click sponsorship to join for free)",4,20,0,55,1059,Breach
+7040,k12techpro,1/9/2025 2:37,k12sysadmin,1hx2hhh,https://www.reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/,What we know about the PowerSchool breach so farâ€¦,"It has only been 24 hours since PowerSchool announced it had an â€œincident,â€ so there's very little information available to the public. However, what PowerSchool has shared and what school districts are seeing is concerning, to say the least. [https://k12techpro.com/what-we-know-about-the-powerschool-breach-so-far/](https://k12techpro.com/what-we-know-about-the-powerschool-breach-so-far/)",25,88,0,49,391,Breach
+7356,Road_Trail_Roll,1/9/2025 14:48,k12sysadmin,1hxedsq,https://www.reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/,PowerSchool Users what are you telling parents?,"We're working on a message to our parents and staff. I'm curious, what has everyone else sent out to explain what happened and what your steps are?",20,24,0,47,147,Breach
+7373,Tycho_Jissard,1/9/2025 15:11,k12cybersecurity,1hxewgl,https://www.reddit.com/r/k12cybersecurity/comments/1hxewgl/powerschool_cybersecurity_incident/,PowerSchool Cybersecurity Incident,"DearÂ Valued Customer, 
+  
+ As the Technical Contact for your district or school, we are reaching out to inform you that on December 28, 2024, PowerSchool become aware of a potential cybersecurity incident involving unauthorized access to certain information through one of our community-focused customer support portals, PowerSource. Over the succeeding days, our investigation determined that an unauthorized party gained access to certain PowerSchool Student Information System (â€œSISâ€) customer data using a compromised credential, and we regret to inform you that your data was accessed. 
+  
+ Please review the following information and be sure to share this with relevant security individuals at your organization. 
+  
+ As soon as we learned of the potential incident, we immediately engaged our cybersecurity response protocols and mobilized a cross-functional response team, including senior leadership and third-party cybersecurity experts. We have also informed law enforcement. 
+ We can confirm that the information accessed belongs to certain SIS customers and relates to families and educators, including those from your organization. The unauthorized access point was isolated to our PowerSource portal. As the PowerSource portal only permits access to the SIS database,Â **we can confirm no other PowerSchool products were affected as a result of this incident**. 
+  
+ Importantly, the incident is contained, and we have no evidence of malware or continued unauthorized activity in the PowerSchool environment. PowerSchool is not experiencing, nor expects to experience, any operational disruption and continues to provide services as normal to our customers. 
+  
+ Rest assured, we have taken all appropriate steps to prevent the data involved from further unauthorized access or misuse. We do not anticipate the data being shared or made public, and we believe it has been deleted without any further replication or dissemination. 
+ We have also deactivated the compromised credential and restricted all access to the affected portal. Lastly, we have conducted a full password reset and further tightened password and access control for all PowerSource customer support portal accounts. 
+  
+ PowerSchool is committed to working diligently with customers to communicate with your educators, families, and other stakeholders. We are equipped to conduct a thorough notification process to all impacted individuals. Over the coming weeks, we ask for your patience and collaboration as we work through the details of this notification process. 
+  
+ We have taken all appropriate steps to further prevent the exposure of information affected by this incident. While we are unaware of and do not expect any actual or attempted misuse of personal information or any financial harm to impacted individuals as a result of this incident, PowerSchool will be providing credit monitoring to affected adults and identity protection services to affected minors in accordance with regulatory and contractual obligations. The particular information compromised will vary by impacted customer. We anticipate that only a subset of impacted customers will have notification obligations. 
+  
+ In the coming days, we will provide you with a communications package to support you in engaging with families, teachers and other stakeholders about this incident. The communications package will include tailored outreach emails, talking points, and a robust FAQ so that district and school leadership can confidently discuss this incident with your community. 
+  
+ We understand that you may have additional questions as a result of this update. FAQs are available onÂ [PowerSchool Community](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-lNANUkyGGxCoLDamGhQQARxPRodf27tqlml3Gf3gOtP97WTooodR-ZOnLxW8BeYV2c=). Additionally, we will be holding webinars with senior leaders, including our Chief Information Security Officer, to address additional concerns. Please click the link below to register for a webinar that fits your schedule. Note that content for all sessions will be identical, so you need only attend one. 
+  
+ Wednesday, January 8:Â [REGISTER HERE](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-yIbGRSE1JEeUOBdCYucPn1A-V2qfrt0xRi-zNtWgDA0bbRkJaD4oQoyogQkwVq0nXc=) 
+  
+ Thursday, January 9:Â [REGISTER HERE](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-5v1gwwrpurNLGkJRATtvlPG_jFh-D19PGq4Tpnr0nwlBQqDbkU_oRpe-wRUWXDjpFY=)
+ 
+ In the meantime, please reach out to your Customer Success Manager (CSM), Support, or other established PowerSchool contact should you have any questions. We will be sending communications later today to other stakeholders in your organization who are responsible for other PowerSchool products notifying them of no impact to the other PowerSchool products. 
+ We are addressing the situation in an organized and thorough manner, and we are committed to providing affected customers with the resources and support they may need as we work through this together.
+ 
+ Thank you for your continued support and partnership.
+ 
+  
+ Sincerely,
+ 
+ **Hardeep Gulati**Chief Executive Officer 
+  
+ **Paul Brook**Chief Customer Officer 
+  
+ cc:Â **Mishka McCowan**Chief Information Security Officer",1,2,0,34,5216,Breach
+7865,Billy_Bob_Joe_Mcoy,1/9/2025 23:36,raleigh,1hxqotl,https://www.reddit.com/r/raleigh/comments/1hxqotl/nc_student_data_compromised_in_breach_nc_and/,"NC student data compromised in breach, NC and PowerSchool say",https://www.wral.com/news/education/nc-student-data-compromised-in-breach-january-2025/,38,128,0,61,87,Breach
+8242,philr79,1/10/2025 13:24,k12sysadmin,1hy4bgy,https://www.reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/,EdTech Vendors and Their Poor Cybersecurity Practices,"So, in light of the PowerSchool incident, how do we as a community best band together to pound on organizations like NWEA, PBISApps, Acadience (among others) to offer at least the basic levels of security (SSO/2FA, limited IP address connection filters, etc.)? I just find it stunning that with all the attention K-12 has received, that these companies are not making this more of a priority. Our Alexandria library program is one. We upload similar demographic data to that system so parents are aware of books checked out, overdues and all that. Yet, it's a simple, unassuming HTTP 1.x authentication window and then you're in. Its enough to keep my blood pressure way too high.",28,84,0,53,686,Breach
+8791,Froufoxy,1/10/2025 23:39,Internationalteachers,1hyifqc,https://www.reddit.com/r/Internationalteachers/comments/1hyifqc/powerschool_data_breach/,PowerSchool Data Breach,"Has anyone anywhere heard about this or rceived a message about It?
+ 
+ I received the following message from owner of an international school;
+ 
+ Dear (Name of School) Alumni and Friends,
+ 
+ I am writing to inform you about a data security incident involving PowerSchool, our Student Information System provider. 
+ 
+ On December 28, 2024, PowerSchool experienced a cybersecurity breach affecting thousands of schools worldwide. They shared details about the breach with us earlier this week. While this data breach was external and not due to any lapse in our internal systems, we want to be transparent about its impact.
+ 
+ The breach may have exposed certain personal information for alumni enrolled from the 2001-2002 school year onward, including:
+ Names, dates of birth, and contact information provided at the time of enrollment. 
+ Academic records, including entry and exit dates, grade level at departure, and year of graduation. 
+ Parent or guardian names and contact details recorded during enrollment.
+ Mailing addresses and allergy information for students who graduated prior to 2011.
+ 
+ PowerSchool has assured us that they have taken steps to secure their systems and prevent further unauthorized access. We are closely monitoring the situation and will ensure compliance with all legal reporting requirements.
+ 
+ We deeply regret any inconvenience this may cause and appreciate your understanding. We encourage you to remain vigilant and practice due diligence by monitoring your accounts and staying alert for any suspicious activity. If you have any questions, please contact me or the IT Department at itsupport@xx",8,10,0,23,1615,Breach
+9358,Ok_Adhesiveness5924,1/11/2025 17:42,Teachers,1hz18no,https://www.reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/,PowerSchool Data Breach,"I'm having trouble finding much already posted but PowerSchool told my district and our neighboring district that they were hacked and some student and teacher data may be breached, and the few sources I can find suggest that the breach wasn't limited to any one district in particular, it is potentially any and all users.
+ 
+ I'm old enough that my SSN is probably out there from at least 5 other breaches of trusted institutions, I'm used to monitoring my credit etc not so worried about that part.
+ 
+ But PowerSchool has a lot of privileged student information. How concerned should I be as a teacher about what information may now be public? Is this just like when health care organizations are hacked but hackers usually don't bother with anything other than SSNs?
+ 
+ Best not-district-specific article I can find:
+ 
+ https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/",27,84,0,23,953,Breach
+11429,K12TechTalkPodcast,1/13/2025 23:42,k12sysadmin,1i0s99y,https://www.reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/,One week later and we still have questions about the PowerSchool breach,How did one compromised account lead to this? How many districts were impacted by this? How many students were impacted? Is there a silver lining? Where do we go from here? [https://k12techpro.com/one-week-later-and-we-still-have-questions-about-the-powerschool-breach/](https://k12techpro.com/one-week-later-and-we-still-have-questions-about-the-powerschool-breach/),12,33,0,71,367,Breach
+11847,Square_Pear1784,1/14/2025 13:59,k12sysadmin,1i16nj9,https://www.reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/,How are you all storing FERPA and other sensitive student data.,"I know I post a lot, but I learning new things everyday. I am 3-4months into my first time in tech education at a small Charter Public Highschool. 
+ 
+ I learned something yesterday that I was not aware of. The nurse spoke to me about storing sensitive medical student data. Aparantly she has been using paper documents and they wanted to change that. The issue of HIPAA immediatly came up, but we learned the data is more under FERPA. Knowing that, the nurse said we can store with other sensitive student data. 
+ 
+ I immediately got the Nurse in with the Head of School to talk about this. Come to find out sensitive enrollment data is being kept in a google drive that ""only has permissions"" for student services to view. This includes Birth Certificates, Addresses, and more. The plan now is to store the medical data with this data. 
+ 
+ Look, I am spread so thin right now. I spent all day scrambling over a down UPS and if anyone has been following my posts I think they understand the spread thin part. I didnt respond yesterday becuase I needed time. I also just didnt have time to respond. 
+ 
+ I have a meeting Thursday with a 3rd party nonprofit that helps schools in our state navigate tech. Mostly networking, but they have agreed to a meeting this thursday for security concerns. I initially am speaking to them about a lack of any MDM for our windows machines. Absoluttely no management over the machines. No Domain, no management, all local accounts.. So the plan now, is to also bring up with storage issue. 
+ 
+ Alarms are sounding in my head though. However, with everything I am dealing with, this may need to be a summer project. 
+ 
+ So with all of that said. Google Docs does not seem like a secure way to handle sensitive data like this! right?! I am freaking out a bit here. Look at what just happened to PowerSchool... 
+ 
+ Please give me advice on storing this data. Does maybe infinite campus provide secure data storage for this type of info?",17,15,0,64,1952,Breach
+12835,Square_Pear1784,1/15/2025 13:47,k12sysadmin,1i1xqiw,https://www.reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/,I need to ask about Powerschool's response,"The school stopped using Powerschool for 2024-2025 school year and switched to Infinite Campus. Well, that does not exclude us from the situation since the issue goes back all the way to 2013. Since I am new they did not grant me access (since I never had access to powerschool when the school had it), but the head of school was able to get access and pull the data they told us about. 
+ 
+ So they sent an email basically telling us what type of data to look for and how many in each category was compromised. Also, telling us how to view and export that data. 
+ 
+ However, then telling us that we don't need to notify any student, parent, or staff of these details. That they would be reaching out themselves to let families and staff know. However, they said they didnt know all the details in the data compromised 
+ 
+ My head of school feels that by doing this they have put liability on us to an extent. I can't help but agree. By giving us this info and telling us that they can't be for sure on all info in certain text fields, it puts liability on us. However we don't need to contact the families?? 
+ 
+ Also, so we are just to believe that the bad actors truly deleted the data and that it isnt out there. 
+  
+ The Head of School and myself can't help but feel stressed, frustrated, and unsure of next steps. The communication from Powerschool feels like ""trust us, the data is gone. But hey here is what was compromised to the exact details. We will be notifying individuals so you dont have to, but we also dont know all the details in the data so be aware and take a look at the data compromised, but yeah its not out there so dont worry."" Then our already busy admin is bracing for questions they are not sure how to answer. 
+ 
+ Sorry for the vent. Am I missing something? How do you all feel about the response so far?",19,33,0,42,1825,Breach
+14440,krakelohm,1/17/2025 0:14,anchorage,1i33iq3,https://techcrunch.com/2025/01/15/powerschool-data-breach-victims-say-hackers-stole-all-historical-student-and-teacher-data/,PowerSchool data breach and ASD,Looking on the ASD site it does look like they use PowerSchool.,3,21,0,31,63,Breach
+14494,Mundane-Penalty9596,1/17/2025 1:30,raleigh,1i3525l,https://www.reddit.com/r/raleigh/comments/1i3525l/powerschool_data_breach/,PowerSchool Data Breach,"If anyone is interested, there is one tidbit left out of the district's notification on the PowerSchool breach. I am not faulting them, but it's important to know what the Wisconsin School District said to its parents (second paragraph). https://www.infosecurity-magazine.com/news/powerschool-pays-ransom-data-leak/",3,16,0,23,315,Breach
+16108,NorthernVenomFang,1/18/2025 21:02,k12sysadmin,1i4hbrr,https://www.reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/,PowerSchool - Internal security concerns,"So it looks like Powerschool may have a second compromised account, this time a subcontractors developer account that was compromised by malware...
+ 
+ https://techcrunch.com/2025/01/17/malware-stole-internal-powerschool-passwords-from-engineers-hacked-computer/
+ 
+ Anyone else having doubts about Powerschool's internal security processes, especially around contractors/subcontractors?",6,53,0,40,381,Breach
+17517,k12techpro,1/20/2025 14:41,k12sysadmin,1i5rluo,https://www.reddit.com/r/k12sysadmin/comments/1i5rluo/how_victims_of_powerschools_data_breach_helped/,How victims of PowerSchool's data breach helped each other investigate massive hack,This article references this community and folks that have been helping address the PowerSchool breach... [https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/](https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/),3,61,0,83,344,Breach
+17522,k12techpro,1/20/2025 14:46,k12sysadmin,1i5rqf2,https://www.reddit.com/r/k12sysadmin/comments/1i5rqf2/updates_on_powerschool_episode/,Updates on PowerSchool Episode,"[https://k12techtalkpodcast.com/e/powerschool-breach-what-you-need-to-know/](https://k12techtalkpodcast.com/e/powerschool-breach-what-you-need-to-know/) and on all major podcast platforms
+ 
+ In this episode of the K12 Tech Talk Podcast, the team dives into the recent PowerSchool breach and shares updates and insights into the breach's technical aspects. The discussion also highlights the roles and responsibilities of K12 tech leaders in managing data breaches and emphasizes the importance of transparency and communication with parents, staff, and state agencies. The team talks through the ethical considerations and the potential implications on data privacy agreements and industry standards like SOC 2 and ISO certifications.",0,10,0,30,732,Breach
+17775,Overthemoontraveller,1/20/2025 19:31,CanadianTeachers,1i5ypr8,https://www.reddit.com/r/CanadianTeachers/comments/1i5ypr8/powerschool_hack_tdsb/,Powerschool hack TDSB,"This email just went out. Seems like a significant amount of information that was potentially hacked.
+ 
+ Dear Parents/Guardians/Caregivers,
+ 
+ Further to the[Â information shared](http://track.spe.schoolmessenger.com/f/a/NRtt_An3I1ta910NA4nSDQ~~/AAAAAQA~/RgRpb9aWP0Q8aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9ob21lL2N0bC9EZXRhaWxzL21pZC80MzgyMy9pdGVtaWQvNDAwVwdzY2hvb2xtQgpnhxajjmepYCJOUhVzdXNhbnRvb3JAaG90bWFpbC5jb21YBAAAAAI~)Â on January 8, 2025, we are writing with an update on the cyber incident involving PowerSchool's Student Information System â€“ the application used by TDSB and many school boards across North America to store certain student information.Â  
+ 
+ 
+ **This notification applies to all those who were students with TDSB between September 3, 1985 to December 28, 2024. Please note that we will also be posting this letter on**Â [**our website**](http://track.spe.schoolmessenger.com/f/a/s5KiU3Mlcynwy10RGI0s-Q~~/AAAAAQA~/RgRpb9aWP0Q6aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9BYm91dC1Vcy9Qb3dlclNjaG9vbC1DeWJlci1JbmNpZGVudFcHc2Nob29sbUIKZ4cWo45nqWAiTlIVc3VzYW50b29yQGhvdG1haWwuY29tWAQAAAAC)Â **to notify TDSB's former students who may be affected.**Â Â  
+ 
+ 
+ **What Happened?**
+ 
+ As you may recall, on Tuesday, January 7, 2025, PowerSchool notified TDSB and other school boards in Ontario and across North America that a PowerSchool system had experienced a data breach between December 22-28, 2024. TDSB'sÂ cybersecurity team promptly activated our response plan, taking immediate steps to ensure that our critical systems remain operational. TDSB can confirm that our environment is secure, and that there is no ongoing unauthorized access to any data, either stored inÂ PowerSchool's Student Information SystemÂ or elsewhere.Â  
+ 
+ 
+ **What Information was Impacted?**Â 
+ 
+ While our investigation into the incident continues, we have now confirmed the types of personal information stored in PowerSchool's Student Information System that may have been accessed and acquired by an unauthorized user. The information includes the following: 
+ 
+ 
+ **Students between September 1, 2017 and December 28, 2024**
+ 
+ ||
+ ||
+ |First, Middle & Last Names Date of Birth Gender Health Card Number Grade Level and School Information Start/End Date as a Student Ontario Education Number EQAO Accommodation Information|Medical Information (ie. allergies, conditions, injuries) Home Addresses Home Phone Numbers TDSB Student Number TDSB Email Address First Nations, MÃ©tis, Inuit Information Residency Status Principal/Vice Principal Notes (including discipline notes)Â |
+ 
+ With respect to medical information, if you provided information to your child's school about your child's allergies, medical conditions or injuries when completing the start of school year forms, this information was included in the data that may have been accessed or acquired. Please note that medical information provided to members of TDSB's Professional Support Services team (e.g. Psychologists, Occupational Therapists, Physiotherapists, Audiologists, Speech-Language Pathologists, and Social Workers) was not impacted by this incident.Â 
+ 
+ **Students between September 3, 1985 and August 31, 2017**
+ 
+ ||
+ ||
+ |First, Middle & Last Names Date of Birth Gender Health Card Number Ontario Education Number|Home Addresses Home Phone Numbers TDSB Student Number TDSB Email Address First Nations, MÃ©tis, Inuit InformationÂ |
+ 
+ This historical student information is kept in PowerSchool's Student Information System in order to respond to requests for former student records.
+ 
+ **Parent/guardian/caregiver and emergency contact information (individuals connected to students who were registered from September 1, 2017 and December 28, 2024)**
+ 
+ ||
+ ||
+ |First, Middle & Last Names Home & Mobile Phone Numbers Email Addresses|Relationship to Student Home Addresses|
+ 
+ To be clear, TDSB does not store any Social Insurance Numbers, financial or banking information in the PowerSchool Student Information System, so that information was not affected in any way.Â  
+ 
+ 
+ **PowerSchool has reported that it received confirmation that the data acquired by the unauthorized user was deleted and that the data was not posted online.**Â Nevertheless, TDSB continues to take this incident very seriously, and is working with PowerSchool to ensure an incident like this does not happen again in the future.Â Â  
+ 
+ 
+ This breach has been reported to the Office of the Information and Privacy Commissioner of Ontario (the IPC) and an investigation file has been opened. While you are entitled to file a complaint, the IPC has advised that it is not necessary as they are already investigating the matter. You can visit the IPC's website at[Â www.ipc.on.ca](http://track.spe.schoolmessenger.com/f/a/H27uyTqlsN-9_zl8U2z4ZQ~~/AAAAAQA~/RgRpb9aWP0QVaHR0cDovL3d3dy5pcGMub24uY2EvVwdzY2hvb2xtQgpnhxajjmepYCJOUhVzdXNhbnRvb3JAaG90bWFpbC5jb21YBAAAAAI~).Â  
+ 
+ 
+ **Where Can I Find the Latest Information?**
+ 
+ We will continue to provide additional updates as we receive them. Information on this evolving situation is[Â available here](http://track.spe.schoolmessenger.com/f/a/s5KiU3Mlcynwy10RGI0s-Q~~/AAAAAQA~/RgRpb9aWP0Q6aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9BYm91dC1Vcy9Qb3dlclNjaG9vbC1DeWJlci1JbmNpZGVudFcHc2Nob29sbUIKZ4cWo45nqWAiTlIVc3VzYW50b29yQGhvdG1haWwuY29tWAQAAAAC)Â on the TDSB's website. We also recognize that you may have questions about what has occurred. Should you have any questions, please contactÂ [cyberincident@tdsb.on.ca](mailto:cyberincident@tdsb.on.ca).Â  
+ 
+ 
+ Sincerely, 
+ 
+ 
+ Stacey Zucker 
+ Interim Director of Education
+ 
+ \-------------",2,1,0,21,5533,Breach
+18414,sounds_familiar_too,1/21/2025 13:54,askTO,1i6j2jo,https://www.reddit.com/r/askTO/comments/1i6j2jo/current_and_former_students_and_teachers_of_the/,"Current and former students and teachers of the TDSB, how are you feeling about the Powerschool cyber breach?","A couple of articles about this:
+ 
+ [https://www.thestar.com/news/gta/personal-information-of-ontario-students-going-back-decades-may-have-been-breached-in-cyberattack/article\_c4933936-d431-11ef-b492-57df3a162eca.html](https://www.thestar.com/news/gta/personal-information-of-ontario-students-going-back-decades-may-have-been-breached-in-cyberattack/article_c4933936-d431-11ef-b492-57df3a162eca.html)
+ 
+ [https://toronto.citynews.ca/2025/01/20/students-information-dating-back-to-1985-may-have-been-accessed-in-tdsb-cyber-incident/](https://toronto.citynews.ca/2025/01/20/students-information-dating-back-to-1985-may-have-been-accessed-in-tdsb-cyber-incident/)
+ 
+ My kids are impacted, and other people affected were students as far back as 1985 (and I even read 1965 in Peel district).
+ 
+ If you were a student back then, did you sign anything permitting the TDSB to upload your data to Powerschool? Sounds like you might want to contact the Office of the Information and Privacy Commissioner of Ontario. There are several class action lawsuits on the go in the USA against Powerschool, do we need one here?
+ 
+ And it impacts teachers too: [https://www.techradar.com/pro/security/powerschool-breach-worse-than-thought-company-says-all-student-and-teacher-data-accessed](https://www.techradar.com/pro/security/powerschool-breach-worse-than-thought-company-says-all-student-and-teacher-data-accessed)
+ 
+ What can be done? I'm particularly interested in some kind of incentive to prevent this happening again. There will be lots of finger-pointing by those responsible. I don't think this should be just another ""<shrug>Oh well!""",20,25,0,110,1616,Breach
+20737,mjh2901,1/23/2025 16:39,k12sysadmin,1i87jzh,https://www.reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/,Question to those dealing with the PowerSchool Data breach,"Before this goes any further, we are not a powerschool shop and my heart goes out to everyone dealing with this. I am looking at our processess for handling a data breach, and am wondering.
+ 
+ Are any of you tracking the cost of dealing with this breach? For my district we would be probably around 5 or 6 grand in attorney time vetting the notifications and advising admin/board. We have about 6000 students but if this was a Campus breach it would include graduates going back about 10 years so we would be notifying in the range of 30,000 people via mail, the estimate for that is about $2 per letter including employee time and a good couple grand in database employee time getting the exports and excel files ready for the mail merges.
+ 
+ What I am getting at is this type of breach the vendor is completely at fault and cost the district close to a 100 grand, which exceeds the yearly hosting/licensing costs for the SIS system. I am guessing the math is similar for other districts and just scales based on size.
+ 
+ I am going to ignore all the class action lawsuit stuff and go straight to is anyone approaching power school, or considering approaching a vendor that does this with a request for the direct costs?
+ 
+ As a group should we be talking about our future vendor contracts and cost shifting language should a databreach cost the district, and the fault lies completely with the vendor?
+ 
+ I am trying to look at this from how do we learn from this in how we deal with vendors that store student data.",20,18,0,58,1511,Breach
+21099,cudmore,1/23/2025 23:13,Sacramento,1i8h026,https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/,"Data breach hitting PowerSchool looks very, very bad","â€œThe hack, which came to light earlier this month, hit PowerSchool, a Folsom, California, firm that provides cloud-based software to some 16,000 Kâ€“12 schools worldwide. The schools serve 60 million students and employ an unknown number of teachers. Besides providing software for administration, grades, and other functions, PowerSchool stores personal data for students and teachers, with much of that data including Social Security numbers, medical information, and home addresses.â€",32,81,0,52,484,Breach
+23538,Kartoos69,1/26/2025 14:12,cybersecurity,1iafidv,https://www.reddit.com/r/cybersecurity/comments/1iafidv/what_learnings_can_i_present_from_the_powerschool/,What Learnings Can I Present from the PowerSchool Breach?,"My founder asked me to study the PowerSchool data breach (summary: credentials were compromised, leading to unauthorized access) and present actionables for our organization by Tuesday. We're a tech company providing SIS solutions, so this is highly relevant to us.
+ 
+ Apart from the obvious points like MFA, regular audits, and monitoring, what specific learnings or actionable steps do you think I should include to strengthen our security? Any advice or insights are welcome!
+ 
+ Thanks in advance!",6,0,0,57,496,Breach
+23588,k12techpro,1/26/2025 15:25,k12sysadmin,1iah8vv,https://www.reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/,Top 10 Things to Change in K-12,"The PowerSchool breach has been a difficult wake-up call for all of us, but it's not the first breach and it will not be the last. School districts and ed-tech partners have all had the chance to revisit their cybersecurity plans over the last few weeks, and this has afforded us the opportunity to rethink some common practices in K-12 technology. Here's our top 10 --> [https://k12techpro.com/top-10-things-to-change-in-k-12/](https://k12techpro.com/top-10-things-to-change-in-k-12/)",8,17,0,31,485,Breach
+23594,K12TechTalkPodcast,1/26/2025 15:30,k12sysadmin,1iahdgc,https://www.reddit.com/r/k12sysadmin/comments/1iahdgc/top_10_changes_to_k12_cyber_security_wed_like_to/,Top 10 Changes to K12 Cyber Security We'd Like to See,"In this episode, the discussion focuses on recent updates regarding the PowerSchool data breach. We talk about the critical changes necessary for enhancing cybersecurity in school districts, including expanding MFA, moving away from outdated FTP to modern solutions, and embracing a culture of data reduction.
+ 
+ Listen here [https://k12techtalkpodcast.com/e/tech-mishaps-and-k-12-cybersecurity-a-chilly-discussion/](https://k12techtalkpodcast.com/e/tech-mishaps-and-k-12-cybersecurity-a-chilly-discussion/) and all major podcast platforms.",1,3,0,53,538,Breach
+25164,No-Effort-9291,1/28/2025 3:24,Teachers,1ibsdbm,https://www.reddit.com/r/Teachers/comments/1ibsdbm/powerschool_data_breech_my_school_says_were_safe/,Powerschool data breech: my school says we're safe(?),"Like so many teachers, we were made vaguely aware of the data breech. Our school forced a password change, and little else was said. 
+ 
+ Today, however, we received word that our school was not affected by this. Is this possible? I don't believe this since, I assume, the hackers gained access to the whole of the PslS database. 
+ 
+ Additionally, I am aware that my phone number is on Powerschool, but is other, more sensitive info like my SSN in there? 
+ 
+ I'm not sure who to even discuss this with in terms of finding out if we were truly affected, but wanted to start somewhere.
+ 
+ What have you all heard?",10,3,0,53,603,Breach
+26953,SuzanneSmalley,1/29/2025 21:51,privacy,1id5plr,https://www.reddit.com/r/privacy/comments/1id5plr/reporter_seeking_individuals_impacted_by/,Reporter seeking individuals impacted by PowerSchool breach to speak with,"Hi,
+ 
+ I'm writing about the massive PowerSchool data breach. It is believed to have exposed data belonging to millions, mostly minors (PowerSchool won't confirm but based on the number of school districts to say they were hit the number should be in that range). In Toronto, students' special ed accommodations and disciplinary records were exposed (PowerSchool didn't list these categories in their public statement about the breach, making it sound less damaging than it was). If you are interested in speaking with me -- parents, teachers, students -- I can be reached at [suzanne.smalley@therecord.media](mailto:suzanne.smalley@therecord.media), 202-931-9538 or on Signal at Suzanne.236.
+ 
+ [https://therecord.media/disciplinary-special-records-toronto-powerschool](https://therecord.media/disciplinary-special-records-toronto-powerschool)",2,10,0,73,840,Breach
+3936,Some_Topic_2653,2/5/2025 2:34,Teachers,1ihzs0i,https://www.reddit.com/r/Teachers/comments/1ihzs0i/powerschool_data_breach_email_unequal/,PowerSchool Data Breach Email â€” Unequal Notifications?,"Hello! I wanted to check if anyone else has received an email from PowerSchool regarding the recent data breach. Every one of my coworkers who is not Hispanic has said they didn't receive it, while every Hispanic teacher I've spoken with did get the email. 
+ 
+ Is anyone else noticing this pattern? Do you think this could be a coincidence, or could it be connected in some way to the Trump administration's recent order for mass deportations? I'd love to hear your thoughts and if you're seeing anything similar in your districts. Thanks!",13,2,0,54,538,Breach
+14440,zumaro,2/16/2025 1:38,k12sysadmin,1iqh5s8,https://www.reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/,PowerSchool incident further problems?,"One of our parents affected by the PowerSchool breach has received an email from PowerSchool <Ps-sis-incident@mail1.csid.com> following closely the template that PowerSchool suggested we send out to families. It lists her daughter and was sent to her personal email address. 
+ 
+ This looks on the face of it to be a phishing attempt with the stolen information?",7,14,0,38,359,Breach
+18069,combobulated,2/19/2025 22:26,k12sysadmin,1itikdo,https://www.reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/,"Powerschool SIS - Security, Responsibility, Best Practice, and what have you got?","Apologies for another Powerschool post - I suspect many of you (like me) are honestly tired of hearing/dealing with Powerschool ANYTHING at this point.
+ 
+ Wall of text incoming - thanks for those who survive to the end.
+ 
+ But as I continue diving into things on our end, I'm finding more and more issues and have more and more questions. 
+ 
+ Like most other PS users, we were part of the recent massive data breach they had. (We're 100% hosted). That was the catalyst to looking deeper into all things Powerschool here.
+ 
+ And I'd also bet that another similarity to many others is that in our school, Powerschool has been around for a long time (15+ years here) and has passed through the hands of many ""administrators"" .
+ 
+ For us (a small, private school with about 400 current students and ~100 active staff) Powerschool has mostly been a ""school administration"" asset. The IT department helped with some of the initial setup and working on grades and such (long ago) but overall support and maintenance was part of our then Technology Coordinator's job. Just shy of a decade ago, we had turnover at that position and the Powerschool duties were primarily put into the hands of our school Administrative Assistant. There was an informal agreement at that time that no one else would be entering data related to users (staff/students) so that we didn't have issues with knowing who did what. 
+ 
+ And that's where it sat for several years. In the IT Department, we never touched Powerschool. If someone had a PS question/issue, I'd direct them to the Administrative Assistant. Our current Technology Coordinator would sometimes act as a backup support person if the AA was unavailable. 
+ 
+ AA attended several trainings and seemed to have a grasp on the day-to-day operation of Powerschool for our needs.
+ 
+ Not sure if you can already see the problem coming here or not.
+ 
+ Anyway, fast forward to the breach last month. Suddenly, lots of higher-up people here have a whole lot of questions and concerns about PS and how we use it. Most started with ""Well, who ""owns"" it here? Who is in charge? Who's our expert?"" (perhaps code-word for ""whose fault is this?""...) and of course IT was part of those meetings to hear and respond to questions. 
+ 
+ It makes some sense - on one hand, it IS data. And in general that'd lump into ""This is the IT Department's responsibility"". But I explained that IT has had basically nothing to do with it for probably over a decade.
+ 
+ It's immediately clear that our AA has no real idea how any of it works outside of the simple checklist she may follow to complete her assigned tasks.
+ 
+ So now we (our 2 person IT Department - Me SysAdmin and a Helpdesk tech) are involved again trying to gather information as it pertains to this particular breach. 
+ 
+ It's quickly clear that I'm shining light on things that haven't seen light in a long, long time. Questions that I had for our AA had no answer (""Who entered this data?"" ""Why is this data here?"" ""What's the practice for removing data?). We learn that some staff have all sorts of PII in Powerschool - the full bit, SSN, DOB, Address, Phone, Email, etc. About 1/3 of them. And no one knows why - we don't need/use any of that data in Powerschool. It's likely some past employee was entering it (likely with good intentions) years ago.
+ 
+ So I'm stuck trying to figure out what we have, what we need, what was compromised, and how to clean it up moving forward.
+ 
+ A simple question of ""Well, who has admin access?"" is suddenly not so simple as I dig in... I ask our AA about Security Groups in PS - and she has no idea what I'm talking about. I ask about user roles and permissions - again, not anything she's familiar with. I ask about page permissions - nope. I ask about any routine/practice for handling terminated staff - it's not consistent or formally documented. 
+ 
+ And I learn that with Powerschool, you simply CAN'T remove records. I can't delete users. Can't delete groups. You can mark them as ""inactive"". Outside of that, I plan on just ""blanking"" or filling in fields with gibberish instead of actual PII.
+ 
+ Ok, so there must be some other built-in pruning/cleaning/wiping/overwriting process, right? Nope. Maybe there's a 3rd party tool? Otherwise, better get comfortable with the art of creating report queries and exporting data to CSV files to then edit and re-import. And plan on building a process/policy that plans on doing that manually at whatever regular interval you feel is sufficient.
+ 
+ I've been banging my head against the wall here. The Powerschool Community is so hit-and-miss with data that I haven't gotten much value out of it, But I'm not sure where else to turn (hence, this too long post...). Our ""rep"" that reached out shortly after the breach has provided just about zero assistance with my specific questions. 
+ 
+ And as I'm spending hours attempting to learn the ins and outs of Powerschool - plus put that in context of how we use it and our practices - it again dawns on me that it's still not formally my responsibility. Much of the time I feel like I'm just the middle man : Powerschool says XYZ - so I go to our AA and ask about XYZ and they either know nothing about it or give their limited understanding in context of how the school handles it. Then I go back and try to put the pieces together. So I feel like I'm not learning someone else's job...
+ 
+ I don't have an issue if PS is clearly marked as part of my job description and reasonability. But I don't want to find myself walking on thin ice of someone else's frozen pond of mistakes.
+ 
+ So how are you handling it? How is it at your school (bonus points if you're a small /private school)?
+ 
+ Whose job/responsibility/accountability is your SiS? Do you have policy in place for addressing data security, retention, and PII as it relates to Powerschool (or any other hosted platform!) Would you be willing to share it? How are you handling retention in a system that doesn't allow deletion of records??
+ 
+ Is it an IT thing at your school? How are you auditing things like permissions and users? *Are* you auditing them?
+ 
+ Is there a better place for Powerschool Admins/experts/wanna-be learners to converse? 
+ 
+ Does anyone use Veracross (https://www.veracross.com/) as their SiS? I hadn't heard of them previously, but I've heard good things about their security approach. I'm afraid going with a smaller SiS will limit our integrations and available tools. (Not that I'm sure there's a change in SiS in our future anyway...)
+ 
+ Anyway - it all leads into a quest for resources to do a full data security audit - one that must include 3rd party hosted/cloud platforms. As it is, I don't know what's in the software platforms used by Food service, accounting, facilities, or any other department as they each operate in their own (3rd party, cloud) data silos. We'd gladly pay for an Expert to come in and facilitate that. But I can't find such a thing. Sure, general ""cyber security"" audits, pen testing, etc are common. But we've done that and they don't cover this particular item.",24,8,0,81,7083,Breach
+20307,SpecialistArm4741,2/22/2025 5:51,k12sysadmin,1ivbwjq,https://www.reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/,What I think about the PowerSchool breach and its implications,"What I think is this that breach highlights a failure not just in protecting data but in implementing basic security practices. It doesnt necessarily mean PS didn't encrypt its data, but it suggests they didn't use data segregation or robust role based access control RBAC. These would have limited the impact by ensuring only authorized users from a specific school or district could access their data. If PS had used unique encryption keys per school, only people from School B could see their data, and the same for School C. District admins would have access only to their district's data. This approach, combined with RBAC and authorization layers, wouldve improved their security posture and compliance with regulations like GDPR, HIPAA, and FERPA. Ignoring these standards shows poor data handling and a disregard for regulatory frameworks IDK. The fact that stolen credentials granted access to a wide range of data suggests this might have been a company level credential breach. Such credentials often have broad privileged access for maintenance or support, which, when exploited, can be devastating big time. This points to a lack of proper segregation of duties and principle of least privilege. Poor implementation is also evident if their admin panel had vulnerabilities, like weak authentication, lack of MFA, or flaws such as insecure APIs. If attackers could impersonate an admin or bypass login mechanisms, encryption wouldnt help they'd still get full database access easily just like that. What could be the result? Beyond reputational damage, schools might rethink contracts with PS platform if you think about it. Stricter government regulations could follow, mandating better security for student data systems. For PowerSchool, this is a wakeup call and robust security isn't optional, and ignoring it undermines trust and compliance. 
+  
+ thoughts?",7,11,0,62,1873,Breach
+24742,Vast_Equal8,2/26/2025 23:02,Teachers,1iz108m,https://www.reddit.com/r/Teachers/comments/1iz108m/powerschool_data_breach/,PowerSchool data breach,"So I just received an email notifying me that I'm one of the people whose data was stolen during the PowerSchool data breach back in January. It listed that my SSN was potentially stolen but that they ""do not have evidence"" yet.
+ 
+ They've offered two free years of identity protection services but that feels like a lowball considering the damage that can be done because of this. Their system was obviously so unsecure from the beginning considering it lacked basic multifactor authentication.
+ 
+ Does anyone know if legal action is being taken for those affected? Because I very much want in and I'm very upset over it all.",6,3,0,23,622,Breach
+8964,Dark-Marc,3/10/2025 18:25,pwnhub,1j85jwb,https://www.reddit.com/r/pwnhub/comments/1j85jwb/powerschool_breach_exposes_students_after_hackers/,PowerSchool Breach Exposes Students After Hacker's Months-Long Access,"**A hacker accessed PowerSchool's network months before a major data breach in December, putting millions of student records at risk.**
+ 
+ **Key Points:**
+ 
+ - Unauthorized access to PowerSchool's network began as early as August 2024.
+ - Compromised support credentials were used to access sensitive customer information.
+ - The breach affects personal information of over 60 million students.
+ 
+ PowerSchool, a leading player in the edtech industry, faced a significant cybersecurity breach that compromised its network much earlier than previously acknowledged. According to an investigation by CrowdStrike, unauthorized access to its systems started as early as August 2024, well before the massive data breach reported in December. The findings indicate that the same compromised support credentials, originally believed to be part of the December incident, granted access to sensitive data, highlighting profound vulnerabilities within PowerSchool's cybersecurity measures.
+ 
+ The investigation revealed that the hacker exploited access to PowerSchool's PowerSource, a customer support portal that enables technicians to maintain system operations. This prolonged access raises serious concerns about the company's security protocols and how quickly they acted to mitigate the threat. Even though CrowdStrike didn't conclusively link the hacker from the earlier access to the December breach, the implications are stark: had PowerSchool addressed the compromised credentials sooner, the significant data breach impacting 60 million students might have been avoided. Questions linger regarding what else could be done to fortify systems against such threats and how transparency can be improved in addressing breaches with affected parties.
+ 
+ What steps should companies take to enhance their cybersecurity measures and prevent similar breaches in the future?
+ 
+ **Learn More:** [TechCrunch](https://techcrunch.com/2025/03/10/hacker-accessed-powerschools-network-months-before-massive-december-breach/)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,2,0,69,2117,Breach
+9872,Dark-Marc,3/11/2025 16:41,pwnhub,1j8v5yz,https://www.reddit.com/r/pwnhub/comments/1j8v5yz/powerschool_reveals_earlier_cyber_breaches_months/,PowerSchool Reveals Earlier Cyber Breaches Months Before Data Theft,"**PowerSchool has disclosed significant cybersecurity breaches from August and September 2024, raising concerns about the security of student and teacher data.**
+ 
+ **Key Points:**
+ 
+ - PowerSchool was hacked in August and September 2024 before the December breach.
+ - Hackers accessed sensitive data of potentially 72 million users, including students and teachers.
+ - The breaches involved compromised credentials accessing the customer support portal, PowerSource.
+ - CrowdStrike's investigation revealed ongoing access by threat actors, heightening transparency concerns.
+ - The incident affected over 6,500 school districts across multiple countries.
+ 
+ PowerSchool, a major cloud-based K-12 software provider, has come under fire following the revelation that it had been compromised not just once, but multiple times prior to its December 2024 data breach. The initial breaches occurred in August and September, utilizing compromised support credentials to gain unauthorized access to its customer support portal, known as PowerSource. This unexpected access allowed threat actors to potentially exfiltrate sensitive information from approximately 72 million accounts, stirring alarm among educators and parents alike regarding the safety of their data.
+ 
+ The implications of such breaches are far-reaching, especially in the education sector, where trust and confidentiality are paramount. With over 6,500 school districts reportedly affected, the sheer volume of compromised sensitive informationâ€”including names, addresses, Social Security numbers, and academic recordsâ€”underscores the urgent need for organizations to reassess their cybersecurity protocols. CrowdStrike's report indicates a concerning lack of transparency from PowerSchool, as the company has not publicly shared the total number of individuals or institutions impacted by these incidents. As cybersecurity threats continue to evolve, organizations serving vulnerable populations must prioritize safeguarding their data with robust security measures.
+ 
+ How should companies improve transparency in reporting data breaches to protect users better?
+ 
+ **Learn More:** [Bleeping Computer](https://www.bleepingcomputer.com/news/security/powerschool-previously-hacked-in-august-months-before-data-breach/)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,1,0,67,2387,Breach
+7014,K12TechTalkPodcast,4/8/2025 17:36,k12sysadmin,1jujgpv,https://www.reddit.com/r/k12sysadmin/comments/1jujgpv/special_episode_powerschool_ciso_mishka_mccowan/,"Special Episode: PowerSchool CISO, Mishka McCowan","[https://k12techtalkpodcast.com/e/surviving-a-cyber-nightmare-inside-powerschools-response-strategy/](https://k12techtalkpodcast.com/e/surviving-a-cyber-nightmare-inside-powerschools-response-strategy/) and all major podcast platforms
+ 
+ Join Josh, Chris, and Mark as they host an exclusive interview with Mishka, the Chief Information Security Officer (CISO) of PowerSchool, following a significant cyber incident that changed the landscape of K-12 cyber-security. Discover the human side of crisis management, starting with Mishka's initial reaction to the attack and learn about the rapid response to contain the damage. 
+ 
+ The discussion delves into PowerSchool's decision to be transparent with affected districts and hear practical advice on vendor assessments and the importance of internal security measures to minimize future threats. Reflecting on the lessons learned, Mishka discusses the steps PowerSchool has taken to bolster its security infrastructure and maintain an open communication channel with its clients.",2,2,0,49,1024,Breach
+1539,ThisisMyThirdPenName,5/2/2025 14:22,Winnipeg,1kd27dr,https://www.reddit.com/r/Winnipeg/comments/1kd27dr/class_action_against_pembina_trails_powerschool/,Class Action against Pembina Trails & PowerSchool over cyber security incident?,"Today I have to enroll my five-year-old child in identity protection monitoring services because of the Pembina Trails cyber security breach which was first revealed back on December 4, 2024.
+ 
+ The incident involved the PowerSchool software, but the email we received today from PowerSchool offering two years of free identity protection services was the first time ""PowerSchool"" was actually mentioned in relation to the Pembina Trails incident.
+ 
+ Does anyone know if a class action suit is being organized against Pembina Trails or PowerSchool in relation to the breach? Is such a thing even feasible / practical? 
+ 
+ I'm just livid / heartbroken that I have to enroll a Kindergarten-age-child in identity monitoring already.",43,0,0,79,723,Breach
+6313,Fair_Scientist2347,5/7/2025 13:43,bullcity,1kgxoyn,https://www.wral.com/news/education/powerschool-breach-why-children-are-vulnerable-how-to-protect-them-may-2025/,PowerSchool breach: Why children are especially vulnerable to data breaches and how to protect them :: WRAL.com,"Have any other parents of a DPS student been contacted by DPS or their child's school regarding this data breach? This school system has lived and breathed, basically survived by this system for many years.
+ 
+ I found the lack of contact from DPS about it disconcerting and am only aware of it because of this news.",16,9,0,111,316,Breach
+6651,orphantech,5/7/2025 18:23,k12sysadmin,1kh4kya,https://www.reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/,PowerSchool Cyber security incident update:,"Just received this email from PowerSchool.
+ 
+ Dear Valued Customers:
+ 
+ We are writing to inform you of a recent development related to the cybersecurity incident PowerSchool experienced in December 2024.
+ 
+ PowerSchool recently became aware that a threat actor has reached out to some PowerSchool SIS customers in an attempt to extort them using data from the previously reported December 2024 incident. We do not believe this is a new incident, but we wanted our customers to be informed, nonetheless.
+ 
+ As you all are likely aware, in the days following our discovery of the December 2024 incident, we made the decision to pay a ransom because we believed it to be in the best interest of our customers and the students and communities we serve. It was a difficult decision, which our leadership team did not make lightly. As is always the case with these situations, there was a risk that the bad actors would not delete the data they stole, despite assurances and evidence that were provided to us.
+ 
+ In light of this, I want to take a moment to remind you all that following the December 2024 incident, PowerSchool also offered and made widely available credit monitoring and identity protection services for a period of two years to students and faculty of our PowerSchool SIS customers, regardless of whether they were individually involved. We encourage you all to take this opportunity to remind your communities that these services are still available. If you choose to send an update to your families and educators, we have included a suggested message for you to send below.
+ 
+ As a reminder, information about credit monitoring and identity protection services and enrollment can be found on our website:
+ 
+ For customers in the U.S.: https://www.powerschool.com/security/sis-incident/notice-of-united-states-data-breach/
+ 
+ For customers in Canada: https://www.powerschool.com/security/sis-incident/notice-of-canada-data-breach/
+ We sincerely regret the occurrence of the 2024 incident. We will continue supporting our valued customers and law enforcement as we work through this together. If you have any questions or concerns, please don't hesitate to reach out to your CSM.
+ 
+ Sincerely,
+ Hardeep Gulati
+ Chief Executive Officer, PowerSchool",21,50,0,43,2240,Breach
+6670,cleveradmin,5/7/2025 18:37,msp,1kh4xlx,https://www.reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/,PowerSchool Breach Update,"Shocking that it appears the hackers didn't actually delete the data they were paid to delete. I mean, if you can't trust hackers, who can you trust?
+ 
+ https://cbe.ab.ca/about-us/policies-and-regulations/freedom-of-information-and-protection-of-privacy-foip/Documents/20250507-PowerSchool-Data-Breach-Letter.pdf",13,23,0,25,310,Breach
+7475,Sunitha_Sundar_5980,5/8/2025 13:52,cybersecurity,1khqnbw,https://www.reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/,School Ransomware attacks,"Just read about how the PowerSchool breach led to ransom demands sent directly to families across North America, even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+ 
+ What's worse? Some of the info goes back decades, student IDs, medical details, emergency contacts. School boards are now scrambling to respond. This really shows how damaging one weak access point (like a compromised admin account) can be.
+ 
+ Do you think schools and edtech platforms are doing enough to secure such sensitive data?
+ 
+ Source: [https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277](https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277)",25,125,0,25,719,Breach
+7605,k12techpro,5/8/2025 16:16,k12sysadmin,1khu3sh,https://www.reddit.com/r/k12sysadmin/comments/1khu3sh/powerschools_ransom_aftermath_a_deeper_look_at/,PowerSchool's Ransom Aftermath: A Deeper Look at the Follow-Up Extortion Attempts,"Some districts are now facing direct extortion attempts from a threat actor, linked to the attack on PowerSchool in December... [https://k12techpro.com/powerschools-ransom-aftermath-a-deeper-look-at-the-follow-up-extortion-attempts/](https://k12techpro.com/powerschools-ransom-aftermath-a-deeper-look-at-the-follow-up-extortion-attempts/)",1,18,0,81,338,Breach
+8505,CISO_Series_Producer,5/9/2025 14:05,cybersecurity,1kijbr2,https://www.reddit.com/r/cybersecurity/comments/1kijbr2/top_cybersecurity_stories_for_the_week_of_050525/,Top cybersecurity stories for the week of 05-05-25 to 05-09-25,"Host Rich Stroffolino will be chatting with our guest,Â **Dan Holden, CISO, BigCommerce**Â about some of the biggest stories in cybersecurity this past week. You are invited to watch and participate in the live discussion. 
+ 
+ We go to air at 12:30pm PT/3:30pm ET. Just go to YouTube Live hereÂ [https://youtube.com/live/Zb2Oe9WaAKY](https://youtube.com/live/Zb2Oe9WaAKY)Â or you canÂ [subscribe to the Cyber Security Headlines podcast](https://cisoseries.com/subscribe-podcast/)Â and get it into your feed.
+ 
+ Here are the stories we plan to cover:
+ 
+ **Ransomware attacks on food and agriculture industry have increased this year** 
+ Speaking at RSA, Jonathan Braley, director of the Food and Agriculture-Information Sharing and Analysis Center, (Food and Ag-ISAC), said that paired with the increase in ransomware attacks is the fact that many go unreported, preventing visibility into the full scope of the problem. The increase in attacks seems to stem from activities by the Clop ransomware gang, specifically its exploitation of MOVEit, GoAnywhere and Accellion, as well as activity from the groups RansomHub and Akira. The industry saw 84 attacks from January to March, more than double the number seen in Q1 2024. A report from Food and Ag-ISAC says that industries in food, agriculture, and manufacturing typically face ransomware attacks because they tend to have more legacy equipment and industrial control systems, making them easier targets. 
+ ([The Record](https://therecord.media/ransomware-attacks-food-and-ag-double-2025))
+ 
+ **Congress challenges Noem over proposed CISA cuts** 
+ On Tuesday, Homeland Security Secretary Kristi Noem faced tough questioning from members of Congress about the Trump administration's proposal to cut CISA's funding by $491 million, as part of their â€œskinny budget.â€ Homeland Security subcommittee chair Rep. Mark Amodei, R-Nev., said at a time when government leaders are saying China is getting the better of the U.S. in cyberspace, appropriators need more information on the budget proposal. Top panel Democrat, Rep. Lauren Underwood (D-Ill.), said to Noem, â€œLast week you said we should â€˜just wait' for the president's grand cyber plan. But you have not waited to erode the department's cyber defense capabilities by removing resources and personnel from CISA and other components.â€ Noem maintained that instead of â€œcensorship,â€ CISA is now focused on securing critical infrastructure. She added that the president's cyber plan would be â€œcoming out shortly and that's the president's prerogative.â€ 
+ ([CyberScoop](https://cyberscoop.com/house-questions-trump-cisa-budget-cuts-2025/)Â and[Â The Record](https://therecord.media/noem-house-hearing-proposed-cisa-funding-cuts))
+ 
+ **Disney Slack attacker turns out to be Ryan from California** 
+ Following up on a story we covered last July, in which The Walt Disney Company suffered the theft of more than one terabyte of data through its Slack channels, it turns out that the perpetrator was not a Russian hacktivist group, but was instead, 25-year-old California resident Ryan Mitchell Kramer. The hack was originally described as retribution against Disney for how it handled artist contracts, their use of AI, and how it treated its consumers. Now, according to the Department of Justice, â€œKramer published a program online that purported to be an AI art generation app but actually contained malware that gave him remote access to the victim's computer. A Disney employee downloaded the program, allowing Kramer to nab login credentials for various accounts in their name, including their Disney Slack account.â€ Kramer has agreed to plead guilty to one count of accessing a computer and obtaining information, and one count of threatening to damage a protected computer, which could lead to ten years in prison. 
+ ([The Register](https://www.theregister.com/2025/05/02/disney_slack_hacker_revealed_to/))
+ 
+ **NSO Group to pay WhatsApp $167 million in damages** 
+ On Tuesday, after a five-year legal battle, a jury ruled that NSO Group must pay the Meta-owned platform $167,256,000 in punitive damages and around $444,719 in compensatory damages. WhatsApp accused NSO Group of exploiting an audio-calling vulnerability in the chat app to target around 1,400 people, including dissidents, human rights activists, and journalists. WhatsApp was seeking more than $400,000 in compensatory damages, based on the time its employees spent on investigating and remediating the attacks. A WhatsApp's spokesperson hailed the historic ruling as, â€œthe first victory against illegal spyware that threatens the safety and privacy of everyone.â€ NSO Group said it plans to carefully review the details of the verdict and left the door open for an appeal. 
+ ([TechCrunch](https://techcrunch.com/2025/05/06/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign/))
+ 
+ **Telemessage stores plaintext chat logs, suspends services** 
+ TeleMessage, a federal contractor that sold a modified version of Signal called TM SGNL to senior US officials, can reportedly access plaintext chat logsâ€”despite marketing claims suggesting end-to-end encryption. Security researcher Micha Lee analyzed the app's Android source code and found it insecure, confirming TeleMessage's access. The company was recently hacked twice, leaking sensitive data and prompting it to suspend operations. Senator Ron Wyden has now called for a DOJ investigation, citing the app as a potential national security threat due to its insecure design and foreign ties. 
+ ([Micha Lee](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/))
+ 
+ **LockBit ransomware gang hacked** 
+ As quoted in BleepingComputer, â€œthe LockBit ransomware gang has suffered a data breach after its dark web affiliate panels were defaced and replaced with a message linking to a MySQL database dump,â€ which itself appears to have occurred on April 29. It is not known who carried out this breach or how they did it, but the defacement message, which reads, â€œDon't do crime CRIME IS BAD xoxo from Prague,"" matches one used in a recent breach of the dark web site belonging to Everest ransomware, suggesting a possible link. BleepingComputer continues â€œIt's too early to tell if this additional reputation hit will be the final nail in the coffin for the ransomware gang.â€ 
+ ([BleepingComputer](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/))
+ 
+ **PowerSchool hacker now extorting individual school districts** 
+ Following up on a story we have been covering since January, the education technology company PowerSchool now says that despite having paid a ransom, â€œthe same threat actor is now attempting to use the stolen data to extort the individual school districts that it works with.â€ The breach, which occurred in December, exposed sensitive personal data of more than 60 million K-12 students and more than nine million teachers. PowerSchool had expressed confidence that the incident had been resolved, telling Bleeping Computer the hacker shared a video which purported to show the data being deleted. Apparently, this was not the end of the story as at least four school boards have contacted with extortion requests. 
+ ([The Record](https://therecord.media/despite-ransom-payment-powerschool-extorting))",0,7,0,62,7383,Breach
+8709,K12TechTalkPodcast,5/9/2025 17:32,k12sysadmin,1kiobkp,https://www.reddit.com/r/k12sysadmin/comments/1kiobkp/tiktok_chromebook_trends_more_powerschool_woes/,TikTok Chromebook Trends & More PowerSchool Woes,"Listen here [https://k12techtalkpodcast.com/e/episode-213-powerschool-extortion-demands-and-tiktok-trends/](https://k12techtalkpodcast.com/e/episode-213-powerschool-extortion-demands-and-tiktok-trends/) and all major podcast platforms.
+ 
+ This week, we discuss CoSN's initiative to train educators in AI readiness, aiming to scale AI adoption in K12 schools nationwide. The program features expert trainers and a K12 Gen AI Maturity Tool to help districts navigate the opportunities and risks of AI integration. Additionally, over 250 tech CEOs, including leaders from companies like Adobe, Microsoft, and IBM, have signed an open letter calling for mandatory AI education in all US schools, highlighting the growing importance of computer science education.
+ 
+ It's not all positive news!!! We'll also cover the troubling issue of PowerSchool districts receiving an extortion attempt from the attackers. Finally, we touch on a viral TikTok trend that is causing widespread panic in schools as students are damaging Chromebooks, leading to shortages and disruptions in learning.",0,17,0,48,1074,Breach
+8727,Dark-Marc,5/9/2025 17:38,pwnhub,1kiogda,https://www.reddit.com/r/pwnhub/comments/1kiogda/toronto_school_district_struggles_after_paying/,Toronto School District Struggles After Paying Ransom to Hacker,"**Despite paying a ransom, the Toronto District School Board faces new threats regarding compromised student data.**
+ 
+ **Key Points:**
+ 
+ - PowerSchool paid ransom to hackers, but data remains at risk.
+ - TDSB warns parents of ongoing extortion attempts linked to previous data breach.
+ - Sensitive student information, including health records, may be compromised.
+ 
+ The Toronto District School Board (TDSB) is facing a disturbing situation after paying a ransom to hackers in December 2024, which led to the compromise of sensitive data for over 235,000 students. Despite assurances from PowerSchool, the technology partner that processed the payment, freshly received communications from a hacker revealed that the threat of exposure persists. Parents were informed that there may be a risk that the hacked data was not deleted as promised, raising alarms about the safety of personal information such as health care numbers and disciplinary records.
+ 
+ The incident underscores a troubling trend in cybersecurity where paying ransoms does not guarantee data protection or recovery. The PowerSchool incident, while initially believed to be contained, showcases the unpredictable nature of cybercrime. TDSB has reported that their investigation has revealed a pattern of extortion, indicating that multiple school boards are under similar attacks. With sensitive data potentially compromised, both parents and authorities must grapple with the persisting risks and the complexities of how to respond to ransom demands in the future.
+ 
+ What actions should schools take to protect student data from cyber threats?
+ 
+ **Learn More:** [The Record](https://therecord.media/toronto-school-district-says-data-not-deleted-after-ransom)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,9,0,63,1841,Breach
+12737,popciclecity,5/13/2025 21:32,ChicagoSuburbs,1kly3q5,https://www.reddit.com/r/ChicagoSuburbs/comments/1kly3q5/my_kids_data_was_part_of_a_december_2024_hack_of/,My kid's data was part of a December 2024 hack of PowerSchool. His school is now being extorted. https://www.nbcnews.com/tech/security/school-districts-hit-extortion-attempts-powerschool-breach-rcna205429,"Back in March, my kid's previous school emailed to let us know our child's data was hacked from the vendor our district uses to hold student data such as test scores and grades as well as teacher data. 
+ 
+ The vendor is called PowerSchool and is used by a lot of the suburban districts. At the time, PowerSchool told our district admin that they paid the hackers to delete the data vs. release it or try to sell it. The school bought that. Come to find out now that there is a ""threat actor"" reaching out to the schools impacted by the December 2024 incident and they are being extorted. 
+ 
+ The school told us for now we should take PowerSchool up on their offer of two years of free ID protection for our kid's info and credit monitoring. I want to sue PowerSchool but it turns out there is no way to do that. 
+ 
+ Anyone else experiencing this? What are your thoughts?",25,96,0,204,864,Breach
+16943,k12techpro,5/18/2025 2:21,k12sysadmin,1kp9hwn,https://www.reddit.com/r/k12sysadmin/comments/1kp9hwn/security_watch_51625/,Security Watch 5/16/25,"On K12TechPro, we've launched a weekly cyber threat intelligence and vulnerability newsletter with NTP and K12TechPro. We'll post the ""public"" news to k12sysadmin from each newsletter. For the full ""k12 techs only"" portion (no middle schoolers, bad guys, vendors, etc. allowed), log into [k12techpro.com](http://k12techpro.com) and visit the Cybersecurity Hub.
+ 
+ A major breach at **PowerSchool** exposed sensitive student and faculty data across thousands of school districts. Despite paying a ransom, the company now reports renewed extortion attempts, underscoring the risks of trusting threat actors to honor such agreements.
+ 
+ The **CoGUI phishing kit** has sent millions of targeted emails using â€œprecision validated phishingâ€ techniques. By filtering targets based on system attributes, the kit evades detection and tricks users into entering credentials or financial details on fake login pages. 
+ 
+ In another emerging threat, attackers are leveraging **fake CAPTCHA pages** to trick users into executing scripts via the command prompt. 
+ 
+ Lastly, researchers uncovered serious vulnerabilities in **Apple's AirPlay protocol**, including zero-click exploits capable of spreading malware across networks.",0,5,0,22,1206,Breach
+19738,k12techpro,5/21/2025 1:19,k12sysadmin,1krlo2d,https://www.reddit.com/r/k12sysadmin/comments/1krlo2d/powerschool_hacker/,Powerschool Hacker,"PowerSchool hacker pleads guilty to student data extortion scheme
+ 
+ [https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p\_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ\_aem\_xnM-yAJu8HX6UjynZ-D-wg](https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ_aem_xnM-yAJu8HX6UjynZ-D-wg)",6,74,0,18,530,Breach
+19769,embeester,5/21/2025 2:07,ChicagoSuburbs,1krmm54,https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/,PowerSchool hacker,,4,0,0,18,1,Breach
+19793,Tycho_Jissard,5/21/2025 2:34,k12cybersecurity,1krn49t,https://www.reddit.com/r/k12cybersecurity/comments/1krn49t/powerschool_breach_update_guilty_plea/,PowerSchool Breach Update - Guilty Plea,"19 Year old from MA. Unnamed conspirator in IL
+ 
+ [https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p\_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ\_aem\_xnM-yAJu8HX6UjynZ-D-wg](https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ_aem_xnM-yAJu8HX6UjynZ-D-wg)
+ 
+ [https://www.justice.gov/usao-ma/pr/worcester-college-student-plead-guilty-cyber-extortions](https://www.justice.gov/usao-ma/pr/worcester-college-student-plead-guilty-cyber-extortions)
+ 
+ [https://www.justice.gov/d9/2025-05/us\_v.\_matthew\_lane\_-\_information.pdf](https://www.justice.gov/d9/2025-05/us_v._matthew_lane_-_information.pdf)",0,3,0,39,850,Breach
+22498,K12TechTalkPodcast,5/23/2025 19:03,k12sysadmin,1ktrqc0,https://www.reddit.com/r/k12sysadmin/comments/1ktrqc0/episode_215_powerschool_hacker_has_been_caught/,Episode 215 - PowerSchool Hacker Has Been Caught!,"[https://k12techtalkpodcast.com/e/unmasking-the-powerschool-hacker-an-inside-job/](https://k12techtalkpodcast.com/e/unmasking-the-powerschool-hacker-an-inside-job/) and all major podcast platforms
+ 
+ Josh and Mark dive into the arrest of the notorious PowerSchool hacker, revealing the unexpected identity of the mastermind behind one of the year's biggest cyber breaches. Join them as they speak with cybersecurity expert Michael Klein, who provides insights into the hacker's profile and discusses the implications for school districts and policymakers moving forward.
+ 
+ The discussion doesn't stop there. The hosts also examine two contrasting approaches to school security: one from a Texas startup using drones equipped with pepper spray and flashbangs, and another from Virginia employing AI for weapons detection. The episode explores the effectiveness and potential consequences of these tech-driven safety solutions.",0,15,0,49,922,Breach
+13803,SuperfluousJuggler,9/15/2025 15:27,k12sysadmin,1nhoyg3,https://www.reddit.com/r/k12sysadmin/comments/1nhoyg3/anyone_a_powerschool_customer_have_you_received/,"Anyone a Powerschool customer, have you received an update on the Salesloft Breach?","https://help.powerschool.com/t5/Technical-Contact-Announcements/Security-Notification-Unauthorized-Access-to-PowerSchool/ba-p/555327
+ 
+ This was the post from Powerschool on the community forum (you'll need an account to read it). It mentions ""customer contact information, support case metadata, and the contents of support case communications"" which are concerning.
+ 
+ Has anyone had luck getting them to respond to a request for more information? Other companies we've contacted have been able to provide a list of affected data. Powerschool has been radio silent ever since this post.",3,11,0,83,584,Breach
+23355,linus_b3,9/25/2025 18:57,k12sysadmin,1nqfbsy,https://www.reddit.com/r/k12sysadmin/comments/1nqfbsy/powerschool_sis_hosted_districts_check_your/,PowerSchool SIS Hosted Districts - Check your machine uptime!,"Shortly after PowerSchool's data breach, I discovered what I believe are unwarranted delays in applying Windows OS patches to their SIS VMs. For comparison's sake, I have been checking on two other vendors that run Windows instances (Tyler and PSNI). Both are ahead of the typical patching timelines I've observed from PowerSchool. 
+ 
+ Unfortunately, these delays have taken a turn for the worse. 
+ 
+ **Currently, I believe many PowerSchool SIS Windows VMs have gone without patching for 70+ days. I have a statement from support that (at least for my VM), they intended to continue that delay through mid October, meaning they'd be 3-4 full Patch Tuesday releases behind at that point.**
+ 
+ I did manage to get my AM to pass along one statement from the engineering team this spring. In my opinion, their justification was concerning and revealed shortsighted and dated practices similar to those that led to their breach last winter. 
+ 
+ I encourage you to do the following:
+ 
+ * Check your machine uptime (System Management > Server > Server Statistics). If it's high, it indicates they haven't rebooted the VM to complete the installation of Windows OS patches recently.
+ * If you share my concerns about the risks to your student data and agree that they should be prioritizing a more prompt patching schedule that aligns with a modern threat landscape, please open tickets and start conversations with your AM and CSM.",11,18,0,61,1421,Breach
+9644,_cybersecurity_,10/11/2025 15:31,pwnhub,1o3yki6,https://www.reddit.com/r/pwnhub/comments/1o3yki6/prosecutors_pursue_7year_sentence_for_powerschool/,Prosecutors Pursue 7-Year Sentence for PowerSchool Hacker,"**Matthew Lane, a Massachusetts man, faces a seven-year prison term for hacking into PowerSchool and stealing sensitive data of millions.**
+ 
+ **Key Points:**
+ 
+ - Hacker Matthew Lane hacked PowerSchool, exposing data of 60 million students and 9 million teachers.
+ - Lane demanded a ransom of 30 bitcoin, threatening to leak sensitive information if not paid.
+ - Prosecutors assert his actions were driven by greed and exhibit a pattern of prior hacks.
+ - PowerSchool incurred costs exceeding $14 million due to the incident, alongside the ransom payment.
+ - Lane allegedly used sophisticated methods to cover his tracks, including VPNs and anonymous communications.
+ 
+ Matthew Lane, a 19-year-old from Massachusetts, has pleaded guilty to a significant cybercrime involving the education technology firm PowerSchool. He accessed sensitive databases containing personal information of over 60 million students and 9 million teachers. Lane allegedly executed his plan with shameless disregard for the potential impact on the victims, demanding a ransom of 30 bitcoin, which at that time valued around $2.85 million. He threatened to leak the Social Security numbers of young children if his demands were not met. Prosecutors depict Lane's actions as not just criminal but as the outcome of a calculated scheme executed with 'sophisticated' tactics to evade detection, showcasing a disturbing escalation in cybercrime targeting educational institutions.
+ 
+ The ramifications of this breach have been severe for PowerSchool, with the company reporting losses exceeding $14 million associated with identity theft monitoring for the affected individuals, alongside the ransom. As part of his defense, Lane's history of hacking at least seven other entities since 2021 springs into focus, indicating a troubling pattern of cybercriminal behavior. His charged actions not only compromised sensitive data but also created a profound distrust in the security measures of educational platforms, leading to significant legal and financial ramifications for PowerSchool. The case has drawn attention to the vulnerabilities in cybersecurity within the education sector, emphasizing the urgent need for enhanced protective measures to safeguard student information.
+ 
+ What measures do you think educational institutions should take to better protect against cyber threats?
+ 
+ **Learn More:** [The Record](https://therecord.media/powerschool-prison-sentence-hacker)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,1,0,57,2559,Breach
+14022,_cybersecurity_,10/16/2025 17:21,pwnhub,1o8caq5,https://www.reddit.com/r/pwnhub/comments/1o8caq5/fouryear_prison_sentence_for_powerschool_hacker/,Four-Year Prison Sentence for PowerSchool Hacker Matthew Lane,"**Matthew Lane has received a four-year prison sentence for extortion and hacking activities involving PowerSchool and another telecommunications provider.**
+ 
+ **Key Points:**
+ 
+ - Lane extorted approximately $3 million from two companies, threatening to expose stolen customer data.
+ - He accessed sensitive student and teacher information from a cloud service provider linked to PowerSchool.
+ - PowerSchool confirmed it had paid a ransom to avoid data leaks, but data was not fully erased by the attackers.
+ 
+ Matthew Lane, a college student in Massachusetts, pleaded guilty to hacking and extorting two companies, including a significant breach involving PowerSchool, which serves schools across the US. Between April and May 2024, Lane and his associates demanded $200,000 from a telecommunications company, threatening to leak customer information. Later in December, he accessed the network of a cloud storage provider, exfiltrating sensitive personal data such as names, addresses, and Social Security numbers. This attack is part of a broader pattern affecting approximately 70 million individuals within school systems, highlighting the severe risks associated with data breaches in educational institutions.
+ 
+ In court, it was revealed that although Lane returned around $160,000 of the extorted funds, he was ultimately sentenced to four years in prison, along with three years of supervised release. The financial penalties included $14 million in restitution and a substantial fine. This case illustrates the serious legal repercussions surrounding cybercrime, especially as it pertains to the education sector and the protection of vulnerable data.
+ 
+ What measures can companies and educational institutions implement to better protect against data breaches and extortion threats?
+ 
+ **Learn More:** [Security Week](https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**",1,1,0,61,2021,Breach
+24439,Fun-Celebration-700,11/27/2025 22:01,edtech,1p8e96l,https://www.reddit.com/r/edtech/comments/1p8e96l/a_teen_hacked_powerschool_my_kids_data_was_in/,A teen hacked PowerSchool. My kid's data was in there. Who's protecting them?,"Just read on this [education newsletter](https://www.playgroundpost.com/subscribe) that a 19-year-old hacked PowerSchool and stole data from millions of students and teachers!! As a parent, I'm angry. 
+ 
+ We're told to trust these platforms with everything... grades, health info, IEPs and now it feels like no one's actually watching the door. Meanwhile, the Department of Education just laid off the teams that handle special education, civil rights and oversight....
+ 
+ If schools can't secure our kids' data and the government is backing out, then who's left to keep them safe???",13,18,0,77,579,Breach
+,Snowfish52,,cybersecurity,1i2t4os,https://www.reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/,"PowerSchool breach worse than thought, company says ""all"" student and teacher data accessed",,,,,,,Breach
+,RepulsivePlankton989,,newfoundland,1icbzl2,https://www.reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/,"PowerSchool Data Breach Affects Over 271,000 Students and 14,000 Teachers in Newfoundland",,,,,,,Breach

@@ -1,0 +1,32 @@
+author,time_of_comment,subreddit,comment_post,comment_link,content,num_upvotes,num_downvotes,parent_comment,comment_length,controversial
+da_chicken,1757951456,k12sysadmin,1nhoyg3,ned4qxg,"This is the first that I've heard of this incident. They don't seem to have sent any notices to us, and we're subscribed to just about everything.
+
+
+Neat.",7,0,1nhoyg3,154,False
+SuperfluousJuggler,1757951932,k12sysadmin,1nhoyg3,ned6ec4,"Same, we had to reach out, no email or official communication. We are also fully subscribed to all of them.",1,0,ned4qxg,107,False
+Break2FixIT,1757978495,k12sysadmin,1nhoyg3,nefll0x,More details without a powerschool account?,2,0,1nhoyg3,43,False
+SuperfluousJuggler,1758197149,k12sysadmin,1nhoyg3,nevg6nf,"Added it in, not enough communication going on about this. Too much is as stake for it to be ignored.",2,0,nefll0x,101,False
+Break2FixIT,1758198712,k12sysadmin,1nhoyg3,nevkf8d,Appreciate it!,1,0,nevg6nf,14,False
+PennStater,1758837720,k12sysadmin,1nqfbsy,ng7e13o,How do you check PSNI uptime?,1,0,1nqfbsy,29,False
+das-,1758837913,k12sysadmin,1nqfbsy,ng7el6v,Confirmed - 72 days here.,4,0,1nqfbsy,25,False
+linus_b3,1758837955,k12sysadmin,1nqfbsy,ng7epfx,"I was able to get to the event viewer in a roundabout way from the print dialog (which, admittedly, shows they should probably have a few more policies preventing running other apps) and found the Windows Update events.  They applied the September cumulative last weekend.",2,0,ng7e13o,272,False
+PennStater,1758838545,k12sysadmin,1nqfbsy,ng7gcz1,"Ohh fun, thanks. Sounds like the type of stuff I used to do on the computers in high school to get around stuff 🤣",2,0,ng7epfx,113,False
+linus_b3,1758838580,k12sysadmin,1nqfbsy,ng7gggr,That's consistent with what I'm seeing with others.  I greatly appreciate if it you can push the issue with them.  I'm one small district and I think getting them to change this is going to require power in numbers.,3,0,ng7el6v,215,False
+sarge21,1758839376,k12sysadmin,1nqfbsy,ng7in8t,"System uptime can't be used to determine last patch, because hotpatches exist.",1,0,1nqfbsy,78,False
+linus_b3,1758840428,k12sysadmin,1nqfbsy,ng7lhag,"They confirmed their delayed patching practices in writing.  
+
+They also agreed to patch my instance sooner on multiple support tickets.  Every time, it has required a reboot.  They also stated they use BigFix to patch, which does not support hotpatching on Windows Server 2019.",6,0,ng7in8t,278,False
+chickentenders54,1758850859,k12sysadmin,1nqfbsy,ng8eiw8,Wtf,1,0,1nqfbsy,3,False
+KillerKellerjr,1758852636,k12sysadmin,1nqfbsy,ng8jdda,"Well our host is apparently doing reboots, so I'd sure hope they are applying patches. Uptime: 12 days, 19 hours, 43 minutes, 0 seconds",1,0,1nqfbsy,135,False
+hightechcoord,1758898588,k12sysadmin,1nqfbsy,ngbem35,"29 days, 17 hours, 1 minute, 0 seconds",1,0,1nqfbsy,38,False
+voojtek,1758902324,k12sysadmin,1nqfbsy,ngbrb4s,"||
+||
+|75 days, 10 hours, 32 minutes, 0 seconds|
+
+We're switching to a different SIS next year, I'll be glad to be done with PowerSchool.",1,0,1nqfbsy,137,False
+voojtek,1758902405,k12sysadmin,1nqfbsy,ngbrkff,"Uptime - 75 days, 10 hours.  We're moving to a new SIS next year.  I'll be glad to be done with PowerSchool.
+
+||
+||
+||",2,0,1nqfbsy,118,False
+voojtek,1758902459,k12sysadmin,1nqfbsy,ngbrqls,"Current uptime - 75 days, 10 hours.",1,0,1nqfbsy,35,False
