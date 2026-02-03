@@ -1,0 +1,17 @@
+Comment ID: m8tru4t
+Comment Author: ebagdrofk
+Up/Down: 10/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8tru4t/
+Parent comment file: 25.txt
+Content: As a former FCUSD student that remembers PowerSchool very well, am I impacted by this? I kind of have a feeling that they didn’t purge my info just because I graduated a while ago.
+
+---------------------
+
+Comment ID: m8u0btd
+Comment Author: marmk
+Up/Down: 8/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8u0btd/
+Parent comment file: 25_9.txt
+Content: How "former"? 
+
+If it's still in their powerschool and you're curious what got stolen, the hackers effectively did a select all from the students (and teachers) table.

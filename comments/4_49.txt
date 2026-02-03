@@ -1,0 +1,15 @@
+Comment ID: m6800gu
+Comment Author: linus_b3
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6800gu/
+Parent comment file: 4_19.txt
+Content: I was trying to do the quick math too, but I suspect their entire customer base was compromised (or very close to it).
+
+---------------------
+
+Comment ID: m68itzu
+Comment Author: Oneota
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m68itzu/
+Parent comment file: 4_45.txt
+Content: We were not compromised, but that's because we geo-lock our on-prem PowerSchool instance.  If you're not in the U.S., you can't get to it.

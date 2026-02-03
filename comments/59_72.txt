@@ -1,0 +1,21 @@
+Comment ID: m7h7a7j
+Comment Author: foolmetwiceagain
+Up/Down: 17/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7h7a7j/
+Parent comment file: 59.txt
+Content: If you pay a hacker to delete stolen data, I think you have met the definition of “ransomware attack”. I’m sure their lawyers and insurance carrier would disagree. 
+
+It’s also a complete violation of any trust or reputation they may have had with their clients. I’m sure this path of minimal disclosure and carefully worded press releases helps minimize their legal liability, but what a terrible way to help the people most impacted - the students and teachers whose data was stolen.
+
+---------------------
+
+Comment ID: m7sy6d8
+Comment Author: DamnItDev
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7sy6d8/
+Parent comment file: 59_1.txt
+Content: >If you pay a hacker to delete stolen data, I think you have met the definition of “ransomware attack”.
+
+Not trying to be argumentative, but I don't agree. "Ransomware" has a specific meaning along the lines of "software that forces a ransom in order to be deactivated".
+
+There was no software. Someone just dumped all of their data, and then blackmailed them into paying a ransom.

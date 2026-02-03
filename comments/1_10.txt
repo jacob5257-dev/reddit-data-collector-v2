@@ -1,0 +1,17 @@
+Comment ID: m5xrrtj
+Comment Author: TechxNinja
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xrrtj/
+Parent comment file: 1_4.txt
+Content: Locally hosted checking in. 
+
+We got the "breach affected" letter.
+
+---------------------
+
+Comment ID: m5xtamv
+Comment Author: Hazy_Arc
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xtamv/
+Parent comment file: 1_6.txt
+Content: Oof. If you guys were truly impacted, that makes me believe PS support has ways of accessing your data even without being hosted.

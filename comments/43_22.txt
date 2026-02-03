@@ -1,0 +1,24 @@
+Post ID: 1khqnbw
+Post Title: School Ransomware attacks
+Post Author: Sunitha_Sundar_5980
+Up/Down: 125.0/0.0
+Content: Just read about how the PowerSchool breach led to ransom demands sent directly to families across North America, even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+ 
+ What's worse? Some of the info goes back decades, student IDs, medical details, emergency contacts. School boards are now scrambling to respond. This really shows how damaging one weak access point (like a compromised admin account) can be.
+ 
+ Do you think schools and edtech platforms are doing enough to secure such sensitive data?
+ 
+ Source: [https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277](https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277)
+
+---------------------
+
+Comment ID: mrblbvv
+Comment Author: MistSecurity
+Up/Down: 0/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mrblbvv/
+Parent comment file: 43.txt
+Content: >even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+
+This kind a behavior damages the reputation of ALL ransomware groups, and will likely lead to the group that perpetrated this attack to be attacked or turned in by other groups, funnily enough.
+
+Ransomware groups have a pretty strong code that is there to benefit all of them. If a bunch of groups pop up that simply take the ransom and don't unlock, or don't delete the data, etc. people will simply stop paying the ransoms.

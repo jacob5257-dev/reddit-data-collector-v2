@@ -1,0 +1,17 @@
+Comment ID: m665jsb
+Comment Author: sin-eater82
+Up/Down: 16/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2ghr/powerschool_cybersecurity_breach_what_you_need_to/m665jsb/
+Parent comment file: 6_2.txt
+Content: Yes, I am aware of what your site is.   I was asking that you share with THIS community, and not just use it as a platform to promote a separate community.
+
+---------------------
+
+Comment ID: m666310
+Comment Author: k12techpro
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2ghr/powerschool_cybersecurity_breach_what_you_need_to/m666310/
+Parent comment file: 6_3.txt
+Content: Gotcha, this [https://www.reddit.com/r/k12sysadmin/comments/1hw1m3x/so\_powerschool\_had\_a\_breach/](https://www.reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/) would be your good route here. 
+
+In particular, this is the good stuff --> [https://docs.google.com/document/d/1FCJEENhLTJGUyEpr4oLJ0jNJPP2IIZrDdRpVPeqg8-E/edit?tab=t.0](https://docs.google.com/document/d/1FCJEENhLTJGUyEpr4oLJ0jNJPP2IIZrDdRpVPeqg8-E/edit?tab=t.0) \-Chris

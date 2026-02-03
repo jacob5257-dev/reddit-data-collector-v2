@@ -1,0 +1,19 @@
+Comment ID: m6c4js0
+Comment Author: bad_brown
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6c4js0/
+Parent comment file: 4_57.txt
+Content: The account used is a global maintenance account. As I understand it, it's like default domain administrator in Microsoft speak. The account ID is listed as taking the actions, and it shows the connection IP of the account, which in this case was via a VPS provider hosted in Ukraine.
+
+If it were me, I'd just filter the logs for that IP to track, and then run it again and filter for any actions taken by the maintenance account within a time frame, then run it again and filter for any specific commands sent across all time (like dumping entire user tables).
+
+Then I'd have a pretty good picture of what happened.
+
+---------------------
+
+Comment ID: m6cena3
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6cena3/
+Parent comment file: 4_58.txt
+Content: That's my understanding of what the maintenance account is - my question is that if they prioritized shutting it down, how then did they get access to the affected sites to do investigation? Do they have *another* maintenance account?

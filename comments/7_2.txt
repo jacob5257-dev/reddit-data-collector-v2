@@ -1,0 +1,16 @@
+Post ID: 1hx2hhh
+Post Title: What we know about the PowerSchool breach so farâ€¦
+Post Author: k12techpro
+Up/Down: 88.0/0.0
+Content: It has only been 24 hours since PowerSchool announced it had an â€œincident,â€ so there's very little information available to the public. However, what PowerSchool has shared and what school districts are seeing is concerning, to say the least. [https://k12techpro.com/what-we-know-about-the-powerschool-breach-so-far/](https://k12techpro.com/what-we-know-about-the-powerschool-breach-so-far/)
+
+---------------------
+
+Comment ID: m65y1b5
+Comment Author: k12-tech
+Up/Down: 75/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m65y1b5/
+Parent comment file: 7.txt
+Content: The most disappointing part is the lack of PowerSchool actually giving any specifics. We’ve had to use Reddit, listservs, and other sources to hear how to check the logs, verify what was downloaded, and cross reference what the fields actually mean. 
+
+A small group of Tech Directors figured out more in four hours than PowerSchool could in two weeks.

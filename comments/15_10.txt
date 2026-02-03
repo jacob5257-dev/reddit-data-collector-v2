@@ -1,0 +1,19 @@
+Comment ID: m73wbey
+Comment Author: k12-IT
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m73wbey/
+Parent comment file: 15.txt
+Content: Have you requested to have another technician hired to help you balance your work load? 
+
+As for the student information, you're going to want to look into a Student Information System or SIS. These companies are usually certified to store the student data securely and give easy access.
+
+---------------------
+
+Comment ID: m763awh
+Comment Author: Tr0yticus
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m763awh/
+Parent comment file: 15_6.txt
+Content: +1 for SIS, -1 for technician. OP doesn’t need a technician, OP needs a director. A lot of this stuff is strategy, not tactical day to day. The technician is important but offload the strategy and OP can focus on the technician part.
+
+Also a school that small probably doesn’t have the budget for anyone else. Would you hire a green technician with what OP said? Of course not. But that’s probably what the school can afford, which is how we got here. If anything, they need some strategy consulting for planning and budget, then some heavy lifting for engineering. Very doable and way better bang for buck than another tech.

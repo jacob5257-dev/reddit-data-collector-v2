@@ -1,0 +1,15 @@
+Comment ID: m7kuq6n
+Comment Author: Cmd-Line-Interface
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7kuq6n/
+Parent comment file: 59_43.txt
+Content: No MFA!? Oh no……that sucks, such an easy thing to implement…. Sometimes our plates our too full I guess.
+
+---------------------
+
+Comment ID: m7lqw5b
+Comment Author: CBITGUT
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7lqw5b/
+Parent comment file: 59_45.txt
+Content: MFA is the most basic shit regardless of how full your plate is lmao. This is gross negligence

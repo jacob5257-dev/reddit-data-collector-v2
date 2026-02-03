@@ -1,0 +1,71 @@
+Comment ID: mrkneu1
+Comment Author: Aggressive-Cicada85
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1khu3sh/powerschools_ransom_aftermath_a_deeper_look_at/mrkneu1/
+Parent comment file: 44_1.txt
+Content: 
+Dear Valued Customers:
+
+We are writing to inform you of a recent development related to the cybersecurity incident PowerSchool experienced in December 2024.
+
+PowerSchool recently became aware that a threat actor has reached out to some PowerSchool SIS customers in an attempt to extort them using data from the previously reported December 2024 incident. We do not believe this is a new incident, but we wanted our customers to be informed, nonetheless.
+
+As you all are likely aware, in the days following our discovery of the December 2024 incident, we made the decision to pay a ransom because we believed it to be in the best interest of our customers and the students and communities we serve. It was a difficult decision, which our leadership team did not make lightly. As is always the case with these situations, there was a risk that the bad actors would not delete the data they stole, despite assurances and evidence that were provided to us.
+
+In light of this, I want to take a moment to remind you all that following the December 2024 incident, PowerSchool also offered and made widely available credit monitoring and identity protection services for a period of two years to students and faculty of our PowerSchool SIS customers, regardless of whether they were individually involved. We encourage you all to take this opportunity to remind your communities that these services are still available. If you choose to send an update to your families and educators, we have included a suggested message for you to send below.
+
+As a reminder, information about credit monitoring and identity protection services and enrollment can be found on our website:
+
+For customers in the U.S.: https://www.powerschool.com/security/sis-incident/notice-of-united-states-data-breach/
+
+For customers in Canada: https://www.powerschool.com/security/sis-incident/notice-of-canada-data-breach/
+
+We sincerely regret the occurrence of the 2024 incident. We will continue supporting our valued customers and law enforcement as we work through this together. If you have any questions or concerns, please don’t hesitate to reach out to your CSM.
+
+Sincerely,
+Hardeep Gulati
+Chief Executive Officer, PowerSchool
+
+
+￼
+
+FORM LETTER FOR FAMILIES AND EDUCATORS
+
+Subject: Important Update Regarding PowerSchool Data Security
+
+Dear families and educators of the [INSERT] community:
+
+We are writing to inform you of a recent development related to the cybersecurity incident PowerSchool experienced in December 2024.
+
+PowerSchool is aware that a threat actor has reached out to multiple school district customers in an attempt to extort them using data from the previously reported December 2024 incident. PowerSchool does not believe this is a new incident.
+
+Please be assured that both PowerSchool and [insert school/district] are taking this situation very seriously. PowerSchool has informed us they are working with cybersecurity experts to thoroughly assess this development and have reported it to law enforcement in both Canada and the United States.
+
+As a reminder, following that incident PowerSchool also offered and made widely available credit monitoring and identity protection services for a period of two years to students and faculty [insert school district] regardless of whether they were individually involved. We encourage all those who were offered these services to take advantage of them:
+
+For individuals in the U.S.: https://www.powerschool.com/security/sis-incident/notice-of-united-states-data-breach/
+
+For individuals in Canada: https://www.powerschool.com/security/sis-incident/notice-of-canada-data-breach/
+
+As was reported earlier this year, PowerSchool made the decision to pay a ransom because they believed it to be in the best interest of their customers and the students and communities they serve. As is always the case with these situations, there was a risk that the bad actors would not delete the data they stole, despite assurances and evidence that were provided PowerSchool.
+
+We wanted to share this update as part of our ongoing commitment to transparency. We remain committed to working closely with PowerSchool and law enforcement to provide support in any way we can.
+
+Sincerely,
+
+[INSERT NAME]
+
+￼￼￼￼￼
+
+PowerSchool 150 Parkshore Drive, Folsom, CA 95630, USA
+
+© 2025 PowerSchool Group LLC. All rights reserved. Unsubscribe
+
+---------------------
+
+Comment ID: mrln2qr
+Comment Author: NorcalEDU
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1khu3sh/powerschools_ransom_aftermath_a_deeper_look_at/mrln2qr/
+Parent comment file: 44_2.txt
+Content: Sorry, Should have been more clear. A copy of the extortion email. Would like to write a few rules to see if we have or do get one.

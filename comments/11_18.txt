@@ -1,0 +1,17 @@
+Comment ID: m6ff563
+Comment Author: DerpyNirvash
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6ff563/
+Parent comment file: 11_4.txt
+Content: > along with asking about data compliance and cybersecurity frameworks used by the vendor
+
+Same, though I honestly expect that most are lying
+
+---------------------
+
+Comment ID: m6fi7oo
+Comment Author: mybrotherhasabbgun
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fi7oo/
+Parent comment file: 11_17.txt
+Content: Yep, but that's on them when they get hacked. I can produce the document where they said they were compliant. Doesn't change the fact that our data is out there but definitely demonstrates duty of care on our part.

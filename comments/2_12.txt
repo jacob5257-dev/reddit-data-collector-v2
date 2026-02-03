@@ -1,0 +1,19 @@
+Comment ID: m5z8h8u
+Comment Author: jallenm01
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5z8h8u/
+Parent comment file: 2_10.txt
+Content: Same. Found in logs based on another chat platform. Same IP same date. So now I know what fields they took. (Assuming everyone is right about the event and when it actually happened)
+
+---------------------
+
+Comment ID: m5z9vnw
+Comment Author: BTS05
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5z9vnw/
+Parent comment file: 2_11.txt
+Content: On the audit Log you will see that user ID.  That same line will show a timestamp.  Example 20:58:30
+
+You then pull up the mass export log by that date.  For us it was on 12/22. So open that Log files up in notepad++, Do a search and  cross reference the time stamp. Search the first two points in time (just hours and minutes that user showed up in the audit log). For example 20:58 or 20:59. From there you will see with seconds all of the fields that where exported. 
+
+When finished go to kitchen and grab a 🍺.

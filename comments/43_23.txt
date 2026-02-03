@@ -1,0 +1,15 @@
+Comment ID: mr9nci5
+Comment Author: HydraDragonAntivirus
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr9nci5/
+Parent comment file: 43_9.txt
+Content: I read from somewhere it says ransomware gangs really giving your data back if you pay it but that doesn't always happens and sometimes they ask more. Even if you are didn't pay if you contact with them you are motivating them. Ransomware gangs goal is not only earn money, they want delete your data forever by attacking you. Data recovery companies wants to get more money from ransomware gangs requested which makes people to think should I pay to ransom?
+
+---------------------
+
+Comment ID: mrbllk6
+Comment Author: MistSecurity
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mrbllk6/
+Parent comment file: 43_14.txt
+Content: On a personal level, sure. For these big jobs, they are normally perpetrated by well-known groups. They have a reputation to uphold, otherwise companies will simply opt to not pay and work on data recovery themselves.

@@ -1,0 +1,7 @@
+Post ID: 1i5rqf2
+Post Title: Updates on PowerSchool Episode
+Post Author: k12techpro
+Up/Down: 10.0/0.0
+Content: [https://k12techtalkpodcast.com/e/powerschool-breach-what-you-need-to-know/](https://k12techtalkpodcast.com/e/powerschool-breach-what-you-need-to-know/) and on all major podcast platforms
+ 
+ In this episode of the K12 Tech Talk Podcast, the team dives into the recent PowerSchool breach and shares updates and insights into the breach's technical aspects. The discussion also highlights the roles and responsibilities of K12 tech leaders in managing data breaches and emphasizes the importance of transparency and communication with parents, staff, and state agencies. The team talks through the ethical considerations and the potential implications on data privacy agreements and industry standards like SOC 2 and ISO certifications.

@@ -1,0 +1,20 @@
+Post ID: 1hy4bgy
+Post Title: EdTech Vendors and Their Poor Cybersecurity Practices
+Post Author: philr79
+Up/Down: 84.0/0.0
+Content: So, in light of the PowerSchool incident, how do we as a community best band together to pound on organizations like NWEA, PBISApps, Acadience (among others) to offer at least the basic levels of security (SSO/2FA, limited IP address connection filters, etc.)? I just find it stunning that with all the attention K-12 has received, that these companies are not making this more of a priority. Our Alexandria library program is one. We upload similar demographic data to that system so parents are aware of books checked out, overdues and all that. Yet, it's a simple, unassuming HTTP 1.x authentication window and then you're in. Its enough to keep my blood pressure way too high.
+
+---------------------
+
+Comment ID: m6etuh9
+Comment Author: Crystalvibes
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6etuh9/
+Parent comment file: 11.txt
+Content: One thing that has surprised me about this is some the responses I have read on this forum and others.
+There are many responses basically saying that no one will or should change vendors of service in response to a breach like this.
+As a SIS admin, the thought of a SIS change scares me throughly, and no organization is obligated to react to this in any specific way. 
+However, how else do we hold vendors accountable to security standards or improvements if they don’t lose customers (and ultimately $$$) as a result of their actions?
+In education even more so than business, vendors know how hard it is for orgs to switch off of their services and then regularly use this to justify poor service.
+I wonder if this event will change attitudes from both vendors and education organizations in that regard.
+Or do we have to rely on more legislative action to advocate for change?

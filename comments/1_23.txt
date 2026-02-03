@@ -1,0 +1,17 @@
+Comment ID: m5y10dc
+Comment Author: EdTechYYC
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y10dc/
+Parent comment file: 1_19.txt
+Content: What sort of data did you see being accessed?
+
+If anyone has an SQL query to do correlate this, I'm sure many would be super grateful.
+
+---------------------
+
+Comment ID: m5y1pbx
+Comment Author: sarge21
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y1pbx/
+Parent comment file: 1_22.txt
+Content: Right now I'm comfortable providing information only that is already public. The mass-data logs should have all the information relevant to exported data

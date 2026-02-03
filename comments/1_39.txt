@@ -1,0 +1,27 @@
+Post ID: 1hw1m3x
+Post Title: So PowerSchool had a breach....
+Post Author: Chuckfromis
+Up/Down: 205.0/0.0
+Content: The email we received:
+ 
+  
+ DearÂ Valued Customer, 
+ As the Technical Contact for your district or school, we are reaching out to inform you that on December 28, 2024, PowerSchool become aware of a potential cybersecurity incident involving unauthorized access to certain information through one of our community-focused customer support portals, PowerSource. Over the succeeding days, our investigation determined that an unauthorized party gained access to certain PowerSchool Student Information System (â€œSISâ€) customer data using a compromised credential, and we regret to inform you that your data was accessed.
+
+---------------------
+
+Comment ID: m5yq1yp
+Comment Author: Digisticks
+Up/Down: 57/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yq1yp/
+Parent comment file: 1.txt
+Content: We were affected and got early access to a webinar today an hour and a half after notice went out. Essentially here's what we got...
+
+1. We were affected if the email said we were.
+2. The issue came from PowerSchool, not a school/district.
+3. PowerSchool partnered with a company to "ensure data was deleted" while in contact with breachers.
+4. Student and Teacher data tables breached and exported.
+5. PowerSchool has taken action (that probably should have been implemented prior) to ensure this doesn't happen again.
+6. It's at least US and Canada impacted.
+
+There is a news story out of Tennessee (of all places) about it. Only one out there as of 7:03 EST

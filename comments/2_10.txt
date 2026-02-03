@@ -1,0 +1,15 @@
+Comment ID: m5z6tij
+Comment Author: adstretch
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5z6tij/
+Parent comment file: 2_3.txt
+Content: I just pulled my audit log for the last two weeks. Where do you see the 200A0 in the log? Do you have a sanitized line that you can share? Feel free to DM if you don’t want to post
+
+---------------------
+
+Comment ID: m5z7x63
+Comment Author: BTS05
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5z7x63/
+Parent comment file: 2_9.txt
+Content: Ours showed up on 12/22

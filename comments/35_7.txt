@@ -1,0 +1,19 @@
+Post ID: 1iz108m
+Post Title: PowerSchool data breach
+Post Author: Vast_Equal8
+Up/Down: 3.0/0.0
+Content: So I just received an email notifying me that I'm one of the people whose data was stolen during the PowerSchool data breach back in January. It listed that my SSN was potentially stolen but that they "do not have evidence" yet.
+ 
+ They've offered two free years of identity protection services but that feels like a lowball considering the damage that can be done because of this. Their system was obviously so unsecure from the beginning considering it lacked basic multifactor authentication.
+ 
+ Does anyone know if legal action is being taken for those affected? Because I very much want in and I'm very upset over it all.
+
+---------------------
+
+Comment ID: mf0vooz
+Comment Author: Inevitable_Escape582
+Up/Down: 1/0
+Link: https://reddit.com/r/Teachers/comments/1iz108m/powerschool_data_breach/mf0vooz/
+Parent comment file: 35.txt
+Content: Happened to my school. One month later district was hit by a ransomware. Watch your emails closely. If your work computer syncs to the cloud, turn that off. If you’re not in the habit of shutting down your computer every day, now would be a good time to do so. 
+Good luck, I hope you don’t get in that nasty situation.

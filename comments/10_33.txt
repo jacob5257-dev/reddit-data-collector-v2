@@ -1,0 +1,30 @@
+Post ID: 1hxqotl
+Post Title: NC student data compromised in breach, NC and PowerSchool say
+Post Author: Billy_Bob_Joe_Mcoy
+Up/Down: 128.0/0.0
+Content: https://www.wral.com/news/education/nc-student-data-compromised-in-breach-january-2025/
+
+---------------------
+
+Comment ID: m6g349t
+Comment Author: shredu2
+Up/Down: 1/0
+Link: https://reddit.com/r/raleigh/comments/1hxqotl/nc_student_data_compromised_in_breach_nc_and/m6g349t/
+Parent comment file: 10.txt
+Content: The company deactivated the compromised account and restricted access to the affected data portals.
+
+\- A contractor had restricted access to sensitive data
+
+Two tables, both that primarily include contact information for families and educators. For some customers, those tables can include social security numbers and other personally identifiable information. Customers, such as DPI, can tailor their use of PowerSchool to include or not include certain information. It’s unclear if North Carolina had social security numbers in those tables.
+
+\- Only two tables? I thought it was entire portals? And what was this contractors role? Why weren't these fields encrypted? Why can't you tell if NC had SSNs in place, being everyone seems to have access to everything? Usually parents have to share this data right? Somebody knows
+
+Wrenn told WRAL News the department believes demographic information is primarily what was illicitly accessed. She doesn’t expect medical or individualized education plan information to be included.
+
+\-GOSH DARN DEI HATERS, DEFINITELY THE ONLY REASON WHY SOMEONE WOULD HACK OUR SCHOOLS! bullshit.
+
+Even if a school has already begun using Infinite Campus — which will eventually replace PowerSchool statewide — their data from prior years is still in PowerSchool, Wrenn said.
+
+\-No reason to keep this data on hand, LITERALLY YEARS LATER.
+
+And there may not be anything for Education to do to fix this, but they need to vet these trash vendors.

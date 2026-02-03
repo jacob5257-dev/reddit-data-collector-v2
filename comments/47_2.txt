@@ -1,0 +1,32 @@
+Post ID: 1kiogda
+Post Title: Toronto School District Struggles After Paying Ransom to Hacker
+Post Author: Dark-Marc
+Up/Down: 9.0/0.0
+Content: **Despite paying a ransom, the Toronto District School Board faces new threats regarding compromised student data.**
+ 
+ **Key Points:**
+ 
+ - PowerSchool paid ransom to hackers, but data remains at risk.
+ - TDSB warns parents of ongoing extortion attempts linked to previous data breach.
+ - Sensitive student information, including health records, may be compromised.
+ 
+ The Toronto District School Board (TDSB) is facing a disturbing situation after paying a ransom to hackers in December 2024, which led to the compromise of sensitive data for over 235,000 students. Despite assurances from PowerSchool, the technology partner that processed the payment, freshly received communications from a hacker revealed that the threat of exposure persists. Parents were informed that there may be a risk that the hacked data was not deleted as promised, raising alarms about the safety of personal information such as health care numbers and disciplinary records.
+ 
+ The incident underscores a troubling trend in cybersecurity where paying ransoms does not guarantee data protection or recovery. The PowerSchool incident, while initially believed to be contained, showcases the unpredictable nature of cybercrime. TDSB has reported that their investigation has revealed a pattern of extortion, indicating that multiple school boards are under similar attacks. With sensitive data potentially compromised, both parents and authorities must grapple with the persisting risks and the complexities of how to respond to ransom demands in the future.
+ 
+ What actions should schools take to protect student data from cyber threats?
+ 
+ **Learn More:** [The Record](https://therecord.media/toronto-school-district-says-data-not-deleted-after-ransom)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**
+
+---------------------
+
+Comment ID: mrzbmnu
+Comment Author: taker223
+Up/Down: 1/0
+Link: https://reddit.com/r/pwnhub/comments/1kiogda/toronto_school_district_struggles_after_paying/mrzbmnu/
+Parent comment file: 47.txt
+Content: How much was paid?

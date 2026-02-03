@@ -1,0 +1,18 @@
+Comment ID: m5xt0hm
+Comment Author: gigthebyte
+Up/Down: 35/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xt0hm/
+Parent comment file: 1.txt
+Content: A coworker signed up for the webinar and got the following reply:
+>This a friendly reminder that the webinar **PowerSchool Cybersecurity Incident** begins tomorrow. It's going to be a great one, and we're excited to see you there!
+
+I'm genuinely laughing. Oh well.
+
+---------------------
+
+Comment ID: m5y3k8w
+Comment Author: pheen
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y3k8w/
+Parent comment file: 1_9.txt
+Content: lol. Looks like they changed it already. I got "Thank you for registering for our webinar: PowerSchool Cybersecurity Incident. We look forward to hosting you soon. "

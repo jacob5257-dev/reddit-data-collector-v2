@@ -1,0 +1,18 @@
+Comment ID: me62ruw
+Comment Author: TheShootDawg
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/me62ruw/
+Parent comment file: 34_1.txt
+Content: you think the cause of the breach was not there BEFORE the acquisition?  
+    June 2024 - acquisition announced
+    October 2024 - acquisition completed
+    December 2024 - breach occurred
+
+---------------------
+
+Comment ID: meg99on
+Comment Author: jakery43
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/meg99on/
+Parent comment file: 34_4.txt
+Content: We'll never know fan sure, but yes, I think it's very likely. Private equity isn't exactly known for making cost cutting charges once they get control.

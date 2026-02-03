@@ -1,0 +1,18 @@
+Post ID: 1i0s99y
+Post Title: One week later and we still have questions about the PowerSchool breach
+Post Author: K12TechTalkPodcast
+Up/Down: 33.0/0.0
+Content: How did one compromised account lead to this? How many districts were impacted by this? How many students were impacted? Is there a silver lining? Where do we go from here? [https://k12techpro.com/one-week-later-and-we-still-have-questions-about-the-powerschool-breach/](https://k12techpro.com/one-week-later-and-we-still-have-questions-about-the-powerschool-breach/)
+
+---------------------
+
+Comment ID: m74ymyp
+Comment Author: k12techpro
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m74ymyp/
+Parent comment file: 14.txt
+Content: Couple things:
+
+\- There's been good discussion/FAQ about this on K12TechPro too. Light reminder that K12TechPro is a vetted private community of only k12 techs and not viewable by the public. [https://members.k12techpro.com/](https://members.k12techpro.com/) (If you aren't on there yet, click sponsorship to get in free)
+
+\- K12 SIX also posted a FAQ recently [https://www.k12six.org/news/powerschool-cyber-incident-faq](https://www.k12six.org/news/powerschool-cyber-incident-faq)

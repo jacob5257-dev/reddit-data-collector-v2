@@ -1,0 +1,15 @@
+Comment ID: m73o01s
+Comment Author: chickentenders54
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m73o01s/
+Parent comment file: 15.txt
+Content: The paid Google Workspace accounts are HIPPA compliant as long as they're configured properly. For extra measure, require the users that have access to use two factor authentication.
+
+---------------------
+
+Comment ID: m7bhvmf
+Comment Author: flunky_the_majestic
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m7bhvmf/
+Parent comment file: 15_1.txt
+Content: Sorry to be pedantic, but it's HIPAA.  Whenever I see "HIPPA" I assume the comment isn't worth considering. There is so much garbage information around that particular law.

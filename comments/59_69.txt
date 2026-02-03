@@ -1,0 +1,17 @@
+Comment ID: m7kkpbp
+Comment Author: DigmonsDrill
+Up/Down: 3/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7kkpbp/
+Parent comment file: 59_2.txt
+Content: I did a stint in educational security and what kept me up at night was a headline saying that someone stole all our data.
+
+I wasn't senior enough but what I wanted was the student records put in a place where all data has to go through a chokepoint and we can monitor that for unusual activity.
+
+---------------------
+
+Comment ID: m7q42wl
+Comment Author: StandardMany
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7q42wl/
+Parent comment file: 59_30.txt
+Content: Yea, I feel like if you look at doe job boards you can see that they might not have the best filling senior cyber roles. I mean I could bag that role but I shouldn’t lol

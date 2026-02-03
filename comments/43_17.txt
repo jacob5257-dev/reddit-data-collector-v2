@@ -1,0 +1,20 @@
+Post ID: 1khqnbw
+Post Title: School Ransomware attacks
+Post Author: Sunitha_Sundar_5980
+Up/Down: 125.0/0.0
+Content: Just read about how the PowerSchool breach led to ransom demands sent directly to families across North America, even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+ 
+ What's worse? Some of the info goes back decades, student IDs, medical details, emergency contacts. School boards are now scrambling to respond. This really shows how damaging one weak access point (like a compromised admin account) can be.
+ 
+ Do you think schools and edtech platforms are doing enough to secure such sensitive data?
+ 
+ Source: [https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277](https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277)
+
+---------------------
+
+Comment ID: mr9rbqn
+Comment Author: Waimeh
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr9rbqn/
+Parent comment file: 43.txt
+Content: This makes me so angry to think about, but it's just another item on the list of things underfunded in public education in the US. The vast majority of districts need help. Some in my state have banded their IT resources together so they can get volume discounts. It's better, but it's not enough. The free resources provided by MS-ISAC are a boon, but they need more state funding if they are going to stand a modicum of a chance against cybercrime actors with cash to burn.

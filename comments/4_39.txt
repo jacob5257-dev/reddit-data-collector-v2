@@ -1,0 +1,15 @@
+Comment ID: m6521oj
+Comment Author: eldonhughes
+Up/Down: 16/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6521oj/
+Parent comment file: 4.txt
+Content: Various conversations with a number of schools today. Many of them started by "I got this email from Powerschool warning me about a breach. We've never been a Powerschool school." Later, in the body of the email is a line that says something like: You are not a Powerschool customer so know that we have not lost any of your information.   Ignoring them advertising their failure to protect for a moment -- doesn't this indicate that they are maintaining an active list of every school district they can get information on and tracking them?  My kids used to call that "skeevy".
+
+---------------------
+
+Comment ID: m66k329
+Comment Author: stephenmg1284
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m66k329/
+Parent comment file: 4_28.txt
+Content: Bain Capital needs a return on its investment!

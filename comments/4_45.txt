@@ -1,0 +1,15 @@
+Comment ID: m64ff5h
+Comment Author: New_Scientist_4532
+Up/Down: 18/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m64ff5h/
+Parent comment file: 4_17.txt
+Content: To add on to this, if anyone's curious, if we assume the amount of data was HALF that much (500gb), based on the average amount of data exposed in our district per student, that would be enough data for around 100-500 million students (pretty large margin of error depending on utilization of tables, longer entries, etc.)
+
+---------------------
+
+Comment ID: m6800gu
+Comment Author: linus_b3
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6800gu/
+Parent comment file: 4_19.txt
+Content: I was trying to do the quick math too, but I suspect their entire customer base was compromised (or very close to it).

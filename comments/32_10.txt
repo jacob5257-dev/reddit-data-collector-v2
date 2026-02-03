@@ -1,0 +1,32 @@
+Post ID: 1iqh5s8
+Post Title: PowerSchool incident further problems?
+Post Author: zumaro
+Up/Down: 14.0/0.0
+Content: One of our parents affected by the PowerSchool breach has received an email from PowerSchool <Ps-sis-incident@mail1.csid.com> following closely the template that PowerSchool suggested we send out to families. It lists her daughter and was sent to her personal email address. 
+ 
+ This looks on the face of it to be a phishing attempt with the stolen information?
+
+---------------------
+
+Comment ID: me05kmg
+Comment Author: ggillette-rcps
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/me05kmg/
+Parent comment file: 32.txt
+Content: [https://www.saltwire.com/newfoundland-labrador/update-provided-on-cybersecurity-incident-in-powerschool-platform](https://www.saltwire.com/newfoundland-labrador/update-provided-on-cybersecurity-incident-in-powerschool-platform)
+
+  
+The article states: 
+
+>The news release states that individuals affected by the cybersecurity incident are advised “that if you have received a notification from Ps-sis-incident@mail.csid.com, Ps-sis-incident@mail1.csid.com or Ps-sis-incident@mail2.csid.com titled “PowerSchool Cybersecurity Incident,” please be aware that it is an official email from PowerSchool.”
+
+  
+That statement is slightly inaccurate... the email is not from PowerSchool, it's from Experian Partner Solutions, the company that PowerSchool is paying to provide identity protection and credit monitoring services to individuals affected by the breach.
+
+A few school districts have publicly posted about these emails:
+
+[https://www.southingtonschools.org/district-departments/technology-department/powerschool-updates](https://www.southingtonschools.org/district-departments/technology-department/powerschool-updates)
+
+[https://www.middletownschools.org/o/ses/article/2035640](https://www.middletownschools.org/o/ses/article/2035640)
+
+I've already gotten emails and phone calls asking if these "phishy-looking" emails are legit.  I think PowerSchool should publicly post about the email addresses at [https://www.powerschool.com/security/sis-incident/notice-of-united-states-data-breach/](https://www.powerschool.com/security/sis-incident/notice-of-united-states-data-breach/) since parents and sysadmins alike agree the emails look phishy.  I recommend everyone email their PowerSchool reps with that concern.

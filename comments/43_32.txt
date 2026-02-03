@@ -1,0 +1,15 @@
+Comment ID: mr95y31
+Comment Author: SousVideAndSmoke
+Up/Down: 9/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr95y31/
+Parent comment file: 43.txt
+Content: My daughter goes to a school that uses this system and her school division was also ransomwared with data exfil. At 10, she’s already been a victim of two significant breaches.
+
+---------------------
+
+Comment ID: mrxaql2
+Comment Author: Sunitha_Sundar_5980
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mrxaql2/
+Parent comment file: 43_7.txt
+Content: I’m really sorry to hear that. It’s alarming; this needs to be a wake-up call for schools and edtech providers, the cost of getting it wrong affects real families in very real ways.

@@ -1,0 +1,15 @@
+Comment ID: m68tybg
+Comment Author: kitsinni
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68tybg/
+Parent comment file: 8_3.txt
+Content: Is it self hosted?
+
+---------------------
+
+Comment ID: m695dtv
+Comment Author: Oneota
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m695dtv/
+Parent comment file: 8_5.txt
+Content: Yes, we're on-prem.

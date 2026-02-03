@@ -1,0 +1,15 @@
+Comment ID: meg99on
+Comment Author: jakery43
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/meg99on/
+Parent comment file: 34_4.txt
+Content: We'll never know fan sure, but yes, I think it's very likely. Private equity isn't exactly known for making cost cutting charges once they get control.
+
+---------------------
+
+Comment ID: mejpast
+Comment Author: MattAdmin444
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/mejpast/
+Parent comment file: 34_8.txt
+Content: That was /s right? It seems a common trend for private equity to cut corners as much as they can to maximize their profits while they suck their latest acquisition dry. Granted in this instance its unlikely any initial cuts were the cause and the issue existed before the acquisition.

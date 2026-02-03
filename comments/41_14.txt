@@ -1,0 +1,23 @@
+Comment ID: mr4jtos
+Comment Author: 07C9
+Up/Down: 27/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr4jtos/
+Parent comment file: 41.txt
+Content: And this is why you don't pay the ransom. Also, +1 for Mishka should have been fired already. They handled this so, so poorly.
+
+---------------------
+
+Comment ID: mr5gv37
+Comment Author: CptUnderpants-
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5gv37/
+Parent comment file: 41_7.txt
+Content: >And this is why you don't pay the ransom.
+
+Immediately discarding the option of paying is the wrong approach. You rely on your cybersecurity experts and insurance provider to advise on the best course of action.
+
+Unless you are a top-tier cybersecurity specialist in this area, your suggestion is without merit. 
+
+Do you know what is going to happen to ShinyHunters? They'll disappear. The ransomware industry is a multi-billion dollar sector and they take care of their own. If people stop paying the ransom, their income disappears.
+
+There are numerous examples of smaller groups being targeted by the bigger ones for causing victims to lose confidence in the process.

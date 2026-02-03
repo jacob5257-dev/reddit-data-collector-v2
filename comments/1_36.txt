@@ -1,0 +1,15 @@
+Comment ID: m5y3d1r
+Comment Author: pheen
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y3d1r/
+Parent comment file: 1.txt
+Content: I wonder if this only affects hosted customers. We self host, but I have a PowerSource account and received the email.
+
+---------------------
+
+Comment ID: m5yinh7
+Comment Author: J_de_Silentio
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yinh7/
+Parent comment file: 1_24.txt
+Content: It affected both.  Support credentials were compromised.

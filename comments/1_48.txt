@@ -1,0 +1,17 @@
+Comment ID: m5z0hcu
+Comment Author: lutiana
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5z0hcu/
+Parent comment file: 1_26.txt
+Content: Heads up, there seem to be two types of emails PS sent out about this, one stating explicitly that your data was compromised, the second being one that is deliberately vague and noncommittal about your data's involvement.
+
+The second type, like what we received, does not mean your data is safe. We managed to get confirmation from them that our data was indeed involved, even though the email did not explicitly say that it was.
+
+---------------------
+
+Comment ID: m5z6lpj
+Comment Author: linus_b3
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5z6lpj/
+Parent comment file: 1_43.txt
+Content: I think the first type of email went to SIS technical contacts.  The second went to contacts for other PowerSchool products.  It is confusing.  My school committee chair got the second one and I have no idea why he got one at all.

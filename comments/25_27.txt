@@ -1,0 +1,15 @@
+Comment ID: m8tvbwu
+Comment Author: NecessaryNo8730
+Up/Down: 1/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8tvbwu/
+Parent comment file: 25_7.txt
+Content: SCUSD definitely uses Infinite Campus and also Schoolmint, which also has a lot of sensitive data entered. I couldn't tell from the article I read if they all serve the same functions.
+
+---------------------
+
+Comment ID: m8vch47
+Comment Author: slygo2
+Up/Down: 2/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8vch47/
+Parent comment file: 25_10.txt
+Content: Infinite Campus is a competitor to PowerSchool. School Mint does also have sensitive information as it is largely used for new and returning student registration. The registration data will be gathered by School Mint the delivered via API to Infinite Campus. IC and PS is the central nervous system of all student grades, attendance, health records and schedules and much more.

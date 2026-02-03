@@ -1,0 +1,15 @@
+Comment ID: m9tecnx
+Comment Author: the_house_hippo
+Up/Down: 3/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9tecnx/
+Parent comment file: 60_19.txt
+Content: Yes, but the article says that student info going back to 1995 was accessed
+
+---------------------
+
+Comment ID: m9uvgwm
+Comment Author: CakeComa
+Up/Down: 4/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9uvgwm/
+Parent comment file: 60_23.txt
+Content: My bet would be there was a point in time electronic records started being collected, regardless of what software used, and those records were migrated into PowerSchool at some point in time, either in 97, or even more recently.

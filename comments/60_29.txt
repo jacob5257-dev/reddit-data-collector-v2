@@ -1,0 +1,14 @@
+Post ID: 1icbzl2
+Post Title: PowerSchool Data Breach Affects Over 271,000 Students and 14,000 Teachers in Newfoundland
+Post Author: RepulsivePlankton989
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: mecblhb
+Comment Author: Express-Street7382
+Up/Down: 1/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/mecblhb/
+Parent comment file: 60.txt
+Content: The business I would for has been handling sensitive data from three provinces and a number of federal employees since 1996 without a single data breach. This is simply poor security standards and an outdated infrastructure. Powerschool already has a number of class action suites against it for data breaches in the USA. Our government should be doing more to force powerschool to implement more stringent security standards, like mandatory 2 factor authentication for all users/teachers, if they want to keep the contract.

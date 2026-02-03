@@ -1,0 +1,15 @@
+Comment ID: mr5da5y
+Comment Author: RevolutionaryPizza64
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5da5y/
+Parent comment file: 41_10.txt
+Content: K12six has circulated a redacted version of the full email to members, and ShinyHunters was the culprit of the December breach. At least one district who received the mail said the data was consistent with what was exfiled.
+
+---------------------
+
+Comment ID: mr5e9bm
+Comment Author: sarge21
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5e9bm/
+Parent comment file: 41_11.txt
+Content: Ah, thanks. I suppose nothing much I can do except wait until this information becomes public or we become a target of the breach ourselves.

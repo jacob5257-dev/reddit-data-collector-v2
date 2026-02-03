@@ -1,0 +1,15 @@
+Comment ID: m9r0ej1
+Comment Author: SF-NL
+Up/Down: 7/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9r0ej1/
+Parent comment file: 60_12.txt
+Content: A more likely scenario is this system has been in use for many years, and the info was entered while those people were students. The software has been around since 1997.
+
+---------------------
+
+Comment ID: m9tecnx
+Comment Author: the_house_hippo
+Up/Down: 3/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9tecnx/
+Parent comment file: 60_19.txt
+Content: Yes, but the article says that student info going back to 1995 was accessed

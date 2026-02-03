@@ -1,0 +1,15 @@
+Comment ID: m64smg2
+Comment Author: nits3w
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m64smg2/
+Parent comment file: 1_49.txt
+Content: Were you able to confirm whether or not you were compromised?
+
+---------------------
+
+Comment ID: m64x0bx
+Comment Author: J_de_Silentio
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m64x0bx/
+Parent comment file: 1_77.txt
+Content: I was not compromised.  In fact, I just looked at my firewall logs and Geo Blocking saved me.

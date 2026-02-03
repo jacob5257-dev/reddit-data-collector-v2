@@ -1,0 +1,7 @@
+Post ID: 1iahdgc
+Post Title: Top 10 Changes to K12 Cyber Security We'd Like to See
+Post Author: K12TechTalkPodcast
+Up/Down: 3.0/0.0
+Content: In this episode, the discussion focuses on recent updates regarding the PowerSchool data breach. We talk about the critical changes necessary for enhancing cybersecurity in school districts, including expanding MFA, moving away from outdated FTP to modern solutions, and embracing a culture of data reduction.
+ 
+ Listen here [https://k12techtalkpodcast.com/e/tech-mishaps-and-k-12-cybersecurity-a-chilly-discussion/](https://k12techtalkpodcast.com/e/tech-mishaps-and-k-12-cybersecurity-a-chilly-discussion/) and all major podcast platforms.

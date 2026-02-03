@@ -1,0 +1,32 @@
+Post ID: 1hyifqc
+Post Title: PowerSchool Data Breach
+Post Author: Froufoxy
+Up/Down: 10.0/0.0
+Content: Has anyone anywhere heard about this or rceived a message about It?
+ 
+ I received the following message from owner of an international school;
+ 
+ Dear (Name of School) Alumni and Friends,
+ 
+ I am writing to inform you about a data security incident involving PowerSchool, our Student Information System provider. 
+ 
+ On December 28, 2024, PowerSchool experienced a cybersecurity breach affecting thousands of schools worldwide. They shared details about the breach with us earlier this week. While this data breach was external and not due to any lapse in our internal systems, we want to be transparent about its impact.
+ 
+ The breach may have exposed certain personal information for alumni enrolled from the 2001-2002 school year onward, including:
+ Names, dates of birth, and contact information provided at the time of enrollment. 
+ Academic records, including entry and exit dates, grade level at departure, and year of graduation. 
+ Parent or guardian names and contact details recorded during enrollment.
+ Mailing addresses and allergy information for students who graduated prior to 2011.
+ 
+ PowerSchool has assured us that they have taken steps to secure their systems and prevent further unauthorized access. We are closely monitoring the situation and will ensure compliance with all legal reporting requirements.
+ 
+ We deeply regret any inconvenience this may cause and appreciate your understanding. We encourage you to remain vigilant and practice due diligence by monitoring your accounts and staying alert for any suspicious activity. If you have any questions, please contact me or the IT Department at itsupport@xx
+
+---------------------
+
+Comment ID: m6jst6u
+Comment Author: karmicwarri0r
+Up/Down: 2/0
+Link: https://reddit.com/r/Internationalteachers/comments/1hyifqc/powerschool_data_breach/m6jst6u/
+Parent comment file: 12.txt
+Content: I appears to be global with. many international schools impact and the pace at which such exfiltration happened points at use of bots and scripts. Geez!

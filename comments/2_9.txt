@@ -1,0 +1,19 @@
+Comment ID: m5xxoua
+Comment Author: sarge21
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5xxoua/
+Parent comment file: 2.txt
+Content: Pasting my comment from elsewhere:
+
+The maintenance user shows up as 200A0 in the ps-log-audit files.
+
+You can correlate audit log access with mass-data exports by time in the mass-data logs.
+
+---------------------
+
+Comment ID: m5z6tij
+Comment Author: adstretch
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5z6tij/
+Parent comment file: 2_3.txt
+Content: I just pulled my audit log for the last two weeks. Where do you see the 200A0 in the log? Do you have a sanitized line that you can share? Feel free to DM if you don’t want to post

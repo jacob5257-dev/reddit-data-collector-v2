@@ -1,0 +1,18 @@
+Comment ID: m5z73jx
+Comment Author: J_de_Silentio
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5z73jx/
+Parent comment file: 1_45.txt
+Content: Did you get an email from powerschool saying you were compromised. 
+
+
+I got one saying I wasn't.  Going to check tomorrow, but curious if people are getting the no compromise email and still show evidence of compromise.
+
+---------------------
+
+Comment ID: m61u1z6
+Comment Author: pheen
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m61u1z6/
+Parent comment file: 1_49.txt
+Content: Yes it said I was compromised.

@@ -1,0 +1,26 @@
+Comment ID: m6fm6aj
+Comment Author: Crystalvibes
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fm6aj/
+Parent comment file: 11_16.txt
+Content: If that’s true that only hackers can enforce change and the admin only care about clean up after, why do we bother to enforce data security at all?
+Maybe it’s because I’m still relatively new to Edtech (and IT in general, less then 10 years) but I’d like to think that as an EdTech community we can work together to hold these vendors accountable.
+Develop the EdTech community with open source tools, and support networks for moving systems with all of the fun “special” nuances that come with EdTech. 
+Or maybe we really have to just suck it and brace for impact and I’m just extremely naive about the ways of the EdTech world (wouldn’t be the first time)
+
+---------------------
+
+Comment ID: m6frjnz
+Comment Author: schmag
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6frjnz/
+Parent comment file: 11_19.txt
+Content: well. we have been using powerschool for over ten years in this district, while I have seen changes I haven't seen anything along the lines of changes to affect the security of the end-user...
+
+I don't remember when exactly and I believe they changed things since then but I remember sending an email to our state Powerschool rep/tech org because I was working on replacing a teachers PC when i noticed each time they would open their gradebook they would download a new file and open it.
+
+well I noticed that I could take that file to another PC, open it, and be logged right into that teachers gradebook. I was basically told to pound sand in thinking that this was problem, even though I was sitting at home opening a teachers gradebook without authenticating anything... 
+
+they certainly didn't change anything because of me, it was just in the products life-cycle to change, but that had been that way for I would say years before I noticed it and likely as much time afterwards.
+
+yeah, after these years of seeing this shit and nothing changing until the snake bites them I have become a bit jaded, a bit cold to my information being stolen because even oftentimes when it is... nothing changes... except theatre...

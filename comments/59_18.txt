@@ -1,0 +1,21 @@
+Comment ID: m7heyyy
+Comment Author: AdventurousTime
+Up/Down: 77/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7heyyy/
+Parent comment file: 59.txt
+Content: chat this isn't ransomware because they never lost access to the data, someone just copied it. 
+
+This is plain, good old fashioned extortion. 
+
+with that said, I doubt they actually deleted the files. when I heard of the initial attack and that the "data was deleted" I was suspicious right away. even two friendly parties can just barely attest to things through mutual trust. 
+
+at best I suspect the stolen data to be released at a later time rather than immediately so the perps can pretend to be upstanding guys to other victims.
+
+---------------------
+
+Comment ID: m7jqd1b
+Comment Author: MattDennis21
+Up/Down: 13/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7jqd1b/
+Parent comment file: 59_3.txt
+Content: Yeah exactly, classic extortion playbook. The whole "we deleted it, trust us bro" line is laughable. These guys are def sitting on that data, probably waiting for the right moment to either double dip or use it as "proof" they're "honorable" in future attacks. No honor among thieves and all that.

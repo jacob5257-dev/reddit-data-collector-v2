@@ -1,0 +1,30 @@
+Post ID: 1khqnbw
+Post Title: School Ransomware attacks
+Post Author: Sunitha_Sundar_5980
+Up/Down: 125.0/0.0
+Content: Just read about how the PowerSchool breach led to ransom demands sent directly to families across North America, even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+ 
+ What's worse? Some of the info goes back decades, student IDs, medical details, emergency contacts. School boards are now scrambling to respond. This really shows how damaging one weak access point (like a compromised admin account) can be.
+ 
+ Do you think schools and edtech platforms are doing enough to secure such sensitive data?
+ 
+ Source: [https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277](https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277)
+
+---------------------
+
+Comment ID: mra4uf1
+Comment Author: hecalopter
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mra4uf1/
+Parent comment file: 43.txt
+Content: I'd never realized how bad it was until we looked into it for a report to some of our education customers, but yeah, education software has had a tough go in recent years (Besides PowerSchool). Not to mention the fairly frequent database dumps on places like BreachForums and schools/districts getting named and shamed regularly on ransomware disclosure sites. These were some of the bigger ones that got some notoriety, so roughly 1 per year since 2019:
+
+Raptor Technologies: In January 2024, Raptor Technologies, a school safety software company, experienced a significant data breach. This breach exposed millions of records, including sensitive data and personal information of students, parents, and staff. The breach involved the exposure of over 4 million records. The data included school lockdown plans, student medical records, information on students flagged as posing a threat, evacuation plans, court documents, staff and student ID numbers, and details about school security measures. [https://www.twingate.com/blog/tips/Raptor-data-breach](https://www.twingate.com/blog/tips/Raptor-data-breach) & [https://www.k12dive.com/news/raptor-technologies-school-safety-data-leak/704790/](https://www.k12dive.com/news/raptor-technologies-school-safety-data-leak/704790/)
+
+Cengage: Vulnerabilities in Cengage, an EdTech provider, were identified, allowing malicious actors to read and alter students' personal information by accessing browser sessions or network proxy log. [https://www.nbcnews.com/tech/security/powerschool-hack-data-breach-protect-student-school-teacher-safe-rcna189029](https://www.nbcnews.com/tech/security/powerschool-hack-data-breach-protect-student-school-teacher-safe-rcna189029)
+
+Illuminate Education: In 2022, Illuminate Education experienced a significant data breach, exposing the personal information of millions of students across the United States (primarily in NY and CA), including sensitive details like names, demographics, special education status, and free/reduced lunch eligibility, students from the New York City public school system alone where around 820,000 students' data was compromised; this breach occurred between December 2021 and January 2022. 
+
+Battele for Kids: In 2021, the Chicago Public Schools system also fell victim to a damaging cyberattack. CPS used a teacher evaluation vendor named Battelle for Kids, which was the target of a ransomware attack. As a result, nearly 500,000 CPS students and close to 60,000 employees had their personal data exposed. [https://chicago.suntimes.com/education/2022/5/20/23132983/cps-public-schools-data-breach-students-employees-records-battelle-kids](https://chicago.suntimes.com/education/2022/5/20/23132983/cps-public-schools-data-breach-students-employees-records-battelle-kids)
+
+Pearson AIMweb: In 2019, Pearson AIMSweb was the target of a cyberattack that exposed student data in the AIMSweb student assessment program. The breach affected about 13,000 school and university accounts. 

@@ -1,0 +1,26 @@
+Post ID: 1i1xqiw
+Post Title: I need to ask about Powerschool's response
+Post Author: Square_Pear1784
+Up/Down: 33.0/0.0
+Content: The school stopped using Powerschool for 2024-2025 school year and switched to Infinite Campus. Well, that does not exclude us from the situation since the issue goes back all the way to 2013. Since I am new they did not grant me access (since I never had access to powerschool when the school had it), but the head of school was able to get access and pull the data they told us about. 
+ 
+ So they sent an email basically telling us what type of data to look for and how many in each category was compromised. Also, telling us how to view and export that data. 
+ 
+ However, then telling us that we don't need to notify any student, parent, or staff of these details. That they would be reaching out themselves to let families and staff know. However, they said they didnt know all the details in the data compromised 
+ 
+ My head of school feels that by doing this they have put liability on us to an extent. I can't help but agree. By giving us this info and telling us that they can't be for sure on all info in certain text fields, it puts liability on us. However we don't need to contact the families?? 
+ 
+ Also, so we are just to believe that the bad actors truly deleted the data and that it isnt out there. 
+  
+ The Head of School and myself can't help but feel stressed, frustrated, and unsure of next steps. The communication from Powerschool feels like "trust us, the data is gone. But hey here is what was compromised to the exact details. We will be notifying individuals so you dont have to, but we also dont know all the details in the data so be aware and take a look at the data compromised, but yeah its not out there so dont worry." Then our already busy admin is bracing for questions they are not sure how to answer. 
+ 
+ Sorry for the vent. Am I missing something? How do you all feel about the response so far?
+
+---------------------
+
+Comment ID: m7bsson
+Comment Author: dallywolf
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7bsson/
+Parent comment file: 16.txt
+Content: This is greatly dependent on what state you are in.  Google search data breach <state> laws to find out what your obligation is.  In our state once we have been notfied of a breach than we are still legally obligated to contact families that were affected EVEN IF Powershool also notifies them.

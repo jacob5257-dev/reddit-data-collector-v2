@@ -1,0 +1,23 @@
+Comment ID: m629pvi
+Comment Author: k12techpro
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m629pvi/
+Parent comment file: 1.txt
+Content: Few things:
+
+\- The post "PowerSchool Compromised" on K12TechPro is having some good discussion. Light reminder that K12TechPro is a vetted private community of k12 techs and not viewable by the public. [https://members.k12techpro.com/](https://members.k12techpro.com/) (If you aren't on there yet, click sponsorship to get in free)
+
+\- Bleeping Computer has picked up the story too - [https://www.bleepingcomputer.com/news/security/powerschool-hack-exposes-student-teacher-data-from-k-12-districts/](https://www.bleepingcomputer.com/news/security/powerschool-hack-exposes-student-teacher-data-from-k-12-districts/)
+
+\- Full PowerSchool email link - [https://go.powerschool.com/index.php/email/emailWebview?email=ODYxLVJNSS04NDYAAAGX4Uc9\_4samuzXqzBdCGatRdeJwgal900VGXSgoP85TrLnvepWYYq-7EeVcjgepIFIOPZ5zgR8gxxuMKsVpqwO8EOo5zfHJaOHLA](https://go.powerschool.com/index.php/email/emailWebview?email=ODYxLVJNSS04NDYAAAGX4Uc9_4samuzXqzBdCGatRdeJwgal900VGXSgoP85TrLnvepWYYq-7EeVcjgepIFIOPZ5zgR8gxxuMKsVpqwO8EOo5zfHJaOHLA)
+
+---------------------
+
+Comment ID: m62oi2d
+Comment Author: combobulated
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m62oi2d/
+Parent comment file: 1_66.txt
+Content: I don't see "sponsorship" on the K12techPro page.
+
+Can you clarify how to get in free?

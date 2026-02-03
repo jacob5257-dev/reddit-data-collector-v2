@@ -1,0 +1,19 @@
+Comment ID: m7agw5o
+Comment Author: pheen
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7agw5o/
+Parent comment file: 16_6.txt
+Content: > A simple mail merge and bulk email service should be all that is needed for this.
+
+Emailing is easy. Knowing who to email is not. This impacted all students and staff in PowerSchool, not just current students and staff. We have students going back 15-20 years in PowerSchool. How do we email them when we only ever had school emails (that have been long deactivated) for them to begin with?
+
+---------------------
+
+Comment ID: m7be55x
+Comment Author: spacebulb
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7be55x/
+Parent comment file: 16_12.txt
+Content: Knowing who to email are in the tables that were stolen, but I agree with the statement, that question just isn't an IT question, it is a legal question. 
+
+What are your obligations to reach out? How much effort must be made to reach out? What happens if you don't have current contact info? All legal questions.

@@ -1,0 +1,23 @@
+Comment ID: mr3y5d0
+Comment Author: FlatlinedKCMO
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr3y5d0/
+Parent comment file: 41.txt
+Content: "...a threat actor has reached out to some PowerSchool SIS customers in an attempt to extort them using data from the previously reported December 2024 incident..." 
+
+I just want to know how they are extorting them using the supposedly deleted data...
+
+Seems like they still have the data if they are using the data to extort people...
+
+---------------------
+
+Comment ID: mr8oyob
+Comment Author: crackerjeffbox
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr8oyob/
+Parent comment file: 41_1.txt
+Content: Id be skeptical.  I reported a vulnerability to this company before and they didn't fix the root of the problem and kind of ghosted me when I mentioned it.
+
+They had some testing company they acquired and would sell these scanners and some glorified scantron app that uploaded everything to their website, basically scan it and they use OCR to input grades.  
+  
+They would also give you the creds if you asked, the creds were basically an easy combo of your state and county name, password was an IBM default "essex"  I reached out to the next county over to ask if this was also their creds/server and they confirmed.  When i reported it, they acknowledged and just changed both county passwords and ghosted me on the follow up.  I cant remember the name of the software, but it did store some simple student data and in theory you probably could've logged in to every customer and deleted/modified tests on testing day.

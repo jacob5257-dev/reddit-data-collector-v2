@@ -1,0 +1,15 @@
+Comment ID: m7mq6w6
+Comment Author: daisydias
+Up/Down: 4/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7mq6w6/
+Parent comment file: 59_40.txt
+Content: This. It was a PowerSchool support account itself that was compromised, you can see what they did in the logs, and it wasn't sophisticated. They had access and the opportunity, and they took it. Many districts wouldn't keep PII in the students or teachers tables, unfortunately it appears that quite a few did however.
+
+---------------------
+
+Comment ID: m7mtav9
+Comment Author: Robbbbbbbbb
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7mtav9/
+Parent comment file: 59_61.txt
+Content: In PA, teachers were tracked by SSN prior to the PPID (started in 2006, became mandatory in 2011), so if data is older than that and wasn't purged, it for sure has it.

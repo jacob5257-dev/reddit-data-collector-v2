@@ -1,0 +1,21 @@
+Comment ID: mdsogx1
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdsogx1/
+Parent comment file: 33_2.txt
+Content: I agree schools *should* have a security team, but to be brutally honest, most of them don't care or don't want one. Even if the school has an IT director who understands cybersecurity, they typically chafe against bringing in someone who might point out what they could do better.
+
+Most of the time admin and boards don't really care or don't know - they think Security is part of IT's job, but in more mature industries its recognized as separate because its a conflict of interest to put them together. Half the time admin/board have trouble even using technology effectively, so don't expect your ask for a new hire to be fulfilled :)
+
+>And therein lies the issue. I'm less concerned about our on premise server security (but acknowledge there's still potential data issues) so really it's just the cloud ones I'm addressing here. And how does one even begin this? Yes, I can simply ask each department head what software they use. And they may know that answer. But what about the last software they used? Is our data still sitting around on some other platform? What about whatever software some past employee signed up for but we've since stopped using?
+
+Your Finance dept might be able to help you (for paid apps). Your GWS/M365 admin console should be able to show you which 3rd party apps are being used with your cloud accounts. Data given to third-party vendors is a problem, and should be considered prior to signing up with them. Take a look at their data retention or privacy policy. For vendors you off-board, ask for proof of deletion. You should also have tighter controls over what software is being used/added by working with Finance (for procurement) or principals or Tech Coordinators.
+
+---------------------
+
+Comment ID: mdtr8yd
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtr8yd/
+Parent comment file: 33_7.txt
+Content: If you have the budget for it, look into a CASB for your cloud security. Both Microsoft and Google have them, but they are not cheap.

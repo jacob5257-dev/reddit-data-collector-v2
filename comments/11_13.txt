@@ -1,0 +1,23 @@
+Comment ID: m6er1ph
+Comment Author: OkayArbiter
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6er1ph/
+Parent comment file: 11_1.txt
+Content: You assume that random superintendents or directors aren't the ones buying these products.
+
+---------------------
+
+Comment ID: m6f40lb
+Comment Author: sin-eater82
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6f40lb/
+Parent comment file: 11_7.txt
+Content: I don't assume that at all.
+
+I know that's a thing.  What a silly comment.   It takes a lot of effort, but you need to work with those people on the business side to help them understand why it's important.
+
+A LOT of school systems have implemented these sorts of review processes.  1EDTech has a questionaires people can use, there are other organizations with forms you can adopt that are intended to make it simpler since they are standard forms that the vendors have likely seen before.
+
+But to your point, yes, step 1 is getting your school system to buy into the need to vet these products.  100%.
+
+No assumptions here.  Just work in a school system that has implemented this practice.

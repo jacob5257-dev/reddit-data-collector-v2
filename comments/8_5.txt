@@ -1,0 +1,17 @@
+Comment ID: m68oq47
+Comment Author: Oneota
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68oq47/
+Parent comment file: 8.txt
+Content: We're one of the lucky districts that was not impacted (thanks to a Geo-block on our firewall preventing access by all non-US IP addresses).
+
+We'll prepare some canned responses to parents/media once this story blows up in the news, but I don't think we're currently planning to send anything else out, unless we just get inundated with questions about whether we were impacted.
+
+---------------------
+
+Comment ID: m68tybg
+Comment Author: kitsinni
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68tybg/
+Parent comment file: 8_3.txt
+Content: Is it self hosted?

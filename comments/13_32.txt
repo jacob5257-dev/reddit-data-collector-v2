@@ -1,0 +1,15 @@
+Comment ID: m6pj9nn
+Comment Author: _contrabassoon_
+Up/Down: 3/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m6pj9nn/
+Parent comment file: 13.txt
+Content: It depends on the district. It is possible for districts to store SSNs and financial data in PowerSchool, but not all do. I am lucky that mine doesn't, but since some do, that is why the news reports say that it was included
+
+---------------------
+
+Comment ID: m728ifr
+Comment Author: Spurgeonist
+Up/Down: 1/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m728ifr/
+Parent comment file: 13_25.txt
+Content: Notice the only people sharing anything yet are those who have been verified that the districts weren’t storing this information in the student or data table… because local districts who don’t do this *know they don’t.* That’s not been any extra effort from PowerSchool.

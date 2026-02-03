@@ -1,0 +1,17 @@
+Comment ID: m7vw0cv
+Comment Author: tcourtney22
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/m7vw0cv/
+Parent comment file: 19.txt
+Content: Perhaps they didn’t implement MFA before the incident because their approach to deploying SSO—like with their SIS—was overly complicated, haha.
+
+On a separate note, someone mentioned that they asked PowerSchool support how they could assist remotely if maintenance mode and remote support are disabled. PowerSchool indicated they still have access and can execute scripts directly against the database. So, is there truly a way to ensure this doesn’t happen again, I doubt it.
+
+---------------------
+
+Comment ID: m806nfp
+Comment Author: EdTechYYC
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/m806nfp/
+Parent comment file: 19_2.txt
+Content: Yeah, they stopped talking to me about their ridiculous requirement to re-MFA for teachers every 2 hours into SIS. Then this... :/

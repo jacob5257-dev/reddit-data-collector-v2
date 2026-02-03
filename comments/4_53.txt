@@ -1,0 +1,27 @@
+Comment ID: m689t52
+Comment Author: flunky_the_majestic
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m689t52/
+Parent comment file: 4_20.txt
+Content: Despite the downvotes, I think you're likely right.  Looking at it objectively, those two tables strike an emotional nerve, but aren't even the most valuable or damaging data held by PowerSchool.  They could have gone for employment, financial, medical, grading, and discipline records if they cared to sort through the data and pick out the juicy stuff for smaller sales and extortion scams.  But they went for the easy money instead.  They just needed to be able to say "We have personal data on every family in your systems.  They're going to be really mad.  Pay us."
+
+PowerSchool is a $6 billion company.  The extortionist likely got a $10million+ windfall from this.  That's way easier than selling identities and credit card numbers one or two at a time.
+
+---------------------
+
+Comment ID: m6911pu
+Comment Author: combobulated
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6911pu/
+Parent comment file: 4_47.txt
+Content: The PII of potentially tens/hundreds of thousands of US children may not be that valuable *yet*, but....
+
+That's all people who don't (yet) have a credit history. No bad credit. It's prime stolen identity - it just requires sitting on it for a while first.
+
+And that's part of the danger that isn't being directly addressed here:
+
+You can "monitor the dark web" and "provide 2 years of identity theft protection" but when you lose the name, address, phone number, school, DOB, relatives, SSN, and other PII for someone who potentially  doesn't turn 18 for 10+ years, the actions you're taking now don't really solve anything.  
+
+No one is opening a fraudulent credit card or taking out a loan under the identity of a 12 year old.  But if you can wait 6 years....
+
+It's a bit like stealing new barrels full of freshly distilled whiskey - the real value comes in years later...

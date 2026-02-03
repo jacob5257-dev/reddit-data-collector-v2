@@ -1,0 +1,38 @@
+Post ID: 1hw1m3x
+Post Title: So PowerSchool had a breach....
+Post Author: Chuckfromis
+Up/Down: 205.0/0.0
+Content: The email we received:
+ 
+  
+ DearÂ Valued Customer, 
+ As the Technical Contact for your district or school, we are reaching out to inform you that on December 28, 2024, PowerSchool become aware of a potential cybersecurity incident involving unauthorized access to certain information through one of our community-focused customer support portals, PowerSource. Over the succeeding days, our investigation determined that an unauthorized party gained access to certain PowerSchool Student Information System (â€œSISâ€) customer data using a compromised credential, and we regret to inform you that your data was accessed.
+
+---------------------
+
+Comment ID: m5xw2w6
+Comment Author: Hazy_Arc
+Up/Down: 28/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xw2w6/
+Parent comment file: 1.txt
+Content: The FAQ listed in the email has this gem:
+
+>5. What steps have you taken to confirm that the data in question has since been deleted in its 
+
+>entirety?
+
+>Given the sensitive nature of our investigation, we are unable to provide information on certain specifics.
+
+>However, we have taken all appropriate steps to prevent the data involved from further unauthorized 
+
+>access or misuse. We do not anticipate the data being shared or made public, and we believe it has been 
+
+>deleted without any further replication or dissemination. 
+
+>Ropes: We have a video confirming deletion and are actively searching the dark web to confirm. 
+
+>PowerSchool: PowerSchool engaged the services of CyberSteward, a professional advisor with deep 
+
+>experience in negotiating with threat actors. With their guidance, PowerSchool has received reasonable 
+
+>assurances from the threat actor that the data has been deleted and that no additional copies exist.

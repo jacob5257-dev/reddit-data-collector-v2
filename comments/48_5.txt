@@ -1,0 +1,20 @@
+Post ID: 1kly3q5
+Post Title: My kid's data was part of a December 2024 hack of PowerSchool. His school is now being extorted. https://www.nbcnews.com/tech/security/school-districts-hit-extortion-attempts-powerschool-breach-rcna205429
+Post Author: popciclecity
+Up/Down: 96.0/0.0
+Content: Back in March, my kid's previous school emailed to let us know our child's data was hacked from the vendor our district uses to hold student data such as test scores and grades as well as teacher data. 
+ 
+ The vendor is called PowerSchool and is used by a lot of the suburban districts. At the time, PowerSchool told our district admin that they paid the hackers to delete the data vs. release it or try to sell it. The school bought that. Come to find out now that there is a "threat actor" reaching out to the schools impacted by the December 2024 incident and they are being extorted. 
+ 
+ The school told us for now we should take PowerSchool up on their offer of two years of free ID protection for our kid's info and credit monitoring. I want to sue PowerSchool but it turns out there is no way to do that. 
+ 
+ Anyone else experiencing this? What are your thoughts?
+
+---------------------
+
+Comment ID: ms690t5
+Comment Author: [deleted]
+Up/Down: 1/0
+Link: https://reddit.com/r/ChicagoSuburbs/comments/1kly3q5/my_kids_data_was_part_of_a_december_2024_hack_of/ms690t5/
+Parent comment file: 48.txt
+Content: [removed]

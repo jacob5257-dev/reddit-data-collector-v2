@@ -1,0 +1,19 @@
+Comment ID: mr3y5d0
+Comment Author: FlatlinedKCMO
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr3y5d0/
+Parent comment file: 41.txt
+Content: "...a threat actor has reached out to some PowerSchool SIS customers in an attempt to extort them using data from the previously reported December 2024 incident..." 
+
+I just want to know how they are extorting them using the supposedly deleted data...
+
+Seems like they still have the data if they are using the data to extort people...
+
+---------------------
+
+Comment ID: mr406k1
+Comment Author: darkcambria
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr406k1/
+Parent comment file: 41_1.txt
+Content: That’s why PowerSchool’s efforts to convince people their data was not still in threat actors hands was laughable. They told us with straight faces they were confident the data was gone because they paid and watched it deleted. All of our communications told stake holders to assume their data was still available online.

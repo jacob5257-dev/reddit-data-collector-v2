@@ -1,0 +1,19 @@
+Comment ID: m6hi443
+Comment Author: NorthernVenomFang
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6hi443/
+Parent comment file: 7_29.txt
+Content: Except for the boards/division/districts who where required to store SSN and Health care numbers...
+
+---------------------
+
+Comment ID: m6i59nc
+Comment Author: vawlk
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6i59nc/
+Parent comment file: 7_30.txt
+Content: yeah and the majority of schools don't have that information anymore. while there may be some out there. there isn't any reason for schools to have social security numbers. we were required to remove that years ago. that field isn't even in our student table anymore. 
+
+we don't know the details of the transaction between PowerSchool and the threat actors. there may be stipulations in there that say they get paid more later on if none of the data shows up. we will probably never know that. 
+
+it sucks that it happened, it could have been way worse for the schools , students, and teachers. but in my opinion, the target was PowerSchool and not it's customers.

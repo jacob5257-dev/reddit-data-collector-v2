@@ -1,0 +1,15 @@
+Comment ID: m8tlit0
+Comment Author: sambull
+Up/Down: 7/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8tlit0/
+Parent comment file: 25.txt
+Content: why would you put SSN there? that's wild
+
+---------------------
+
+Comment ID: m8u1th8
+Comment Author: Sethuel
+Up/Down: 6/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8u1th8/
+Parent comment file: 25_4.txt
+Content: I assume it's for the teachers, since you need it for employment docs. Not saying it's necessary or good to store it on a cloud-based platform, but that's probably the reason they have it stored.

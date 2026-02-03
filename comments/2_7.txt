@@ -1,0 +1,14 @@
+Post ID: 1hw1n69
+Post Title: Powerschool breach
+Post Author: NorthernBob69
+Up/Down: 34.0/0.0
+Content: So, how many of us got an email from PowerSchool with info that they were compromised on Dec 28th? No other info in the email just a couple of links to webinars the next couple of days. This could be huge.
+
+---------------------
+
+Comment ID: m5yykwd
+Comment Author: Pjmonline
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5yykwd/
+Parent comment file: 2.txt
+Content:  I got one and it said a district had a compromised user account credentials. It sounded like it only affected that district. We don’t use their SIS so it said we were not affected.

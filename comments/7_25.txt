@@ -1,0 +1,15 @@
+Comment ID: m69f92n
+Comment Author: donaldrowens
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m69f92n/
+Parent comment file: 7.txt
+Content: They've done multiple live webinars about this. If you weren't able to attend I suggest trying to find a recording.
+
+---------------------
+
+Comment ID: m69m2sx
+Comment Author: Beneficial_Goose
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m69m2sx/
+Parent comment file: 7_23.txt
+Content: What is contradictory? Seems to have the same info that was shared on the webinar.

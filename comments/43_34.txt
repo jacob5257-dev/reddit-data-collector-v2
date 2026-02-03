@@ -1,0 +1,17 @@
+Comment ID: mr923oo
+Comment Author: updatelee
+Up/Down: 5/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr923oo/
+Parent comment file: 43.txt
+Content: 100% they arent doing enough, most companies arent. My bank (top 5 largest in Canada) doesnt even support passkeys yet. Honestly its come to the point imo legislation needs to be enacted to set standards for how protected information is stored(encrypted, geo location etc), how it can be accessed (passwords, passkeys etc), how it can be transmitted (encrypted/plaintext) ... and the big one ... acountability, how do they handle breaches, what actions do they take and what reprocusions are there. 
+
+They need real input from security leaders to draft such changes. Right now its a free for all and half the companies are doing nothing. PowerSchool should be an eye opener
+
+---------------------
+
+Comment ID: mrxb4nf
+Comment Author: Sunitha_Sundar_5980
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mrxb4nf/
+Parent comment file: 43_4.txt
+Content: We need frameworks that aren’t just checkboxes but enforceable, transparent, and built for today’s threat landscape.

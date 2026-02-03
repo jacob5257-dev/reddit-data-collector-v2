@@ -1,0 +1,26 @@
+Comment ID: m7a45ii
+Comment Author: linus_b3
+Up/Down: 25/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7a45ii/
+Parent comment file: 16.txt
+Content: It's easy to throw stones and I try to avoid it because things happen, but PowerSchool's missteps here are appalling.
+
+* Their all-powerful employee accounts weren't secured by MFA, were accessible from anywhere, and apparently had no sort of alerting to warn that one person had logged into hundreds of instances from a foreign country in a short period of time.
+* They learned about it a week later, then inexplicably didn't tell any of us for **10 more days**.  That's a breach of the contract that they have in place with many districts.
+* Somehow, in those 10 days, they still didn't have publications ready to go, and didn't have an indication of specific data compromised or even a breakdown explaining how we can dig through logs ourselves.  We had to figure it out.  They can try to say they were working hard on it, but it's extremely clear that it wasn't all hands on deck for them, which is disappointing.
+* Even after the initial meetings, they still didn't get information out in a timely manner, citing things being hung up in legal.  What did come out is awful and feels like it's starting down a path to backpedaling on some promises (see the suddenly non-committal wording around credit monitoring/identity protection).
+
+It's so frustrating that they seem to be patting themselves on the back for their response here when it feels like it couldn't have been much worse.  They need to see a shake-up of leadership and some significant financial pain from this.
+
+---------------------
+
+Comment ID: m7cmyas
+Comment Author: sarge21
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7cmyas/
+Parent comment file: 16_9.txt
+Content: >They learned about it a week later, then inexplicably didn't tell any of us for 10 more days. That's a breach of the contract that they have in place with many districts.
+
+They should have learned about it in a support ticket alerting them on Dec 27, but only admit learning about it on Dec 28 when the adversary contacted them.
+
+Imagine if the adversary were interested in collecting and using as much data as possible instead of simply extorting a payment.

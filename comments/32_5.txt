@@ -1,0 +1,15 @@
+Comment ID: md0glfg
+Comment Author: bad_brown
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md0glfg/
+Parent comment file: 32.txt
+Content: PS sending emails 'on our behalf' over a month after we already communicated (on the Jan 7th evening initially and again 4 days later with full details) isn't helpful. It's a pain in the ass and is going to create more confusion.
+
+---------------------
+
+Comment ID: md0ihdv
+Comment Author: zumaro
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md0ihdv/
+Parent comment file: 32_4.txt
+Content: Its a true pain - I think it may have only gone to about a 1/3 of our teaching staff, as parents have not started complaining in droves yet

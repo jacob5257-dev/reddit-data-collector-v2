@@ -1,0 +1,19 @@
+Comment ID: m7kk8mf
+Comment Author: Jeremandias
+Up/Down: 3/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7kk8mf/
+Parent comment file: 59.txt
+Content: this article is bad. it isn’t “worse than thought”, it’s exactly what they reported: affected instances had all student and teacher tables exfiltrated. the scope depends entirely on what districts stored in the sis. that was the story the entire time. 
+
+is it a nightmare? were powerschool’s security practices irresponsible and clearly indicative of a lack of care? absolutely. but i hate articles like this.
+
+---------------------
+
+Comment ID: m7ktf3i
+Comment Author: Robbbbbbbbb
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7ktf3i/
+Parent comment file: 59_28.txt
+Content: 100% this. The entire student and teacher tables were exfiled.
+
+So far it seems like no further info has been reported on, so it seems that maybe the media is just now realizing that

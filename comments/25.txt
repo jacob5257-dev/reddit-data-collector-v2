@@ -1,0 +1,5 @@
+Post ID: 1i8h026
+Post Title: Data breach hitting PowerSchool looks very, very bad
+Post Author: cudmore
+Up/Down: 81.0/0.0
+Content: â€œThe hack, which came to light earlier this month, hit PowerSchool, a Folsom, California, firm that provides cloud-based software to some 16,000 Kâ€“12 schools worldwide. The schools serve 60 million students and employ an unknown number of teachers. Besides providing software for administration, grades, and other functions, PowerSchool stores personal data for students and teachers, with much of that data including Social Security numbers, medical information, and home addresses.â€

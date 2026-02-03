@@ -1,0 +1,17 @@
+Comment ID: mr5e89f
+Comment Author: RevolutionaryPizza64
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5e89f/
+Parent comment file: 41_7.txt
+Content: What parts do you feel were handled poorly post-breach? Aside from stating they were confident that the attackers really deleted the data, the response has been one of the better ones I’ve seen, especially for something with this large of a blast radius with such sensitive information. They missed notification deadlines for some districts’ DPAs, and some of their self-imposed deadlines for info updates were late, but still the fastest notification I’ve been a part of. If there’s more I need to be mad about, please let me know 😂
+
+---------------------
+
+Comment ID: mr5hzmf
+Comment Author: 07C9
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5hzmf/
+Parent comment file: 41_12.txt
+Content: You kind of said it yourself. They shouldn't have ever tried to assure customers that their data was safe, just because they paid the ransom. They blew it on all of their promised deadlines as well like you said.. the CrowdStrike report was a month and a half late (maybe even later?), the district communication was late. Was *anything* on time from them? The web conference with Mishka trying to explain what happened was awful too.
+
+It's also within the realm of possibility that they were tipped off about this entire thing in the first place by a user on here who asked them why GB's of data from their on-prem PS instance was getting exfiltrated to a Ukranian IP. Data exfiltrated 12/19-23ish. PS isn't officially aware until 12/28 which is *after* someone on here said they had reached out with questions.

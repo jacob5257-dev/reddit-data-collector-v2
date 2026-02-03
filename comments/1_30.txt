@@ -1,0 +1,15 @@
+Comment ID: m5y554d
+Comment Author: pheen
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y554d/
+Parent comment file: 1_14.txt
+Content: Oh great, I have logs from 12/22 for Students_export.csv and Teachers_export.csv from a Ukrainian IP address.
+
+---------------------
+
+Comment ID: m5y72aw
+Comment Author: Oneota
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y72aw/
+Parent comment file: 1_27.txt
+Content: Can you say how you determined this? I'm not familiar enough with the PS innards (we have a SIS person who usually handles this, but I'd like to do some digging right away).

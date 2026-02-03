@@ -1,0 +1,24 @@
+Comment ID: mdtv2an
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtv2an/
+Parent comment file: 33_3.txt
+Content: Thanks for your input!
+
+Does your IT Department handle student enrollment as well as adding staff to PS?  
+
+
+I'm jumping back into the PSUG (was mover a decade since I last did)
+
+How is your IT Department handling data retention, auditing, and permission auditing in PS?  Sounds like you enter medical data too - how is that handled (after a student leaves)?
+
+---------------------
+
+Comment ID: mdwkuei
+Comment Author: k12-tech
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdwkuei/
+Parent comment file: 33_17.txt
+Content: We enter all staff. Students are added automatically during enrollment. We use PowerSchool Enrollment Express, so the entire registration process is inside of PowerSchool. 
+
+Our state has long data retention laws - so we save everything forever. Student records and medical information are a 65 year retention…. So we never delete!

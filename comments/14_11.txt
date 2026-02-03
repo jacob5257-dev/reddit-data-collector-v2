@@ -1,0 +1,32 @@
+Comment ID: m73sqgb
+Comment Author: ZaMelonZonFire
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m73sqgb/
+Parent comment file: 14.txt
+Content: I've worked in private industry previously and now as a tech director in K12.  Generally speaking, public education is much more reactive than proactive, as compared to other industries.  They truly tend to wait for something bad to happen before addressing it, and when it comes to cyber security this is completely counter intuitive. 
+
+Here in Texas, the state requires disaster annexes/plans.  Fire, flood, hurricane, pipeline explosion, and now, cyber attack incident or attack.  The initial draft they gave us was both confusing and infuriating.  More than half the "requirements" would not apply to our district (which they have since removed), but also the language very much treating this kind of an event as a "when" this is going to happen, not an "if."
+
+Powerschool and their PR team were trying to put themselves in the best position possible considering this absolute disaster, and I sincerely don't blame them for that.  I believe they did not consider security as a foundational point of their product and services as a whole, though now they might.  However, the promise that the stolen data has been deleted is laughable.  Great PR move, unlikely reflected in reality.
+
+Our SIS currently does not even offer MFA, never has.  I've been asking(see: gently bitching to) them about it for years.  I asked them last week because of this powerschool attack and was told due to other issues, there is now no ETA for additional security.  It frustrates me greatly, but is completely out of our control.  We cannot afford a "better SIS" and powerschool getting hacked removes any argument that paying more equates to better security.
+
+Really enjoyed the podcast on the PowerSchool breach and learned a lot.  It has spurred me to have talks with my administrators and be more proactive.  I've asked them to sit down and discuss what would happen and how we'd handle this disaster if it happened to us.  
+
+./end-rant
+
+---------------------
+
+Comment ID: m74174h
+Comment Author: lifeisaparody
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m74174h/
+Parent comment file: 14_10.txt
+Content: When I was still IT Director for a K-12, we wanted to apply data retention to all our systems. PowerSchool told us that we could not delete any data, including those of students who had left or graduated. Something to do with the integrity of the database.  
+  
+Our workaround was to just write over the data with 1s and 0s.
+
+But my point is that this is not 'Security by Design'.
+
+  
+I agree with you that Education tends to be reactive rather than proactive when it comes to Cybersec. A large part of it is because Admin doesn't understand and they don't really want to understand - they think its an IT problem. In mature industries, IT and Cyber are different departments for a reason.

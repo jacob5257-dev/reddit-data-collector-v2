@@ -1,0 +1,15 @@
+Comment ID: mr8z7q7
+Comment Author: discgman
+Up/Down: 3/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr8z7q7/
+Parent comment file: 43.txt
+Content: Smallish to med size school district here in California. We are required per our technology insurance companies to have security tools and protocols in place to prevent any ransomware attack. Some of the smaller schools struggle with those costs due to the price to implement these security requirements. There needs to be more money provided to the smaller school districts to protect them from these attacks. Powerschool is its own SIS cloud based entity. So either one of the schools accounts that accesses powerschool was compromised or something, the article doesn't get into details on how they where breached.
+
+---------------------
+
+Comment ID: mr94le8
+Comment Author: Some-Ant-6233
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr94le8/
+Parent comment file: 43_3.txt
+Content: It’s an older breach. Here’s more https://www.bleepingcomputer.com/news/security/powerschool-previously-hacked-in-august-months-before-data-breach/

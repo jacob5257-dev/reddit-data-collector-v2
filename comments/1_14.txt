@@ -1,0 +1,20 @@
+Comment ID: m5xtx31
+Comment Author: TechxNinja
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xtx31/
+Parent comment file: 1_10.txt
+Content: Yes, that's the general consensus on the PSUG forum thread. 
+I'm waiting to hear what people who are better at digging through audit logs come back with.
+
+---------------------
+
+Comment ID: m5xvppr
+Comment Author: sarge21
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xvppr/
+Parent comment file: 1_11.txt
+Content: Pasting this here:
+
+The maintenance user shows up as 200A0 in the ps-log-audit files.
+
+You can correlate audit log access with mass-data exports by time in the mass-data logs.

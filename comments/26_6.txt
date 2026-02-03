@@ -1,0 +1,20 @@
+Comment ID: m99ofdz
+Comment Author: Kartoos69
+Up/Down: -1/0
+Link: https://reddit.com/r/cybersecurity/comments/1iafidv/what_learnings_can_i_present_from_the_powerschool/m99ofdz/
+Parent comment file: 26_1.txt
+Content: Yaa but other than 
+MFA
+Monitoring 
+Shifting security left
+
+Other than these what can I present?
+
+---------------------
+
+Comment ID: m9a466i
+Comment Author: huhuhuhuhuhuhuhuhuuh
+Up/Down: 3/0
+Link: https://reddit.com/r/cybersecurity/comments/1iafidv/what_learnings_can_i_present_from_the_powerschool/m9a466i/
+Parent comment file: 26_2.txt
+Content: If you don't have those in order that's where your priorities are really.

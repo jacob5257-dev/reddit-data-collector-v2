@@ -1,0 +1,15 @@
+Comment ID: mr94le8
+Comment Author: Some-Ant-6233
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr94le8/
+Parent comment file: 43_3.txt
+Content: It’s an older breach. Here’s more https://www.bleepingcomputer.com/news/security/powerschool-previously-hacked-in-august-months-before-data-breach/
+
+---------------------
+
+Comment ID: mr9p5ve
+Comment Author: discgman
+Up/Down: 3/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr9p5ve/
+Parent comment file: 43_6.txt
+Content: I remember now. It was an internal breach that was caught by an outsider

@@ -1,0 +1,45 @@
+Post ID: 1hz18no
+Post Title: PowerSchool Data Breach
+Post Author: Ok_Adhesiveness5924
+Up/Down: 84.0/0.0
+Content: I'm having trouble finding much already posted but PowerSchool told my district and our neighboring district that they were hacked and some student and teacher data may be breached, and the few sources I can find suggest that the breach wasn't limited to any one district in particular, it is potentially any and all users.
+ 
+ I'm old enough that my SSN is probably out there from at least 5 other breaches of trusted institutions, I'm used to monitoring my credit etc not so worried about that part.
+ 
+ But PowerSchool has a lot of privileged student information. How concerned should I be as a teacher about what information may now be public? Is this just like when health care organizations are hacked but hackers usually don't bother with anything other than SSNs?
+ 
+ Best not-district-specific article I can find:
+ 
+ https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/
+
+---------------------
+
+Comment ID: m727zn7
+Comment Author: Spurgeonist
+Up/Down: 1/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m727zn7/
+Parent comment file: 13.txt
+Content: PowerSchool Users/Teachers - firstly *only PowerSchool* is maintaining the bad guys deleted the data and has refused to comment since the initial notification to school districts 10 days after the fact. This “contained” nonsense is PBIS jargon.
+
+***If your district self hosted PowerSchool and geo-blocked Ukraine, you should be fine.***
+
+If your district stores employee SSNs in the “teacher table” - you’re probably affected (former and current) if you self host or cloud host and *don’t geo-block Ukraine.*
+
+If your state requires SSNs for reporting or ever has for students and stores/stored them in their student data table - they’ve probably been compromised if your district’s PowerSchool is on the cloud or self-hosted and you’re *not geo-blocking Ukraine.* (former and current) 
+
+My estimate from reports and articles I’ve gathered and kept with handy AI is about ~8,920,000 students who probably have their SSN now compromised. We’ll see if they ever release real numbers. This is being hardcore suppressed on all platforms. Google it, it’s a legal service you can pay for if you’re as big as Bain Capital (they own PowerSchool as of 2024.)
+
+Now, that’s ~8,920,000 impacted students with SSNs among others PII. That’s only current, doesn’t include the former students who likely now do as well in these same districts. Some districts had info from all the way back to 1995 (all public info you just have to search for it. Newsweek article is great about it.) Do not be comforted by your districts silence or lack of answers from PowerSchool at this point. It’s almost been a month after the breach. That’s why I am doing this. The longer they go without comment, the least attention this gets, the better it is for them and the worse it is for you. When the “official investigation” is over and they actually start admitting to things, take advantage of credit monitoring and all things PowerSchool offers to “make this right” if anything. Assume the worst if you’re in these states, especially where reporting laws have more than likely caused most districts in these states to store SSNs in their student tables:
+-North Carolina
+-South Carolina
+-Florida
+-Mississippi
+-Georgia
+-Louisiana
+-Kentucky
+-Virginia
+-West Virginia
+
+I’m sharing this information to you because we owe it to our school districts, teachers, and kiddos to have their best interest in mind instead of PowerSchools. This was abject negligence on their part and this could have 100% been avoided. These are my own opinions, seriously research it yourself, don’t just buy into the official initial narrative with this one though. Oh and there’s districts outside of those states above that have reported SSNs compromised as well (especially CA) not sure why they were storing them in PowerSchool but there’s already 3 federal lawsuits related to this. Bloomberg article, Google it.
+
+Remember to verify all things with your local district. God bless, hope and pray the best for each of you.

@@ -1,0 +1,19 @@
+Comment ID: m6er1ph
+Comment Author: OkayArbiter
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6er1ph/
+Parent comment file: 11_1.txt
+Content: You assume that random superintendents or directors aren't the ones buying these products.
+
+---------------------
+
+Comment ID: m6ewznu
+Comment Author: Timewyrm007
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6ewznu/
+Parent comment file: 11_7.txt
+Content: This shady company that I bought software from has a kitten walk across the screen everyday and say good morning.
+
+The salesman, whom I met in a dark alley, also says it will raise student attentiveness by 20% and grades by 79% ( \*\*it's easily hackable and  for everyone to infiltrate and raise their own grades\*\*) and they will provide a KPI to prove these metrics.
+
+And it runs on Linux, I know Linux is safe they mentioned have to spin up a distribution called Kali and them needing continual access to it.

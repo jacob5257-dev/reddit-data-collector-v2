@@ -1,0 +1,40 @@
+Comment ID: m6g349t
+Comment Author: shredu2
+Up/Down: 1/0
+Link: https://reddit.com/r/raleigh/comments/1hxqotl/nc_student_data_compromised_in_breach_nc_and/m6g349t/
+Parent comment file: 10.txt
+Content: The company deactivated the compromised account and restricted access to the affected data portals.
+
+\- A contractor had restricted access to sensitive data
+
+Two tables, both that primarily include contact information for families and educators. For some customers, those tables can include social security numbers and other personally identifiable information. Customers, such as DPI, can tailor their use of PowerSchool to include or not include certain information. It’s unclear if North Carolina had social security numbers in those tables.
+
+\- Only two tables? I thought it was entire portals? And what was this contractors role? Why weren't these fields encrypted? Why can't you tell if NC had SSNs in place, being everyone seems to have access to everything? Usually parents have to share this data right? Somebody knows
+
+Wrenn told WRAL News the department believes demographic information is primarily what was illicitly accessed. She doesn’t expect medical or individualized education plan information to be included.
+
+\-GOSH DARN DEI HATERS, DEFINITELY THE ONLY REASON WHY SOMEONE WOULD HACK OUR SCHOOLS! bullshit.
+
+Even if a school has already begun using Infinite Campus — which will eventually replace PowerSchool statewide — their data from prior years is still in PowerSchool, Wrenn said.
+
+\-No reason to keep this data on hand, LITERALLY YEARS LATER.
+
+And there may not be anything for Education to do to fix this, but they need to vet these trash vendors.
+
+---------------------
+
+Comment ID: m6g5ehg
+Comment Author: Billy_Bob_Joe_Mcoy
+Up/Down: 2/0
+Link: https://reddit.com/r/raleigh/comments/1hxqotl/nc_student_data_compromised_in_breach_nc_and/m6g5ehg/
+Parent comment file: 10_33.txt
+Content: >
+\-No reason to keep this data on hand, LITERALLY YEARS LATER.
+
+>And there may not be anything for Education to do to fix this, but they need to vet these trash vendors.
+
+Everything you said is spot on but you saved the best for last..
+
+Public data should be 100% purged in situations like this. If it needs to stay around it should be glacier or off line storage with highly restricted audited access.
+
+Trash vendors, part of the issue is that they have to use lowest bid vendors which doesn't exactly mean you will get top tier service. I'm not Clear on how the bidding process works in detail but there should be clauses to allow for higher bid jobs in some situations with sensitive data sets.

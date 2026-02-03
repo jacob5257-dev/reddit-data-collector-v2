@@ -1,0 +1,15 @@
+Comment ID: m8uyxwf
+Comment Author: Meta-Reversal
+Up/Down: 6/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8uyxwf/
+Parent comment file: 25_12.txt
+Content: Just because it's common, doesn't mean it's good.
+
+---------------------
+
+Comment ID: m8v7ohc
+Comment Author: whutchamacallit
+Up/Down: 3/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8v7ohc/
+Parent comment file: 25_22.txt
+Content: Worked in tech all my life.  The vast majority or small to mid size companies are way better off contracting someone to handle their security.  I'm usually far more concerned with people that try to do it with a Swiss army knife guy that knows a little network administration, a little security, etc. but not a maeter of any of them.  As compared to hiring s service from a company that specializes in it.

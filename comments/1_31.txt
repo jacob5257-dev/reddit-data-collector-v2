@@ -1,0 +1,15 @@
+Comment ID: m5y6bwp
+Comment Author: lutiana
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y6bwp/
+Parent comment file: 1_15.txt
+Content: So they paid the bad guys to delete the data, interesting.
+
+---------------------
+
+Comment ID: m5y7mwn
+Comment Author: SIS_Lord
+Up/Down: 17/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y7mwn/
+Parent comment file: 1_28.txt
+Content: Which encourages them to attack and ransom more K12 software vendors not realizing they aren't all backed by wallstreet money

@@ -1,0 +1,37 @@
+Post ID: 1kh4kya
+Post Title: PowerSchool Cyber security incident update:
+Post Author: orphantech
+Up/Down: 50.0/0.0
+Content: Just received this email from PowerSchool.
+ 
+ Dear Valued Customers:
+ 
+ We are writing to inform you of a recent development related to the cybersecurity incident PowerSchool experienced in December 2024.
+ 
+ PowerSchool recently became aware that a threat actor has reached out to some PowerSchool SIS customers in an attempt to extort them using data from the previously reported December 2024 incident. We do not believe this is a new incident, but we wanted our customers to be informed, nonetheless.
+ 
+ As you all are likely aware, in the days following our discovery of the December 2024 incident, we made the decision to pay a ransom because we believed it to be in the best interest of our customers and the students and communities we serve. It was a difficult decision, which our leadership team did not make lightly. As is always the case with these situations, there was a risk that the bad actors would not delete the data they stole, despite assurances and evidence that were provided to us.
+ 
+ In light of this, I want to take a moment to remind you all that following the December 2024 incident, PowerSchool also offered and made widely available credit monitoring and identity protection services for a period of two years to students and faculty of our PowerSchool SIS customers, regardless of whether they were individually involved. We encourage you all to take this opportunity to remind your communities that these services are still available. If you choose to send an update to your families and educators, we have included a suggested message for you to send below.
+ 
+ As a reminder, information about credit monitoring and identity protection services and enrollment can be found on our website:
+ 
+ For customers in the U.S.: https://www.powerschool.com/security/sis-incident/notice-of-united-states-data-breach/
+ 
+ For customers in Canada: https://www.powerschool.com/security/sis-incident/notice-of-canada-data-breach/
+ We sincerely regret the occurrence of the 2024 incident. We will continue supporting our valued customers and law enforcement as we work through this together. If you have any questions or concerns, please don't hesitate to reach out to your CSM.
+ 
+ Sincerely,
+ Hardeep Gulati
+ Chief Executive Officer, PowerSchool
+
+---------------------
+
+Comment ID: mr42d86
+Comment Author: K12SrSysAdmin
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr42d86/
+Parent comment file: 41.txt
+Content: This is not enough.  Frank Abagnale warns that many fraudsters will wait for the two-year window to expire before launching their identity-theft schemes.
+
+ "PowerSchool also offered and made widely available credit monitoring and identity protection services for a period of two years to students and faculty of our PowerSchool SIS customers, regardless of whether they were individually involved."

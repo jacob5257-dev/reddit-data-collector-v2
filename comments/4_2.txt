@@ -1,0 +1,17 @@
+Comment ID: m63t4wg
+Comment Author: ZaMelonZonFire
+Up/Down: 22/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m63t4wg/
+Parent comment file: 4.txt
+Content: How the hell could they know the leaked data has been contained and not publicly available?
+
+The Maury Povich in me believes... that is a lie.
+
+---------------------
+
+Comment ID: m63uypz
+Comment Author: OkayArbiter
+Up/Down: 15/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m63uypz/
+Parent comment file: 4_1.txt
+Content: Theoretically if PS paid the attacker, then it's *reasonable* to assume that it's *possibly* contained. Often, ransomware attackers will hold their end of the bargain if paid. This is a bit different, but it's *possible* that once paid (if that is what happened), the attackers walked away.

@@ -1,0 +1,20 @@
+Comment ID: m68zax2
+Comment Author: TheShootDawg
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68zax2/
+Parent comment file: 8_3.txt
+Content: So you confirmed in your firewall logs the connection attempts?  nice.
+
+we have a couple geo blocks in place, but not a total ban on non-us.
+
+---------------------
+
+Comment ID: m6c091t
+Comment Author: J_de_Silentio
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m6c091t/
+Parent comment file: 8_11.txt
+Content: >So you confirmed in your firewall logs the connection attempts? 
+
+
+Yes.  We had failed connection attempts from the identified IP on December 21.

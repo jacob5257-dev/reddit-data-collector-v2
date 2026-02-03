@@ -1,0 +1,15 @@
+Comment ID: m6f65bp
+Comment Author: Sk1llPo1nt
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m6f65bp/
+Parent comment file: 1.txt
+Content: Can anyone confirm if the export included inactive records? I've asked PowerSchool for clarification but am waiting for their response. Thought I'd check here.
+
+---------------------
+
+Comment ID: m7bphjf
+Comment Author: Majestic-Cap-3634
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m7bphjf/
+Parent comment file: 1_85.txt
+Content: Echoing what has already been said. The official response we recevied from PS was that unless a specific selection of students were made before running the export, then all students/teachers (historical and active) are exported by default. Running it this way myself verified that is the case. The number of records matched what was shown in the logs.

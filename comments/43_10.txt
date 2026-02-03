@@ -1,0 +1,20 @@
+Post ID: 1khqnbw
+Post Title: School Ransomware attacks
+Post Author: Sunitha_Sundar_5980
+Up/Down: 125.0/0.0
+Content: Just read about how the PowerSchool breach led to ransom demands sent directly to families across North America, even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+ 
+ What's worse? Some of the info goes back decades, student IDs, medical details, emergency contacts. School boards are now scrambling to respond. This really shows how damaging one weak access point (like a compromised admin account) can be.
+ 
+ Do you think schools and edtech platforms are doing enough to secure such sensitive data?
+ 
+ Source: [https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277](https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277)
+
+---------------------
+
+Comment ID: mr9e0wh
+Comment Author: According_Claim_9027
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr9e0wh/
+Parent comment file: 43.txt
+Content: No, they’re not. When I look at the platforms where my data was leaked from, the only ones there are for school services we were either forced to use or unknowingly used by them, including PS. It’s clear they don’t have the level of care they need for peoples’ data.

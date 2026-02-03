@@ -1,0 +1,19 @@
+Comment ID: m63w42u
+Comment Author: Timewyrm007
+Up/Down: 12/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m63w42u/
+Parent comment file: 4_2.txt
+Content: It's NOT a good business model to not keep your promises.  
+
+If your business is breached and your cyberinsurance company says "oh you were breached by XXX, don't pay them they don't keep thier word" or "We won't pay XXX because they don't operate in good faith"
+
+The Breachers know how to play the game and will typically "follow the rules" of it
+
+---------------------
+
+Comment ID: m641q0o
+Comment Author: chickentenders54
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m641q0o/
+Parent comment file: 4_4.txt
+Content: I think we all have to assume that hackers aren't good, quality, honest people that keep their word.

@@ -1,0 +1,19 @@
+Comment ID: m8wdybi
+Comment Author: VariationTrue5493
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8wdybi/
+Parent comment file: 24.txt
+Content: One way to learn is start questioning all your vendors directly now while the PowerSchool incident is fresh in their minds.  I have sent messages to any vendor that has student names and DOB.  I will say some of the responses have been eye opening and has led to some vendors changing their security practices for either our tenant / site or changing their security for all of their customers.  
+
+Feel free to use what I have sent or punch it up to fit your needs.  
+
+In light of the PowerSchool cybersecurity incident, I would like to know what steps “Vendor Name” has taken to secure support accounts that have access to "District Name" “Vendor Name” tenant / site.  For example, please provide information such as the support portal is secured behind a VPN, and the support account logins are secured with an MFA / 2FA solution.
+
+---------------------
+
+Comment ID: m8xkmgj
+Comment Author: lifeisaparody
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8xkmgj/
+Parent comment file: 24_14.txt
+Content: Don't forget to ask about Data Protection Agreements and Data Retention policies.

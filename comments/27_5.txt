@@ -1,0 +1,17 @@
+Comment ID: m9al6ck
+Comment Author: stratdog25
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/m9al6ck/
+Parent comment file: 27.txt
+Content: Wait til the Supreme Court upholds the fifth circuit district’s court decision to eliminate the universal service fee.our networks will get real expensive really quick.
+
+---------------------
+
+Comment ID: m9c4dta
+Comment Author: NorthernVenomFang
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/m9c4dta/
+Parent comment file: 27_1.txt
+Content: I agree with almost everything on that list.
+
+Getting rid of Active Directory I would see as a long term goal.   It has to go, but I think I would rank that as the last thing on that list; MFA, local admin accounts, and shared accounts are far more important security issues that need to be addressed ASAP.

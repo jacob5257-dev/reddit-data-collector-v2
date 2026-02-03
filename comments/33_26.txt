@@ -1,0 +1,19 @@
+Comment ID: mdvyh20
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdvyh20/
+Parent comment file: 33_20.txt
+Content: Curious how you/your school differentiates this approach with Powerschool vs. every other department's platform(s).
+
+In other words, it sounds like the proposed solution is "become  the resident expert in the platform and take control of it".  Does that also apply to the accounting department software? To facilities software? To food service? To marketing? To HR? To Family services? Each/any one of those like contains PII and someone currently playing "caretaker" with no effort to coordinate or view anything from a security perspective. 
+
+I get it, but I'm not excited about the idea of approaching it from an arbitrary and  inconsistent approach to deciding what IT *should* be in charge of and what not.
+
+---------------------
+
+Comment ID: mdzya7h
+Comment Author: fergal-dude
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdzya7h/
+Parent comment file: 33_21.txt
+Content: I guess that depends what is expected of you.  I'm IT adjacent really, I'm a data manager but have been Tech coordinator and teacher on my way here.  SOMEONE needs to take ownership of PS who knows more than Martha at the front desk, it's just too important to not have someone with tech chops involved and no plan on where it's headed...

@@ -1,0 +1,15 @@
+Comment ID: m7lfsml
+Comment Author: TheNarwhalingBacon
+Up/Down: 6/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7lfsml/
+Parent comment file: 59_12.txt
+Content: your tag says CISO, yet you are saying never pay? What happens when a company doesn't have backups, or the backups are somehow also popped, does security not exist to enable the business? I'd love to not need to pay a ransom but we all know too many business do not follow best practices
+
+---------------------
+
+Comment ID: m7mal6o
+Comment Author: thejournalizer
+Up/Down: 5/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7mal6o/
+Parent comment file: 59_52.txt
+Content: Or you work at a hospital and now lives are at risk.

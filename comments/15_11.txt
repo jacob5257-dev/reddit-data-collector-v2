@@ -1,0 +1,15 @@
+Comment ID: m740mtk
+Comment Author: Square_Pear1784
+Up/Down: -1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m740mtk/
+Parent comment file: 15_2.txt
+Content: We have the free Google Workspace for Education - Fundamentals. So I am guessing we do not have the data privacy
+
+---------------------
+
+Comment ID: m764bkq
+Comment Author: Tr0yticus
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m764bkq/
+Parent comment file: 15_7.txt
+Content: That’s actually good news - your free version is still the “pro” version and falls under the same agreement we have for the paid version. Are there differences? Yes but you have way more protections than consumer Google products.

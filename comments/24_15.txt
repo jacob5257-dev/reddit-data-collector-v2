@@ -1,0 +1,30 @@
+Post ID: 1i87jzh
+Post Title: Question to those dealing with the PowerSchool Data breach
+Post Author: mjh2901
+Up/Down: 18.0/0.0
+Content: Before this goes any further, we are not a powerschool shop and my heart goes out to everyone dealing with this. I am looking at our processess for handling a data breach, and am wondering.
+ 
+ Are any of you tracking the cost of dealing with this breach? For my district we would be probably around 5 or 6 grand in attorney time vetting the notifications and advising admin/board. We have about 6000 students but if this was a Campus breach it would include graduates going back about 10 years so we would be notifying in the range of 30,000 people via mail, the estimate for that is about $2 per letter including employee time and a good couple grand in database employee time getting the exports and excel files ready for the mail merges.
+ 
+ What I am getting at is this type of breach the vendor is completely at fault and cost the district close to a 100 grand, which exceeds the yearly hosting/licensing costs for the SIS system. I am guessing the math is similar for other districts and just scales based on size.
+ 
+ I am going to ignore all the class action lawsuit stuff and go straight to is anyone approaching power school, or considering approaching a vendor that does this with a request for the direct costs?
+ 
+ As a group should we be talking about our future vendor contracts and cost shifting language should a databreach cost the district, and the fault lies completely with the vendor?
+ 
+ I am trying to look at this from how do we learn from this in how we deal with vendors that store student data.
+
+---------------------
+
+Comment ID: m8wlish
+Comment Author: NorthernVenomFang
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8wlish/
+Parent comment file: 24.txt
+Content: This has sparked ongoing meetings for my manager, director, and myself for the foreseeable future.  Legal team is involved.  Superintendent & our Associate Superintendent is involved. Communications team is involved. Finance manager is involved as he has been worried about AtrieveSRB since he started 5 years ago.
+
+We also now are starting to look at every vendor/3rd party we use for security issues, this is probably going to take the rest of the school year to iron out; BMS systems, boiler systems, lighting, PA systems, clocks... Basically if it connects to the network we have to give it a full audit.
+
+This all should have been done in the first place decades ago.
+
+Cost is not going to be measurable.  The effect is going to be finally, maybe, primary (K-12) might start taking security more seriously as a primary function, instead of putting it off.

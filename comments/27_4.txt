@@ -1,0 +1,15 @@
+Comment ID: m9amrd4
+Comment Author: bad_brown
+Up/Down: 26/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/m9amrd4/
+Parent comment file: 27.txt
+Content: Interesting that there isn't anything in the top 10 related to vendor management policies and processes, such as vetting them to get assurances of minimum required data security controls being in place.
+
+---------------------
+
+Comment ID: m9aotl9
+Comment Author: adstretch
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/m9aotl9/
+Parent comment file: 27_3.txt
+Content: This is something that needs changing. There needs to be an equivalent to PCI for educational tech vendors.

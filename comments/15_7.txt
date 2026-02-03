@@ -1,0 +1,17 @@
+Comment ID: m73p98q
+Comment Author: dire-wabbit
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m73p98q/
+Parent comment file: 15.txt
+Content: If you have a Google Workplace for Education domain, then data privacy protections are in place for core services like drive.   This is compliant with relevant student data privacy standards (FERPA/GPDR).   It's part of their core agreement.
+
+I have no problems with storing things in drive from a FERPA standpoint.   From a management perspective, for FERPA data I prefer to create shared drives to alleviate ownership issues and to have better control of access to these drives.
+
+---------------------
+
+Comment ID: m740mtk
+Comment Author: Square_Pear1784
+Up/Down: -1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m740mtk/
+Parent comment file: 15_2.txt
+Content: We have the free Google Workspace for Education - Fundamentals. So I am guessing we do not have the data privacy

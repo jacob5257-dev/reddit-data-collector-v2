@@ -1,0 +1,19 @@
+Comment ID: m6543uy
+Comment Author: vawlk
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwt7ox/powerschool_breach/m6543uy/
+Parent comment file: 3.txt
+Content: who is to say the other SIS are more secure?
+
+beaches are the only times when you are sure that things actually get safer.
+
+I bet other SIS vendors are scrambling to up their security now too.
+
+---------------------
+
+Comment ID: m67hx7t
+Comment Author: Disastrous-Spell-573
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwt7ox/powerschool_breach/m67hx7t/
+Parent comment file: 3_1.txt
+Content: The chain is only as strong as its weakest link. You're right. There are always going to be big, reputable companies that should know better that are attacked.

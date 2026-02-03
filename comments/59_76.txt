@@ -1,0 +1,18 @@
+Post ID: 1i2t4os
+Post Title: PowerSchool breach worse than thought, company says "all" student and teacher data accessed
+Post Author: Snowfish52
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m81l2ca
+Comment Author: This-Bodybuilder-992
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m81l2ca/
+Parent comment file: 59.txt
+Content: I came across this as an elementary parent and elementary teacher in a district that uses powerschool. I felt the info on their website and shared by my district was very vague and therefore even more alarming because I have a lot of questions but zero background on this topic/cybersecurity. 
+
+What exactly happened? What should parents of students and teachers who had data involved in the leak be doing/asking to protect themselves and their privacy? 
+
+Any insight, explanation, or opinions would be much appreciated by me!

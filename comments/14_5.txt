@@ -1,0 +1,17 @@
+Comment ID: m710shc
+Comment Author: bad_brown
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m710shc/
+Parent comment file: 14.txt
+Content: All districts except on-prem that had their own security controls like dropping foreign IPs at the LAN edge.
+
+Just my guess based on the details of the incident and Powerschool's public communications.
+
+---------------------
+
+Comment ID: m717vgl
+Comment Author: aplarsen
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m717vgl/
+Parent comment file: 14_2.txt
+Content: Pretty sure this is how we avoided it.

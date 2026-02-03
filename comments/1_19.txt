@@ -1,0 +1,15 @@
+Comment ID: m5xxqyr
+Comment Author: Hazy_Arc
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xxqyr/
+Parent comment file: 1_1.txt
+Content: I don't think I've used that function before - how does one access it?
+
+---------------------
+
+Comment ID: m5xxzq9
+Comment Author: sarge21
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xxzq9/
+Parent comment file: 1_17.txt
+Content: You have to look at the time of the logs in the ps-audit-logs and then manually correlate them to the mass-data logs. Sorry, there is no automatic function

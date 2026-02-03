@@ -1,0 +1,29 @@
+Post ID: 1hwthy5
+Post Title: Powerschool Breach webinar
+Post Author: flunky_the_majestic
+Up/Down: 152.0/0.0
+Content: **CEO greets. Provides cover and corporate speak.** Acknowledges the responsibility they have, and that it should be contained. Assured they have taken every step possible. Confident that the breach is contained, understood, and no ongoing concerns on the system exist. Commitment to communication. We have assurances that the information is contained and will not be publicly available. And if there is PII released, monitoring should be in place. Powerschool takes security seriously, though this incident undermines it. THey are increasing investment in security.
+
+---------------------
+
+Comment ID: m662rh0
+Comment Author: lifeisaparody
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m662rh0/
+Parent comment file: 4.txt
+Content: I'm a little confused.  
+  
+So one of the things they did early was to disable the compromised account. How then were they able to do the investigation on those compromised systems? Are there other time-unlimited accounts built-in?
+
+Was the compromised account baked into the application, with the same password for all customers?
+
+Also:  
+"The compromised user may still appear to be connecting. However, this is just a bug. They have done a lot of testing to verify this is an mirage due to a bug."
+
+er... what? whose bug is this?
+
+and
+
+"PS has a clear list of compromised schools, which was used to build notifications"
+
+Where was this list from?

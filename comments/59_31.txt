@@ -1,0 +1,17 @@
+Comment ID: m7ixsiq
+Comment Author: Fluxxxx
+Up/Down: 8/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7ixsiq/
+Parent comment file: 59_3.txt
+Content: The data may have actually been deleted, AT&T had a similar hack where they validated the attackers deleted the data.
+
+---------------------
+
+Comment ID: m7kkwdy
+Comment Author: DigmonsDrill
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7kkwdy/
+Parent comment file: 59_9.txt
+Content: There are hacker groups that have reputations to uphold.
+
+It's possible that they have good reason to think the hackers did delete the data. But I haven't heard that reason yet.

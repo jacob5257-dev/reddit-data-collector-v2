@@ -1,0 +1,21 @@
+Comment ID: m6c3j9y
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6c3j9y/
+Parent comment file: 4_55.txt
+Content: So that maintenance account isn't the only one that has full admin access and there are others?
+
+So that's the part that confuses me - how'd they (PowerSchool) log what the threat actor did against locally-hosted sites? Isn't it a direct connection between the threat IP and the target?
+
+---------------------
+
+Comment ID: m6c4js0
+Comment Author: bad_brown
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6c4js0/
+Parent comment file: 4_57.txt
+Content: The account used is a global maintenance account. As I understand it, it's like default domain administrator in Microsoft speak. The account ID is listed as taking the actions, and it shows the connection IP of the account, which in this case was via a VPS provider hosted in Ukraine.
+
+If it were me, I'd just filter the logs for that IP to track, and then run it again and filter for any actions taken by the maintenance account within a time frame, then run it again and filter for any specific commands sent across all time (like dumping entire user tables).
+
+Then I'd have a pretty good picture of what happened.

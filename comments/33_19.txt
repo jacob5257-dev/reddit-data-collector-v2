@@ -1,0 +1,15 @@
+Comment ID: mdtsjrb
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtsjrb/
+Parent comment file: 33_10.txt
+Content: Do you have documents on how they are handling data retention, audits, and related PII within Powerschool?
+
+---------------------
+
+Comment ID: mdtzcjm
+Comment Author: vawlk
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtzcjm/
+Parent comment file: 33_13.txt
+Content: they might, but that isn't my department. I have enough of that for my own systems. AFAIC, that is up to the team involved in entering the data in the system as I wouldn't have a clue what needs to be kept and what needs to be removed.

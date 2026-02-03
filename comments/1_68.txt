@@ -1,0 +1,15 @@
+Comment ID: m5yvnvh
+Comment Author: Digisticks
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yvnvh/
+Parent comment file: 1_40.txt
+Content: We're waiting for their communication guidance. They've alerted federal officials.
+
+---------------------
+
+Comment ID: m62b10u
+Comment Author: Firm_Safety7681
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m62b10u/
+Parent comment file: 1_41.txt
+Content: From experience: Affected districts should reach out to their own legal counsel. You'll be affected by myriad state laws and district-level policies that PowerSchool can't possibly take into account in any guidance or communication templates they provide. Your attorneys are paid to protect YOUR interests.

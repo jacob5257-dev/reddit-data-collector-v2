@@ -1,0 +1,25 @@
+Comment ID: m6fn1qb
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6fn1qb/
+Parent comment file: 4_60.txt
+Content: Which means ... the account (and access) still exists and is still useable?
+
+It's a bit confusing to me too.
+
+The nature of this sort of built-in account, to me, implies that there's no way to change it (aside from perhaps a code change in the product itself).  There's no password change/username, change/block access, right? Because it's baked in to every instance.  In theory, those instances could be not connected to the internet and the account would still exists, still authenticate, and still be useable (locally).
+
+It's a back door in.  You can lock the door when you want, but you can't remove the door or change the locks.
+
+Again, if I'm understanding it correctly - what they did now is try to put another door in front of that one.
+
+---------------------
+
+Comment ID: m6fvl46
+Comment Author: bad_brown
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6fvl46/
+Parent comment file: 4_61.txt
+Content: They disallowed all powerschool employee users from self-escalating to have maintenance access, and supposedly are building in some controls where the maintenance access won't be persistent. I don't think that's near enough, but that's what they said.
+
+Server instance maintenance should be completely separated from customer data, which should be siloed and no-knowledge to Powerschool staff. Any access to customer data should be expressly allowed via a manual action the customer takes within their Powerschool portal. LIke a support page with a toggle to 'allow Powerschool support access' and set a timer on it. I have a number of other tools I use with similar controls.

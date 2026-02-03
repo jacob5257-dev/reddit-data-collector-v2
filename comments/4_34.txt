@@ -1,0 +1,17 @@
+Comment ID: m645ydg
+Comment Author: antilochus79
+Up/Down: -6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m645ydg/
+Parent comment file: 4_8.txt
+Content: Most PowerSchool instances are self-hosted.
+
+---------------------
+
+Comment ID: m65r7x7
+Comment Author: flunky_the_majestic
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m65r7x7/
+Parent comment file: 4_15.txt
+Content: In the last 15 years or so, I have worked with maybe a dozen Powerschool districts.  Around 10 years ago, with a trend toward minimizing server hardware on site, all of my districts started moving to Cloud hosted.  Powerschool was the most hardware-hungry application on their servers.  When it came time to buy new servers, they took money out of their hardware + maintenance budget, and put it into cloud hosting.  
+
+The last on-prem instance I recall was probably 4 years ago.

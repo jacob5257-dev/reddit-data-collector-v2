@@ -1,0 +1,45 @@
+Post ID: 1o3yki6
+Post Title: Prosecutors Pursue 7-Year Sentence for PowerSchool Hacker
+Post Author: _cybersecurity_
+Up/Down: 1.0/0.0
+Content: **Matthew Lane, a Massachusetts man, faces a seven-year prison term for hacking into PowerSchool and stealing sensitive data of millions.**
+ 
+ **Key Points:**
+ 
+ - Hacker Matthew Lane hacked PowerSchool, exposing data of 60 million students and 9 million teachers.
+ - Lane demanded a ransom of 30 bitcoin, threatening to leak sensitive information if not paid.
+ - Prosecutors assert his actions were driven by greed and exhibit a pattern of prior hacks.
+ - PowerSchool incurred costs exceeding $14 million due to the incident, alongside the ransom payment.
+ - Lane allegedly used sophisticated methods to cover his tracks, including VPNs and anonymous communications.
+ 
+ Matthew Lane, a 19-year-old from Massachusetts, has pleaded guilty to a significant cybercrime involving the education technology firm PowerSchool. He accessed sensitive databases containing personal information of over 60 million students and 9 million teachers. Lane allegedly executed his plan with shameless disregard for the potential impact on the victims, demanding a ransom of 30 bitcoin, which at that time valued around $2.85 million. He threatened to leak the Social Security numbers of young children if his demands were not met. Prosecutors depict Lane's actions as not just criminal but as the outcome of a calculated scheme executed with 'sophisticated' tactics to evade detection, showcasing a disturbing escalation in cybercrime targeting educational institutions.
+ 
+ The ramifications of this breach have been severe for PowerSchool, with the company reporting losses exceeding $14 million associated with identity theft monitoring for the affected individuals, alongside the ransom. As part of his defense, Lane's history of hacking at least seven other entities since 2021 springs into focus, indicating a troubling pattern of cybercriminal behavior. His charged actions not only compromised sensitive data but also created a profound distrust in the security measures of educational platforms, leading to significant legal and financial ramifications for PowerSchool. The case has drawn attention to the vulnerabilities in cybersecurity within the education sector, emphasizing the urgent need for enhanced protective measures to safeguard student information.
+ 
+ What measures do you think educational institutions should take to better protect against cyber threats?
+ 
+ **Learn More:** [The Record](https://therecord.media/powerschool-prison-sentence-hacker)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**
+
+---------------------
+
+Comment ID: niyc9xs
+Comment Author: AutoModerator
+Up/Down: 1/0
+Link: https://reddit.com/r/pwnhub/comments/1o3yki6/prosecutors_pursue_7year_sentence_for_powerschool/niyc9xs/
+Parent comment file: 56.txt
+Content: **Welcome to r/pwnhub – Your hub for hacking news, breach reports, and cyber mayhem.**  
+
+Stay updated on **zero-days, exploits, hacker tools, and the latest cybersecurity drama**.  
+
+Whether you’re **red team, blue team, or just here for the chaos**—dive in and stay ahead.  
+
+Stay sharp. Stay secure.  
+
+**[Subscribe and join us for daily posts!](https://www.reddit.com/r/pwnhub/)**
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/pwnhub) if you have any questions or concerns.*

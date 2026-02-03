@@ -1,0 +1,17 @@
+Comment ID: mdtzcjm
+Comment Author: vawlk
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtzcjm/
+Parent comment file: 33_13.txt
+Content: they might, but that isn't my department. I have enough of that for my own systems. AFAIC, that is up to the team involved in entering the data in the system as I wouldn't have a clue what needs to be kept and what needs to be removed.
+
+---------------------
+
+Comment ID: mdvz0vu
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdvz0vu/
+Parent comment file: 33_19.txt
+Content: So in your case, the IT Department was excluded from any accountability in the breach or in any future response to things learned from the breach?
+
+Where does your district draw the line? Is each piece of software/platform listed and assigned ownership/accountability - specifically  for things like data security/retention/audits, etc?  Who maintains/owns that list?

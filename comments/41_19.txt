@@ -1,0 +1,19 @@
+Comment ID: mr4kzva
+Comment Author: sarge21
+Up/Down: 19/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr4kzva/
+Parent comment file: 41.txt
+Content: https://databreaches.net/2025/05/07/powerschool-paid-a-hackers-extortion-demand-but-now-school-district-clients-are-being-extorted-anyway/
+
+If the message is basically just "Hello, we are ShinyHunters, please give us 25 bitcoin" 
+
+Do we have actual hard confirmation that stolen data is still in use?
+
+---------------------
+
+Comment ID: mr678ut
+Comment Author: wjr10110
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr678ut/
+Parent comment file: 41_8.txt
+Content: Thanks for sharing this.

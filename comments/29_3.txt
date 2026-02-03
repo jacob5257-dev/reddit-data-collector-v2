@@ -1,0 +1,26 @@
+Post ID: 1ibsdbm
+Post Title: Powerschool data breech: my school says we're safe(?)
+Post Author: No-Effort-9291
+Up/Down: 3.0/0.0
+Content: Like so many teachers, we were made vaguely aware of the data breech. Our school forced a password change, and little else was said. 
+ 
+ Today, however, we received word that our school was not affected by this. Is this possible? I don't believe this since, I assume, the hackers gained access to the whole of the PslS database. 
+ 
+ Additionally, I am aware that my phone number is on Powerschool, but is other, more sensitive info like my SSN in there? 
+ 
+ I'm not sure who to even discuss this with in terms of finding out if we were truly affected, but wanted to start somewhere.
+ 
+ What have you all heard?
+
+---------------------
+
+Comment ID: m9ku7zx
+Comment Author: mekissab
+Up/Down: 3/0
+Link: https://reddit.com/r/Teachers/comments/1ibsdbm/powerschool_data_breech_my_school_says_were_safe/m9ku7zx/
+Parent comment file: 29.txt
+Content: While a vast number of districts were affected, not all were.  It's always good to be cautious of course.
+
+That said... If youve been a student in a PowerSchool district or a former teacher in an affected districts, then your data was likely compromised there.
+
+PowerSchool has promised to start contacting the individuals whose information was found to be compromised over the next several weeks.

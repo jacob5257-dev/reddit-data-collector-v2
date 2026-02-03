@@ -1,0 +1,18 @@
+Comment ID: m65f8q0
+Comment Author: DRENREPUS
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m65f8q0/
+Parent comment file: 4_11.txt
+Content: I highly recommend disabling vendor access unless you need them. It sounds like there is no MFA requirement for access to and through this system (speculation).
+
+---------------------
+
+Comment ID: m67h6uw
+Comment Author: Disastrous-Spell-573
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m67h6uw/
+Parent comment file: 4_31.txt
+Content: Just seen the data taken on our server on Dec 22-23.   
+The Horse has well and truly bolted.   
+Their account has been closed.   
+I still shut the door.

@@ -1,0 +1,21 @@
+Post ID: 1nhoyg3
+Post Title: Anyone a Powerschool customer, have you received an update on the Salesloft Breach?
+Post Author: SuperfluousJuggler
+Up/Down: 11.0/0.0
+Content: https://help.powerschool.com/t5/Technical-Contact-Announcements/Security-Notification-Unauthorized-Access-to-PowerSchool/ba-p/555327
+ 
+ This was the post from Powerschool on the community forum (you'll need an account to read it). It mentions "customer contact information, support case metadata, and the contents of support case communications" which are concerning.
+ 
+ Has anyone had luck getting them to respond to a request for more information? Other companies we've contacted have been able to provide a list of affected data. Powerschool has been radio silent ever since this post.
+
+---------------------
+
+Comment ID: ned4qxg
+Comment Author: da_chicken
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1nhoyg3/anyone_a_powerschool_customer_have_you_received/ned4qxg/
+Parent comment file: 54.txt
+Content: This is the first that I've heard of this incident. They don't seem to have sent any notices to us, and we're subscribed to just about everything.
+
+
+Neat.

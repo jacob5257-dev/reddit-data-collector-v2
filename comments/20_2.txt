@@ -1,0 +1,14 @@
+Post ID: 1i5rluo
+Post Title: How victims of PowerSchool's data breach helped each other investigate massive hack
+Post Author: k12techpro
+Up/Down: 61.0/0.0
+Content: This article references this community and folks that have been helping address the PowerSchool breach... [https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/](https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/)
+
+---------------------
+
+Comment ID: m892c05
+Comment Author: ckwebz
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i5rluo/how_victims_of_powerschools_data_breach_helped/m892c05/
+Parent comment file: 20.txt
+Content: This is great to see the media recognizing the true heroes here. Romy and Adam have always been incredibly helpful in our communities! I’m now patiently awaiting the screen play for this straight to Netflix movie. And, of course, the full incident report that PowerSchool had “promised” us for Jan 17.

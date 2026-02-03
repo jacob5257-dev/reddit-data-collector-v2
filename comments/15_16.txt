@@ -1,0 +1,19 @@
+Comment ID: m73pxvw
+Comment Author: kitsinni
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m73pxvw/
+Parent comment file: 15.txt
+Content: Ideally you would have a Student Information System that is built to house this kind of data. If you have other more sensitive data you want to keep it in a database with the proper security measures in place. People should only have access to the data they need to do their jobs. 
+
+Ideally this type of information should be encrypted, and if possible using tokenization and data masking.
+
+---------------------
+
+Comment ID: m7bhgn3
+Comment Author: flunky_the_majestic
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m7bhgn3/
+Parent comment file: 15_5.txt
+Content: > Ideally this type of information should be encrypted, and if possible using tokenization and data masking.
+
+Ideally, sure.  But don't overcomplicate things.  OP is in a tizzy just trying to get FERPA compliance.  Suggesting measures beyond their current capacity is not realistic.

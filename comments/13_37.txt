@@ -1,0 +1,19 @@
+Comment ID: m6m186k
+Comment Author: irld
+Up/Down: 12/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m6m186k/
+Parent comment file: 13.txt
+Content: Essentially…hacker got into power school at the top level, exported all of the tables from every environment they could, and held the data hostage.  PowerSchool paid the ransom, had them delete it all on video, and has partners monitoring the dark web for any of the data being made public. 
+
+Depends on what fields are filled out in PowerSchool for your organization.  They had the table for every student/teacher so any field filled out they have. 
+
+We shall see if they (hacker) truly deleted the only copy they have or not.
+
+---------------------
+
+Comment ID: m79szjy
+Comment Author: [deleted]
+Up/Down: 1/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m79szjy/
+Parent comment file: 13_5.txt
+Content: [removed]

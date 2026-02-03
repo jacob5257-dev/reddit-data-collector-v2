@@ -1,0 +1,15 @@
+Comment ID: m5yhj0t
+Comment Author: matthieu0isee
+Up/Down: 30/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yhj0t/
+Parent comment file: 1.txt
+Content: Wasn’t there a news article today about how a staff member at a school gave students their login credentials to their WiFi, which happened to be the same credentials for their SIS, the staff was fired and students in criminal trouble. I wonder if it’s connected
+
+---------------------
+
+Comment ID: m8rv3hg
+Comment Author: Potential_Context_58
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m8rv3hg/
+Parent comment file: 1_35.txt
+Content: Can, with 100% confidence, state that they are not connected.  The school in question does not use Power School and the account that was compromised was a TA\\Clerk not a engineer.

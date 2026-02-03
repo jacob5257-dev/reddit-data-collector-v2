@@ -1,0 +1,26 @@
+Comment ID: m6fc5ol
+Comment Author: schmag
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fc5ol/
+Parent comment file: 11_9.txt
+Content: this is why I say WE as a community cannot affect change in this regard. 
+
+districts will continue to the use the product regardless of what happened, the money will keep rolling in and nothing will change.
+
+however now, I am guessing they just paid this group off, and all this negative attention will likely force their hand to at least increase the theatre around security. 
+
+but in the end, the crackers are really the only ones that can hold a company accountable for shitty security practices.
+
+most of those I have contact with that would be able to make the decision to change, seem to regret having to deal with the fall-out and clean-up more than the fact data was stolen.
+
+---------------------
+
+Comment ID: m6fm6aj
+Comment Author: Crystalvibes
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fm6aj/
+Parent comment file: 11_16.txt
+Content: If that’s true that only hackers can enforce change and the admin only care about clean up after, why do we bother to enforce data security at all?
+Maybe it’s because I’m still relatively new to Edtech (and IT in general, less then 10 years) but I’d like to think that as an EdTech community we can work together to hold these vendors accountable.
+Develop the EdTech community with open source tools, and support networks for moving systems with all of the fun “special” nuances that come with EdTech. 
+Or maybe we really have to just suck it and brace for impact and I’m just extremely naive about the ways of the EdTech world (wouldn’t be the first time)

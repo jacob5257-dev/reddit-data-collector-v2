@@ -1,0 +1,14 @@
+Post ID: 1hwthy5
+Post Title: Powerschool Breach webinar
+Post Author: flunky_the_majestic
+Up/Down: 152.0/0.0
+Content: **CEO greets. Provides cover and corporate speak.** Acknowledges the responsibility they have, and that it should be contained. Assured they have taken every step possible. Confident that the breach is contained, understood, and no ongoing concerns on the system exist. Commitment to communication. We have assurances that the information is contained and will not be publicly available. And if there is PII released, monitoring should be in place. Powerschool takes security seriously, though this incident undermines it. THey are increasing investment in security.
+
+---------------------
+
+Comment ID: m6adwu3
+Comment Author: No_Account7338
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6adwu3/
+Parent comment file: 4.txt
+Content: Did anyone say how the support contractor's account was compromised?  Phishing? Brute Force?  Was there absolutely no MFA on the account?  Is Powerschool support contracted out, or was that contractor a PowerSchool employee?

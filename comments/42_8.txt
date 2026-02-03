@@ -1,0 +1,19 @@
+Comment ID: mr5epgg
+Comment Author: RevLoveJoy
+Up/Down: 2/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mr5epgg/
+Parent comment file: 42_5.txt
+Content: > They didn’t lose any data. They paid for the sole purpose that the threat actor wouldn’t release the stolen data, and “promised” to delete it.
+
+What?
+
+*If they didn't lose any data then WTF was stolen?*
+
+---------------------
+
+Comment ID: mr5f453
+Comment Author: bradrel
+Up/Down: 1/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mr5f453/
+Parent comment file: 42_7.txt
+Content: Lose in terms of being deleted from the production system. Sensitive data was copied but not deleted, therefore there was nothing to restore from backup.

@@ -1,0 +1,19 @@
+Comment ID: m7jjr53
+Comment Author: tdquiksilver
+Up/Down: 12/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7jjr53/
+Parent comment file: 59.txt
+Content: Yeah our students school tried to downplay this. Clearly this is much bigger than originally thought. Insane.
+
+---------------------
+
+Comment ID: m7k8hy4
+Comment Author: PermissionSoggy891
+Up/Down: 6/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7k8hy4/
+Parent comment file: 59_15.txt
+Content: classic corpo damage control. Just lie and assume the people are too stupid to do their own research. They KNEW they were purchasing poorly-secured software to store everybody's most personal data. 
+
+Frankly, I don't even see why they NEED to put the SSN on some fuck-off online server. All they SHOULD do is verify it once in-person during enrollment. Not store it on the Cloud where, the first thing you learn in ANY Cybersecurity lecture is that, no matter how "secure" something is, there is a way to breach it and hackers will find a way.
+
+This is what happens when you let uneducated boomers control how data is stored. They get distracted when "Steve Gates from Microsoft" tells them there's a virus on their computer and the only way to get rid of it is to give them the password and 2FA code (assuming they even have 2FA set up) and NOW all the students who have ever enrolled in our school's social security numbers are leaked online for any idiot who wants to take out a loan in someone else's name to do! Oopsie daisies! Better luck next time, I guess!

@@ -1,0 +1,17 @@
+Comment ID: m6eihnw
+Comment Author: mybrotherhasabbgun
+Up/Down: 21/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6eihnw/
+Parent comment file: 11.txt
+Content: We started using student data privacy agreements and filing them here: https://sdpc.a4l.org/ along with asking about data compliance and cybersecurity frameworks used by the vendors.
+
+---------------------
+
+Comment ID: m6ff563
+Comment Author: DerpyNirvash
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6ff563/
+Parent comment file: 11_4.txt
+Content: > along with asking about data compliance and cybersecurity frameworks used by the vendor
+
+Same, though I honestly expect that most are lying

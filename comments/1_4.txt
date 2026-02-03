@@ -1,0 +1,15 @@
+Comment ID: m5xp32g
+Comment Author: Chuckfromis
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xp32g/
+Parent comment file: 1_2.txt
+Content: I'm wondering if it's all/mostly hosted, or if locally hosted were targets as well
+
+---------------------
+
+Comment ID: m5xqp2u
+Comment Author: Hazy_Arc
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xqp2u/
+Parent comment file: 1_3.txt
+Content: We're hosted - so I'd imagine it likely just affects hosted districts.  If it affects on-prem as well, PowerSchool has an even bigger problem on their hands.

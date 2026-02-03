@@ -1,0 +1,15 @@
+Comment ID: mr9mr69
+Comment Author: PortalRat90
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr9mr69/
+Parent comment file: 43.txt
+Content: Not to steer away from the focus on schools, but even local and state governments suffer from inadequate cybersecurity and extremely limited resources. It is concerning that schools spend more money on athletics than other areas that need attention. The money is there for a lot of schools, the boards need to prioritize better and be held accountable.
+
+---------------------
+
+Comment ID: mrxb0lq
+Comment Author: Sunitha_Sundar_5980
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mrxb0lq/
+Parent comment file: 43_13.txt
+Content: A lot of schools don’t have the budget or expertise to implement enterprise-level security, but that doesn’t make the risk any less real. It’s why partnerships with secure platforms, better oversight, and even government support for cybersecurity in education are becoming critical. Because at the end of the day, lack of funding can’t be an excuse for putting student data at risk.

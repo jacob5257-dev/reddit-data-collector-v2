@@ -1,0 +1,51 @@
+Comment ID: mdpqffs
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdpqffs/
+Parent comment file: 33_1.txt
+Content: Appreciate the reply!
+
+>Now, that being said IT absolutely should be involved in setting up procedure for secure data transfers, account lifecycles, and should collaborate with them on how to setup secure permissions.
+
+>Ideally you have a dedicated security team dedicated to auditing and creating policies here.
+
+The last point is going is going to be a problem with 95% of smaller schools/districts.  There simply *isn't* a dedicated anything - especially security team.  Everyone wears many hats.  Hence the school secretary (now known as Administrative Assistance) being put in charge of Powerschool in the first place.  
+
+I totally get IT *needing* to be involved for certain aspects.  And perhaps I'm just venting here - but that's where the cracks start to show.  To really set a secure tenant up, it would involve having a bit more in depth understanding of the underlaying technology, platform and how it all works in our environment.  And with something as potentially clunky and complex as Powerschool, that's no small task.  But it also sets a different precedence : If that's the expectation (IT will design, configure, implement, enforce, and audit data security for any and all software platforms, then we'd also be on the hook for doing that for every other department.  And I don't think it's realistic or practical to think I'm going to become a security expert in our accounting platform, food service platform, facilities platform, educational platforms, marketing platforms, and so on.  And we're right back to "have a dedicated pro"... At best, I can make a case for a new hire position...  
+
+But I also appreciate it's not likely realistic to expect the primary users of any of those platforms to also become security experts for their respective platforms either.  And so here we are.
+
+>So, there are hundreds of SIS vendors and I wish I could tell you one is the “golden” solution, but they all have their own unique troubles.
+
+PowerSchool, Skyward, Ascender, and Infinite Campus are the big dogs here, but like I said there are a ton of smaller companies that may have their benefits.
+
+Oh, for sure. I'm absolutely aware that they all have their pros and cons.  And, like you, I've never heard anyone say they love theirs.
+
+>Veracross is one of those smaller companies and in my experience is larger overseas, but is strategically targeting smaller schools stateside. They are in the middle of upgrading their connection standards and it’s presenting some minor challenges and vendors adapt. I don’t have any first hand experience with them however to speak on their user experience but I have heard some mixed opinions about it. (Though I’ve never heard someone not complain about their SIS to be fair)
+
+Thanks for the info!
+
+>They will likely do some network auditing to find what servers and services you are using, and then they will go to everyone and every department to ask what they are using and why, then generate reports after potentially having conversations with the vendors.
+
+And therein lies the issue.  I'm less concerned about our on premise server security (but acknowledge there's still potential data issues) so really it's just the cloud ones I'm addressing here.  And how does one even begin this?  Yes, I can simply ask each department head what software they use. And they may know that answer.  But what about the last software they used?  Is our data still sitting around on some other platform?  What about whatever software some past employee signed up for but we've since stopped using? 
+
+>As far as data retention, a traditional SIS is by design going to keep historical records, it’s very commonly needed for state reporting and is kind of a core tenant of the software.
+
+Oh, yeah. For sure a consideration - we're certainly legally required to retain *certain* records for a certain period of time.  But in this case, our SiS isn't one of them (for staff).  And the data we do need for students is significantly less than the data we actively hold on to.  HR software will do the staff/hire legal retention. Enrollment and whatever else is needed for students is yet another data bucket to save.  But the rest should be kept to a bare minimum (lest it's all leaked when a vendor is breached...)
+
+Appreciate the vote of confidence and I'm certainly trying to pace myself - but of course I have a board and higher-ups looking for answers, action, and someone to lead us in the right direction (while explaining why we weren't already going in that direction...)
+
+---------------------
+
+Comment ID: mdsogx1
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdsogx1/
+Parent comment file: 33_2.txt
+Content: I agree schools *should* have a security team, but to be brutally honest, most of them don't care or don't want one. Even if the school has an IT director who understands cybersecurity, they typically chafe against bringing in someone who might point out what they could do better.
+
+Most of the time admin and boards don't really care or don't know - they think Security is part of IT's job, but in more mature industries its recognized as separate because its a conflict of interest to put them together. Half the time admin/board have trouble even using technology effectively, so don't expect your ask for a new hire to be fulfilled :)
+
+>And therein lies the issue. I'm less concerned about our on premise server security (but acknowledge there's still potential data issues) so really it's just the cloud ones I'm addressing here. And how does one even begin this? Yes, I can simply ask each department head what software they use. And they may know that answer. But what about the last software they used? Is our data still sitting around on some other platform? What about whatever software some past employee signed up for but we've since stopped using?
+
+Your Finance dept might be able to help you (for paid apps). Your GWS/M365 admin console should be able to show you which 3rd party apps are being used with your cloud accounts. Data given to third-party vendors is a problem, and should be considered prior to signing up with them. Take a look at their data retention or privacy policy. For vendors you off-board, ask for proof of deletion. You should also have tighter controls over what software is being used/added by working with Finance (for procurement) or principals or Tech Coordinators.

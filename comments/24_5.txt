@@ -1,0 +1,17 @@
+Comment ID: m8rjxla
+Comment Author: TravisVZ
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8rjxla/
+Parent comment file: 24.txt
+Content: This is something that's always irked me about the laws in this country (and others maybe?): PowerSchool fucks up and leaks our students' data, but legally *we* are the ones on the hook for notification and the costs associated with that, while the vendor just walks away unscathed.
+
+Now in this case PowerSchool is stepping up, though for our District the breached data doesn't reach the threshold under our state's laws to require notification, so it's moot either way for us. But it wasn't all that long ago that other vendors were breached and we did have to notify, and it was all on us - only thing we got from the vendor was the data that was stolen and a "we're sorry but you can totally trust us in the future"
+
+---------------------
+
+Comment ID: m8so90e
+Comment Author: mjh2901
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8so90e/
+Parent comment file: 24_4.txt
+Content: For the vendor that did not step up, maybe there should be a board policy that bars the school from re-upping with any vendor that causes a data breach and then fails to pay for the incidental costs.

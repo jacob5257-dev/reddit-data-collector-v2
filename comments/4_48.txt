@@ -1,0 +1,20 @@
+Comment ID: m67hif9
+Comment Author: sy029
+Up/Down: 17/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m67hif9/
+Parent comment file: 4.txt
+Content: >* Removed maintenance access from all accounts except four, which are incident response.
+>* Moving forward PS will no longer have time-unlimited access. They will need to request access each time. Maintenance Access will not be turned by indefinitely. It will turn off automatically in 1-30 days and need new action to turn it back on later.
+* MFA is enforced to log into the VPN where PowerSource is now accessed. Eventually MFA will be required for PowerSource support staff, too.
+
+
+Soo... they have basic security practices now?
+
+---------------------
+
+Comment ID: m689v3q
+Comment Author: sharpeone
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m689v3q/
+Parent comment file: 4_44.txt
+Content: Exactly.  A multibillion dollar company just now catching up with basic security practices that we as a school district have been doing for years?

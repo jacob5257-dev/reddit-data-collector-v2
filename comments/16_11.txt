@@ -1,0 +1,21 @@
+Comment ID: m79ti4p
+Comment Author: orphantech
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79ti4p/
+Parent comment file: 16.txt
+Content: Strongly recommend reaching out to your cyber security insurance, who will likely get you to a legal dept. 
+
+Trust but verify.  If your instance is still online, for data retrieval, then your info was likely part of the exfiltration.
+
+Fields of major concern are medical alerts, ssn, gpa. Other fields are generally considered directory information and may not fall under your state's mandatory notification requirements.
+
+Yes, it is powerschool's incident, but best to get the proper guidance of cyber security and legal team.
+
+---------------------
+
+Comment ID: m7abhnh
+Comment Author: Majestic-Cap-3634
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7abhnh/
+Parent comment file: 16_2.txt
+Content: Good point here. We had begun getting everything ready to send out to the affected members with PowerSchool's scripted response when our insurance told us to stop until told otherwise from them. Apparently, a lot of schools are starting to group together in a class action lawsuit so we shall see.

@@ -1,0 +1,15 @@
+Comment ID: m6er8ks
+Comment Author: diwhychuck
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6er8ks/
+Parent comment file: 11_2.txt
+Content: You're a funny guy! Most supers will just give a thumbs up and do nothing.
+
+---------------------
+
+Comment ID: m6fo0j6
+Comment Author: GeekFarm02
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fo0j6/
+Parent comment file: 11_8.txt
+Content: Exactly. We recently had a huge FERPA meeting in our area and at the end of it all, everyone looked around and thought, ‘That’s great, but how can we do this without hiring more people.’ I’ve talked to multiple supts about this exact topic and there are bigger fish to fry with figuring out how we are supposed to keep schools running with a 1.5% funding increase for next year.  Thinking or doing anything about this takes time and money. Both of which are already very scarce. They know the risks and there is nothing than can be done.  The reality is that most everyone’s PII is already out there (if not for this breach, then that one) and you have to protect yourself with frozen credit reports, etc.

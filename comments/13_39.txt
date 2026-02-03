@@ -1,0 +1,22 @@
+Post ID: 1hz18no
+Post Title: PowerSchool Data Breach
+Post Author: Ok_Adhesiveness5924
+Up/Down: 84.0/0.0
+Content: I'm having trouble finding much already posted but PowerSchool told my district and our neighboring district that they were hacked and some student and teacher data may be breached, and the few sources I can find suggest that the breach wasn't limited to any one district in particular, it is potentially any and all users.
+ 
+ I'm old enough that my SSN is probably out there from at least 5 other breaches of trusted institutions, I'm used to monitoring my credit etc not so worried about that part.
+ 
+ But PowerSchool has a lot of privileged student information. How concerned should I be as a teacher about what information may now be public? Is this just like when health care organizations are hacked but hackers usually don't bother with anything other than SSNs?
+ 
+ Best not-district-specific article I can find:
+ 
+ https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/
+
+---------------------
+
+Comment ID: m8yf0e5
+Comment Author: [deleted]
+Up/Down: 1/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m8yf0e5/
+Parent comment file: 13.txt
+Content: [removed]

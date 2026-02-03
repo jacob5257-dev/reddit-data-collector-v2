@@ -1,0 +1,55 @@
+Post ID: 1hxedsq
+Post Title: PowerSchool Users what are you telling parents?
+Post Author: Road_Trail_Roll
+Up/Down: 24.0/0.0
+Content: We're working on a message to our parents and staff. I'm curious, what has everyone else sent out to explain what happened and what your steps are?
+
+---------------------
+
+Comment ID: m6ecnjw
+Comment Author: TheJizzle
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m6ecnjw/
+Parent comment file: 8.txt
+Content: Here's what my kid's school sent:
+
+On the afternoon of Tuesday, January 7, 2025, our school district was informed by PowerSchool of a recent cybersecurity incident within the PowerSchool Student Information System (PowerSchool SIS). This incident has had a global impact on its customers, including our district. We are writing to share the information we have at this time, and outline the next steps in our response.
+
+ 
+
+We recognize that incidents like this can cause significant concern, as protecting the privacy and security of personal information is a top priority. Please know that we are working with PowerSchool to better understand the scope of the cybersecurity incident and to ensure that appropriate measures are taken to safeguard the information. We will keep you informed of developments as they become available from PowerSchool. 
+
+ 
+
+Description of the Event
+
+On December 28, 2024, PowerSchool discovered that a threat actor had accessed personal employee and student information from customers using the PowerSchool Student Information System (PowerSchool SIS). The threat actor exploited the user account of a PowerSchool technical support employee, allowing rapid access to and the downloading of millions of records from schools throughout the country between December 19 and December 24, 2024. This incident did not involve our school district’s network security or infrastructure. 
+
+ 
+
+More importantly, no passwords, social security numbers, or financial information was impacted by this incident. The type of information accessed varies by individual but may include student names, student ID numbers, parent/guardian contact information, dates of enrollment or withdrawal reasons, limited medical alert information (e.g., allergies or other conditions), and IEP/504 status. 
+
+ 
+
+Although PowerSchool has assured us that the risk of data dissemination or misuse is low, we remain vigilant and are leveraging all available resources to thoroughly assess the situation. 
+
+ 
+
+Next Steps in Response 
+Our Technology Department continues to review data and assess any additional actions that may be necessary. We are collaborating closely with other impacted school districts and leveraging our membership in both statewide and national educational technology organizations to ensure we have taken every possible step in responding to this cybersecurity incident.
+
+ 
+
+PowerSchool has provided the next steps it is taking in response to this incident:
+ 
+
+    PowerSchool has engaged a third-party, cybersecurity firm, to investigate the incident. 
+    PowerSchool has implemented additional information security best practices requiring updated credentials for all employees, and restricting access to their support system tools. 
+
+ 
+
+Additionally, in accordance with the Student Online Personal Protection Act (SOPPA), the school district has prepared additional contact information accessible through a separate document that has been created and posted on our website.
+
+ 
+
+If you have any questions regarding this incident, please email [director], Director of Technology, at [email]

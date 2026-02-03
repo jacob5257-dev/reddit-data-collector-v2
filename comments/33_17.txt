@@ -1,0 +1,34 @@
+Comment ID: mdpszg4
+Comment Author: k12-tech
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdpszg4/
+Parent comment file: 33.txt
+Content: PowerSchool is 100% Technology responsibility. Sure, we have clerical that enters attendance, does schedules, etc; but everything is under the control of the technology department. 
+
+If they need support, it comes from us. If they need training, it comes from us. 
+
+We control all users, and limit access as much as possible. There are only two people with SysAdmin roles - everyone else is limited to their needs. 
+
+Teachers see grades, attendance, and contract info. Clerical staff doesn’t have access to grades (except the registrar). Nurses have access to medical and contact info, but not grades, etc.
+
+Every security group is controlled as strictly as we can. 
+
+Join the PSUG group, and read the archives. You’ll learn a lot! Like anything in tech, you have to use it to understand all the unique issues. 
+
+Every SIS is terrible. lol. They all have their issues. PowerSchool is actually one of the better evils. I previously used SkywardSMS and will take PowerSchool any day! I’ve heard great things about InfiniteCampus too, but have never used that one personally.
+
+---------------------
+
+Comment ID: mdtv2an
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtv2an/
+Parent comment file: 33_3.txt
+Content: Thanks for your input!
+
+Does your IT Department handle student enrollment as well as adding staff to PS?  
+
+
+I'm jumping back into the PSUG (was mover a decade since I last did)
+
+How is your IT Department handling data retention, auditing, and permission auditing in PS?  Sounds like you enter medical data too - how is that handled (after a student leaves)?

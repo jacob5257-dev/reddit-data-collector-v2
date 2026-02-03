@@ -1,0 +1,15 @@
+Comment ID: m65v7mk
+Comment Author: Daraca
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m65v7mk/
+Parent comment file: 4_28.txt
+Content: This is not uncommon in (any) industry, there are companies dedicated to gather intelligence of every potential customer. It’s a pretty standard part of sales tactics.
+
+---------------------
+
+Comment ID: m680akp
+Comment Author: eldonhughes
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m680akp/
+Parent comment file: 4_36.txt
+Content: All true.  But the language hasn't read as much like a phishing scam in the past.  Language, timing, content, all look even more sketchy than their past approaches.  Maybe there's a new marketing lead.

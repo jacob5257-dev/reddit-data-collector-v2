@@ -1,0 +1,15 @@
+Comment ID: m645ydg
+Comment Author: antilochus79
+Up/Down: -6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m645ydg/
+Parent comment file: 4_8.txt
+Content: Most PowerSchool instances are self-hosted.
+
+---------------------
+
+Comment ID: m64b6s7
+Comment Author: linus_b3
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m64b6s7/
+Parent comment file: 4_15.txt
+Content: Are they?  In my area, every district is hosted by PowerSchool except for one.

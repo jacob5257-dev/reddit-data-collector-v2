@@ -1,0 +1,14 @@
+Post ID: 1icbzl2
+Post Title: PowerSchool Data Breach Affects Over 271,000 Students and 14,000 Teachers in Newfoundland
+Post Author: RepulsivePlankton989
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m9qf132
+Comment Author: villa1919
+Up/Down: 6/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9qf132/
+Parent comment file: 60.txt
+Content: Unfortunately sometimes outside vendors fuck up. It's worth questioning why data was being retained for so long in the system though

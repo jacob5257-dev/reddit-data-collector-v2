@@ -1,0 +1,16 @@
+Post ID: 1iqh5s8
+Post Title: PowerSchool incident further problems?
+Post Author: zumaro
+Up/Down: 14.0/0.0
+Content: One of our parents affected by the PowerSchool breach has received an email from PowerSchool <Ps-sis-incident@mail1.csid.com> following closely the template that PowerSchool suggested we send out to families. It lists her daughter and was sent to her personal email address. 
+ 
+ This looks on the face of it to be a phishing attempt with the stolen information?
+
+---------------------
+
+Comment ID: md99dnz
+Comment Author: philr79
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md99dnz/
+Parent comment file: 32.txt
+Content: So, our district was supposedly NOT affected by the breach and given the attack vectors sending outbound to a foreign IP address, our systems would have blocked that all day long.  What are you telling parents?  Is there a way for a district to know WHO received these e-mails?

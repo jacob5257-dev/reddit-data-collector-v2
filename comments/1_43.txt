@@ -1,0 +1,21 @@
+Comment ID: m5y4skf
+Comment Author: lutiana
+Up/Down: 15/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y4skf/
+Parent comment file: 1.txt
+Content: The email I got is completely unclear on what was compromised and if we were compromised. A lot about how other PS products are A-OK, it was only the SIS, but at the end says "although your product was not impacted"
+
+So which is it, was out data part of the this or not?  
+  
+But don't worry, they're "are addressing the situation in an organized and thorough manner" (no idea wtf that means, but they repeated it about 4 times in the email).
+
+---------------------
+
+Comment ID: m5z0hcu
+Comment Author: lutiana
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5z0hcu/
+Parent comment file: 1_26.txt
+Content: Heads up, there seem to be two types of emails PS sent out about this, one stating explicitly that your data was compromised, the second being one that is deliberately vague and noncommittal about your data's involvement.
+
+The second type, like what we received, does not mean your data is safe. We managed to get confirmation from them that our data was indeed involved, even though the email did not explicitly say that it was.

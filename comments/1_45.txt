@@ -1,0 +1,15 @@
+Comment ID: m5yinh7
+Comment Author: J_de_Silentio
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yinh7/
+Parent comment file: 1_24.txt
+Content: It affected both.  Support credentials were compromised.
+
+---------------------
+
+Comment ID: m5z3j45
+Comment Author: pheen
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5z3j45/
+Parent comment file: 1_36.txt
+Content: Yeah I found out. Ukrainian IP downloaded student and teacher exports on 12/22

@@ -1,0 +1,14 @@
+Post ID: 1hwthy5
+Post Title: Powerschool Breach webinar
+Post Author: flunky_the_majestic
+Up/Down: 152.0/0.0
+Content: **CEO greets. Provides cover and corporate speak.** Acknowledges the responsibility they have, and that it should be contained. Assured they have taken every step possible. Confident that the breach is contained, understood, and no ongoing concerns on the system exist. Commitment to communication. We have assurances that the information is contained and will not be publicly available. And if there is PII released, monitoring should be in place. Powerschool takes security seriously, though this incident undermines it. THey are increasing investment in security.
+
+---------------------
+
+Comment ID: m63v2zs
+Comment Author: duluthbison
+Up/Down: 15/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m63v2zs/
+Parent comment file: 4.txt
+Content: So happy to be an Infinite Campus district right now. PowerSchool has been and always will be a terrible company.

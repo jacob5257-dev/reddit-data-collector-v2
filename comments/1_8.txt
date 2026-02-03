@@ -1,0 +1,15 @@
+Comment ID: m5xp32g
+Comment Author: Chuckfromis
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xp32g/
+Parent comment file: 1_2.txt
+Content: I'm wondering if it's all/mostly hosted, or if locally hosted were targets as well
+
+---------------------
+
+Comment ID: m5xrup4
+Comment Author: vawlk
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xrup4/
+Parent comment file: 1_3.txt
+Content: I received the email and we host our own server....

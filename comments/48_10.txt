@@ -1,0 +1,17 @@
+Comment ID: ms62nln
+Comment Author: LuckyNumber3_13
+Up/Down: 2/0
+Link: https://reddit.com/r/ChicagoSuburbs/comments/1kly3q5/my_kids_data_was_part_of_a_december_2024_hack_of/ms62nln/
+Parent comment file: 48.txt
+Content: Did you find out that your district had a cyber extortion issue or are you concerned about it happening going forward? I don't know that you can sue them without injury - you may just need to use credit monitoring for now.
+
+---------------------
+
+Comment ID: ms6awo0
+Comment Author: popciclecity
+Up/Down: 1/0
+Link: https://reddit.com/r/ChicagoSuburbs/comments/1kly3q5/my_kids_data_was_part_of_a_december_2024_hack_of/ms6awo0/
+Parent comment file: 48_3.txt
+Content: The hacking of the data happened in December 2024. The school alerted me about it in March 2025. Today I found out our school has now been approached by what is being called a "threat actor" saying they want money (again) to keep the data off whatever marketplace they put it on.
+
+I know we aren't the only family affected and that multiple school districts in the state, the US and Canada were hacked via the same vendor.

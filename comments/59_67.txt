@@ -1,0 +1,22 @@
+Post ID: 1i2t4os
+Post Title: PowerSchool breach worse than thought, company says "all" student and teacher data accessed
+Post Author: Snowfish52
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m7ph9nn
+Comment Author: MBILC
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7ph9nn/
+Parent comment file: 59.txt
+Content: As is always the case...
+
+the same playbook over and over
+
+1. We were breached but dont worry, data is safe
+2. We have found out some data was leaked - 1 week later
+3. We have found everything was accessed including PII data - 1 week later
+
+Followed with "we take your privacy and security seriously and work hard to protect our customers"  line...

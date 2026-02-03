@@ -1,0 +1,15 @@
+Comment ID: m5y6bwp
+Comment Author: lutiana
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y6bwp/
+Parent comment file: 1_15.txt
+Content: So they paid the bad guys to delete the data, interesting.
+
+---------------------
+
+Comment ID: m64ceed
+Comment Author: m3gunner
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m64ceed/
+Parent comment file: 1_28.txt
+Content: They had to... Schools don't play and would kick them to the curb if the data wasn't squashed. They would literally lose all of their customers and be out of business in 24 hours.

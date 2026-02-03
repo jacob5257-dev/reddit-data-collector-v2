@@ -1,0 +1,21 @@
+Comment ID: m65j3f8
+Comment Author: RememberCitadel
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m65j3f8/
+Parent comment file: 1_79.txt
+Content: Sure, but that already flew the coup. I am pointing out the potential for additional damage of accounts gathered from that breach being used to get into the rest of your environment. 
+
+There are also many who have their instance hosted elsewhere,  who might otherwise think themselves otherwise safe.
+
+---------------------
+
+Comment ID: m68u5xp
+Comment Author: combobulated
+Up/Down: 0/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m68u5xp/
+Parent comment file: 1_80.txt
+Content: It seems like at best they'd have the PII - which may correlate to usernames (email addresses)
+
+I'm not too worked up over email address exposure - ours aren't secret - they're already posted on our website.
+
+But yeah, always a good idea to just treat it like a cockroach infestation and take every possible measure.

@@ -1,0 +1,16 @@
+Post ID: 1iah8vv
+Post Title: Top 10 Things to Change in K-12
+Post Author: k12techpro
+Up/Down: 17.0/0.0
+Content: The PowerSchool breach has been a difficult wake-up call for all of us, but it's not the first breach and it will not be the last. School districts and ed-tech partners have all had the chance to revisit their cybersecurity plans over the last few weeks, and this has afforded us the opportunity to rethink some common practices in K-12 technology. Here's our top 10 --> [https://k12techpro.com/top-10-things-to-change-in-k-12/](https://k12techpro.com/top-10-things-to-change-in-k-12/)
+
+---------------------
+
+Comment ID: m9c4i8a
+Comment Author: NorthernVenomFang
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/m9c4i8a/
+Parent comment file: 27.txt
+Content: I agree with almost everything on that list.
+
+Getting rid of Active Directory I would see as a long term goal.   It has to go, but I think I would rank that as the last thing on that list; MFA, local admin accounts, and shared accounts are far more important security issues that need to be addressed ASAP.

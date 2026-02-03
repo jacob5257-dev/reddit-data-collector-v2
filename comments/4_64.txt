@@ -1,0 +1,15 @@
+Comment ID: m6c1w4w
+Comment Author: bad_brown
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6c1w4w/
+Parent comment file: 4_28.txt
+Content: Not a Powerschool SIS customer. Just means those users are paying for other Powerschool-owned products. I have a district that just uses SchoolMessenger.
+
+---------------------
+
+Comment ID: m6m1hvx
+Comment Author: eldonhughes
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6m1hvx/
+Parent comment file: 4_56.txt
+Content: Which was my first thought. Turns out, that is what is/was happening in some cases, but not all.

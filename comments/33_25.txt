@@ -1,0 +1,19 @@
+Comment ID: mdvz0vu
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdvz0vu/
+Parent comment file: 33_19.txt
+Content: So in your case, the IT Department was excluded from any accountability in the breach or in any future response to things learned from the breach?
+
+Where does your district draw the line? Is each piece of software/platform listed and assigned ownership/accountability - specifically  for things like data security/retention/audits, etc?  Who maintains/owns that list?
+
+---------------------
+
+Comment ID: mdztqbc
+Comment Author: vawlk
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdztqbc/
+Parent comment file: 33_22.txt
+Content: no, I wouldn't say that. I was the one that checked the logs and I turned off the settings that allowed their support accounts to access our data. But things like turning off the SSN field and other general security for the system is maintained by the other department.
+
+For us, while the line is overlapping a bit, anything done inside of the app through the UI is the responsibility of the SIS department and the IT department is responsible for the security of the host server and the maintenance/support/backups of the platform.

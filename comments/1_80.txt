@@ -1,0 +1,20 @@
+Comment ID: m65dk16
+Comment Author: NickGSBC
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m65dk16/
+Parent comment file: 1_50.txt
+Content: Unfortunately in this particular case that doesn't matter when PowerSchool built in a back door for support to access servers that worked even when districts had remote support disabled...
+
+  
+Also this impacted both customers that have their PowerSchool instance run by PowerSchool and districts that have their own PowerSchool server on prem.
+
+---------------------
+
+Comment ID: m65j3f8
+Comment Author: RememberCitadel
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m65j3f8/
+Parent comment file: 1_79.txt
+Content: Sure, but that already flew the coup. I am pointing out the potential for additional damage of accounts gathered from that breach being used to get into the rest of your environment. 
+
+There are also many who have their instance hosted elsewhere,  who might otherwise think themselves otherwise safe.

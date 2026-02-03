@@ -1,0 +1,17 @@
+Comment ID: m8uolwp
+Comment Author: Neat_Environment_495
+Up/Down: 77/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8uolwp/
+Parent comment file: 25.txt
+Content: The data breach was because every time they would remote in for support they used a back door. Which per their company standard was left open with a simple 6 character password attached.  With NO 2FA! The company did not enforce it. An upper level admin was compromised who stored all this info on his desktop. It was a total cakewalk for the hacker. 
+
+Source: I am in the affected industry.
+
+---------------------
+
+Comment ID: m8v4kyb
+Comment Author: BeTheBall-
+Up/Down: 16/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8v4kyb/
+Parent comment file: 25_20.txt
+Content: Goddamn, that's some bush league shit.

@@ -1,0 +1,32 @@
+Comment ID: m7h7a7j
+Comment Author: foolmetwiceagain
+Up/Down: 17/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7h7a7j/
+Parent comment file: 59.txt
+Content: If you pay a hacker to delete stolen data, I think you have met the definition of “ransomware attack”. I’m sure their lawyers and insurance carrier would disagree. 
+
+It’s also a complete violation of any trust or reputation they may have had with their clients. I’m sure this path of minimal disclosure and carefully worded press releases helps minimize their legal liability, but what a terrible way to help the people most impacted - the students and teachers whose data was stolen.
+
+---------------------
+
+Comment ID: m7jil7b
+Comment Author: Bartsches
+Up/Down: 3/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7jil7b/
+Parent comment file: 59_1.txt
+Content: >I’m sure this path of minimal disclosure and carefully worded press releases helps minimize their legal liability
+
+
+I don't believe that is necessarily the reason to assume. When looking at serious successfull cyber attacks a point I'd like to see more emphasis on is that the defenders will be in utter chaos. People break in such conditions from having decades of work invalidated, from extreme workload, and from extreme pressure from everywhere else. A good rule of thumb is that from the team originally responsible for the attacked service half will be unfit for work overnight. Especially the team lead and often permanently. This is the type of stress that can literally kill people.
+
+
+In that situation you will have among others to onboard internal replacements for the lost colleagues, external specialists, likely a new team structure, and often completely throw any and all established procedures (as assumed unsafe) overboard, completely relearning how to do your job.
+
+
+The thing that breaks first here is internal communications. People doing their utmost to save what's left on a technical side have neither the time nor mental capacity to sit down and write cohesive reports. They don't have an established leadership structure ensuring that to happen. And even if they have, these situations are so fluidly moving in parallel that it's impossible to stay up to date. You'll produce more meeting notes per hour than can be read in the same.
+
+
+As such those in the company not directly involved - especially the higher ups which do get a lot of related work and stresses -  will not have a good idea of what's going on. 
+
+
+TlDr: very long winded way of saying that sparse public comment is majorly caused by companies themselves not knowing what's happening and given a large enough issue cannot reasonably be expected to know either. Liability is definitely an issue, but it's not the only reason for this to happen.

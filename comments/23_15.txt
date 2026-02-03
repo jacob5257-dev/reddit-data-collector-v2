@@ -1,0 +1,26 @@
+Post ID: 1i6j2jo
+Post Title: Current and former students and teachers of the TDSB, how are you feeling about the Powerschool cyber breach?
+Post Author: sounds_familiar_too
+Up/Down: 25.0/0.0
+Content: A couple of articles about this:
+ 
+ [https://www.thestar.com/news/gta/personal-information-of-ontario-students-going-back-decades-may-have-been-breached-in-cyberattack/article\_c4933936-d431-11ef-b492-57df3a162eca.html](https://www.thestar.com/news/gta/personal-information-of-ontario-students-going-back-decades-may-have-been-breached-in-cyberattack/article_c4933936-d431-11ef-b492-57df3a162eca.html)
+ 
+ [https://toronto.citynews.ca/2025/01/20/students-information-dating-back-to-1985-may-have-been-accessed-in-tdsb-cyber-incident/](https://toronto.citynews.ca/2025/01/20/students-information-dating-back-to-1985-may-have-been-accessed-in-tdsb-cyber-incident/)
+ 
+ My kids are impacted, and other people affected were students as far back as 1985 (and I even read 1965 in Peel district).
+ 
+ If you were a student back then, did you sign anything permitting the TDSB to upload your data to Powerschool? Sounds like you might want to contact the Office of the Information and Privacy Commissioner of Ontario. There are several class action lawsuits on the go in the USA against Powerschool, do we need one here?
+ 
+ And it impacts teachers too: [https://www.techradar.com/pro/security/powerschool-breach-worse-than-thought-company-says-all-student-and-teacher-data-accessed](https://www.techradar.com/pro/security/powerschool-breach-worse-than-thought-company-says-all-student-and-teacher-data-accessed)
+ 
+ What can be done? I'm particularly interested in some kind of incentive to prevent this happening again. There will be lots of finger-pointing by those responsible. I don't think this should be just another "<shrug>Oh well!"
+
+---------------------
+
+Comment ID: m8er9ra
+Comment Author: Gakusei_Eh
+Up/Down: 1/0
+Link: https://reddit.com/r/askTO/comments/1i6j2jo/current_and_former_students_and_teachers_of_the/m8er9ra/
+Parent comment file: 23.txt
+Content: My address, phone number, and health card number changed long, long ago so all they really have is my name, dob, and gender. In other words, nothing.

@@ -1,0 +1,17 @@
+Comment ID: m65ng9w
+Comment Author: Fresh-Basket9174
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwt7ox/powerschool_breach/m65ng9w/
+Parent comment file: 3.txt
+Content: I sent a screenshot of that to our MIS, we both said something like  "read the room folks"  .  I also heard some people got an auto response of "were excited to have you join us" after registering for the session.  All systems can have issues, but it seems like they may not have even had mfa on that account.  That's just lazy in this day and age.  
+
+That said, it  gave us something to chuckle about on a pretty stressful day.  It's  9pm and the promised communication from them has not arrived yet so hopefully it will be in the inbox in the morning.
+
+---------------------
+
+Comment ID: m67ssh8
+Comment Author: jallenm01
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwt7ox/powerschool_breach/m67ssh8/
+Parent comment file: 3_2.txt
+Content: Still nothing in my inbox and not notifications that the FAQs are updated either.

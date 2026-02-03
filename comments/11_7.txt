@@ -1,0 +1,15 @@
+Comment ID: m6eduin
+Comment Author: sin-eater82
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6eduin/
+Parent comment file: 11.txt
+Content: Start by not doing business with companies that won't attest to having these practices in place.
+
+---------------------
+
+Comment ID: m6er1ph
+Comment Author: OkayArbiter
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6er1ph/
+Parent comment file: 11_1.txt
+Content: You assume that random superintendents or directors aren't the ones buying these products.

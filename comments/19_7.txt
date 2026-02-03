@@ -1,0 +1,27 @@
+Comment ID: m7v76lh
+Comment Author: namon295
+Up/Down: 29/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/m7v76lh/
+Parent comment file: 19.txt
+Content: They used java all the way up until 2021.... They have always been shit. But that explains 90 percent of the services for education.  This whole debacle did not surprise me at all, and I legitimately believe this could have been any major educational vendor/service that got hit not just power school.
+
+---------------------
+
+Comment ID: m8d2mt5
+Comment Author: PhxK12
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/m8d2mt5/
+Parent comment file: 19_1.txt
+Content: I agree it could occur to any vendor (K12 or otherwise), but PowerSchool SIS had it coming for sure. They have decades of legacy code. PowerSource was "killed off" years ago and replaced by "PowerSchool Community", but much of the useful content is still on PowerSource... So they get to maintain two systems forever.  Whatever "maintain" actually means at PowerSchool.
+
+The SIS product cannot be fixed - truly. It is not fixable. The only option would be a 100% re-write, but that would alienate all customers to the point they might as well migrate to another vendor. So they keep writing little patches here and there. We get some new features from time to time. It's usually whatever marketing believes is important so they can sell the company again. [In 2015, I remember they developed PowerSchool for Apple Watch](https://www.powerschool.com/news/powerschool-mobile-now-available-apple-watch/). This was the icing on the cake, because there were major things lacking in the product, but Marketing probably decided this sounded more exciting. Did any customer actually use this? Probably not... Now I'm sure the current owners will focus on "AI" and then sell PowerSchool SIS again. Just wait for it...
+
+Customers have been allowed to, and have needed to heavily modify their SIS instances to make the product work for them. (Custom fields, pages, plugins, etc). This is mostly PowerSchool's own fault for not being responsive to build the product that we need. Things that should be baked in, like online registration, have instead been an acquisition / integration trainwreck that came decades too late.
+
+PowerSchool spent years of not being responsive to customer feedback, so everyone went wild tweaking PowerSchool to fit their needs, bolting on and endless array of 3rd party apps. Now, for PowerSchool to make improvements, they have to break a lot of those user customizations that we were forced to make.
+
+The database structure is a disaster with legacy design dating back to when Apple owned PowerSchool.
+
+PowerSchool has had too many owners and developers over the decades. Now we're in the phase of private equity vulchers like Vista Equity Partners, Onex Partners, and Bain Capital buying and selling PowerSchool. We all know what is going on... Buy it, find a way to sell it for slightly more, wash your hands of it, on to the next fool to deal with it.
+
+All that being said, where are we all going to go? Infinite Campus? Do we really want to undertake a SIS migration? We'd just be trading our current problems for different ones, likely adding a lot of frustration to all our users during the transition.

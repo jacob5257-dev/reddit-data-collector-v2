@@ -1,0 +1,17 @@
+Comment ID: m5xxzq9
+Comment Author: sarge21
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xxzq9/
+Parent comment file: 1_17.txt
+Content: You have to look at the time of the logs in the ps-audit-logs and then manually correlate them to the mass-data logs. Sorry, there is no automatic function
+
+---------------------
+
+Comment ID: m5y10dc
+Comment Author: EdTechYYC
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y10dc/
+Parent comment file: 1_19.txt
+Content: What sort of data did you see being accessed?
+
+If anyone has an SQL query to do correlate this, I'm sure many would be super grateful.

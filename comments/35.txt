@@ -1,0 +1,9 @@
+Post ID: 1iz108m
+Post Title: PowerSchool data breach
+Post Author: Vast_Equal8
+Up/Down: 3.0/0.0
+Content: So I just received an email notifying me that I'm one of the people whose data was stolen during the PowerSchool data breach back in January. It listed that my SSN was potentially stolen but that they "do not have evidence" yet.
+ 
+ They've offered two free years of identity protection services but that feels like a lowball considering the damage that can be done because of this. Their system was obviously so unsecure from the beginning considering it lacked basic multifactor authentication.
+ 
+ Does anyone know if legal action is being taken for those affected? Because I very much want in and I'm very upset over it all.

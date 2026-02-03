@@ -1,0 +1,29 @@
+Comment ID: m6etuh9
+Comment Author: Crystalvibes
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6etuh9/
+Parent comment file: 11.txt
+Content: One thing that has surprised me about this is some the responses I have read on this forum and others.
+There are many responses basically saying that no one will or should change vendors of service in response to a breach like this.
+As a SIS admin, the thought of a SIS change scares me throughly, and no organization is obligated to react to this in any specific way. 
+However, how else do we hold vendors accountable to security standards or improvements if they don’t lose customers (and ultimately $$$) as a result of their actions?
+In education even more so than business, vendors know how hard it is for orgs to switch off of their services and then regularly use this to justify poor service.
+I wonder if this event will change attitudes from both vendors and education organizations in that regard.
+Or do we have to rely on more legislative action to advocate for change?
+
+---------------------
+
+Comment ID: m6fc5ol
+Comment Author: schmag
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fc5ol/
+Parent comment file: 11_9.txt
+Content: this is why I say WE as a community cannot affect change in this regard. 
+
+districts will continue to the use the product regardless of what happened, the money will keep rolling in and nothing will change.
+
+however now, I am guessing they just paid this group off, and all this negative attention will likely force their hand to at least increase the theatre around security. 
+
+but in the end, the crackers are really the only ones that can hold a company accountable for shitty security practices.
+
+most of those I have contact with that would be able to make the decision to change, seem to regret having to deal with the fall-out and clean-up more than the fact data was stolen.

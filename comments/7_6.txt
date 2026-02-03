@@ -1,0 +1,15 @@
+Comment ID: m663g29
+Comment Author: lifeisaparody
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m663g29/
+Parent comment file: 7_4.txt
+Content: I wonder if the account used the same password across all installs.
+
+---------------------
+
+Comment ID: m664alr
+Comment Author: sharpeone
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m664alr/
+Parent comment file: 7_5.txt
+Content: From what they said in the webinar, it was actually a contractor support agent account that was compromised.  I'm sure no MFA as they avoided the question, but said MFA was taken care of by their VPN process now.

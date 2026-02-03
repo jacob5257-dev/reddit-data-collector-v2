@@ -1,0 +1,17 @@
+Comment ID: md04won
+Comment Author: LoveTechHateTech
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md04won/
+Parent comment file: 32.txt
+Content: I got one of the emails to my work email address, but not my personal one yet (which is in PS for the town I live in that uses PowerSchool).
+
+It does read strangely and the from/reply-to address does look off, but csid[.]com forwards to Experian, which is handling the identity protection. Sure, anyone could buy a domain and forward the A record to do that, so take it for whatever it’s worth.
+
+---------------------
+
+Comment ID: md24wfd
+Comment Author: LyokoMan95
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md24wfd/
+Parent comment file: 32_1.txt
+Content: The Whois info shows it is owned by Consumerinfo.com, Inc. which has its privacy policy (along with the separate CSID policy) on the main Experian website: https://www.experian.com/privacy/consumer-info-policy

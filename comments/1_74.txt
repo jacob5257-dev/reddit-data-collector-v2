@@ -1,0 +1,17 @@
+Comment ID: m62oi2d
+Comment Author: combobulated
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m62oi2d/
+Parent comment file: 1_66.txt
+Content: I don't see "sponsorship" on the K12techPro page.
+
+Can you clarify how to get in free?
+
+---------------------
+
+Comment ID: m6370ye
+Comment Author: QueJay
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m6370ye/
+Parent comment file: 1_71.txt
+Content: If you click the button to do the application, on the last page of the Google response form when it asks for the form of payment you wish to apply for your membership there is an option to select sponsorship.

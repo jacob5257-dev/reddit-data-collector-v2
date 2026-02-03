@@ -1,0 +1,15 @@
+Comment ID: m64b6s7
+Comment Author: linus_b3
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m64b6s7/
+Parent comment file: 4_15.txt
+Content: Are they?  In my area, every district is hosted by PowerSchool except for one.
+
+---------------------
+
+Comment ID: m64rkh4
+Comment Author: LoveTechHateTech
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m64rkh4/
+Parent comment file: 4_18.txt
+Content: Same around here

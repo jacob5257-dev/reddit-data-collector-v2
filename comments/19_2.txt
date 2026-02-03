@@ -1,0 +1,20 @@
+Post ID: 1i4hbrr
+Post Title: PowerSchool - Internal security concerns
+Post Author: NorthernVenomFang
+Up/Down: 53.0/0.0
+Content: So it looks like Powerschool may have a second compromised account, this time a subcontractors developer account that was compromised by malware...
+ 
+ https://techcrunch.com/2025/01/17/malware-stole-internal-powerschool-passwords-from-engineers-hacked-computer/
+ 
+ Anyone else having doubts about Powerschool's internal security processes, especially around contractors/subcontractors?
+
+---------------------
+
+Comment ID: m7vw0cv
+Comment Author: tcourtney22
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/m7vw0cv/
+Parent comment file: 19.txt
+Content: Perhaps they didn’t implement MFA before the incident because their approach to deploying SSO—like with their SIS—was overly complicated, haha.
+
+On a separate note, someone mentioned that they asked PowerSchool support how they could assist remotely if maintenance mode and remote support are disabled. PowerSchool indicated they still have access and can execute scripts directly against the database. So, is there truly a way to ensure this doesn’t happen again, I doubt it.

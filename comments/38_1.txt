@@ -1,0 +1,24 @@
+Post ID: 1jujgpv
+Post Title: Special Episode: PowerSchool CISO, Mishka McCowan
+Post Author: K12TechTalkPodcast
+Up/Down: 2.0/0.0
+Content: [https://k12techtalkpodcast.com/e/surviving-a-cyber-nightmare-inside-powerschools-response-strategy/](https://k12techtalkpodcast.com/e/surviving-a-cyber-nightmare-inside-powerschools-response-strategy/) and all major podcast platforms
+ 
+ Join Josh, Chris, and Mark as they host an exclusive interview with Mishka, the Chief Information Security Officer (CISO) of PowerSchool, following a significant cyber incident that changed the landscape of K-12 cyber-security. Discover the human side of crisis management, starting with Mishka's initial reaction to the attack and learn about the rapid response to contain the damage. 
+ 
+ The discussion delves into PowerSchool's decision to be transparent with affected districts and hear practical advice on vendor assessments and the importance of internal security measures to minimize future threats. Reflecting on the lessons learned, Mishka discusses the steps PowerSchool has taken to bolster its security infrastructure and maintain an open communication channel with its clients.
+
+---------------------
+
+Comment ID: mm487ft
+Comment Author: bad_brown
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1jujgpv/special_episode_powerschool_ciso_mishka_mccowan/mm487ft/
+Parent comment file: 38.txt
+Content: Why weren't even the most basic security controls important enough to implement before the breach?
+
+Let's not forget a 1099 contractor low tier support person had no auth controls past un/pw, no controls for the connecting device, and full data access to every customer.
+
+Despite logging being in place, no log analysis or security controls existed that might have seen, I don't know, a dump of every client database from a foreign VPS IP.
+
+SISes are sticky. Heavy lift to move, contract-based engagements, and expensive. If I could move districts away from PS, I would have. If anyone out there is evaluating an SIS, keep looking.

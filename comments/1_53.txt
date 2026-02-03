@@ -1,0 +1,15 @@
+Comment ID: m5zju79
+Comment Author: Digisticks
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zju79/
+Parent comment file: 1_51.txt
+Content: Short of our own dark web monitoring, that's all they've given us at this point.
+
+---------------------
+
+Comment ID: m5zk7uk
+Comment Author: Hazy_Arc
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zk7uk/
+Parent comment file: 1_52.txt
+Content: It baffles me why they’d pay for that “assurance”. You’re still going to have to fork out the dough for damage control, notification, and credit monitoring regardless. They’ve gained nothing by paying and only emboldened the asshats who do this type of thing to continue on.

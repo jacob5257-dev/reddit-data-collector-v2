@@ -1,0 +1,15 @@
+Comment ID: m727lq3
+Comment Author: thetran209
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m727lq3/
+Parent comment file: 14_3.txt
+Content: Is there a list of which districts or schools that were breached ?
+
+---------------------
+
+Comment ID: m729ee7
+Comment Author: NorthernVenomFang
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m729ee7/
+Parent comment file: 14_7.txt
+Content: Not publicly available.  I used search engines to find news videos and articles on ones that had been breached, plus district websites that had posted it.

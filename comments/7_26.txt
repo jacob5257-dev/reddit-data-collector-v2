@@ -1,0 +1,15 @@
+Comment ID: m663g29
+Comment Author: lifeisaparody
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m663g29/
+Parent comment file: 7_4.txt
+Content: I wonder if the account used the same password across all installs.
+
+---------------------
+
+Comment ID: m6gpyun
+Comment Author: NorthernVenomFang
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6gpyun/
+Parent comment file: 7_5.txt
+Content: Yes and no.... It was an account that had access to maintenance utilities to connect into PowerSchool instances via the built in maintenance account.   From my understanding the maintenance accounts use a bearer token or a certificate credential based auth into PowerSchool systems that gets updated during upgrades/installs; it completely bypasses the standard login pages or OAUTH/Saml logins.

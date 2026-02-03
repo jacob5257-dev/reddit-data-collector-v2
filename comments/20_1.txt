@@ -1,0 +1,18 @@
+Post ID: 1i5rluo
+Post Title: How victims of PowerSchool's data breach helped each other investigate massive hack
+Post Author: k12techpro
+Up/Down: 61.0/0.0
+Content: This article references this community and folks that have been helping address the PowerSchool breach... [https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/](https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/)
+
+---------------------
+
+Comment ID: m862n2e
+Comment Author: Lukesmissinrighthand
+Up/Down: 34/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i5rluo/how_victims_of_powerschools_data_breach_helped/m862n2e/
+Parent comment file: 20.txt
+Content: As nice as Tech Crunch makes PS sound, there are some very big untruths here.  PS notified our district that we weren’t affected.  The next day, a neighboring school district told us to take a look, and with the document provided in this article, we were able to identify that we were, in fact, affected.
+
+To date, PS has not notified us that we were affected in the breach.  
+
+However, this title is on point.  Without our neighboring school districts, the global discussion, and documentation, we would have been up a creek without a paddle.

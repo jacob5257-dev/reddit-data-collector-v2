@@ -1,0 +1,25 @@
+Comment ID: m8cqi4n
+Comment Author: infosec_qs
+Up/Down: 9/0
+Link: https://reddit.com/r/askTO/comments/1i6j2jo/current_and_former_students_and_teachers_of_the/m8cqi4n/
+Parent comment file: 23.txt
+Content: But the PowerSchool paid the hackers to ransom their data, and made them pinky swear to delete it all, so the criminals sent PowerSchool a video of them "deleting" the data, so I'm sure it's all fine. Criminals would never *lie* about something like that!
+
+I'm sure everything is fine!
+
+...
+
+I'm furious - my children and I are both impacted. It's a terrible idea to concentrate data at such scale in organizations that *cannot* secure the data. And I don't mean the organizations are doing a *bad* job with security, but rather that, if you understand technology well enough, you understand that *nothing* that can be accessed by anyone is "secure." It's just a question of risk appetite - information security will never be a profit incentive for corporations, except possibly for financial institutions operating at large scale, so it will always be inadequate. And by paying the ransom, this only further validates this "business model" for bad actors who seek to access and hold data hostage for financial gain.
+
+This $200 cheque is nice and all, but I'd like to see our school boards and healthcare funded well enough that these important functions don't need to be farmed out to massive corporations, thereby concentration risk in a single breakpoint, in the name of "fiscal (ir)responsibility."
+
+The cat is out of the bag, though. That data is out there now - anyone who believes that it has actually been deleted is being misled, or very naive.
+
+---------------------
+
+Comment ID: m8ix90u
+Comment Author: gus_the_polar_bear
+Up/Down: 1/0
+Link: https://reddit.com/r/askTO/comments/1i6j2jo/current_and_former_students_and_teachers_of_the/m8ix90u/
+Parent comment file: 23_4.txt
+Content: You’re probably right, but to be naively optimistic, if they don’t act in at least somewhat good faith, these groups will struggle to extract ransoms ever again

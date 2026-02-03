@@ -1,0 +1,17 @@
+Comment ID: m73wbey
+Comment Author: k12-IT
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m73wbey/
+Parent comment file: 15.txt
+Content: Have you requested to have another technician hired to help you balance your work load? 
+
+As for the student information, you're going to want to look into a Student Information System or SIS. These companies are usually certified to store the student data securely and give easy access.
+
+---------------------
+
+Comment ID: m76cwhz
+Comment Author: stephenmg1284
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m76cwhz/
+Parent comment file: 15_6.txt
+Content: He mentioned Infinite Campus, so he has a SIS that has spots for storing this information.

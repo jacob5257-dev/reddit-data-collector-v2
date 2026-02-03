@@ -1,0 +1,15 @@
+Comment ID: m7mjr3b
+Comment Author: Subpxl
+Up/Down: 0/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7mjr3b/
+Parent comment file: 59_59.txt
+Content: Ransom money funding terrorism is a very broad, amorphous claim. There are thousands of groups out there exfiltrating and extorting data. Companies carry cyber threat insurance for a reason.
+
+---------------------
+
+Comment ID: m7pqwkw
+Comment Author: JarJarBinks237
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7pqwkw/
+Parent comment file: 59_60.txt
+Content: At the very least, that means funding cybercrime. But often indeed it is backed by either mafias or totalitarian states.

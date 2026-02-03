@@ -1,0 +1,53 @@
+Comment ID: m729ahy
+Comment Author: Spurgeonist
+Up/Down: 2/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m729ahy/
+Parent comment file: 13.txt
+Content: *Hopefully this is helpful to someone*
+
+- **What Happened**: PowerSchool claims the data was deleted by hackers, but no further comments have been made since the initial notification to districts 10 days after discovery. The breach is far from “contained.”
+
+- **Safety Measures**: 
+  - **Safe if**: Your district self-hosts PowerSchool with Ukraine geo-blocked.
+  - **At Risk if**: Using cloud-hosted PowerSchool or self-hosted without geo-blocking Ukraine.
+
+- **Teachers and Employees**: 
+  - SSNs in the “teacher table” for both current and former staff might be compromised.
+
+- **Students**: 
+  - If SSNs are stored in student data tables due to state reporting laws, they’re likely compromised for current and former students.
+
+- **Estimated Impact**: 
+  - Approximately **8,920,000 students** might have their SSNs exposed. This number doesn’t include former students, and the actual extent is being suppressed.
+
+- **Data History**: 
+  - Some districts have data from as far back as 1995 potentially at risk.
+
+- **High Risk States**: 
+  - North Carolina, South Carolina, Florida, Mississippi, Georgia, Louisiana, Kentucky, Virginia, West Virginia due to likely SSN storage in student tables.
+
+- **Legal Actions**: 
+  - Three federal lawsuits filed; see Bloomberg article for more.
+
+- **What To Do**: 
+  - Don’t trust silence or lack of communication from PowerSchool or your district. 
+  - Assume the worst if you’re in the listed states.
+  - Use any offered credit monitoring when the official investigation wraps up.
+
+- **Additional Notes**: 
+  - Even outside these states (e.g., California), SSN compromises have been reported. 
+  - *PowerSchool’s negligence could have been avoided.*
+
+- **Verify**: 
+  - Check with your local district for specifics.
+
+This is shared for the sake of transparency and protection for all involved. Research it yourself; don’t just follow the initial narrative. God bless, praying for the best outcome for everyone.
+
+---------------------
+
+Comment ID: m7mvwq9
+Comment Author: [deleted]
+Up/Down: 1/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m7mvwq9/
+Parent comment file: 13_33.txt
+Content: [removed]

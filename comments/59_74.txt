@@ -1,0 +1,16 @@
+Post ID: 1i2t4os
+Post Title: PowerSchool breach worse than thought, company says "all" student and teacher data accessed
+Post Author: Snowfish52
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m7tjmal
+Comment Author: MrPerfect4069
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7tjmal/
+Parent comment file: 59.txt
+Content: What’s frustrating is the school division I went to school for in the 90s into the late 2000s won’t tell me if my data was in powerschool or what kind of data was stored. 
+
+It’s frustrating cause it sounds like the system can be used in many ways, if it was just stuff like my name and address and grades from 15-25 years ago i don’t care, but if they have stuff like my parents names, my full legal name, list of schools just think of all the services that use that as recovery questions.

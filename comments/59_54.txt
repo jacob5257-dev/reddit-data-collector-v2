@@ -1,0 +1,15 @@
+Comment ID: m7igqlw
+Comment Author: RaNdomMSPPro
+Up/Down: 58/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7igqlw/
+Parent comment file: 59.txt
+Content: It's a good thing they watched the criminals delete the data via video conference once they paid the ransom. I'm sure the criminals didn't lie and make a copy, so all good.
+
+---------------------
+
+Comment ID: m7lxtiz
+Comment Author: Pseudothink
+Up/Down: 4/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7lxtiz/
+Parent comment file: 59_7.txt
+Content: Seeing how PowerSchool's interface is designed and how it works, I believe this happened 100%.  I'm glad my district is switching away from it at the end of this academic year.  6 months too late to avoid this, but better thsn nothing.

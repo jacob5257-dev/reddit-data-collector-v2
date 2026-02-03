@@ -1,0 +1,19 @@
+Comment ID: m7be55x
+Comment Author: spacebulb
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7be55x/
+Parent comment file: 16_12.txt
+Content: Knowing who to email are in the tables that were stolen, but I agree with the statement, that question just isn't an IT question, it is a legal question. 
+
+What are your obligations to reach out? How much effort must be made to reach out? What happens if you don't have current contact info? All legal questions.
+
+---------------------
+
+Comment ID: m7bfxsp
+Comment Author: pheen
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7bfxsp/
+Parent comment file: 16_13.txt
+Content: > Knowing who to email are in the tables that were stolen
+
+Yeah, I guess the real wording should say, we know who to email, but we don't know how to. And the how isn't a technical issue, it's a lack of data. We don't have any personal emails for students so how do you email potentially thousands of affected users without knowing their email addresses? Start calling parents? This whole thing is a mess.

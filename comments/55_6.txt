@@ -1,0 +1,25 @@
+Post ID: 1nqfbsy
+Post Title: PowerSchool SIS Hosted Districts - Check your machine uptime!
+Post Author: linus_b3
+Up/Down: 18.0/0.0
+Content: Shortly after PowerSchool's data breach, I discovered what I believe are unwarranted delays in applying Windows OS patches to their SIS VMs. For comparison's sake, I have been checking on two other vendors that run Windows instances (Tyler and PSNI). Both are ahead of the typical patching timelines I've observed from PowerSchool. 
+ 
+ Unfortunately, these delays have taken a turn for the worse. 
+ 
+ **Currently, I believe many PowerSchool SIS Windows VMs have gone without patching for 70+ days. I have a statement from support that (at least for my VM), they intended to continue that delay through mid October, meaning they'd be 3-4 full Patch Tuesday releases behind at that point.**
+ 
+ I did manage to get my AM to pass along one statement from the engineering team this spring. In my opinion, their justification was concerning and revealed shortsighted and dated practices similar to those that led to their breach last winter. 
+ 
+ I encourage you to do the following:
+ 
+ * Check your machine uptime (System Management > Server > Server Statistics). If it's high, it indicates they haven't rebooted the VM to complete the installation of Windows OS patches recently.
+ * If you share my concerns about the risks to your student data and agree that they should be prioritizing a more prompt patching schedule that aligns with a modern threat landscape, please open tickets and start conversations with your AM and CSM.
+
+---------------------
+
+Comment ID: ng7in8t
+Comment Author: sarge21
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1nqfbsy/powerschool_sis_hosted_districts_check_your/ng7in8t/
+Parent comment file: 55.txt
+Content: System uptime can't be used to determine last patch, because hotpatches exist.

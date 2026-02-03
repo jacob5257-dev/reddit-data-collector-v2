@@ -1,0 +1,19 @@
+Comment ID: m79va0a
+Comment Author: Square_Pear1784
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79va0a/
+Parent comment file: 16_2.txt
+Content: Powerschool confirmed for us that we were part of the exfiltration. They provided us access back to our Powerschool and gave steps to access data using Data Export Manager. They gave us a spreadsheet detialing what info was targeted and how many files for each. Also which was PII. 
+
+Beyond that we are lost. I dont know anything about cyber security insurace for the school. I wouldnt be surposed if we dont have anything like that. We are a public charter school so maybe the state handles part of that. I guess I need to contact someone at the state.
+
+---------------------
+
+Comment ID: m79x7vl
+Comment Author: spacebulb
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79x7vl/
+Parent comment file: 16_3.txt
+Content: You may be in more of a pickle given your charter status than you realize. You DON'T have the full backing of the state or region because the state or region likely just see charter schools a independently run systems without all of the burracracy (all the departments that are actually needed in a large district) including legal. 
+
+It would behoove you to speak to your head of school, and if there is a board, they need to be notified of this as well. You must ask them to seek legal consultation for this. Get the legal issues as far away from your hands as you can at this point, and be as transparent as possible.

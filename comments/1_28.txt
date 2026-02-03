@@ -1,0 +1,35 @@
+Comment ID: m5xw2w6
+Comment Author: Hazy_Arc
+Up/Down: 28/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xw2w6/
+Parent comment file: 1.txt
+Content: The FAQ listed in the email has this gem:
+
+>5. What steps have you taken to confirm that the data in question has since been deleted in its 
+
+>entirety?
+
+>Given the sensitive nature of our investigation, we are unable to provide information on certain specifics.
+
+>However, we have taken all appropriate steps to prevent the data involved from further unauthorized 
+
+>access or misuse. We do not anticipate the data being shared or made public, and we believe it has been 
+
+>deleted without any further replication or dissemination. 
+
+>Ropes: We have a video confirming deletion and are actively searching the dark web to confirm. 
+
+>PowerSchool: PowerSchool engaged the services of CyberSteward, a professional advisor with deep 
+
+>experience in negotiating with threat actors. With their guidance, PowerSchool has received reasonable 
+
+>assurances from the threat actor that the data has been deleted and that no additional copies exist.
+
+---------------------
+
+Comment ID: m5y6bwp
+Comment Author: lutiana
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y6bwp/
+Parent comment file: 1_15.txt
+Content: So they paid the bad guys to delete the data, interesting.

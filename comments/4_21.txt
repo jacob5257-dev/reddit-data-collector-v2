@@ -1,0 +1,19 @@
+Comment ID: m641q0o
+Comment Author: chickentenders54
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m641q0o/
+Parent comment file: 4_4.txt
+Content: I think we all have to assume that hackers aren't good, quality, honest people that keep their word.
+
+---------------------
+
+Comment ID: m64p93e
+Comment Author: vawlk
+Up/Down: -5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m64p93e/
+Parent comment file: 4_10.txt
+Content: in these cases, the data rarely ends up out in the open. Most of the data is already publicly available. It wasn't really that valuable except to PS's reputation.
+
+Who cares about a few thousand names, addresses, and phone numbers? The hackers had ever reason to follow through with the delete so they get paid the next time they hack data again.
+
+If every time a company paid off a hacker they still released the data, no one would pay anymore. This was a hack for financial gain.

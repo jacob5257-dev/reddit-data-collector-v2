@@ -1,0 +1,15 @@
+Comment ID: m683fc4
+Comment Author: Square_Pear1784
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m683fc4/
+Parent comment file: 7.txt
+Content: I am new to a school that used Powerschool, but stopped before the 2024-2025 year. I am reading up on this situation, but so far have no clear steps that might need to be done? I have no access to Powerschool. I am thinking there may be historical data. Any advice, or are we trusting PS to handle it?
+
+---------------------
+
+Comment ID: m68vm92
+Comment Author: vawlk
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m68vm92/
+Parent comment file: 7_17.txt
+Content: if the server is still online and accessible, then someone should see if it was affected.

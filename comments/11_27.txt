@@ -1,0 +1,25 @@
+Comment ID: m6fao4f
+Comment Author: schmag
+Up/Down: 15/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fao4f/
+Parent comment file: 11.txt
+Content: TBH, and maybe I am a little jaded, but my experience is WE as a community cannot. these crackers certainly can and likely did.
+
+every EDtech company I have seen is in it for the easy edtech tax and grant money, charging an arm and a leg for a mediocre/shit product with garbage service because they can. 
+
+Hell I still remember the days of setting 5 machines to download the NWEA data before I left for the day with the HOPE that one of them will succeed. I remember setting up an RDP server and buying licensing just so we can run NWEA as a remote app because it would not run for shit over wireless and we didn't have any hardwired labs.
+
+hell I just setup a fucking math resources app last year that I haven't seen in >10 years and they hadn't changed in ten years. they are still selling the same over-priced shit with win98 and XP instructions...
+
+until it bites a company in the ass like what happened here and forces them to change the money will keep rolling in and they will continue as is...
+
+---------------------
+
+Comment ID: m6hkjty
+Comment Author: rilian4
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6hkjty/
+Parent comment file: 11_15.txt
+Content: > until it bites a company in the ass like what happened here and forces them to change the money will keep rolling in and they will continue as is...
+
+This is the simple truth... Overwhelming number of examples backing up your statement. No PR issue? they won't fix anything.

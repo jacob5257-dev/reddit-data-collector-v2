@@ -1,0 +1,57 @@
+Comment ID: m5xrryv
+Comment Author: combobulated
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xrryv/
+Parent comment file: 1.txt
+Content: Yeah, we got the email too. (Also sent to at least 3 other people in our school, not just IT or "Tech department")
+
+
+
+
+The email is lengthy and a bit of corporate word salad.
+
+
+It states :
+
+>We can confirm that the information accessed belongs to certain SIS customers and relates to families and educators, including those from your organization. The unauthorized access point was isolated to our PowerSource portal
+
+So I'm thinking "Ok, well PowerSource is different that PowerSchool, right? So perhaps this isn't that big of a deal.  It sounds like they are downplaying the impact.   But then...
+
+>  As the PowerSource portal only permits access to the SIS database, we can confirm no other PowerSchool products were affected as a result of this incident.
+
+Oh, "Don't worry, the data accessed was *only* the  CORE DATABASE TO YOUR ENTIRE STUDENT INFORMATION SYSTEM....
+
+>
+
+
+
+
+It spends 4-5 paragraphs explaining the general incident (while specifically saying that specifically *OUR* data was accessed.) 
+
+And then in the last paragraph it says
+
+>"Again, although your product was not impacted, we wanted to assure you that we are addressing the situation in an organized and thorough manner following all of our incident response protocols. "
+
+
+>Rest assured, we have taken all appropriate steps to prevent the data involved from further unauthorized access or misuse. We do not anticipate the data being shared or made public, and we believe it has been deleted without any further replication or dissemination.
+
+I'm curious how they can possibly know/control what happened/may happen with stolen data.
+
+
+>PowerSchool is committed to working diligently with customers to communicate with your educators, families, and other stakeholders. We are equipped to conduct a thorough notification process to all impacted individuals. Over the coming weeks, we ask for your patience and collaboration as we work through the details of this notification process.
+
+>In the coming days, we will provide you with a communications package to support you in engaging with families, teachers and other stakeholders about this incident. The communications package will include tailored outreach emails, talking points, and a robust FAQ so that district and school leadership can confidently discuss this incident with your community.
+
+
+There's some webinar  they are doing in the next couple days - but I don't expect it'll be of much value..
+
+A data hosting company had its data compromised and your customers (and you) are now exposed.
+
+---------------------
+
+Comment ID: m5y713n
+Comment Author: lutiana
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y713n/
+Parent comment file: 1_7.txt
+Content: From what someone posted above, from an FAQ they published, and reading between the lines, I suspect they paid the bad guys to delete the data, which is why they are saying they believe it was deleted. The FAQ seems to say that they received video evidence of the deletion (though I have no idea how this would be assurance of deletion without copying it before hand).

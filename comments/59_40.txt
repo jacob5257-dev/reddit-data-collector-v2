@@ -1,0 +1,19 @@
+Comment ID: m7iyfx7
+Comment Author: ummmitsjames
+Up/Down: 37/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7iyfx7/
+Parent comment file: 59.txt
+Content: My wife showed me a post of a local school stating that they were affected by the breach but “no private student data was stolen”. I told her that whoever made the post was an idiot for concretely stating that before the whole scope of the incident was revealed.
+
+---------------------
+
+Comment ID: m7ksorp
+Comment Author: Robbbbbbbbb
+Up/Down: 8/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7ksorp/
+Parent comment file: 59_10.txt
+Content: To be fair, the logs show what was taken. The entire student and teacher tables were dumped.
+
+If you had no PII/PHI stored in those tables, it's a fair assumption.
+
+Powerschool has also been very cryptic about this entire process. It took more than a week to put something up on a public-facing site.

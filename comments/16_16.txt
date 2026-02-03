@@ -1,0 +1,36 @@
+Post ID: 1i1xqiw
+Post Title: I need to ask about Powerschool's response
+Post Author: Square_Pear1784
+Up/Down: 33.0/0.0
+Content: The school stopped using Powerschool for 2024-2025 school year and switched to Infinite Campus. Well, that does not exclude us from the situation since the issue goes back all the way to 2013. Since I am new they did not grant me access (since I never had access to powerschool when the school had it), but the head of school was able to get access and pull the data they told us about. 
+ 
+ So they sent an email basically telling us what type of data to look for and how many in each category was compromised. Also, telling us how to view and export that data. 
+ 
+ However, then telling us that we don't need to notify any student, parent, or staff of these details. That they would be reaching out themselves to let families and staff know. However, they said they didnt know all the details in the data compromised 
+ 
+ My head of school feels that by doing this they have put liability on us to an extent. I can't help but agree. By giving us this info and telling us that they can't be for sure on all info in certain text fields, it puts liability on us. However we don't need to contact the families?? 
+ 
+ Also, so we are just to believe that the bad actors truly deleted the data and that it isnt out there. 
+  
+ The Head of School and myself can't help but feel stressed, frustrated, and unsure of next steps. The communication from Powerschool feels like "trust us, the data is gone. But hey here is what was compromised to the exact details. We will be notifying individuals so you dont have to, but we also dont know all the details in the data so be aware and take a look at the data compromised, but yeah its not out there so dont worry." Then our already busy admin is bracing for questions they are not sure how to answer. 
+ 
+ Sorry for the vent. Am I missing something? How do you all feel about the response so far?
+
+---------------------
+
+Comment ID: m7cd8rj
+Comment Author: combobulated
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7cd8rj/
+Parent comment file: 16.txt
+Content: While this is 100% on Powerschool (for the breach itself) - you (your Distrcit/school) are responsible for that date.  YOU chose to trust Powerschool.  You put the data there, not your students/teachers/families.  They are going to likely direct their anger/concerns/lawsuits at you, not Powerschool. (Although Powerschool is already dealing with lawsuits from this incident, from a different angle)
+
+So definitely treat it as if this is your problem, not just Powerschool's.
+
+It certainly helps push the blame a bit and hopefully buys some goodwill and understanding from higher-ups (and maybe the general public and other stakeholders).  Powerschool dropped the ball, but we put the ball in Powerschool's hands in the first place.
+
+Like other's are saying here: Because of the nature of this particular incident, it's largely a legal/PR/communications issue at this phase.  Powerschool dealt with the whole IT side of it (detection, analysis, containment, mitigation/eradication, recovery).  Not because they're the best at it or we failed at it - but simply because it's their systems and they're the only ones in a position to do so (at a technical level).  We're all left with the fallout.  
+
+So the question becomes about the extent of liability - ours and Powerschool's.  And that may vary by state and contract.
+
+With that, I'd also advise not assuming that whatever is known now is the totality of it (or necessarily the worst of it).  Plan as if there's more bad weather coming from this storm...

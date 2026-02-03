@@ -1,0 +1,16 @@
+Comment ID: m5xrd1d
+Comment Author: gigthebyte
+Up/Down: 12/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5xrd1d/
+Parent comment file: 2.txt
+Content: Yup! Coworker signed up for the webinar and got the following reply:
+>This a friendly reminder that the webinar **PowerSchool Cybersecurity Incident** begins tomorrow. It's going to be a great one, and we're excited to see you there!
+
+---------------------
+
+Comment ID: m5yksff
+Comment Author: bwalz87
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5yksff/
+Parent comment file: 2_1.txt
+Content: Nice reply there

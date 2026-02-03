@@ -1,0 +1,19 @@
+Comment ID: m79vnpb
+Comment Author: Square_Pear1784
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79vnpb/
+Parent comment file: 16_1.txt
+Content: We got an email templete we sent out to parents letting them know the situation. Beyond that nothing else. The head of school sent the email out. Contacting each person impacted individually (1600+) is beyond our compacity.
+
+---------------------
+
+Comment ID: m79xtlv
+Comment Author: spacebulb
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79xtlv/
+Parent comment file: 16_4.txt
+Content: > Contacting each person impacted individually (1600+) is beyond our compacity.
+
+This is a problem. A simple mail merge and bulk email service should be all that is needed for this. What services or systems are in place to notify stakeholders via email in bulk? There must be something that can be used or modified in this situation. 
+
+If not, you need to outsource to a provider that can do this. Constant contact or other such resource. Yes it is $$, but it is $$ instead of $$$$$$$$$$$

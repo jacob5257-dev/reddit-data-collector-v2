@@ -1,0 +1,20 @@
+Comment ID: m5za0ld
+Comment Author: RememberCitadel
+Up/Down: 23/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5za0ld/
+Parent comment file: 1.txt
+Content: The first thing any district affected should do is lock down your VPN/cloud resources.   
+
+It won't be hard to extrapolate that the user account janedoe@schooldistrict.org also has vpn access or email at that same organization.
+
+---------------------
+
+Comment ID: m65dk16
+Comment Author: NickGSBC
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m65dk16/
+Parent comment file: 1_50.txt
+Content: Unfortunately in this particular case that doesn't matter when PowerSchool built in a back door for support to access servers that worked even when districts had remote support disabled...
+
+  
+Also this impacted both customers that have their PowerSchool instance run by PowerSchool and districts that have their own PowerSchool server on prem.

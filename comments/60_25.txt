@@ -1,0 +1,15 @@
+Comment ID: m9qihkl
+Comment Author: saysomethingispose
+Up/Down: 4/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9qihkl/
+Parent comment file: 60.txt
+Content: Why would a software meant to house student grades, attendance contact/emergency info, etc. need to also house teacher SINs?
+
+---------------------
+
+Comment ID: m9tyf07
+Comment Author: EastCoastGrows
+Up/Down: 2/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9tyf07/
+Parent comment file: 60_17.txt
+Content: It's a payroll software aswell.

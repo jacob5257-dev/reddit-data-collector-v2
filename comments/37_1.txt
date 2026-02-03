@@ -1,0 +1,45 @@
+Post ID: 1j8v5yz
+Post Title: PowerSchool Reveals Earlier Cyber Breaches Months Before Data Theft
+Post Author: Dark-Marc
+Up/Down: 1.0/0.0
+Content: **PowerSchool has disclosed significant cybersecurity breaches from August and September 2024, raising concerns about the security of student and teacher data.**
+ 
+ **Key Points:**
+ 
+ - PowerSchool was hacked in August and September 2024 before the December breach.
+ - Hackers accessed sensitive data of potentially 72 million users, including students and teachers.
+ - The breaches involved compromised credentials accessing the customer support portal, PowerSource.
+ - CrowdStrike's investigation revealed ongoing access by threat actors, heightening transparency concerns.
+ - The incident affected over 6,500 school districts across multiple countries.
+ 
+ PowerSchool, a major cloud-based K-12 software provider, has come under fire following the revelation that it had been compromised not just once, but multiple times prior to its December 2024 data breach. The initial breaches occurred in August and September, utilizing compromised support credentials to gain unauthorized access to its customer support portal, known as PowerSource. This unexpected access allowed threat actors to potentially exfiltrate sensitive information from approximately 72 million accounts, stirring alarm among educators and parents alike regarding the safety of their data.
+ 
+ The implications of such breaches are far-reaching, especially in the education sector, where trust and confidentiality are paramount. With over 6,500 school districts reportedly affected, the sheer volume of compromised sensitive informationâ€”including names, addresses, Social Security numbers, and academic recordsâ€”underscores the urgent need for organizations to reassess their cybersecurity protocols. CrowdStrike's report indicates a concerning lack of transparency from PowerSchool, as the company has not publicly shared the total number of individuals or institutions impacted by these incidents. As cybersecurity threats continue to evolve, organizations serving vulnerable populations must prioritize safeguarding their data with robust security measures.
+ 
+ How should companies improve transparency in reporting data breaches to protect users better?
+ 
+ **Learn More:** [Bleeping Computer](https://www.bleepingcomputer.com/news/security/powerschool-previously-hacked-in-august-months-before-data-breach/)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**
+
+---------------------
+
+Comment ID: mh89b3e
+Comment Author: AutoModerator
+Up/Down: 1/0
+Link: https://reddit.com/r/pwnhub/comments/1j8v5yz/powerschool_reveals_earlier_cyber_breaches_months/mh89b3e/
+Parent comment file: 37.txt
+Content: **Welcome to r/pwnhub – Your hub for hacking news, breach reports, and cyber mayhem.**  
+
+Stay updated on **zero-days, exploits, hacker tools, and the latest cybersecurity drama**.  
+
+Whether you’re **red team, blue team, or just here for the chaos**—dive in and stay ahead.  
+
+Stay sharp. Stay secure.  
+
+**[Subscribe and join us for daily posts!](https://www.reddit.com/r/pwnhub/)**
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/pwnhub) if you have any questions or concerns.*

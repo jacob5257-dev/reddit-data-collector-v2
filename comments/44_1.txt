@@ -1,0 +1,14 @@
+Post ID: 1khu3sh
+Post Title: PowerSchool's Ransom Aftermath: A Deeper Look at the Follow-Up Extortion Attempts
+Post Author: k12techpro
+Up/Down: 18.0/0.0
+Content: Some districts are now facing direct extortion attempts from a threat actor, linked to the attack on PowerSchool in December... [https://k12techpro.com/powerschools-ransom-aftermath-a-deeper-look-at-the-follow-up-extortion-attempts/](https://k12techpro.com/powerschools-ransom-aftermath-a-deeper-look-at-the-follow-up-extortion-attempts/)
+
+---------------------
+
+Comment ID: mri6oc4
+Comment Author: NorcalEDU
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1khu3sh/powerschools_ransom_aftermath_a_deeper_look_at/mri6oc4/
+Parent comment file: 44.txt
+Content: Has anyone published the email that districts are receiving?

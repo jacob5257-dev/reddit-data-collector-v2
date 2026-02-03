@@ -1,0 +1,15 @@
+Comment ID: m8uaqvx
+Comment Author: aplarsen
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8uaqvx/
+Parent comment file: 24_8.txt
+Content: I've been thinking about spinning up something to archive the historical data in a controlled way. I can envision a way where this becomes a service available to anyone.
+
+---------------------
+
+Comment ID: m8xzl0u
+Comment Author: 3sysadmin3
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8xzl0u/
+Parent comment file: 24_10.txt
+Content: PowerSchool is working on this after years of us asking for it. Put a ticket in if you want to start convo with them on mass data deletion imo.

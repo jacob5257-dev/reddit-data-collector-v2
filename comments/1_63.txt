@@ -1,0 +1,16 @@
+Comment ID: m60yt8t
+Comment Author: Saug
+Up/Down: 40/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m60yt8t/
+Parent comment file: 1.txt
+Content: Instructions for looking at the specific logs and data:  
+[https://docs.google.com/document/d/1FCJEENhLTJGUyEpr4oLJ0jNJPP2IIZrDdRpVPeqg8-E/edit?tab=t.0](https://docs.google.com/document/d/1FCJEENhLTJGUyEpr4oLJ0jNJPP2IIZrDdRpVPeqg8-E/edit?tab=t.0)
+
+---------------------
+
+Comment ID: m61v4f1
+Comment Author: Traxsysadmin
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m61v4f1/
+Parent comment file: 1_58.txt
+Content: This was super helpful -- thank you

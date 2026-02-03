@@ -1,0 +1,23 @@
+Comment ID: m65uozy
+Comment Author: aplarsen
+Up/Down: 47/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m65uozy/
+Parent comment file: 7.txt
+Content: Maintenance account compromised.
+
+Student and teacher data exfiltrated.
+
+No evidence that it's on the dark web yet.
+
+PS says it has assurance that it was deleted.
+
+PS community helping each other figure out what was taken so measures can be taken to reach out to families.
+
+---------------------
+
+Comment ID: m6618fb
+Comment Author: sharpeone
+Up/Down: 48/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6618fb/
+Parent comment file: 7_1.txt
+Content: Maintenance account compromised *due to poor security practices.*

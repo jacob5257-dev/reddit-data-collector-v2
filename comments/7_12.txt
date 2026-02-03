@@ -1,0 +1,19 @@
+Comment ID: m65y1b5
+Comment Author: k12-tech
+Up/Down: 75/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m65y1b5/
+Parent comment file: 7.txt
+Content: The most disappointing part is the lack of PowerSchool actually giving any specifics. We’ve had to use Reddit, listservs, and other sources to hear how to check the logs, verify what was downloaded, and cross reference what the fields actually mean. 
+
+A small group of Tech Directors figured out more in four hours than PowerSchool could in two weeks.
+
+---------------------
+
+Comment ID: m66diox
+Comment Author: da_chicken
+Up/Down: 20/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m66diox/
+Parent comment file: 7_2.txt
+Content: But they have over 900 support staff!
+
+(And like 4 subject matter experts.)

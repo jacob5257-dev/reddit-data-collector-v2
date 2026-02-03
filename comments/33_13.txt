@@ -1,0 +1,19 @@
+Comment ID: mdt0s2o
+Comment Author: vawlk
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdt0s2o/
+Parent comment file: 33.txt
+Content: We have PS self-hosted and were part of the breach as well (it had nothing to do with where it was hosted). We have a department of people who manage the student information systems. The IT department is responsible for the server hardware, firewall rules, and system/app updates.
+
+The delineation is like most of our systems. We manage the physical system, another department manages the application.
+
+Now the SIS department is supervised by the IT director but they essentially operate as two separate departments.
+
+---------------------
+
+Comment ID: mdtsjrb
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtsjrb/
+Parent comment file: 33_10.txt
+Content: Do you have documents on how they are handling data retention, audits, and related PII within Powerschool?

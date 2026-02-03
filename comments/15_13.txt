@@ -1,0 +1,25 @@
+Comment ID: m762qgx
+Comment Author: Tr0yticus
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m762qgx/
+Parent comment file: 15.txt
+Content: Alright so - few things and I’d do them in this order:
+
+1) without power, nothing in tech works. Address this first. 
+
+2) the inability to manage machines on a Windows domain is a problem but not a quick fix. MDM isn’t really a fix here as you need a domain to do a lot of things besides lock down machines and patch them. Get them through to the summer (or spring break) and then address the domain. Patch machines and install EDR software in the meantime. 
+
+3) the lack of an SIS (as outlined by another reply) is a problem; get a good one one and get moved over. That will take care of HIPPA, FERPA, and other cybersecurity concerns* - this is likely a summertime project if not a year+ out from start to finish. 
+
+*Yes I know PS was just hacked. It happens. I’d argue data in PS is likely more secure even with a breach than sitting on unmanaged machines. 
+
+4) Google Workspace (assuming Workspace and not Google Drive on a Gmail acccount) is actually a decent step. Manage permissions, lock it down so no downloads/printing if possible, and then address an SIS. Address this last and after the SIS is done.
+
+---------------------
+
+Comment ID: m76d4g0
+Comment Author: stephenmg1284
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m76d4g0/
+Parent comment file: 15_9.txt
+Content: He mention Infinite Campus so it sounds like the SIS is already taken care of.

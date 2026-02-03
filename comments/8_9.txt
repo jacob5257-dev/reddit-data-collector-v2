@@ -1,0 +1,22 @@
+Post ID: 1hxedsq
+Post Title: PowerSchool Users what are you telling parents?
+Post Author: Road_Trail_Roll
+Up/Down: 24.0/0.0
+Content: We're working on a message to our parents and staff. I'm curious, what has everyone else sent out to explain what happened and what your steps are?
+
+---------------------
+
+Comment ID: m68xdyp
+Comment Author: Fresh-Basket9174
+Up/Down: 19/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68xdyp/
+Parent comment file: 8.txt
+Content: Since it is considered public information anyway, here is what we sent 
+
+Late on January 7th, PowerSchool, the student information system used by our Districts and many others worldwide, notified us of a cybersecurity incident affecting their systems. PowerSchool has informed us that this incident involves unauthorized access to their data systems on a national scale. Since then, we have been diligently working to determine the impact on our districts. We have now confirmed that we are one of the many districts across the country affected by this breach.
+
+We are deeply concerned about this situation and have been in continuous communication with PowerSchool to thoroughly understand the incident and to ensure that robust measures are in place to prevent any recurrence. PowerSchool has assured us that they have taken immediate steps to secure the data and will soon release a detailed communication that we will promptly share with our families, staff, and communities. PowerSchool has also informed its customers that it does not anticipate the data being shared or made public, and they believe it has been deleted without any further replication or dissemination. 
+
+Our top priority is the security of students’, staff, and families’ information. We are committed to maintaining transparency and will provide regular updates as we receive more information from PowerSchool. We understand the concern this may cause and appreciate your patience and understanding as we navigate this challenging situation. Please know that we take the security of educational data very seriously and are taking all necessary steps to ensure the continued security of all systems.
+
+Updates will be provided as soon as new information becomes available related to this incident.

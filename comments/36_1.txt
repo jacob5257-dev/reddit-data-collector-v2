@@ -1,0 +1,43 @@
+Post ID: 1j85jwb
+Post Title: PowerSchool Breach Exposes Students After Hacker's Months-Long Access
+Post Author: Dark-Marc
+Up/Down: 2.0/0.0
+Content: **A hacker accessed PowerSchool's network months before a major data breach in December, putting millions of student records at risk.**
+ 
+ **Key Points:**
+ 
+ - Unauthorized access to PowerSchool's network began as early as August 2024.
+ - Compromised support credentials were used to access sensitive customer information.
+ - The breach affects personal information of over 60 million students.
+ 
+ PowerSchool, a leading player in the edtech industry, faced a significant cybersecurity breach that compromised its network much earlier than previously acknowledged. According to an investigation by CrowdStrike, unauthorized access to its systems started as early as August 2024, well before the massive data breach reported in December. The findings indicate that the same compromised support credentials, originally believed to be part of the December incident, granted access to sensitive data, highlighting profound vulnerabilities within PowerSchool's cybersecurity measures.
+ 
+ The investigation revealed that the hacker exploited access to PowerSchool's PowerSource, a customer support portal that enables technicians to maintain system operations. This prolonged access raises serious concerns about the company's security protocols and how quickly they acted to mitigate the threat. Even though CrowdStrike didn't conclusively link the hacker from the earlier access to the December breach, the implications are stark: had PowerSchool addressed the compromised credentials sooner, the significant data breach impacting 60 million students might have been avoided. Questions linger regarding what else could be done to fortify systems against such threats and how transparency can be improved in addressing breaches with affected parties.
+ 
+ What steps should companies take to enhance their cybersecurity measures and prevent similar breaches in the future?
+ 
+ **Learn More:** [TechCrunch](https://techcrunch.com/2025/03/10/hacker-accessed-powerschools-network-months-before-massive-december-breach/)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**
+
+---------------------
+
+Comment ID: mh2c01r
+Comment Author: AutoModerator
+Up/Down: 1/0
+Link: https://reddit.com/r/pwnhub/comments/1j85jwb/powerschool_breach_exposes_students_after_hackers/mh2c01r/
+Parent comment file: 36.txt
+Content: **Welcome to r/pwnhub – Your hub for hacking news, breach reports, and cyber mayhem.**  
+
+Stay updated on **zero-days, exploits, hacker tools, and the latest cybersecurity drama**.  
+
+Whether you’re **red team, blue team, or just here for the chaos**—dive in and stay ahead.  
+
+Stay sharp. Stay secure.  
+
+**[Subscribe and join us for daily posts!](https://www.reddit.com/r/pwnhub/)**
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/pwnhub) if you have any questions or concerns.*

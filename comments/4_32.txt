@@ -1,0 +1,15 @@
+Comment ID: m641kg0
+Comment Author: PorteringLloyd
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m641kg0/
+Parent comment file: 4.txt
+Content: This is SIS only, correct? We are Schoology and School Messenger customers. Their email said SIS only but I wonder if they confirmed or addressed that directly in other comms or the webinar.
+
+---------------------
+
+Comment ID: m65kotm
+Comment Author: mybrotherhasabbgun
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m65kotm/
+Parent comment file: 4_9.txt
+Content: We received a message stating we were not affected b/c we aren't SIS customers. We use School Messenger.

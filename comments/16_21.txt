@@ -1,0 +1,17 @@
+Comment ID: m7agw5o
+Comment Author: pheen
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7agw5o/
+Parent comment file: 16_6.txt
+Content: > A simple mail merge and bulk email service should be all that is needed for this.
+
+Emailing is easy. Knowing who to email is not. This impacted all students and staff in PowerSchool, not just current students and staff. We have students going back 15-20 years in PowerSchool. How do we email them when we only ever had school emails (that have been long deactivated) for them to begin with?
+
+---------------------
+
+Comment ID: m879827
+Comment Author: m3gunner
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m879827/
+Parent comment file: 16_12.txt
+Content: We're lucky in that my school has an alumni department that has these email addresses... but for public schools, this is a HUGE deal...

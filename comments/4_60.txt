@@ -1,0 +1,15 @@
+Comment ID: m6cena3
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6cena3/
+Parent comment file: 4_58.txt
+Content: That's my understanding of what the maintenance account is - my question is that if they prioritized shutting it down, how then did they get access to the affected sites to do investigation? Do they have *another* maintenance account?
+
+---------------------
+
+Comment ID: m6cexf0
+Comment Author: bad_brown
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6cexf0/
+Parent comment file: 4_59.txt
+Content: No. They didn't shut down the maintenance account, just user access to it. Except for 4 people on the CISO's IR team.

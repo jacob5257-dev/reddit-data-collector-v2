@@ -1,0 +1,45 @@
+Comment ID: mdtnszy
+Comment Author: GeneMoody-Action1
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtnszy/
+Parent comment file: 33_6.txt
+Content: This\^\^  10,000% This\^\^
+
+>IT should be responsible for the systems (maintaining, security etc), but users/depts should be responsible for the data (creating, verifying, removing etc). IT is the data steward, but depts/users are the data owners - they decide who the data should be shared with, not IT. IT just executes.
+
+
+
+I use it all the time "Admin does not have all the power, we just give the power to the people that do."
+
+Man... at a former employer, they had an enormous IT infrastructure for their size when I started, like their ***server*** to ***employee*** ratio was roughly \~30%
+
+Decades of accumulated files (NonProfit, ran for many years on volunteer level pay for IT help, not real IT support)
+
+3.5tb of shared file data, mapped drives all over it over time causing long path issues trying to clean up, folder named things like "Delete after <some date 10y ago>" still in daily use, 20+ different types of scanners used over time, thousands of single page documents scanned to PDF at 10+ MB per because they were scanned photo quality, thousands of dumped pic/vids shot at insane resolution on years of evolving smart phones, copies of copies of copies.. Unlimited personal use essentially, sensitive data from company to employe information (scans of peoples passports/dl, their mortgage applications, divorce cases, some of those pics and vids dumped form phones were um interesting?)  etc  .... you get it...
+
+Took a few years because it was like changing a tablecloth without disturbing the diners. A few years later I had compressed their 4 virtual hosts into half of one for production, and a second for offsite replication/DR. Merged years old snapshots, hole-punched, and shrank the vm server footprint by about 8tb. Increased their backup retention by years, and got that shared file system down to \~700m
+
+I preached statement that above for a LONG time, that users were the subject matter experts, no one in IT could possibly know what it all was, what to do with it, relevance, IT should not really even have access to some of it to eval!
+
+Nope, it was an IT problem, no one else "had time to deal with technical stuff"
+
+Eventually just started a mirrored file system of all documents/directories changed in the last 365 days, archived the rest and said "if you find you are missing something we will restore it. Those fires went out in the first few weeks, then compressed all the media / files, (pics, pdf, converted all vid to h265 mp4, etc) But it literally took years of winning small battles to get it done, by "IT"
+
+---------------------
+
+Comment ID: mdtufwp
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtufwp/
+Parent comment file: 33_11.txt
+Content: > Nope, it was an IT problem, no one else "had time to deal with technical stuff"
+
+I get where you are coming from and I get where they are coming from.
+
+IT can't be expected to be experts on all software/platforms.
+
+And regular staff can't be expected to be data/security experts.  They don't even "know what they don't know."
+
+That's the gap I'm trying to fill.
+
+The issue that I'm mostly seeing here in our environment is much less related to local infrastructure/on-prem servers and instead with 3rd party hosted platforms.  Which makes transparency more difficult and encourages silos.

@@ -1,0 +1,15 @@
+Comment ID: mtef7vd
+Comment Author: Lieberman-Tech
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1krlo2d/powerschool_hacker/mtef7vd/
+Parent comment file: 50.txt
+Content: Wow.  I wonder how they tracked him down!
+
+---------------------
+
+Comment ID: mtg4ngl
+Comment Author: sy029
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1krlo2d/powerschool_hacker/mtg4ngl/
+Parent comment file: 50_1.txt
+Content: My guess is that they followed the money. Bitcoin itself is anonymous, but cashing it out for real money is generally not.

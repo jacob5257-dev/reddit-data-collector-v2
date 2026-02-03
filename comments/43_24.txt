@@ -1,0 +1,19 @@
+Comment ID: mrblbvv
+Comment Author: MistSecurity
+Up/Down: 0/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mrblbvv/
+Parent comment file: 43.txt
+Content: >even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+
+This kind a behavior damages the reputation of ALL ransomware groups, and will likely lead to the group that perpetrated this attack to be attacked or turned in by other groups, funnily enough.
+
+Ransomware groups have a pretty strong code that is there to benefit all of them. If a bunch of groups pop up that simply take the ransom and don't unlock, or don't delete the data, etc. people will simply stop paying the ransoms.
+
+---------------------
+
+Comment ID: mrcb3oh
+Comment Author: barkingcat
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mrcb3oh/
+Parent comment file: 43_22.txt
+Content: This is a good thing. The ransomeware groups should just attack each other and no one should pay ransoms at all because paying just means someone will release the data later and it's never deleted anyway.

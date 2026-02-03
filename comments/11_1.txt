@@ -1,0 +1,14 @@
+Post ID: 1hy4bgy
+Post Title: EdTech Vendors and Their Poor Cybersecurity Practices
+Post Author: philr79
+Up/Down: 84.0/0.0
+Content: So, in light of the PowerSchool incident, how do we as a community best band together to pound on organizations like NWEA, PBISApps, Acadience (among others) to offer at least the basic levels of security (SSO/2FA, limited IP address connection filters, etc.)? I just find it stunning that with all the attention K-12 has received, that these companies are not making this more of a priority. Our Alexandria library program is one. We upload similar demographic data to that system so parents are aware of books checked out, overdues and all that. Yet, it's a simple, unassuming HTTP 1.x authentication window and then you're in. Its enough to keep my blood pressure way too high.
+
+---------------------
+
+Comment ID: m6eduin
+Comment Author: sin-eater82
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6eduin/
+Parent comment file: 11.txt
+Content: Start by not doing business with companies that won't attest to having these practices in place.

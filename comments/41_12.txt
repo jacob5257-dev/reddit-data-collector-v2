@@ -1,0 +1,15 @@
+Comment ID: mr4jtos
+Comment Author: 07C9
+Up/Down: 27/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr4jtos/
+Parent comment file: 41.txt
+Content: And this is why you don't pay the ransom. Also, +1 for Mishka should have been fired already. They handled this so, so poorly.
+
+---------------------
+
+Comment ID: mr5e89f
+Comment Author: RevolutionaryPizza64
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5e89f/
+Parent comment file: 41_7.txt
+Content: What parts do you feel were handled poorly post-breach? Aside from stating they were confident that the attackers really deleted the data, the response has been one of the better ones I’ve seen, especially for something with this large of a blast radius with such sensitive information. They missed notification deadlines for some districts’ DPAs, and some of their self-imposed deadlines for info updates were late, but still the fastest notification I’ve been a part of. If there’s more I need to be mad about, please let me know 😂

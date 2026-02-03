@@ -1,0 +1,15 @@
+Comment ID: m664alr
+Comment Author: sharpeone
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m664alr/
+Parent comment file: 7_5.txt
+Content: From what they said in the webinar, it was actually a contractor support agent account that was compromised.  I'm sure no MFA as they avoided the question, but said MFA was taken care of by their VPN process now.
+
+---------------------
+
+Comment ID: m6gq8k6
+Comment Author: NorthernVenomFang
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6gq8k6/
+Parent comment file: 7_6.txt
+Content: I was in on the first webinar; fairly certain they said it is protected by MFA  & VPN now... Leading me to believe it was never protected by either 🤦‍♂️

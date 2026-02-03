@@ -1,0 +1,17 @@
+Comment ID: m6euu4i
+Comment Author: chickentenders54
+Up/Down: 12/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6euu4i/
+Parent comment file: 11.txt
+Content: Seems like we need government regulation. If a company wants a contract from a public entity, then they must adhere to x, y, z security policies. 
+
+In a perfect world, that would help. In reality, idk.
+
+---------------------
+
+Comment ID: m6f3iv0
+Comment Author: Limeasaurus
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6f3iv0/
+Parent comment file: 11_10.txt
+Content: We have Act 754 her in Arkansas. We have to get a contract signed with a list requirements from each vendor. It’s been interesting see which vendors agree or cross out line items. It’s been a wild ride, and a disappointment.

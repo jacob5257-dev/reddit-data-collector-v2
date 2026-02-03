@@ -1,0 +1,19 @@
+Comment ID: m6c1oid
+Comment Author: bad_brown
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6c1oid/
+Parent comment file: 4_37.txt
+Content: If a basic support user can leverage maintenance backdoor access to all SIS instances, including on-prem (by default), I would be led to believe anyone could. Full. Admin. Access. At all times.
+
+The list was just pulled from their logs, that doesn't seem terribly difficult to believe. All of the actions by the threat actor were logged.
+
+---------------------
+
+Comment ID: m6c3j9y
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6c3j9y/
+Parent comment file: 4_55.txt
+Content: So that maintenance account isn't the only one that has full admin access and there are others?
+
+So that's the part that confuses me - how'd they (PowerSchool) log what the threat actor did against locally-hosted sites? Isn't it a direct connection between the threat IP and the target?

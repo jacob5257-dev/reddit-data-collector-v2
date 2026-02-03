@@ -1,0 +1,21 @@
+Comment ID: m63w42u
+Comment Author: Timewyrm007
+Up/Down: 12/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m63w42u/
+Parent comment file: 4_2.txt
+Content: It's NOT a good business model to not keep your promises.  
+
+If your business is breached and your cyberinsurance company says "oh you were breached by XXX, don't pay them they don't keep thier word" or "We won't pay XXX because they don't operate in good faith"
+
+The Breachers know how to play the game and will typically "follow the rules" of it
+
+---------------------
+
+Comment ID: m644i38
+Comment Author: flunky_the_majestic
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m644i38/
+Parent comment file: 4_4.txt
+Content: > The Breachers know how to play the game and will typically "follow the rules" of it
+
+Though, things aren't that simple.  These organizations are made of dozens of people.  There have been cases in the past of infighting where some of the individuals take the data and sell it even though they weren't supposed to.  In the end, it's relying on "honor among thieves".  There are no assurances.  PowerSchool knows this, but the horse is out of the barn.  No matter how hard they close the door, it's still out.  Now they are just trying to keep their jobs.

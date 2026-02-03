@@ -1,0 +1,21 @@
+Comment ID: m79ti4p
+Comment Author: orphantech
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79ti4p/
+Parent comment file: 16.txt
+Content: Strongly recommend reaching out to your cyber security insurance, who will likely get you to a legal dept. 
+
+Trust but verify.  If your instance is still online, for data retrieval, then your info was likely part of the exfiltration.
+
+Fields of major concern are medical alerts, ssn, gpa. Other fields are generally considered directory information and may not fall under your state's mandatory notification requirements.
+
+Yes, it is powerschool's incident, but best to get the proper guidance of cyber security and legal team.
+
+---------------------
+
+Comment ID: m7a19rb
+Comment Author: Firm_Safety7681
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7a19rb/
+Parent comment file: 16_2.txt
+Content: Your school probably has outside legal counsel on retainer. Engage them now. Like the commenter above noted, PowerSchool won't necessarily be able to account for all of your state's requirements around breach notifications, and your school (and your host school? not sure how you're structured) may have policies that apply. You may or may not have PHI or PII included. Don't count on PS's corporate attorneys or communications people being able to address your specific case.

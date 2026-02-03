@@ -1,0 +1,17 @@
+Comment ID: m68zax2
+Comment Author: TheShootDawg
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68zax2/
+Parent comment file: 8_3.txt
+Content: So you confirmed in your firewall logs the connection attempts?  nice.
+
+we have a couple geo blocks in place, but not a total ban on non-us.
+
+---------------------
+
+Comment ID: m691zgf
+Comment Author: Oneota
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m691zgf/
+Parent comment file: 8_11.txt
+Content: FW logs don't go back that far unfortunately, but we had no instances of the tell-tale IP in our ps-audit-log, nor any of the tell-tale students_export.csv nor teachers_export.csv in our mass-data log.  All things that virtually everyone else is seeing.

@@ -1,0 +1,19 @@
+Comment ID: m8tru4t
+Comment Author: ebagdrofk
+Up/Down: 10/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8tru4t/
+Parent comment file: 25.txt
+Content: As a former FCUSD student that remembers PowerSchool very well, am I impacted by this? I kind of have a feeling that they didn’t purge my info just because I graduated a while ago.
+
+---------------------
+
+Comment ID: m8z81t7
+Comment Author: nope_nic_tesla
+Up/Down: 1/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8z81t7/
+Parent comment file: 25_9.txt
+Content: Honestly everyone should assume that their information is already out there either way, because it probably is from one breach or another. 
+
+Freeze your credit with all major bureaus (you can unfreeze if you ever need to open a new account or apply for a loan etc), and make sure all your financial accounts have unique usernames and passwords, with multi-factor authentication enabled. 
+
+This should be standard operating procedure for everyone at this point IMO.

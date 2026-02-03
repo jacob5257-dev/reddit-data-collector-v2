@@ -1,0 +1,18 @@
+Post ID: 1iqh5s8
+Post Title: PowerSchool incident further problems?
+Post Author: zumaro
+Up/Down: 14.0/0.0
+Content: One of our parents affected by the PowerSchool breach has received an email from PowerSchool <Ps-sis-incident@mail1.csid.com> following closely the template that PowerSchool suggested we send out to families. It lists her daughter and was sent to her personal email address. 
+ 
+ This looks on the face of it to be a phishing attempt with the stolen information?
+
+---------------------
+
+Comment ID: md04won
+Comment Author: LoveTechHateTech
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md04won/
+Parent comment file: 32.txt
+Content: I got one of the emails to my work email address, but not my personal one yet (which is in PS for the town I live in that uses PowerSchool).
+
+It does read strangely and the from/reply-to address does look off, but csid[.]com forwards to Experian, which is handling the identity protection. Sure, anyone could buy a domain and forward the A record to do that, so take it for whatever it’s worth.

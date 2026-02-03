@@ -1,0 +1,17 @@
+Comment ID: maa9yqg
+Comment Author: Thin-Ad2690
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/maa9yqg/
+Parent comment file: 27.txt
+Content: Has anyone implemented 2Fa at the student level?
+
+---------------------
+
+Comment ID: maaaq4c
+Comment Author: bad_brown
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/maaaq4c/
+Parent comment file: 27_11.txt
+Content: No. I think it's overkill. Monitoring access and blocking emails for confirming/activating account signups has been enough.
+
+The more complexity between kids and their destination, the more time we take away from their learning. That certainly has to be weighed carefully, and perhaps others see the need. I just haven't had that experience with the students I'm responsible for.

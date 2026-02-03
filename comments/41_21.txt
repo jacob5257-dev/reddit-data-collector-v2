@@ -1,0 +1,15 @@
+Comment ID: mr406k1
+Comment Author: darkcambria
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr406k1/
+Parent comment file: 41_1.txt
+Content: That’s why PowerSchool’s efforts to convince people their data was not still in threat actors hands was laughable. They told us with straight faces they were confident the data was gone because they paid and watched it deleted. All of our communications told stake holders to assume their data was still available online.
+
+---------------------
+
+Comment ID: mr9b2xg
+Comment Author: Hazy_Arc
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr9b2xg/
+Parent comment file: 41_3.txt
+Content: But they pinky promised!

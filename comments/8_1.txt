@@ -1,0 +1,14 @@
+Post ID: 1hxedsq
+Post Title: PowerSchool Users what are you telling parents?
+Post Author: Road_Trail_Roll
+Up/Down: 24.0/0.0
+Content: We're working on a message to our parents and staff. I'm curious, what has everyone else sent out to explain what happened and what your steps are?
+
+---------------------
+
+Comment ID: m68exnh
+Comment Author: BTS05
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68exnh/
+Parent comment file: 8.txt
+Content: We sent out one, but powerschool is also suppose to provide use with a communication package

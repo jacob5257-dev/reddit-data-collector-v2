@@ -1,0 +1,18 @@
+Post ID: 1kh4xlx
+Post Title: PowerSchool Breach Update
+Post Author: cleveradmin
+Up/Down: 23.0/0.0
+Content: Shocking that it appears the hackers didn't actually delete the data they were paid to delete. I mean, if you can't trust hackers, who can you trust?
+ 
+ https://cbe.ab.ca/about-us/policies-and-regulations/freedom-of-information-and-protection-of-privacy-foip/Documents/20250507-PowerSchool-Data-Breach-Letter.pdf
+
+---------------------
+
+Comment ID: mr44hkb
+Comment Author: PsychologicalPart793
+Up/Down: 7/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mr44hkb/
+Parent comment file: 42.txt
+Content: "received a communication from a threat actor demanding a ransom using data from the previously reported December 2024 incident. TDSB’s FAQ page includes a list of the impacted information. TDSB does not store any Social Insurance Numbers, financial or banking information in PowerSchool, so that information was not affected in any way by the breach. "
+
+Why did they pay the first ransom then?

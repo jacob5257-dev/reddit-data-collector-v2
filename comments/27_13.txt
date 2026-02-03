@@ -1,0 +1,15 @@
+Comment ID: maa9yqg
+Comment Author: Thin-Ad2690
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/maa9yqg/
+Parent comment file: 27.txt
+Content: Has anyone implemented 2Fa at the student level?
+
+---------------------
+
+Comment ID: mauz3nh
+Comment Author: HackTheHackers
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/mauz3nh/
+Parent comment file: 27_11.txt
+Content: I did using ClassLink. Elementary is a simple image they select after putting their password in and secondary is a 6 digit pin. This is my first year doing this and it’s worked great.

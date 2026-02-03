@@ -1,0 +1,9 @@
+Post ID: 1jujgpv
+Post Title: Special Episode: PowerSchool CISO, Mishka McCowan
+Post Author: K12TechTalkPodcast
+Up/Down: 2.0/0.0
+Content: [https://k12techtalkpodcast.com/e/surviving-a-cyber-nightmare-inside-powerschools-response-strategy/](https://k12techtalkpodcast.com/e/surviving-a-cyber-nightmare-inside-powerschools-response-strategy/) and all major podcast platforms
+ 
+ Join Josh, Chris, and Mark as they host an exclusive interview with Mishka, the Chief Information Security Officer (CISO) of PowerSchool, following a significant cyber incident that changed the landscape of K-12 cyber-security. Discover the human side of crisis management, starting with Mishka's initial reaction to the attack and learn about the rapid response to contain the damage. 
+ 
+ The discussion delves into PowerSchool's decision to be transparent with affected districts and hear practical advice on vendor assessments and the importance of internal security measures to minimize future threats. Reflecting on the lessons learned, Mishka discusses the steps PowerSchool has taken to bolster its security infrastructure and maintain an open communication channel with its clients.

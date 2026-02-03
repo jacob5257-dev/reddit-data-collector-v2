@@ -1,0 +1,19 @@
+Comment ID: m6bvgdr
+Comment Author: hurricanesfan66
+Up/Down: 6/0
+Link: https://reddit.com/r/raleigh/comments/1hxqotl/nc_student_data_compromised_in_breach_nc_and/m6bvgdr/
+Parent comment file: 10_20.txt
+Content: I couldn't speculate...I know some of PS and similar companies, and none of them probably have the staffing/security in place like they should, but I don't know if that is a function of being owned by venture vultures or not.  These issues could be there if still owned by their original owners.  They had a webinar with tech folks today and this was shared:  
+
+>they are stating that this was initiated via compromised credentials of an employee with Power Source, one of their “sub-contractors”. So Power School allowed one of their contractors to operate without MFA…???
+
+That kind of stupidity could be there with or without parent company owning them.
+
+---------------------
+
+Comment ID: m6c02j4
+Comment Author: Billy_Bob_Joe_Mcoy
+Up/Down: -1/0
+Link: https://reddit.com/r/raleigh/comments/1hxqotl/nc_student_data_compromised_in_breach_nc_and/m6c02j4/
+Parent comment file: 10_21.txt
+Content: Ah the classic deflection, the old "sub contractor" screwed up.  PS it CIO and staff own those contracts and are 100000% responsible for its care. They don't want to keep is safe then every professional accreditation they all gave need to be revoked.

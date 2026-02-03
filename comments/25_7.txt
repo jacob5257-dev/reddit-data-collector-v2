@@ -1,0 +1,15 @@
+Comment ID: m8to70o
+Comment Author: NecessaryNo8730
+Up/Down: 1/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8to70o/
+Parent comment file: 25.txt
+Content: Do we know if SCUSD uses this company?
+
+---------------------
+
+Comment ID: m8trdv8
+Comment Author: acegikmo21767
+Up/Down: 2/0
+Link: https://reddit.com/r/Sacramento/comments/1i8h026/data_breach_hitting_powerschool_looks_very_very/m8trdv8/
+Parent comment file: 25_6.txt
+Content: SCUSD used Infinite Campus as far as I’m aware, but FCUSD uses PowerSchool

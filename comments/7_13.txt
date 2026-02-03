@@ -1,0 +1,15 @@
+Comment ID: m667vc7
+Comment Author: smerritt244
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m667vc7/
+Parent comment file: 7_7.txt
+Content: They said they paid the attacker and got video evidence that the info the stole was deleted.
+
+---------------------
+
+Comment ID: m66rkek
+Comment Author: AcidBuuurn
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m66rkek/
+Parent comment file: 7_11.txt
+Content: Hopefully the attackers are incentivized to keep their word so that other companies will pay the ransom in the future. 

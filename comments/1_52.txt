@@ -1,0 +1,15 @@
+Comment ID: m5zjngc
+Comment Author: Hazy_Arc
+Up/Down: 25/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zjngc/
+Parent comment file: 1_47.txt
+Content: Source: trust us bro.
+
+---------------------
+
+Comment ID: m5zju79
+Comment Author: Digisticks
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zju79/
+Parent comment file: 1_51.txt
+Content: Short of our own dark web monitoring, that's all they've given us at this point.

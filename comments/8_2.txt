@@ -1,0 +1,15 @@
+Comment ID: m68exnh
+Comment Author: BTS05
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68exnh/
+Parent comment file: 8.txt
+Content: We sent out one, but powerschool is also suppose to provide use with a communication package
+
+---------------------
+
+Comment ID: m68l5b1
+Comment Author: TechMeanieFace
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68l5b1/
+Parent comment file: 8_1.txt
+Content: Yeah. They said they would provide that by the end of the day yesterday. Has anyone actually received it?

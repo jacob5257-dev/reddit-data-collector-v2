@@ -1,0 +1,27 @@
+Comment ID: me7vwb7
+Comment Author: NorthernVenomFang
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/me7vwb7/
+Parent comment file: 34.txt
+Content: PowerSchool is scrambling:
+1) We still have not received the CrowdStrike report (was supposed to be to clients around Jan 17th, month later nothing). 
+
+2). In Aug 2024 they stated that 23.12 was going to be supported until Aug 2025 and the new State Reporting (released Feb 18) requires 24.3 and fails on install inside of 23.12; only a note in the release notes about this, everywhere else it states 23.12 is still supported, including the State Reporting download page.  No email to tech contacts on account about this, found out this week while we where on break and had to do an emergency upgrade yesterday.
+
+3) Maintenance account access enabled by default until the latest 24.3 released at the beginning of Feb 2025.
+
+4) No MFA or location access policies to the "maintenance account system" until recently; how did these guys pass their insurance audits?   I can't even pass mine without this on my admin accounts.
+
+
+It's a complete cluster f*CK; between the lawsuits, governments (States, Prov, USA, and Canada) looking at it;  I don't see them surviving as a company.
+
+---------------------
+
+Comment ID: me8r92m
+Comment Author: linus_b3
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/me8r92m/
+Parent comment file: 34_5.txt
+Content: >4) No MFA or location access policies to the "maintenance account system" until recently; how did these guys pass their insurance audits? I can't even pass mine without this on my admin accounts.
+
+They still don't have this.  They cut off access from the outside so their employees need to VPN in with MFA to get to it.  That isn't the same thing in my eyes since it won't help if someone is already inside their network.

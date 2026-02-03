@@ -1,0 +1,22 @@
+Post ID: 1hx2ghr
+Post Title: PowerSchool Cybersecurity Breach: What You Need to Know
+Post Author: K12TechTalkPodcast
+Up/Down: 20.0/0.0
+Content: [https://k12techtalkpodcast.com/e/powerschool-cybersecurity-breach-what-you-need-to-know/](https://k12techtalkpodcast.com/e/powerschool-cybersecurity-breach-what-you-need-to-know/)
+ 
+ This special episode of the K12 Tech Talk podcast dissects the recent cybersecurity incident involving PowerSchool, a major provider of Student Information Systems (SIS) in the United States. Hosts Josh, Chris, and Mark discuss the details of the breach that saw PowerSchool send notifications to its customers about the possibility of sensitive data exposure.
+ 
+ We discuss the details of the breach that have been released by PowerSchool and discussed by customers on K12TechPro and Reddit (/k12sysadmin) within the first 24 hours.
+ 
+ For more information, check out K12TechPro where you can find a special section on the PowerSchool breach with resources you need, including sample letters to families, instructions to download your system logs, and relevant news articles.
+ 
+ [https://members.k12techpro.com/](https://members.k12techpro.com/) (click sponsorship to join for free)
+
+---------------------
+
+Comment ID: m663kp2
+Comment Author: sin-eater82
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2ghr/powerschool_cybersecurity_breach_what_you_need_to/m663kp2/
+Parent comment file: 6.txt
+Content: Why not just lost those log instructions here for everybody to use without having to sign up for your site?  I think the community would greatly appreciate it considering the potential impact.

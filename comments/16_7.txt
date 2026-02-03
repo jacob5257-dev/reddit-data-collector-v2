@@ -1,0 +1,25 @@
+Comment ID: m79va0a
+Comment Author: Square_Pear1784
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79va0a/
+Parent comment file: 16_2.txt
+Content: Powerschool confirmed for us that we were part of the exfiltration. They provided us access back to our Powerschool and gave steps to access data using Data Export Manager. They gave us a spreadsheet detialing what info was targeted and how many files for each. Also which was PII. 
+
+Beyond that we are lost. I dont know anything about cyber security insurace for the school. I wouldnt be surposed if we dont have anything like that. We are a public charter school so maybe the state handles part of that. I guess I need to contact someone at the state.
+
+---------------------
+
+Comment ID: m7a0g0m
+Comment Author: orphantech
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m7a0g0m/
+Parent comment file: 16_3.txt
+Content: Start with your school's insurance company.  The same one that is used if a roof leaks, or if a vandalism occurs.  They should be your first call.
+
+Include the school's legal counsel as well.
+
+For me, I reached out due to making sure if our community attempts to file against us, that we have a legal team and the processes in place.  I doubt that anyone would attempt to file against us, but in today's world, you can't just assume.
+
+If you don't have cyber security insurance, 
+Reach out to CISA for additional guidance.
+https://www.cisa.gov/

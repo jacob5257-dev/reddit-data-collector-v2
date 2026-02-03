@@ -1,0 +1,15 @@
+Comment ID: m5y207i
+Comment Author: rilian4
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5y207i/
+Parent comment file: 2.txt
+Content: I got one saying my data was not breached.
+
+---------------------
+
+Comment ID: m5y9qr4
+Comment Author: da_chicken
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1n69/powerschool_breach/m5y9qr4/
+Parent comment file: 2_4.txt
+Content: That's the one we got, but I know a nearby district that was not so lucky.

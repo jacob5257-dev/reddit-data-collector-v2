@@ -1,0 +1,15 @@
+Comment ID: m5zk7uk
+Comment Author: Hazy_Arc
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zk7uk/
+Parent comment file: 1_52.txt
+Content: It baffles me why they’d pay for that “assurance”. You’re still going to have to fork out the dough for damage control, notification, and credit monitoring regardless. They’ve gained nothing by paying and only emboldened the asshats who do this type of thing to continue on.
+
+---------------------
+
+Comment ID: m5zkgiw
+Comment Author: Digisticks
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zkgiw/
+Parent comment file: 1_53.txt
+Content: Part of me wonders if they're so large they "had to," to get control of the situation back. All that student data is a big problem. We didn't have student socials, but I'm sure someone did.

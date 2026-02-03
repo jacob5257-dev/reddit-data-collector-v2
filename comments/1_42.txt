@@ -1,0 +1,15 @@
+Comment ID: m5y554d
+Comment Author: pheen
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y554d/
+Parent comment file: 1_14.txt
+Content: Oh great, I have logs from 12/22 for Students_export.csv and Teachers_export.csv from a Ukrainian IP address.
+
+---------------------
+
+Comment ID: m5yz6uj
+Comment Author: Timewyrm007
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yz6uj/
+Parent comment file: 1_27.txt
+Content: Ours too; we are hosted.  We had a mass export from 91.218.50.11  which geo located to the Ukraine

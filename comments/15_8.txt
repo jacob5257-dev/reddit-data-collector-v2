@@ -1,0 +1,15 @@
+Comment ID: m73o01s
+Comment Author: chickentenders54
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m73o01s/
+Parent comment file: 15.txt
+Content: The paid Google Workspace accounts are HIPPA compliant as long as they're configured properly. For extra measure, require the users that have access to use two factor authentication.
+
+---------------------
+
+Comment ID: m740nro
+Comment Author: Square_Pear1784
+Up/Down: -1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m740nro/
+Parent comment file: 15_1.txt
+Content: We have the free Google Workspace for Education - Fundamentals. So I am guessing we do not have the data privacy

@@ -1,0 +1,13 @@
+Post ID: 1kp9hwn
+Post Title: Security Watch 5/16/25
+Post Author: k12techpro
+Up/Down: 5.0/0.0
+Content: On K12TechPro, we've launched a weekly cyber threat intelligence and vulnerability newsletter with NTP and K12TechPro. We'll post the "public" news to k12sysadmin from each newsletter. For the full "k12 techs only" portion (no middle schoolers, bad guys, vendors, etc. allowed), log into [k12techpro.com](http://k12techpro.com) and visit the Cybersecurity Hub.
+ 
+ A major breach at **PowerSchool** exposed sensitive student and faculty data across thousands of school districts. Despite paying a ransom, the company now reports renewed extortion attempts, underscoring the risks of trusting threat actors to honor such agreements.
+ 
+ The **CoGUI phishing kit** has sent millions of targeted emails using â€œprecision validated phishingâ€ techniques. By filtering targets based on system attributes, the kit evades detection and tricks users into entering credentials or financial details on fake login pages. 
+ 
+ In another emerging threat, attackers are leveraging **fake CAPTCHA pages** to trick users into executing scripts via the command prompt. 
+ 
+ Lastly, researchers uncovered serious vulnerabilities in **Apple's AirPlay protocol**, including zero-click exploits capable of spreading malware across networks.

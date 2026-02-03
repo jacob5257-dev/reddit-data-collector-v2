@@ -1,0 +1,15 @@
+Comment ID: m6oe97k
+Comment Author: Mevakel
+Up/Down: 2/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m6oe97k/
+Parent comment file: 13_7.txt
+Content: I'm wondering, too. Most schools only use PowerSchool for grades and parent contact information. There's probably some IEP and 504 stuff in there, but I think most data is publicly accessible already.
+
+---------------------
+
+Comment ID: m6oeo43
+Comment Author: MTskier12
+Up/Down: 3/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m6oeo43/
+Parent comment file: 13_16.txt
+Content: At least for us, the actual document for IEPs and 504s arent even stored there, just the flags.

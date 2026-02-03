@@ -1,0 +1,15 @@
+Comment ID: m8r41sv
+Comment Author: mjh2901
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8r41sv/
+Parent comment file: 24_1.txt
+Content: I am looking at our state’s notification rules (California). So far, my research has shown that our notification timeline starts when we become aware and is not tied to the time of the breach, but it’s very fuzzy as to whether or not the clock starts when the vendor finds out or if it is when the vendor notifies us.  An argument could be made that the vendor is the school district as far as the notification timeline is concerned.
+
+---------------------
+
+Comment ID: m8rdw9t
+Comment Author: LyokoMan95
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8rdw9t/
+Parent comment file: 24_2.txt
+Content: It is when you become aware. If a district became aware of the breach before the vendor (due to logging, etc) that is when the timeline would start.

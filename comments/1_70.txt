@@ -1,0 +1,15 @@
+Comment ID: m61t305
+Comment Author: adstretch
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m61t305/
+Parent comment file: 1.txt
+Content: Does anyone here have a communications that went out to families?
+
+---------------------
+
+Comment ID: m62kgor
+Comment Author: Chuckfromis
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m62kgor/
+Parent comment file: 1_60.txt
+Content: I'm waiting for the PowerSchool webinar, so I  can hear their version of the events.

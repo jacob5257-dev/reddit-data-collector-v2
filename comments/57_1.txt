@@ -1,0 +1,43 @@
+Post ID: 1o8caq5
+Post Title: Four-Year Prison Sentence for PowerSchool Hacker Matthew Lane
+Post Author: _cybersecurity_
+Up/Down: 1.0/0.0
+Content: **Matthew Lane has received a four-year prison sentence for extortion and hacking activities involving PowerSchool and another telecommunications provider.**
+ 
+ **Key Points:**
+ 
+ - Lane extorted approximately $3 million from two companies, threatening to expose stolen customer data.
+ - He accessed sensitive student and teacher information from a cloud service provider linked to PowerSchool.
+ - PowerSchool confirmed it had paid a ransom to avoid data leaks, but data was not fully erased by the attackers.
+ 
+ Matthew Lane, a college student in Massachusetts, pleaded guilty to hacking and extorting two companies, including a significant breach involving PowerSchool, which serves schools across the US. Between April and May 2024, Lane and his associates demanded $200,000 from a telecommunications company, threatening to leak customer information. Later in December, he accessed the network of a cloud storage provider, exfiltrating sensitive personal data such as names, addresses, and Social Security numbers. This attack is part of a broader pattern affecting approximately 70 million individuals within school systems, highlighting the severe risks associated with data breaches in educational institutions.
+ 
+ In court, it was revealed that although Lane returned around $160,000 of the extorted funds, he was ultimately sentenced to four years in prison, along with three years of supervised release. The financial penalties included $14 million in restitution and a substantial fine. This case illustrates the serious legal repercussions surrounding cybercrime, especially as it pertains to the education sector and the protection of vulnerable data.
+ 
+ What measures can companies and educational institutions implement to better protect against data breaches and extortion threats?
+ 
+ **Learn More:** [Security Week](https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/)
+ 
+ **Want to stay updated on the latest cyber threats?** 
+ 
+  ðŸ‘‰ **[Subscribe to /r/PwnHub](https://www.reddit.com/r/pwnhub)**
+
+---------------------
+
+Comment ID: njttkuy
+Comment Author: AutoModerator
+Up/Down: 1/0
+Link: https://reddit.com/r/pwnhub/comments/1o8caq5/fouryear_prison_sentence_for_powerschool_hacker/njttkuy/
+Parent comment file: 57.txt
+Content: **Welcome to r/pwnhub – Your hub for hacking news, breach reports, and cyber mayhem.**  
+
+Stay updated on **zero-days, exploits, hacker tools, and the latest cybersecurity drama**.  
+
+Whether you’re **red team, blue team, or just here for the chaos**—dive in and stay ahead.  
+
+Stay sharp. Stay secure.  
+
+**[Subscribe and join us for daily posts!](https://www.reddit.com/r/pwnhub/)**
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/pwnhub) if you have any questions or concerns.*

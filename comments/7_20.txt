@@ -1,0 +1,17 @@
+Comment ID: m68pdy6
+Comment Author: rilian4
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m68pdy6/
+Parent comment file: 7_7.txt
+Content: > They keep saying it’s not ransomware
+
+Generally the term 'ransomware' is used to refer to hackers encrypting workstations and servers of their target and demanding money (a ransom) to decrypt them. This appears to have been outright data theft and extortion to ensure the stolen data was not released.
+
+---------------------
+
+Comment ID: m68szdr
+Comment Author: adstretch
+Up/Down: -1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m68szdr/
+Parent comment file: 7_19.txt
+Content: And while that’s all true I think the non-technical public’s colloquial use of the term would include this situation even if it’s not the true definition.

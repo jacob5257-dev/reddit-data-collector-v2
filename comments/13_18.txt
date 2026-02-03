@@ -1,0 +1,15 @@
+Comment ID: m6oeo43
+Comment Author: MTskier12
+Up/Down: 3/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m6oeo43/
+Parent comment file: 13_16.txt
+Content: At least for us, the actual document for IEPs and 504s arent even stored there, just the flags.
+
+---------------------
+
+Comment ID: m6of1wc
+Comment Author: Mevakel
+Up/Down: 1/0
+Link: https://reddit.com/r/Teachers/comments/1hz18no/powerschool_data_breach/m6of1wc/
+Parent comment file: 13_17.txt
+Content: Same, we just log the accommodations there, but the actual documents are stored in a different state-mandated piece of software.

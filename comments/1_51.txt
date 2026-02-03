@@ -1,0 +1,15 @@
+Comment ID: m5z67by
+Comment Author: Digisticks
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5z67by/
+Parent comment file: 1_46.txt
+Content: I don't particularly agree with it myself, but they worked with CyberSteward to "verify" it. Another piece of verbiage was that they "have a high degree of confidence" that the data has been deleted. They're partnering with other companies to monitor the dark web for it.
+
+---------------------
+
+Comment ID: m5zjngc
+Comment Author: Hazy_Arc
+Up/Down: 25/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zjngc/
+Parent comment file: 1_47.txt
+Content: Source: trust us bro.

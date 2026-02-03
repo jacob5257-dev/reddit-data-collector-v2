@@ -1,0 +1,21 @@
+Comment ID: m64ubzz
+Comment Author: chickentenders54
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m64ubzz/
+Parent comment file: 4_21.txt
+Content: Social security numbers along with all of the matching names, addresses, phone numbers, and medical data, is more valuable than you lead on. They have enough to assume full identities of these people.
+
+Hackers aren't organizing in mass and deciding which set of morals they will adhere to for the greater good of the hacking community. Each hacker is motivated by maximizing their personal profit, or motivated by revenge or something like that. They don't care about other hackers and how much other hackers might not make in the future. You're thinking way too far into this. As much money as possible, right now. They want it on the front end from the insurance payout, and they want it on the back end when they either sell this data in mass, or use it to compromise identities for many years to come.
+
+At most, these breaches give out credit monitoring/protection for a year. Fine, the hackers will sit on the data longer and then start compromising. Kids are especially valuable because they aren't keeping track of their credit.
+
+---------------------
+
+Comment ID: m652kyw
+Comment Author: vawlk
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m652kyw/
+Parent comment file: 4_25.txt
+Content: I can speak for all schools, but we haven't stored SSNs for years and the only medical data was basic alert info and doctor info. No actual medical records were included. The student and teacher data tables don't contain ALL student and teacher data.
+
+With the data that was accessed it would take a lot of extra work to social engineer your way to get anything worth value. Just best to export a buttload of data and extort the company with it and move on to your next "project."

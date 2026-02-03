@@ -1,0 +1,23 @@
+Comment ID: mdujrym
+Comment Author: fergal-dude
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdujrym/
+Parent comment file: 33.txt
+Content: I inherited a similar system from a tech director that had a 'caretaker' role in PS rather than a leadership role.  If one school needed something specific, he added it.  There was no effort to coordinate ANYTHING, ever...
+
+First thing I did was go to PSUG conferences and dig in, two conferences a year.  Each time I brought back more info on security, roles, and everything in between.  Then I cut off everyone's access and built it up from the ground up, all the while learning what each person did and what they needed in PS.  
+
+Along the way, you'll learn more about how it works and what you need to do.
+
+---------------------
+
+Comment ID: mdvyh20
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdvyh20/
+Parent comment file: 33_20.txt
+Content: Curious how you/your school differentiates this approach with Powerschool vs. every other department's platform(s).
+
+In other words, it sounds like the proposed solution is "become  the resident expert in the platform and take control of it".  Does that also apply to the accounting department software? To facilities software? To food service? To marketing? To HR? To Family services? Each/any one of those like contains PII and someone currently playing "caretaker" with no effort to coordinate or view anything from a security perspective. 
+
+I get it, but I'm not excited about the idea of approaching it from an arbitrary and  inconsistent approach to deciding what IT *should* be in charge of and what not.

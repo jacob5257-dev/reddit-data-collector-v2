@@ -1,0 +1,16 @@
+Comment ID: m5xtamv
+Comment Author: Hazy_Arc
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xtamv/
+Parent comment file: 1_6.txt
+Content: Oof. If you guys were truly impacted, that makes me believe PS support has ways of accessing your data even without being hosted.
+
+---------------------
+
+Comment ID: m5xtx31
+Comment Author: TechxNinja
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xtx31/
+Parent comment file: 1_10.txt
+Content: Yes, that's the general consensus on the PSUG forum thread. 
+I'm waiting to hear what people who are better at digging through audit logs come back with.

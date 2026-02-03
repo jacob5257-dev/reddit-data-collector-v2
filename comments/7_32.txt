@@ -1,0 +1,15 @@
+Comment ID: m6gpyun
+Comment Author: NorthernVenomFang
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6gpyun/
+Parent comment file: 7_5.txt
+Content: Yes and no.... It was an account that had access to maintenance utilities to connect into PowerSchool instances via the built in maintenance account.   From my understanding the maintenance accounts use a bearer token or a certificate credential based auth into PowerSchool systems that gets updated during upgrades/installs; it completely bypasses the standard login pages or OAUTH/Saml logins.
+
+---------------------
+
+Comment ID: m6pl44t
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6pl44t/
+Parent comment file: 7_26.txt
+Content: What is confusing/unclear is that the audit logs show the IP address from where the account is connecting from (for the incident, supposedly an IP located in Ukraine), which seems to indicate that this account allows direct remote connections without strong (mutual) authentication. Couple that with the fact that you can 'share' access of that account... is concerning.

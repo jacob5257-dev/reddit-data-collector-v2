@@ -1,0 +1,36 @@
+Post ID: 1i6j2jo
+Post Title: Current and former students and teachers of the TDSB, how are you feeling about the Powerschool cyber breach?
+Post Author: sounds_familiar_too
+Up/Down: 25.0/0.0
+Content: A couple of articles about this:
+ 
+ [https://www.thestar.com/news/gta/personal-information-of-ontario-students-going-back-decades-may-have-been-breached-in-cyberattack/article\_c4933936-d431-11ef-b492-57df3a162eca.html](https://www.thestar.com/news/gta/personal-information-of-ontario-students-going-back-decades-may-have-been-breached-in-cyberattack/article_c4933936-d431-11ef-b492-57df3a162eca.html)
+ 
+ [https://toronto.citynews.ca/2025/01/20/students-information-dating-back-to-1985-may-have-been-accessed-in-tdsb-cyber-incident/](https://toronto.citynews.ca/2025/01/20/students-information-dating-back-to-1985-may-have-been-accessed-in-tdsb-cyber-incident/)
+ 
+ My kids are impacted, and other people affected were students as far back as 1985 (and I even read 1965 in Peel district).
+ 
+ If you were a student back then, did you sign anything permitting the TDSB to upload your data to Powerschool? Sounds like you might want to contact the Office of the Information and Privacy Commissioner of Ontario. There are several class action lawsuits on the go in the USA against Powerschool, do we need one here?
+ 
+ And it impacts teachers too: [https://www.techradar.com/pro/security/powerschool-breach-worse-than-thought-company-says-all-student-and-teacher-data-accessed](https://www.techradar.com/pro/security/powerschool-breach-worse-than-thought-company-says-all-student-and-teacher-data-accessed)
+ 
+ What can be done? I'm particularly interested in some kind of incentive to prevent this happening again. There will be lots of finger-pointing by those responsible. I don't think this should be just another "<shrug>Oh well!"
+
+---------------------
+
+Comment ID: m8cqi4n
+Comment Author: infosec_qs
+Up/Down: 9/0
+Link: https://reddit.com/r/askTO/comments/1i6j2jo/current_and_former_students_and_teachers_of_the/m8cqi4n/
+Parent comment file: 23.txt
+Content: But the PowerSchool paid the hackers to ransom their data, and made them pinky swear to delete it all, so the criminals sent PowerSchool a video of them "deleting" the data, so I'm sure it's all fine. Criminals would never *lie* about something like that!
+
+I'm sure everything is fine!
+
+...
+
+I'm furious - my children and I are both impacted. It's a terrible idea to concentrate data at such scale in organizations that *cannot* secure the data. And I don't mean the organizations are doing a *bad* job with security, but rather that, if you understand technology well enough, you understand that *nothing* that can be accessed by anyone is "secure." It's just a question of risk appetite - information security will never be a profit incentive for corporations, except possibly for financial institutions operating at large scale, so it will always be inadequate. And by paying the ransom, this only further validates this "business model" for bad actors who seek to access and hold data hostage for financial gain.
+
+This $200 cheque is nice and all, but I'd like to see our school boards and healthcare funded well enough that these important functions don't need to be farmed out to massive corporations, thereby concentration risk in a single breakpoint, in the name of "fiscal (ir)responsibility."
+
+The cat is out of the bag, though. That data is out there now - anyone who believes that it has actually been deleted is being misled, or very naive.

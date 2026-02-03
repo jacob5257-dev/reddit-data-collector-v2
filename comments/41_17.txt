@@ -1,0 +1,17 @@
+Comment ID: mr5hzmf
+Comment Author: 07C9
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5hzmf/
+Parent comment file: 41_12.txt
+Content: You kind of said it yourself. They shouldn't have ever tried to assure customers that their data was safe, just because they paid the ransom. They blew it on all of their promised deadlines as well like you said.. the CrowdStrike report was a month and a half late (maybe even later?), the district communication was late. Was *anything* on time from them? The web conference with Mishka trying to explain what happened was awful too.
+
+It's also within the realm of possibility that they were tipped off about this entire thing in the first place by a user on here who asked them why GB's of data from their on-prem PS instance was getting exfiltrated to a Ukranian IP. Data exfiltrated 12/19-23ish. PS isn't officially aware until 12/28 which is *after* someone on here said they had reached out with questions.
+
+---------------------
+
+Comment ID: mr5oh20
+Comment Author: RevolutionaryPizza64
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5oh20/
+Parent comment file: 41_15.txt
+Content: That's absolutely fair. On the front end, the lack of hygiene that lead to the account compromise, coupled with the on-by-default remote access tool, and they definitely screwed the pooch on that side of the incident. But I guess we just have a different threshold for performance on the other side. When I compare their response to other breaches I've been notified of either as an individual or an organization, PS's was the most transparent and most timely, even if late. Even though the Crowdstrike report was late, it was still more than I've ever received from any other provider following an incident. I don't have a vested interest in defending them, but I've pointed to their response process a few times as an example for other providers to follow (but if anyone from PowerSchool is on here and wants me to have a vested interest, send check or money order to.... 😜)

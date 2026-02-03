@@ -1,0 +1,15 @@
+Comment ID: m7mg000
+Comment Author: extraspectre
+Up/Down: 3/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7mg000/
+Parent comment file: 59_44.txt
+Content: "yeah but what about"
+
+---------------------
+
+Comment ID: m7mjr3b
+Comment Author: Subpxl
+Up/Down: 0/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7mjr3b/
+Parent comment file: 59_59.txt
+Content: Ransom money funding terrorism is a very broad, amorphous claim. There are thousands of groups out there exfiltrating and extorting data. Companies carry cyber threat insurance for a reason.

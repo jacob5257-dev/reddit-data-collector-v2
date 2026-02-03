@@ -1,0 +1,26 @@
+Post ID: 1i87jzh
+Post Title: Question to those dealing with the PowerSchool Data breach
+Post Author: mjh2901
+Up/Down: 18.0/0.0
+Content: Before this goes any further, we are not a powerschool shop and my heart goes out to everyone dealing with this. I am looking at our processess for handling a data breach, and am wondering.
+ 
+ Are any of you tracking the cost of dealing with this breach? For my district we would be probably around 5 or 6 grand in attorney time vetting the notifications and advising admin/board. We have about 6000 students but if this was a Campus breach it would include graduates going back about 10 years so we would be notifying in the range of 30,000 people via mail, the estimate for that is about $2 per letter including employee time and a good couple grand in database employee time getting the exports and excel files ready for the mail merges.
+ 
+ What I am getting at is this type of breach the vendor is completely at fault and cost the district close to a 100 grand, which exceeds the yearly hosting/licensing costs for the SIS system. I am guessing the math is similar for other districts and just scales based on size.
+ 
+ I am going to ignore all the class action lawsuit stuff and go straight to is anyone approaching power school, or considering approaching a vendor that does this with a request for the direct costs?
+ 
+ As a group should we be talking about our future vendor contracts and cost shifting language should a databreach cost the district, and the fault lies completely with the vendor?
+ 
+ I am trying to look at this from how do we learn from this in how we deal with vendors that store student data.
+
+---------------------
+
+Comment ID: m8rjxla
+Comment Author: TravisVZ
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8rjxla/
+Parent comment file: 24.txt
+Content: This is something that's always irked me about the laws in this country (and others maybe?): PowerSchool fucks up and leaks our students' data, but legally *we* are the ones on the hook for notification and the costs associated with that, while the vendor just walks away unscathed.
+
+Now in this case PowerSchool is stepping up, though for our District the breached data doesn't reach the threshold under our state's laws to require notification, so it's moot either way for us. But it wasn't all that long ago that other vendors were breached and we did have to notify, and it was all on us - only thing we got from the vendor was the data that was stolen and a "we're sorry but you can totally trust us in the future"

@@ -1,0 +1,17 @@
+Comment ID: m5xo9n5
+Comment Author: sarge21
+Up/Down: 17/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xo9n5/
+Parent comment file: 1.txt
+Content: The maintenance user shows up as 200A0 in the ps-log-audit files.
+ 
+You can correlate audit log access with mass-data exports by time in the mass-data logs.
+
+---------------------
+
+Comment ID: m5xqw95
+Comment Author: Chuckfromis
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xqw95/
+Parent comment file: 1_1.txt
+Content: W - O - W ..... that's fun... I'm guessing the breach notifications are going to be crazy.

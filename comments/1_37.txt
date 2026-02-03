@@ -1,0 +1,15 @@
+Comment ID: m5y9k43
+Comment Author: bad_brown
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y9k43/
+Parent comment file: 1_18.txt
+Content: Do you use Schoolmessenger by chance?
+
+---------------------
+
+Comment ID: m5yit5j
+Comment Author: J_de_Silentio
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yit5j/
+Parent comment file: 1_32.txt
+Content: Or Schoology, or the other 50 SaaS programs powerschool group bought.

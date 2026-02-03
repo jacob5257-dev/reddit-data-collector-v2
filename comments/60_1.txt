@@ -1,0 +1,34 @@
+Post ID: 1icbzl2
+Post Title: PowerSchool Data Breach Affects Over 271,000 Students and 14,000 Teachers in Newfoundland
+Post Author: RepulsivePlankton989
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m9pcogu
+Comment Author: Nathanull
+Up/Down: 11/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9pcogu/
+Parent comment file: 60.txt
+Content: >[The provincial government says some 271,000 students and over 14,000 teachers had their data breached during a cyber security incident involving the PowerSchool platform.
+
+The incident occurred over the Christmas break and was first reported to the provincial government in early January.](https://vocm.com/2025/01/28/261239/)
+
+>[PowerSchool is used in multiple jurisdictions in North America, and it is not just this province that is affected.](https://vocm.com/2025/01/28/261239/)
+
+>[The province says it has been determined that data relating to 271,000 students was accessed by an unauthorized third party, with the oldest records dating back to 1995.](https://vocm.com/2025/01/28/261239/)
+
+>They say 75 per cent of students affected are no longer in the K-12 system.
+
+>Information accessed may include the student’s name, contact information, date of birth, MCP number, medical alert information, and custodial alert information.
+
+>Some 14,400 teachers had their data breached, with records dating back to 2010.
+
+>The province says that about 70 percent of teacher information includes a combination of name, email address, and phone number. A small number of MCP numbers and 749 Social Insurance Numbers were also accessed.
+
+>[All teachers whose SIN numbers were accessed will be notified individually.](https://vocm.com/2025/01/28/261239/)
+
+>[PowerSchool is offering two years of complimentary identity protection services for everyone affected, as well as two years of complimentary credit monitoring services to all those who have reached the age of majority.](https://vocm.com/2025/01/28/261239/)
+
+>[More details about that process will be made available in the coming weeks.](https://vocm.com/2025/01/28/261239/)

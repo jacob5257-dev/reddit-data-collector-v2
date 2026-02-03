@@ -1,0 +1,16 @@
+Post ID: 1hxedsq
+Post Title: PowerSchool Users what are you telling parents?
+Post Author: Road_Trail_Roll
+Up/Down: 24.0/0.0
+Content: We're working on a message to our parents and staff. I'm curious, what has everyone else sent out to explain what happened and what your steps are?
+
+---------------------
+
+Comment ID: m68y6g7
+Comment Author: combobulated
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68y6g7/
+Parent comment file: 8.txt
+Content: We haven't sent out yet, but likely will shortly.
+
+Was hoping to get a better understanding of the situation and some additional guidance and input from PS, legal, and other cyber security resources before moving forward.

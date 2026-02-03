@@ -1,0 +1,21 @@
+Comment ID: m644i38
+Comment Author: flunky_the_majestic
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m644i38/
+Parent comment file: 4_4.txt
+Content: > The Breachers know how to play the game and will typically "follow the rules" of it
+
+Though, things aren't that simple.  These organizations are made of dozens of people.  There have been cases in the past of infighting where some of the individuals take the data and sell it even though they weren't supposed to.  In the end, it's relying on "honor among thieves".  There are no assurances.  PowerSchool knows this, but the horse is out of the barn.  No matter how hard they close the door, it's still out.  Now they are just trying to keep their jobs.
+
+---------------------
+
+Comment ID: m64op7i
+Comment Author: vawlk
+Up/Down: -7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m64op7i/
+Parent comment file: 4_13.txt
+Content: The data wasn't really that valuable. The target was PS's rep, not the schools. 
+
+However, PS's reputation is the thing that could be hurt the most here and is most valuable.
+
+PS screwed up and paid for it to keep it contained.

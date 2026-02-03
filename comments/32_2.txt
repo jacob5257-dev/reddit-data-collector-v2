@@ -1,0 +1,16 @@
+Post ID: 1iqh5s8
+Post Title: PowerSchool incident further problems?
+Post Author: zumaro
+Up/Down: 14.0/0.0
+Content: One of our parents affected by the PowerSchool breach has received an email from PowerSchool <Ps-sis-incident@mail1.csid.com> following closely the template that PowerSchool suggested we send out to families. It lists her daughter and was sent to her personal email address. 
+ 
+ This looks on the face of it to be a phishing attempt with the stolen information?
+
+---------------------
+
+Comment ID: md05pac
+Comment Author: das-
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md05pac/
+Parent comment file: 32.txt
+Content: I believe csid.com is registered to Experian. It is probably the next phase starting where victims will be contacted by Experian to start the credit montioring.

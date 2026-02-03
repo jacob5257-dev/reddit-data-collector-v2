@@ -1,0 +1,22 @@
+Post ID: 1hy4bgy
+Post Title: EdTech Vendors and Their Poor Cybersecurity Practices
+Post Author: philr79
+Up/Down: 84.0/0.0
+Content: So, in light of the PowerSchool incident, how do we as a community best band together to pound on organizations like NWEA, PBISApps, Acadience (among others) to offer at least the basic levels of security (SSO/2FA, limited IP address connection filters, etc.)? I just find it stunning that with all the attention K-12 has received, that these companies are not making this more of a priority. Our Alexandria library program is one. We upload similar demographic data to that system so parents are aware of books checked out, overdues and all that. Yet, it's a simple, unassuming HTTP 1.x authentication window and then you're in. Its enough to keep my blood pressure way too high.
+
+---------------------
+
+Comment ID: m6fao4f
+Comment Author: schmag
+Up/Down: 15/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fao4f/
+Parent comment file: 11.txt
+Content: TBH, and maybe I am a little jaded, but my experience is WE as a community cannot. these crackers certainly can and likely did.
+
+every EDtech company I have seen is in it for the easy edtech tax and grant money, charging an arm and a leg for a mediocre/shit product with garbage service because they can. 
+
+Hell I still remember the days of setting 5 machines to download the NWEA data before I left for the day with the HOPE that one of them will succeed. I remember setting up an RDP server and buying licensing just so we can run NWEA as a remote app because it would not run for shit over wireless and we didn't have any hardwired labs.
+
+hell I just setup a fucking math resources app last year that I haven't seen in >10 years and they hadn't changed in ten years. they are still selling the same over-priced shit with win98 and XP instructions...
+
+until it bites a company in the ass like what happened here and forces them to change the money will keep rolling in and they will continue as is...

@@ -1,0 +1,88 @@
+Post ID: 1i5ypr8
+Post Title: Powerschool hack TDSB
+Post Author: Overthemoontraveller
+Up/Down: 1.0/0.0
+Content: This email just went out. Seems like a significant amount of information that was potentially hacked.
+ 
+ Dear Parents/Guardians/Caregivers,
+ 
+ Further to the[Â information shared](http://track.spe.schoolmessenger.com/f/a/NRtt_An3I1ta910NA4nSDQ~~/AAAAAQA~/RgRpb9aWP0Q8aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9ob21lL2N0bC9EZXRhaWxzL21pZC80MzgyMy9pdGVtaWQvNDAwVwdzY2hvb2xtQgpnhxajjmepYCJOUhVzdXNhbnRvb3JAaG90bWFpbC5jb21YBAAAAAI~)Â on January 8, 2025, we are writing with an update on the cyber incident involving PowerSchool's Student Information System â€“ the application used by TDSB and many school boards across North America to store certain student information.Â  
+ 
+ 
+ **This notification applies to all those who were students with TDSB between September 3, 1985 to December 28, 2024. Please note that we will also be posting this letter on**Â [**our website**](http://track.spe.schoolmessenger.com/f/a/s5KiU3Mlcynwy10RGI0s-Q~~/AAAAAQA~/RgRpb9aWP0Q6aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9BYm91dC1Vcy9Qb3dlclNjaG9vbC1DeWJlci1JbmNpZGVudFcHc2Nob29sbUIKZ4cWo45nqWAiTlIVc3VzYW50b29yQGhvdG1haWwuY29tWAQAAAAC)Â **to notify TDSB's former students who may be affected.**Â Â  
+ 
+ 
+ **What Happened?**
+ 
+ As you may recall, on Tuesday, January 7, 2025, PowerSchool notified TDSB and other school boards in Ontario and across North America that a PowerSchool system had experienced a data breach between December 22-28, 2024. TDSB'sÂ cybersecurity team promptly activated our response plan, taking immediate steps to ensure that our critical systems remain operational. TDSB can confirm that our environment is secure, and that there is no ongoing unauthorized access to any data, either stored inÂ PowerSchool's Student Information SystemÂ or elsewhere.Â  
+ 
+ 
+ **What Information was Impacted?**Â 
+ 
+ While our investigation into the incident continues, we have now confirmed the types of personal information stored in PowerSchool's Student Information System that may have been accessed and acquired by an unauthorized user. The information includes the following: 
+ 
+ 
+ **Students between September 1, 2017 and December 28, 2024**
+ 
+ ||
+ ||
+ |First, Middle & Last Names Date of Birth Gender Health Card Number Grade Level and School Information Start/End Date as a Student Ontario Education Number EQAO Accommodation Information|Medical Information (ie. allergies, conditions, injuries) Home Addresses Home Phone Numbers TDSB Student Number TDSB Email Address First Nations, MÃ©tis, Inuit Information Residency Status Principal/Vice Principal Notes (including discipline notes)Â |
+ 
+ With respect to medical information, if you provided information to your child's school about your child's allergies, medical conditions or injuries when completing the start of school year forms, this information was included in the data that may have been accessed or acquired. Please note that medical information provided to members of TDSB's Professional Support Services team (e.g. Psychologists, Occupational Therapists, Physiotherapists, Audiologists, Speech-Language Pathologists, and Social Workers) was not impacted by this incident.Â 
+ 
+ **Students between September 3, 1985 and August 31, 2017**
+ 
+ ||
+ ||
+ |First, Middle & Last Names Date of Birth Gender Health Card Number Ontario Education Number|Home Addresses Home Phone Numbers TDSB Student Number TDSB Email Address First Nations, MÃ©tis, Inuit InformationÂ |
+ 
+ This historical student information is kept in PowerSchool's Student Information System in order to respond to requests for former student records.
+ 
+ **Parent/guardian/caregiver and emergency contact information (individuals connected to students who were registered from September 1, 2017 and December 28, 2024)**
+ 
+ ||
+ ||
+ |First, Middle & Last Names Home & Mobile Phone Numbers Email Addresses|Relationship to Student Home Addresses|
+ 
+ To be clear, TDSB does not store any Social Insurance Numbers, financial or banking information in the PowerSchool Student Information System, so that information was not affected in any way.Â  
+ 
+ 
+ **PowerSchool has reported that it received confirmation that the data acquired by the unauthorized user was deleted and that the data was not posted online.**Â Nevertheless, TDSB continues to take this incident very seriously, and is working with PowerSchool to ensure an incident like this does not happen again in the future.Â Â  
+ 
+ 
+ This breach has been reported to the Office of the Information and Privacy Commissioner of Ontario (the IPC) and an investigation file has been opened. While you are entitled to file a complaint, the IPC has advised that it is not necessary as they are already investigating the matter. You can visit the IPC's website at[Â www.ipc.on.ca](http://track.spe.schoolmessenger.com/f/a/H27uyTqlsN-9_zl8U2z4ZQ~~/AAAAAQA~/RgRpb9aWP0QVaHR0cDovL3d3dy5pcGMub24uY2EvVwdzY2hvb2xtQgpnhxajjmepYCJOUhVzdXNhbnRvb3JAaG90bWFpbC5jb21YBAAAAAI~).Â  
+ 
+ 
+ **Where Can I Find the Latest Information?**
+ 
+ We will continue to provide additional updates as we receive them. Information on this evolving situation is[Â available here](http://track.spe.schoolmessenger.com/f/a/s5KiU3Mlcynwy10RGI0s-Q~~/AAAAAQA~/RgRpb9aWP0Q6aHR0cHM6Ly93d3cudGRzYi5vbi5jYS9BYm91dC1Vcy9Qb3dlclNjaG9vbC1DeWJlci1JbmNpZGVudFcHc2Nob29sbUIKZ4cWo45nqWAiTlIVc3VzYW50b29yQGhvdG1haWwuY29tWAQAAAAC)Â on the TDSB's website. We also recognize that you may have questions about what has occurred. Should you have any questions, please contactÂ [cyberincident@tdsb.on.ca](mailto:cyberincident@tdsb.on.ca).Â  
+ 
+ 
+ Sincerely, 
+ 
+ 
+ Stacey Zucker 
+ Interim Director of Education
+ 
+ \-------------
+
+---------------------
+
+Comment ID: m87poap
+Comment Author: AutoModerator
+Up/Down: 1/0
+Link: https://reddit.com/r/CanadianTeachers/comments/1i5ypr8/powerschool_hack_tdsb/m87poap/
+Parent comment file: 22.txt
+Content: Welcome to /r/CanadianTeachers! Please take a moment to familiarize yourself with the sub rules.
+
+**"WHAT DOES X MEAN?"** Check out our acronym post [here](https://www.reddit.com/r/CanadianTeachers/comments/1c032s3/what_does_x_mean_an_acronym_megapost/) for relevant terms used in each province or territory. Please feel free to contribute any we are missing as well!
+
+**QUESTIONS ABOUT TEACHER'S COLLEGE/BECOMING A TEACHER IN CANADA? ALREADY A TEACHER OUTSIDE OF CANADA?:** Delete your post and use this [megapost](https://www.reddit.com/r/CanadianTeachers/comments/1bc1wv2/prospective_student_teachers_teachers_collegebed/) instead. Anything pertaining to the above will be deleted if posted outside of the megaposts. This post is also for certified teachers outside of Canada looking to be teachers here.
+
+**QUESTIONS ABOUT MOVING PROVINCES OR COMING TO CANADA TO TEACH?** Check out our past megaposts first for information to help you: [ONE](https://www.reddit.com/r/CanadianTeachers/comments/jqc7hx/transferring_to_another_provincecoming_to_canada/) // [TWO](https://www.reddit.com/r/CanadianTeachers/comments/n76csu/transferring_to_another_provincecoming_to_canada/?)
+
+
+ Using link and user flair is encouraged as well! Enjoy!
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CanadianTeachers) if you have any questions or concerns.*

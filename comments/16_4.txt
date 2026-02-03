@@ -1,0 +1,19 @@
+Comment ID: m79tcb6
+Comment Author: bad_brown
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79tcb6/
+Parent comment file: 16.txt
+Content: Why would you listen to Powerschool about...anything?
+
+Notify those who you have contact info for, make a post on your website or in your newsletter. Not sure why you need a Powerschool instance available on the internet if you aren't using it anymore. Maybe migrate to on-prem and turn tgat server off unless you need it. 
+
+PowerSchool promised email templates days ago and ongoing communication and I've gotten crickets.  The lawsuits have already started being filed, and I imagine they're going to shell up.
+
+---------------------
+
+Comment ID: m79vnpb
+Comment Author: Square_Pear1784
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i1xqiw/i_need_to_ask_about_powerschools_response/m79vnpb/
+Parent comment file: 16_1.txt
+Content: We got an email templete we sent out to parents letting them know the situation. Beyond that nothing else. The head of school sent the email out. Contacting each person impacted individually (1600+) is beyond our compacity.

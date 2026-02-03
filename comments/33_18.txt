@@ -1,0 +1,17 @@
+Comment ID: mdtr8yd
+Comment Author: lifeisaparody
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtr8yd/
+Parent comment file: 33_7.txt
+Content: If you have the budget for it, look into a CASB for your cloud security. Both Microsoft and Google have them, but they are not cheap.
+
+---------------------
+
+Comment ID: mdtw6hf
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtw6hf/
+Parent comment file: 33_12.txt
+Content: Thanks.
+
+We do have some insight into things tied into our Google instance, but that's likely a small portion of overall platforms.

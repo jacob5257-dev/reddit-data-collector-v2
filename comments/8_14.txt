@@ -1,0 +1,14 @@
+Post ID: 1hxedsq
+Post Title: PowerSchool Users what are you telling parents?
+Post Author: Road_Trail_Roll
+Up/Down: 24.0/0.0
+Content: We're working on a message to our parents and staff. I'm curious, what has everyone else sent out to explain what happened and what your steps are?
+
+---------------------
+
+Comment ID: m69881a
+Comment Author: namon295
+Up/Down: 30/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m69881a/
+Parent comment file: 8.txt
+Content: Get with lawyers.  Have them tell you what to say and how to say it.  Power school has issued a promise to disclose this to victims and our lawyers explained that kind of puts a legal limit on what you can do.  Seriously lawyer up for this.  It's crazy complicated and we as school systems and admins are stuck in a very awkward position in the middle here.  If you say the wrong thing, no matter how well intentioned, it could backfire on you and make things way worse than they already are.

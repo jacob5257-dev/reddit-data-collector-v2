@@ -1,0 +1,15 @@
+Comment ID: m6618fb
+Comment Author: sharpeone
+Up/Down: 48/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6618fb/
+Parent comment file: 7_1.txt
+Content: Maintenance account compromised *due to poor security practices.*
+
+---------------------
+
+Comment ID: m6651ic
+Comment Author: adstretch
+Up/Down: 23/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6651ic/
+Parent comment file: 7_4.txt
+Content: I’m still shocked that any one account had that much access for that long and that they didn’t have a SIEM in place that caught all that data leaving through one set of credentials.

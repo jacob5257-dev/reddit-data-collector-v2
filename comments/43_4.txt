@@ -1,0 +1,22 @@
+Post ID: 1khqnbw
+Post Title: School Ransomware attacks
+Post Author: Sunitha_Sundar_5980
+Up/Down: 125.0/0.0
+Content: Just read about how the PowerSchool breach led to ransom demands sent directly to families across North America, even after the company paid hackers to delete the stolen data. Turns out the data wasn't wiped after all.
+ 
+ What's worse? Some of the info goes back decades, student IDs, medical details, emergency contacts. School boards are now scrambling to respond. This really shows how damaging one weak access point (like a compromised admin account) can be.
+ 
+ Do you think schools and edtech platforms are doing enough to secure such sensitive data?
+ 
+ Source: [https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277](https://www.cbc.ca/news/canada/powerschool-ransom-extortion-demands-1.7529277)
+
+---------------------
+
+Comment ID: mr923oo
+Comment Author: updatelee
+Up/Down: 5/0
+Link: https://reddit.com/r/cybersecurity/comments/1khqnbw/school_ransomware_attacks/mr923oo/
+Parent comment file: 43.txt
+Content: 100% they arent doing enough, most companies arent. My bank (top 5 largest in Canada) doesnt even support passkeys yet. Honestly its come to the point imo legislation needs to be enacted to set standards for how protected information is stored(encrypted, geo location etc), how it can be accessed (passwords, passkeys etc), how it can be transmitted (encrypted/plaintext) ... and the big one ... acountability, how do they handle breaches, what actions do they take and what reprocusions are there. 
+
+They need real input from security leaders to draft such changes. Right now its a free for all and half the companies are doing nothing. PowerSchool should be an eye opener

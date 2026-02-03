@@ -1,0 +1,14 @@
+Post ID: 1hxedsq
+Post Title: PowerSchool Users what are you telling parents?
+Post Author: Road_Trail_Roll
+Up/Down: 24.0/0.0
+Content: We're working on a message to our parents and staff. I'm curious, what has everyone else sent out to explain what happened and what your steps are?
+
+---------------------
+
+Comment ID: m6bt1d1
+Comment Author: orphantech
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m6bt1d1/
+Parent comment file: 8.txt
+Content: I received our notification on Jan 9 at 4:56pm MST with two template messages - one for staff and one for families.  Personally, I tend to like what other districts had already posted as "official" statements.  That said, do what your district's legal team says.

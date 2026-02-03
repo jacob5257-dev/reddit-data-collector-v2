@@ -1,0 +1,43 @@
+Comment ID: mr5lugq
+Comment Author: 07C9
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5lugq/
+Parent comment file: 41_14.txt
+Content: That's a reasonable take. However, I don't think you have to be a Cyber Security expert to know that *generally speaking* paying the ransom isn't advisable. This is the direct guidance of FBI, CISA, etc. I agree there are variables and every situation is different. And that if this happened to us, obviously we're going to take the advice of experts. I guess it comes down to the reputation of the TA. Clearly this one didn't care. So sure, maybe it's more nuanced than 'just don't pay it ever'... but in most situations I still think it's the recommended approach. PS essentially took your advice and still got burned. Also, how do you know that a TA isn't impersonating another TA that has a good reputation of not releasing stolen data? Pretty sure PS hired a third-party company (cybersteward.com) to negotiate with the TA. Sounds like they both got played.
+
+---------------------
+
+Comment ID: mr5uzj2
+Comment Author: CptUnderpants-
+Up/Down: -1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5uzj2/
+Parent comment file: 41_16.txt
+Content: >I don't think you have to be a Cyber Security expert to know that *generally speaking* paying the ransom isn't advisable.
+
+That is correct, but isn't what you said. I have a real problem with the narrative going around that paying is never an option.
+
+>This is the direct guidance of FBI, CISA, etc.
+
+Also correct, but their interests are a global reduction in ransomware, and they know that in many cases paying it would be considered a crime, even if there are potential ways to get that done which make it impossible to prosecute.
+
+The FBI, etc are less concerned about an individual school even if release of exfiltrated data will likely cause kids to take their own lives. In my school, I've had those discussions and it is significant enough risk to include in the decison making process. It's also why 30% of my opex is spent on cybersecurity. 
+
+I'm not sure if it is similar where you are, but we are required to keep detailed case notes electronically. Those can often contain a lot of very sensitive mental health information, which is why a student could be put in a state of distress if they were published. If that isn't the case where you are, I can understand why it wouldn't be of such high concern if it were simply identity theft and grades being published.
+
+>And that if this happened to us, obviously we're going to take the advice of experts.
+
+Not just any experts, but experts who are paid to prioritise your interests (including the wellbeing of your students) over everyone else's.
+
+>PS essentially took your advice and still got burned.
+
+You followed the advice of experts, or experts who are paid to prioritise your interests? Either way, it is like any specialised area, they can get it wrong. Doesn't mean we should stop trusting people more experienced and qualified than us who are required to put our interests first.
+
+>Also, how do you know that a TA isn't impersonating another TA that has a good reputation of not releasing stolen data?
+
+That is why you hire experts who have the knowledge to be able to tell you.
+
+>Pretty sure PS hired a third-party company (cybersteward.com) to negotiate with the TA. Sounds like they both got played.
+
+We don't know if CyberSteward gave flawed advice, or the best advice they could in the circumstances.
+
+It isn't going to change my position that I know I don't have enough experience or current knowledge to make recommendations to my school in these circumstances. I have a guy I trust entirely for this kind of situation if we ever need it. If he says pay, we'll pay.

@@ -1,0 +1,25 @@
+Comment ID: m5zkgiw
+Comment Author: Digisticks
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zkgiw/
+Parent comment file: 1_53.txt
+Content: Part of me wonders if they're so large they "had to," to get control of the situation back. All that student data is a big problem. We didn't have student socials, but I'm sure someone did.
+
+---------------------
+
+Comment ID: m68uy5a
+Comment Author: combobulated
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m68uy5a/
+Parent comment file: 1_54.txt
+Content: It is likely a larger, more well known, "professional" hacker group.
+
+As such, they are more like a "business" than some stereotypical "hacker" group of angry kids and IT recluses.  As a business, they just want to get paid for the hostages they have.  (The data is the hostage).  And they want to stay in business.
+
+If they kill the hostages, they don't get paid.
+
+If they get paid and then kill the hostages, they won't get paid next time.
+
+They lose credibility (and likelihood of payment) if they don't stay true to their word (With all acknowledgment to the irony in them being an "honorable" criminal group").
+
+So there's some validity to the claim anyhow.

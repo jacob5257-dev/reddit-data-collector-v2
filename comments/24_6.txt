@@ -1,0 +1,15 @@
+Comment ID: m8so90e
+Comment Author: mjh2901
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8so90e/
+Parent comment file: 24_4.txt
+Content: For the vendor that did not step up, maybe there should be a board policy that bars the school from re-upping with any vendor that causes a data breach and then fails to pay for the incidental costs.
+
+---------------------
+
+Comment ID: m8sol7c
+Comment Author: TravisVZ
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8sol7c/
+Parent comment file: 24_5.txt
+Content: This would require the Board to give a shit. To them, it's just why we have insurance

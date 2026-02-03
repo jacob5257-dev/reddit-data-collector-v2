@@ -1,0 +1,15 @@
+Comment ID: m6412sf
+Comment Author: sync-centre
+Up/Down: 26/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6412sf/
+Parent comment file: 4.txt
+Content: Their security team didn't notice large amount data going to ukraine on a sunday a few days before christmas?
+
+---------------------
+
+Comment ID: m645ed1
+Comment Author: bad_brown
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m645ed1/
+Parent comment file: 4_8.txt
+Content: Nope!

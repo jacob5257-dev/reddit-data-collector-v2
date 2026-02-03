@@ -1,0 +1,17 @@
+Comment ID: m5xxt4j
+Comment Author: FloppyDumpster
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xxt4j/
+Parent comment file: 1.txt
+Content: We don't use anything from PowerSchool and never have, but I got an email from PowerSchool telling me that we are not affected by the breach because we are not a PowerSchool customer. It even starts with "Dear Valued Customer," and then says "you are not a PowerSchool SIS customer" later on.
+
+My best guess is that they have my email because they are owned by Pearson and we use a few other Pearson products, but the email makes no mention of this or Pearson at all. It's such a bizarre email to receive.
+
+---------------------
+
+Comment ID: m5ztj84
+Comment Author: aplarsen
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5ztj84/
+Parent comment file: 1_18.txt
+Content: They haven't been owned by Pearson for 10 years. They have your email from something else.

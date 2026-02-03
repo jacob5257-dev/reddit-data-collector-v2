@@ -1,0 +1,17 @@
+Comment ID: m6fvcgt
+Comment Author: Camera_dude
+Up/Down: 19/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fvcgt/
+Parent comment file: 11.txt
+Content: Zero trust.   Treat ALL vendors and systems as potentially compromised and build layers protecting your internal systems from intrusion.  Next gen firewalls, segmenting your web hosting from the rest of your network, and monitoring for unusual network activity.
+
+As for outgoing data being compromised on the vendor's systems, that's for Legal to deal with.  Write contracts that specify data security for hosting PII, and if they get hacked, those contracts will protect the school district from liability.   That's what the Legal team is for.
+
+---------------------
+
+Comment ID: m6g86yi
+Comment Author: dallywolf
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6g86yi/
+Parent comment file: 11_23.txt
+Content: We have those in place but contracts with vendors don't negate the hundreds of hours you'll spend cleaning up the mess, the forever risk to the students by having their information compromised and the community will still lose faith in the school district for using said vendor.  While legally we are protected but that also doesn't protect the student from future harm.

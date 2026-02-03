@@ -1,0 +1,21 @@
+Comment ID: m8r21t3
+Comment Author: Fresh-Basket9174
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8r21t3/
+Parent comment file: 24.txt
+Content: Excellent questions.  
+
+In this case PowerSchool is agreeing to cover all notifications both to staff/students as well as state Attorney General's where necessary.  They are also offering 2 years of credit monitoring/identity theft protection to every person who had information exposed regardless of whether a SS# was attached or not.  
+
+But, we are concerned that their response time may not meet the requirement for our states reporting guidelines so we are handling that piece with an outside firm.  
+
+I do think going forward that having language in a contract regarding covering costs or having the company handle notifications within the legally required timeframe for your state/locality would be a reasonable ask.  For today, we are working with a firm handling this issue for several clients and they will approach PowerSchool to cover the costs for this.  Its not impossible that they will not be able to recoup the costs, but I believe that a firm representing multiple victims will have a better chance then a single small to medium size district will.
+
+---------------------
+
+Comment ID: m8r41sv
+Comment Author: mjh2901
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8r41sv/
+Parent comment file: 24_1.txt
+Content: I am looking at our state’s notification rules (California). So far, my research has shown that our notification timeline starts when we become aware and is not tied to the time of the breach, but it’s very fuzzy as to whether or not the clock starts when the vendor finds out or if it is when the vendor notifies us.  An argument could be made that the vendor is the school district as far as the notification timeline is concerned.

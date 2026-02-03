@@ -1,0 +1,14 @@
+Post ID: 1icbzl2
+Post Title: PowerSchool Data Breach Affects Over 271,000 Students and 14,000 Teachers in Newfoundland
+Post Author: RepulsivePlankton989
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m9qm0ti
+Comment Author: FederalAnt
+Up/Down: 3/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9qm0ti/
+Parent comment file: 60.txt
+Content: Nothing on the provincial government, as the fault was with PowerSchool for the hack. But also why are they holding on to student data from 1995-present? That's 30 years ago. It should be purged after a certain timeframe (say 5 years after graduation) and any important relevant records held by the provincial government.

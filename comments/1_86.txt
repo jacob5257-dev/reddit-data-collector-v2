@@ -1,0 +1,15 @@
+Comment ID: m6f65bp
+Comment Author: Sk1llPo1nt
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m6f65bp/
+Parent comment file: 1.txt
+Content: Can anyone confirm if the export included inactive records? I've asked PowerSchool for clarification but am waiting for their response. Thought I'd check here.
+
+---------------------
+
+Comment ID: m6ff9sr
+Comment Author: Chuckfromis
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m6ff9sr/
+Parent comment file: 1_85.txt
+Content: Everything in your students and teachers tables were taken. I'd just export the students table, and search for the names of someone who graduated 1/2/5/10 years ago. Then you can be 100% sure.

@@ -1,0 +1,15 @@
+Comment ID: m61sf3p
+Comment Author: teh1tn1nj4
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m61sf3p/
+Parent comment file: 1_35.txt
+Content: Where is this article?
+
+---------------------
+
+Comment ID: m61z03p
+Comment Author: matthieu0isee
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m61z03p/
+Parent comment file: 1_59.txt
+Content: https://www.syracuse.com/crime/2025/01/7-liverpool-students-charged-with-accessing-online-portal-to-change-disciplinary-records.html

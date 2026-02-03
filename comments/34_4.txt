@@ -1,0 +1,24 @@
+Comment ID: me5m0jz
+Comment Author: jakery43
+Up/Down: 0/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/me5m0jz/
+Parent comment file: 34.txt
+Content: My thoughts: What a coincidence that this happens right after their acquisition by Bain Capital. Powerschool was fine for a long time, then shortly after their new ownership get the keys and surely starting to "find efficiencies", they are breached. 
+
+Of course we don't know the full situation, but I suspect the security community will get wakeup call after wakeup call but still have to hand over the keys to some suits and some "security guys" they know who did it cheaper at the other companies they acquired. Without the transparency you'd get with a publicly owned company, they can do whatever sounds good at the moment.
+
+I think stricter government regulations would be a great start, but I just don't think congress is really capable of doing a good job of it. It would be a tough law to write in the first place, and there's always pressure to get security for cheaper to pump up valuations when a breach probably won't happen under any given current leadership's watch. Also, congress would probably want to give the government a "backdoor" to the data anyway. For "large moat" b2b/b2g companies like this, I wouldn't be surprised to see them spend more on cyber insurance than they do on hardening their systems. After all, have you heard of a single school actually dumping PS and moving to a competitor after this? 
+
+At the end of the day, Bain and other private equity companies have different (shorter term...) goals than a company like this should. The problem is structural: different incentives for leadership than people like you and I whose data was taken. Maybe I'm just a socialist, but I think the long-term solution  might be employee-owned companies where profits are shared and leadership is incentivized to see security as an investment rather than an expense. Since there won't be a majority of the stakeholders "exiting" at any one time, it always makes sense to do the right thing for the future.
+
+---------------------
+
+Comment ID: me62ruw
+Comment Author: TheShootDawg
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/me62ruw/
+Parent comment file: 34_1.txt
+Content: you think the cause of the breach was not there BEFORE the acquisition?  
+    June 2024 - acquisition announced
+    October 2024 - acquisition completed
+    December 2024 - breach occurred

@@ -1,0 +1,18 @@
+Post ID: 1hw1m3x
+Post Title: So PowerSchool had a breach....
+Post Author: Chuckfromis
+Up/Down: 205.0/0.0
+Content: The email we received:
+ 
+  
+ DearÂ Valued Customer, 
+ As the Technical Contact for your district or school, we are reaching out to inform you that on December 28, 2024, PowerSchool become aware of a potential cybersecurity incident involving unauthorized access to certain information through one of our community-focused customer support portals, PowerSource. Over the succeeding days, our investigation determined that an unauthorized party gained access to certain PowerSchool Student Information System (â€œSISâ€) customer data using a compromised credential, and we regret to inform you that your data was accessed.
+
+---------------------
+
+Comment ID: m5xvpj3
+Comment Author: slugshead
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xvpj3/
+Parent comment file: 1.txt
+Content: Is there anything in any media outlet about this?

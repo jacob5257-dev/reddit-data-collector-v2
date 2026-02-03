@@ -1,0 +1,26 @@
+Post ID: 1iafidv
+Post Title: What Learnings Can I Present from the PowerSchool Breach?
+Post Author: Kartoos69
+Up/Down: 0.0/0.0
+Content: My founder asked me to study the PowerSchool data breach (summary: credentials were compromised, leading to unauthorized access) and present actionables for our organization by Tuesday. We're a tech company providing SIS solutions, so this is highly relevant to us.
+ 
+ Apart from the obvious points like MFA, regular audits, and monitoring, what specific learnings or actionable steps do you think I should include to strengthen our security? Any advice or insights are welcome!
+ 
+ Thanks in advance!
+
+---------------------
+
+Comment ID: m99tp5s
+Comment Author: DropEng
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1iafidv/what_learnings_can_i_present_from_the_powerschool/m99tp5s/
+Parent comment file: 26.txt
+Content: Adding:
+
+* Enhanced Access Controls including MFA and stronger password policies
+* Regular security audits
+* Data Encryption
+* Incident Response Plan
+* Network Segmentation
+* Data Export Controls
+* IP address restrictions

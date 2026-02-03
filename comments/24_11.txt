@@ -1,0 +1,19 @@
+Comment ID: m8rjxla
+Comment Author: TravisVZ
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8rjxla/
+Parent comment file: 24.txt
+Content: This is something that's always irked me about the laws in this country (and others maybe?): PowerSchool fucks up and leaks our students' data, but legally *we* are the ones on the hook for notification and the costs associated with that, while the vendor just walks away unscathed.
+
+Now in this case PowerSchool is stepping up, though for our District the breached data doesn't reach the threshold under our state's laws to require notification, so it's moot either way for us. But it wasn't all that long ago that other vendors were breached and we did have to notify, and it was all on us - only thing we got from the vendor was the data that was stolen and a "we're sorry but you can totally trust us in the future"
+
+---------------------
+
+Comment ID: m8ubtfc
+Comment Author: bad_brown
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8ubtfc/
+Parent comment file: 24_4.txt
+Content: I disagree that Powerschool is 'stepping up'. They are, like any company in this position, working in lockstep with their legal team and doing the minimum necessary to limit legal exposure.
+
+Let's not forget the circumstances around the breach were due to their internal security processes being woefully below the bare minumum, which is why they are going to get sued to oblivion, and rightfully so. I haven't been able to chase down my client's PS rep as yet to get answers to some pointed questions about improvement to those internal processes. I'm guessing because the rep has been told to be quiet.

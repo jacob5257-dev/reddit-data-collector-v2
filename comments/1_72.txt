@@ -1,0 +1,15 @@
+Comment ID: m5xvpj3
+Comment Author: slugshead
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xvpj3/
+Parent comment file: 1.txt
+Content: Is there anything in any media outlet about this?
+
+---------------------
+
+Comment ID: m62papk
+Comment Author: lutiana
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m62papk/
+Parent comment file: 1_13.txt
+Content: [https://www.bleepingcomputer.com/news/security/powerschool-hack-exposes-student-teacher-data-from-k-12-districts/](https://www.bleepingcomputer.com/news/security/powerschool-hack-exposes-student-teacher-data-from-k-12-districts/)

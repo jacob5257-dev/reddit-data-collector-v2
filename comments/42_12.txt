@@ -1,0 +1,17 @@
+Comment ID: mr9209z
+Comment Author: RevLoveJoy
+Up/Down: -1/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mr9209z/
+Parent comment file: 42_8.txt
+Content: Okay, I get what you're saying.
+
+The problem here is you used the ambiguous term "lose" which can mean a couple of things. A clearer way to say what you're saying is "the stolen data was not *removed* from PowerSchool servers." Because in this event, PowerSchool certainly did lose data - data was stolen.
+
+---------------------
+
+Comment ID: mrajtcb
+Comment Author: sarge21
+Up/Down: 2/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mrajtcb/
+Parent comment file: 42_11.txt
+Content: Most people get what they said and it's not that ambiguous

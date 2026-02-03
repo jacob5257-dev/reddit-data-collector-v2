@@ -1,0 +1,15 @@
+Comment ID: m5y3d1r
+Comment Author: pheen
+Up/Down: 13/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y3d1r/
+Parent comment file: 1.txt
+Content: I wonder if this only affects hosted customers. We self host, but I have a PowerSource account and received the email.
+
+---------------------
+
+Comment ID: m5yfpda
+Comment Author: jimman1616
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yfpda/
+Parent comment file: 1_24.txt
+Content: that’s how i take it. we are in the same boat.

@@ -1,0 +1,19 @@
+Comment ID: mr44hkb
+Comment Author: PsychologicalPart793
+Up/Down: 7/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mr44hkb/
+Parent comment file: 42.txt
+Content: "received a communication from a threat actor demanding a ransom using data from the previously reported December 2024 incident. TDSB’s FAQ page includes a list of the impacted information. TDSB does not store any Social Insurance Numbers, financial or banking information in PowerSchool, so that information was not affected in any way by the breach. "
+
+Why did they pay the first ransom then?
+
+---------------------
+
+Comment ID: mr4t5su
+Comment Author: snowpondtech
+Up/Down: 1/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mr4t5su/
+Parent comment file: 42_1.txt
+Content: > Why did they pay the first ransom then?
+
+It's generally cheaper and faster to pay the ransom then rebuild from scratch. Assuming their backups were hosed by the hackers.

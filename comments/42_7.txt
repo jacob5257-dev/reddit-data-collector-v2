@@ -1,0 +1,19 @@
+Comment ID: mr55gn2
+Comment Author: bradrel
+Up/Down: 2/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mr55gn2/
+Parent comment file: 42_4.txt
+Content: They didn’t lose any data. They paid for the sole purpose that the threat actor wouldn’t release the stolen data, and “promised” to delete it.
+
+---------------------
+
+Comment ID: mr5epgg
+Comment Author: RevLoveJoy
+Up/Down: 2/0
+Link: https://reddit.com/r/msp/comments/1kh4xlx/powerschool_breach_update/mr5epgg/
+Parent comment file: 42_5.txt
+Content: > They didn’t lose any data. They paid for the sole purpose that the threat actor wouldn’t release the stolen data, and “promised” to delete it.
+
+What?
+
+*If they didn't lose any data then WTF was stolen?*

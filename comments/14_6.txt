@@ -1,0 +1,25 @@
+Comment ID: m70lzpd
+Comment Author: k12-tech
+Up/Down: 17/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m70lzpd/
+Parent comment file: 14.txt
+Content: How did we get here? Complete negligence and ignoring all industry standards.
+
+This will be settled by a lawsuit. And unfortunately the costs will then be passed on to their customers. I’m sure next year costs will remain flat as a “gesture of goodwill”, then they’ll hit everyone with 10% increases for the next five years to “increase our cybersecurity infrastructure to meet the growing needs of our clients”. 
+
+Get out while you can!
+
+---------------------
+
+Comment ID: m71sozl
+Comment Author: jtrain3783
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m71sozl/
+Parent comment file: 14_1.txt
+Content: It’s frustrating but not unimaginable in this day and age, unfortunately. I read that 60% of the fortune 100 companies have been in impacted by breaches, so, this incident could happen(d) to any company. I’m not sure any amount of law or agreements would make any more material impact for this situation when nothing can be 100% secure but am not opposed to seeing more strict controls.
+
+Jumping ship is a huge undertaking and would be a knee  jerk reaction with profound disruptions to the entire organization that should not be made hastily. Best to stay in contact with PS and stakeholders  until we see what changes are (or are not) made, then decide.
+
+Silver lining take aways for us are are: review /tighten up governance, review/improve disaster plans and practice scenarios annually. 
+
+“It’s not a matter of if, only a matter of when and how bad “ -some wise person

@@ -1,0 +1,15 @@
+Comment ID: ng7e13o
+Comment Author: PennStater
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1nqfbsy/powerschool_sis_hosted_districts_check_your/ng7e13o/
+Parent comment file: 55.txt
+Content: How do you check PSNI uptime?
+
+---------------------
+
+Comment ID: ng7epfx
+Comment Author: linus_b3
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1nqfbsy/powerschool_sis_hosted_districts_check_your/ng7epfx/
+Parent comment file: 55_1.txt
+Content: I was able to get to the event viewer in a roundabout way from the print dialog (which, admittedly, shows they should probably have a few more policies preventing running other apps) and found the Windows Update events.  They applied the September cumulative last weekend.

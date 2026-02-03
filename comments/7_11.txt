@@ -1,0 +1,15 @@
+Comment ID: m664tpq
+Comment Author: adstretch
+Up/Down: 15/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m664tpq/
+Parent comment file: 7_3.txt
+Content: I’m sure they paid for the assurances by the attacker. Hard to trust the thief who just stole from you though. They keep saying it’s not ransomware but I feel like they’re using a very narrow definition if they’re paying the extortion.
+
+---------------------
+
+Comment ID: m667vc7
+Comment Author: smerritt244
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m667vc7/
+Parent comment file: 7_7.txt
+Content: They said they paid the attacker and got video evidence that the info the stole was deleted.

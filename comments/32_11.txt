@@ -1,0 +1,15 @@
+Comment ID: md99dnz
+Comment Author: philr79
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md99dnz/
+Parent comment file: 32.txt
+Content: So, our district was supposedly NOT affected by the breach and given the attack vectors sending outbound to a foreign IP address, our systems would have blocked that all day long.  What are you telling parents?  Is there a way for a district to know WHO received these e-mails?
+
+---------------------
+
+Comment ID: mgylq1r
+Comment Author: dooleyrd
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/mgylq1r/
+Parent comment file: 32_8.txt
+Content: If you are a hosted customer, you can pretty much assume that any parent email attached to a student was notified.  If you are on-prem, someone had to install and run the plug-in, which would show you the data that they received.

@@ -1,0 +1,18 @@
+Comment ID: me62ruw
+Comment Author: TheShootDawg
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/me62ruw/
+Parent comment file: 34_1.txt
+Content: you think the cause of the breach was not there BEFORE the acquisition?  
+    June 2024 - acquisition announced
+    October 2024 - acquisition completed
+    December 2024 - breach occurred
+
+---------------------
+
+Comment ID: me8f89q
+Comment Author: aplarsen
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1ivbwjq/what_i_think_about_the_powerschool_breach_and_its/me8f89q/
+Parent comment file: 34_4.txt
+Content: Yeah. That access vector has existed for a VERY long time.

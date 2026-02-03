@@ -1,0 +1,17 @@
+Comment ID: mdsvals
+Comment Author: 3100gutter
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdsvals/
+Parent comment file: 33.txt
+Content: For a better source of PS info, I'd check out the PowerSchool User Group (PSUG). I believe there's regional groups, and even without meeting physically they have group.io message boards you can join. It's full of people that ACTUALLY use PS, I've found they're way more helpful than reaching out to PS for 95% of topics.
+
+---------------------
+
+Comment ID: mdtsnjx
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdtsnjx/
+Parent comment file: 33_9.txt
+Content: Thanks, I'm looking into it now.
+
+Many, many years ago I was part of the group.  But having not been involved with PS, it's been a while.

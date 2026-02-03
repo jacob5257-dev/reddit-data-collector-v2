@@ -1,0 +1,15 @@
+Comment ID: m7kkfrq
+Comment Author: Cmd-Line-Interface
+Up/Down: 3/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7kkfrq/
+Parent comment file: 59.txt
+Content: Does anyone know the point of entry? Almost always compromised credentials, right?
+
+---------------------
+
+Comment ID: m7ktiux
+Comment Author: Robbbbbbbbb
+Up/Down: 4/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7ktiux/
+Parent comment file: 59_29.txt
+Content: Compromised credential (seemingly not behind MFA) used Powerschool's "phone home" support channel to tunnel into affected districts.

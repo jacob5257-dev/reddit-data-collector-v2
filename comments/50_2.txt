@@ -1,0 +1,16 @@
+Post ID: 1krlo2d
+Post Title: Powerschool Hacker
+Post Author: k12techpro
+Up/Down: 74.0/0.0
+Content: PowerSchool hacker pleads guilty to student data extortion scheme
+ 
+ [https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p\_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ\_aem\_xnM-yAJu8HX6UjynZ-D-wg](https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/?fbclid=IwZXh0bgNhZW0CMTEAAR6HwN7MmVAdKQVBEhX6p_WwsJQAfTBdSwG4KqUMyUPq4rOn-hCpNb39Bd9xWQ_aem_xnM-yAJu8HX6UjynZ-D-wg)
+
+---------------------
+
+Comment ID: mtejgpa
+Comment Author: ripv2
+Up/Down: 17/0
+Link: https://reddit.com/r/k12sysadmin/comments/1krlo2d/powerschool_hacker/mtejgpa/
+Parent comment file: 50.txt
+Content: [Criminal Information](https://www.justice.gov/d9/2025-05/us_v._matthew_lane_-_information.pdf)

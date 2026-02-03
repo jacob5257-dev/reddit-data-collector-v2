@@ -1,0 +1,17 @@
+Comment ID: m6euu4i
+Comment Author: chickentenders54
+Up/Down: 12/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6euu4i/
+Parent comment file: 11.txt
+Content: Seems like we need government regulation. If a company wants a contract from a public entity, then they must adhere to x, y, z security policies. 
+
+In a perfect world, that would help. In reality, idk.
+
+---------------------
+
+Comment ID: m6fmyuy
+Comment Author: hightechcoord
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hy4bgy/edtech_vendors_and_their_poor_cybersecurity/m6fmyuy/
+Parent comment file: 11_10.txt
+Content: We have a new SB 29 here in Ohio for this exact reason.

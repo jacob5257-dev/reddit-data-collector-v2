@@ -1,0 +1,19 @@
+Comment ID: m5xvppr
+Comment Author: sarge21
+Up/Down: 9/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xvppr/
+Parent comment file: 1_11.txt
+Content: Pasting this here:
+
+The maintenance user shows up as 200A0 in the ps-log-audit files.
+
+You can correlate audit log access with mass-data exports by time in the mass-data logs.
+
+---------------------
+
+Comment ID: m5y554d
+Comment Author: pheen
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5y554d/
+Parent comment file: 1_14.txt
+Content: Oh great, I have logs from 12/22 for Students_export.csv and Teachers_export.csv from a Ukrainian IP address.

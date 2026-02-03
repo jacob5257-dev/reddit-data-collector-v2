@@ -1,0 +1,18 @@
+Comment ID: m61t305
+Comment Author: adstretch
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m61t305/
+Parent comment file: 1.txt
+Content: Does anyone here have a communications that went out to families?
+
+---------------------
+
+Comment ID: m68tq63
+Comment Author: combobulated
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m68tq63/
+Parent comment file: 1_60.txt
+Content: Do you mean that schools have drafted to send to families?
+I've got a couple I've seen if you are still interested.
+
+We're also potentially waiting for something more official/formal from PowerSchool to share.

@@ -1,0 +1,18 @@
+Post ID: 1i2t4os
+Post Title: PowerSchool breach worse than thought, company says "all" student and teacher data accessed
+Post Author: Snowfish52
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m7ji4m2
+Comment Author: bad_brown
+Up/Down: 17/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m7ji4m2/
+Parent comment file: 59.txt
+Content: Taken via a Ukrainian VPS IP. Not even the most basic geo IP restrictions or even notifications for 3rd party support contractor log ins. Also no second Auth factor, also all tier 1 support contractors had full access to all of this data for every customer. Absolutely insane. 
+
+PowerSchool didn't even know this happened until the threat actor reached out to them 6 days later asking for money.
+
+Changing SIS is a very expensive and change management-heavy lift, but I'll be pushing the districts I work with to move off of it if at all possible. I shudder to think what other practices aren't in place.

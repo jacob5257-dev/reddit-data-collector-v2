@@ -1,0 +1,15 @@
+Comment ID: m5z5q6z
+Comment Author: linus_b3
+Up/Down: 64/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5z5q6z/
+Parent comment file: 1_39.txt
+Content: Not buying the "ensure data was deleted" thing.  There's simply no way they can say that for certain.
+
+---------------------
+
+Comment ID: m5zo3oq
+Comment Author: spikeandedd
+Up/Down: 20/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5zo3oq/
+Parent comment file: 1_46.txt
+Content: For a small sum of 10 million dollars 😁

@@ -1,0 +1,15 @@
+Comment ID: m5xok1w
+Comment Author: Hazy_Arc
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xok1w/
+Parent comment file: 1.txt
+Content: We just received the notification (as did a bunch of random other people in our district who have no connection to PowerSchool), so I've been fielding those calls.  Infuriating.
+
+---------------------
+
+Comment ID: m5xp32g
+Comment Author: Chuckfromis
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5xp32g/
+Parent comment file: 1_2.txt
+Content: I'm wondering if it's all/mostly hosted, or if locally hosted were targets as well

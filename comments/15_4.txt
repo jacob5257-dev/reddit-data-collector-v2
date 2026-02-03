@@ -1,0 +1,28 @@
+Post ID: 1i16nj9
+Post Title: How are you all storing FERPA and other sensitive student data.
+Post Author: Square_Pear1784
+Up/Down: 15.0/0.0
+Content: I know I post a lot, but I learning new things everyday. I am 3-4months into my first time in tech education at a small Charter Public Highschool. 
+ 
+ I learned something yesterday that I was not aware of. The nurse spoke to me about storing sensitive medical student data. Aparantly she has been using paper documents and they wanted to change that. The issue of HIPAA immediatly came up, but we learned the data is more under FERPA. Knowing that, the nurse said we can store with other sensitive student data. 
+ 
+ I immediately got the Nurse in with the Head of School to talk about this. Come to find out sensitive enrollment data is being kept in a google drive that "only has permissions" for student services to view. This includes Birth Certificates, Addresses, and more. The plan now is to store the medical data with this data. 
+ 
+ Look, I am spread so thin right now. I spent all day scrambling over a down UPS and if anyone has been following my posts I think they understand the spread thin part. I didnt respond yesterday becuase I needed time. I also just didnt have time to respond. 
+ 
+ I have a meeting Thursday with a 3rd party nonprofit that helps schools in our state navigate tech. Mostly networking, but they have agreed to a meeting this thursday for security concerns. I initially am speaking to them about a lack of any MDM for our windows machines. Absoluttely no management over the machines. No Domain, no management, all local accounts.. So the plan now, is to also bring up with storage issue. 
+ 
+ Alarms are sounding in my head though. However, with everything I am dealing with, this may need to be a summer project. 
+ 
+ So with all of that said. Google Docs does not seem like a secure way to handle sensitive data like this! right?! I am freaking out a bit here. Look at what just happened to PowerSchool... 
+ 
+ Please give me advice on storing this data. Does maybe infinite campus provide secure data storage for this type of info?
+
+---------------------
+
+Comment ID: m73pfqg
+Comment Author: Firm_Safety7681
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i16nj9/how_are_you_all_storing_ferpa_and_other_sensitive/m73pfqg/
+Parent comment file: 15.txt
+Content: HIPAA likely applies more (and certainly has more teeth) than FERPA in this case. Agree with the comment below that any solution you find that's HIPAA-compliant should cover FERPA requirements for data storage. However, the human processes around handling, and the conditions for use/release of that data are significantly different between the two. Since it's your nurse assume you're storing protected Personal Heath Information (PHI) and proceed accordingly. Also can't hurt to consult school policies and the school's attorney for whatever standard guidance they may have.

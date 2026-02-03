@@ -1,0 +1,15 @@
+Comment ID: m9e4udu
+Comment Author: sy029
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/m9e4udu/
+Parent comment file: 27.txt
+Content: Our district has implemented just about everything on this list except for getting rid of AD, and MFA for students (what kind of MFA do we expect a 6 year old to use?)
+
+---------------------
+
+Comment ID: m9j0bte
+Comment Author: ender_grimm
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/m9j0bte/
+Parent comment file: 27_7.txt
+Content: Drool samples?

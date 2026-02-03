@@ -1,0 +1,20 @@
+Post ID: 1hx2hhh
+Post Title: What we know about the PowerSchool breach so farâ€¦
+Post Author: k12techpro
+Up/Down: 88.0/0.0
+Content: It has only been 24 hours since PowerSchool announced it had an â€œincident,â€ so there's very little information available to the public. However, what PowerSchool has shared and what school districts are seeing is concerning, to say the least. [https://k12techpro.com/what-we-know-about-the-powerschool-breach-so-far/](https://k12techpro.com/what-we-know-about-the-powerschool-breach-so-far/)
+
+---------------------
+
+Comment ID: m6uubzs
+Comment Author: CuadQopter
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6uubzs/
+Parent comment file: 7.txt
+Content: What I learned is that we need to keep our collective mouths closed and let the lawyers and insurance carriers lawyers hash it out.   I am an end user/protector of said data and the fact that we pay insane amounts to hire their services (with a contract) and that buys me some protections.   
+
+What it doesn't afford me is my 'opinion' or what they 'should do or shouldn't do'.   
+
+One of the main takeaways that I gathered from our lawyers is - Don't be so quick to voice your opinions on this yet.   Yes, they royally borked.  Yes, you pay good monies to ensure that they are bork resistant.  Yes they failed.  
+
+But make no mistake, their lawyer panel is deep as well.  And its not only for mitigation of situations like this.  They will also not hesitate to gaslight those rogues who want to poo poo on their practices and the results of this breach.

@@ -1,0 +1,19 @@
+Comment ID: m7wjhol
+Comment Author: 30ghosts
+Up/Down: 16/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/m7wjhol/
+Parent comment file: 19.txt
+Content: Class action suit when? These districts should soak Powerschool and Bane Capital for as much as they can get
+
+---------------------
+
+Comment ID: m7wkvx7
+Comment Author: NorthernVenomFang
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i4hbrr/powerschool_internal_security_concerns/m7wkvx7/
+Parent comment file: 19_3.txt
+Content: Lawsuits are already started:
+ https://news.bloomberglaw.com/privacy-and-data-security/powerschool-sued-over-december-breach-of-student-teacher-data
+
+
+So lawsuits have already started.  As for class actions from schoolboard, I think most of us are waiting for the Crowdstrike report and their PowerSchool support reps... They told us maybe end of the week or earlier next week.   They are coming, probably by end of Q1.

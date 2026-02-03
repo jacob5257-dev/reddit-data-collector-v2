@@ -1,0 +1,43 @@
+Post ID: 1hxewgl
+Post Title: PowerSchool Cybersecurity Incident
+Post Author: Tycho_Jissard
+Up/Down: 2.0/0.0
+Content: DearÂ Valued Customer, 
+  
+ As the Technical Contact for your district or school, we are reaching out to inform you that on December 28, 2024, PowerSchool become aware of a potential cybersecurity incident involving unauthorized access to certain information through one of our community-focused customer support portals, PowerSource. Over the succeeding days, our investigation determined that an unauthorized party gained access to certain PowerSchool Student Information System (â€œSISâ€) customer data using a compromised credential, and we regret to inform you that your data was accessed. 
+  
+ Please review the following information and be sure to share this with relevant security individuals at your organization. 
+  
+ As soon as we learned of the potential incident, we immediately engaged our cybersecurity response protocols and mobilized a cross-functional response team, including senior leadership and third-party cybersecurity experts. We have also informed law enforcement. 
+ We can confirm that the information accessed belongs to certain SIS customers and relates to families and educators, including those from your organization. The unauthorized access point was isolated to our PowerSource portal. As the PowerSource portal only permits access to the SIS database,Â **we can confirm no other PowerSchool products were affected as a result of this incident**. 
+  
+ Importantly, the incident is contained, and we have no evidence of malware or continued unauthorized activity in the PowerSchool environment. PowerSchool is not experiencing, nor expects to experience, any operational disruption and continues to provide services as normal to our customers. 
+  
+ Rest assured, we have taken all appropriate steps to prevent the data involved from further unauthorized access or misuse. We do not anticipate the data being shared or made public, and we believe it has been deleted without any further replication or dissemination. 
+ We have also deactivated the compromised credential and restricted all access to the affected portal. Lastly, we have conducted a full password reset and further tightened password and access control for all PowerSource customer support portal accounts. 
+  
+ PowerSchool is committed to working diligently with customers to communicate with your educators, families, and other stakeholders. We are equipped to conduct a thorough notification process to all impacted individuals. Over the coming weeks, we ask for your patience and collaboration as we work through the details of this notification process. 
+  
+ We have taken all appropriate steps to further prevent the exposure of information affected by this incident. While we are unaware of and do not expect any actual or attempted misuse of personal information or any financial harm to impacted individuals as a result of this incident, PowerSchool will be providing credit monitoring to affected adults and identity protection services to affected minors in accordance with regulatory and contractual obligations. The particular information compromised will vary by impacted customer. We anticipate that only a subset of impacted customers will have notification obligations. 
+  
+ In the coming days, we will provide you with a communications package to support you in engaging with families, teachers and other stakeholders about this incident. The communications package will include tailored outreach emails, talking points, and a robust FAQ so that district and school leadership can confidently discuss this incident with your community. 
+  
+ We understand that you may have additional questions as a result of this update. FAQs are available onÂ [PowerSchool Community](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-lNANUkyGGxCoLDamGhQQARxPRodf27tqlml3Gf3gOtP97WTooodR-ZOnLxW8BeYV2c=). Additionally, we will be holding webinars with senior leaders, including our Chief Information Security Officer, to address additional concerns. Please click the link below to register for a webinar that fits your schedule. Note that content for all sessions will be identical, so you need only attend one. 
+  
+ Wednesday, January 8:Â [REGISTER HERE](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-yIbGRSE1JEeUOBdCYucPn1A-V2qfrt0xRi-zNtWgDA0bbRkJaD4oQoyogQkwVq0nXc=) 
+  
+ Thursday, January 9:Â [REGISTER HERE](https://go2.powerschool.com/ODYxLVJNSS04NDYAAAGX4SXZ-5v1gwwrpurNLGkJRATtvlPG_jFh-D19PGq4Tpnr0nwlBQqDbkU_oRpe-wRUWXDjpFY=)
+ 
+ In the meantime, please reach out to your Customer Success Manager (CSM), Support, or other established PowerSchool contact should you have any questions. We will be sending communications later today to other stakeholders in your organization who are responsible for other PowerSchool products notifying them of no impact to the other PowerSchool products. 
+ We are addressing the situation in an organized and thorough manner, and we are committed to providing affected customers with the resources and support they may need as we work through this together.
+ 
+ Thank you for your continued support and partnership.
+ 
+  
+ Sincerely,
+ 
+ **Hardeep Gulati**Chief Executive Officer 
+  
+ **Paul Brook**Chief Customer Officer 
+  
+ cc:Â **Mishka McCowan**Chief Information Security Officer

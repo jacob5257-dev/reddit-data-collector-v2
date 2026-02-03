@@ -1,0 +1,15 @@
+Comment ID: m65f8q0
+Comment Author: DRENREPUS
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m65f8q0/
+Parent comment file: 4_11.txt
+Content: I highly recommend disabling vendor access unless you need them. It sounds like there is no MFA requirement for access to and through this system (speculation).
+
+---------------------
+
+Comment ID: m66yjlg
+Comment Author: Disastrous-Spell-573
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m66yjlg/
+Parent comment file: 4_31.txt
+Content: In future I will be present and ask EMS to work through my screenshare. This is really bad.

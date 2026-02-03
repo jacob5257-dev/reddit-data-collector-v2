@@ -1,0 +1,15 @@
+Comment ID: m6412sf
+Comment Author: sync-centre
+Up/Down: 26/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m6412sf/
+Parent comment file: 4.txt
+Content: Their security team didn't notice large amount data going to ukraine on a sunday a few days before christmas?
+
+---------------------
+
+Comment ID: m648c81
+Comment Author: sarge21
+Up/Down: 39/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m648c81/
+Parent comment file: 4_8.txt
+Content: I don't think they noticed until the 27th when I put a ticket in about the maintenance account accessing our SIS from Ukraine

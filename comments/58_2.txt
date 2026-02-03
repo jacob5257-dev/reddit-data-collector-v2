@@ -1,0 +1,18 @@
+Post ID: 1p8e96l
+Post Title: A teen hacked PowerSchool. My kid's data was in there. Who's protecting them?
+Post Author: Fun-Celebration-700
+Up/Down: 18.0/0.0
+Content: Just read on this [education newsletter](https://www.playgroundpost.com/subscribe) that a 19-year-old hacked PowerSchool and stole data from millions of students and teachers!! As a parent, I'm angry. 
+ 
+ We're told to trust these platforms with everything... grades, health info, IEPs and now it feels like no one's actually watching the door. Meanwhile, the Department of Education just laid off the teams that handle special education, civil rights and oversight....
+ 
+ If schools can't secure our kids' data and the government is backing out, then who's left to keep them safe???
+
+---------------------
+
+Comment ID: nr4jftz
+Comment Author: mybrotherhasabbgun
+Up/Down: 5/0
+Link: https://reddit.com/r/edtech/comments/1p8e96l/a_teen_hacked_powerschool_my_kids_data_was_in/nr4jftz/
+Parent comment file: 58.txt
+Content: This happened a year ago. If schools don't start figuring out cyber security (and the process for holding 3rd party vendors accountable), then there isn't much hope. Put pressure on your local school board. Start asking questions. Do they require student data privacy agreements? Do they follow a cyber security framework? Do they have a controls register? I would wager 90% of schools can't answer yes to all three of those questions.

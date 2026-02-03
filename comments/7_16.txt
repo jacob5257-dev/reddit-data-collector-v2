@@ -1,0 +1,15 @@
+Comment ID: m6651ic
+Comment Author: adstretch
+Up/Down: 23/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6651ic/
+Parent comment file: 7_4.txt
+Content: I’m still shocked that any one account had that much access for that long and that they didn’t have a SIEM in place that caught all that data leaving through one set of credentials.
+
+---------------------
+
+Comment ID: m67tvu8
+Comment Author: nits3w
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m67tvu8/
+Parent comment file: 7_9.txt
+Content: One account with no MFA, and through a publicly accessible portal.

@@ -1,0 +1,15 @@
+Comment ID: m6f65bp
+Comment Author: Sk1llPo1nt
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m6f65bp/
+Parent comment file: 1_85.txt
+Content: Can anyone confirm if the export included inactive records? I've asked PowerSchool for clarification but am waiting for their response. Thought I'd check here.
+
+---------------------
+
+Comment ID: m6g2o0p
+Comment Author: Disastrous-Spell-573
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m6g2o0p/
+Parent comment file: 1_87.txt
+Content: Yep. All historic student records were taken from us.

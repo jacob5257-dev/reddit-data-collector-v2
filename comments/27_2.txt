@@ -1,0 +1,14 @@
+Post ID: 1iah8vv
+Post Title: Top 10 Things to Change in K-12
+Post Author: k12techpro
+Up/Down: 17.0/0.0
+Content: The PowerSchool breach has been a difficult wake-up call for all of us, but it's not the first breach and it will not be the last. School districts and ed-tech partners have all had the chance to revisit their cybersecurity plans over the last few weeks, and this has afforded us the opportunity to rethink some common practices in K-12 technology. Here's our top 10 --> [https://k12techpro.com/top-10-things-to-change-in-k-12/](https://k12techpro.com/top-10-things-to-change-in-k-12/)
+
+---------------------
+
+Comment ID: m9al76i
+Comment Author: namon295
+Up/Down: 8/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iah8vv/top_10_things_to_change_in_k12/m9al76i/
+Parent comment file: 27.txt
+Content: Numbers 1-10 figure out a way to break the chain so vendors actually need to be where they are not based on who they whined and dined and which palms they greased in the various departments of ed but by actually being a quality product.  And not just on the instructional side but actually have something that is actually technologically sound as well. The vast majority of things we (and I am talking specifically my school district in my state) we are soft forced to use because they are one just a few options "approved" by the powers that be, and you guessed it it's a choice between a turd, pike of crap, and straight poop.  Until this cycle can be broken, nothing else really matters.

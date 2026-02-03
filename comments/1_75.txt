@@ -1,0 +1,15 @@
+Comment ID: m62cd44
+Comment Author: Sk1llPo1nt
+Up/Down: 4/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m62cd44/
+Parent comment file: 1_58.txt
+Content: Did anyone else run this and see log entries for Export failed - Exception while attempting to execute report or Export failed with message null? Not sure whether to think they didn't get our data or not.
+
+---------------------
+
+Comment ID: m63e87a
+Comment Author: tjs1014
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m63e87a/
+Parent comment file: 1_69.txt
+Content: Yes, that is what we see in our logs. Multiple times for both tables like a script kept trying to do it again or something.

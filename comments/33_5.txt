@@ -1,0 +1,31 @@
+Comment ID: mdqk2r0
+Comment Author: orphantech
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdqk2r0/
+Parent comment file: 33.txt
+Content: Simply put, in education, the IT director/equivalent is typically considered the data steward.  Meaning, like it or not, it may not have been your bag of crap until now, but it is now.
+
+You can't fix what you didn't know should have been your issue, BUT you can develope a plan to fix it moving forward.
+
+You can purchase Key to Ownership training directly from PowerSchool, or pay for specific training.
+
+Now, that said, seek the powerschool user's group - https://groups.io/g/PSUG
+
+There is a national/regional PSUG training you can check into -  https://easyregpro.com/psugevents
+Cheaper to attend than the official training.
+
+And powerschool's PowerSchool University - https://psu.powerschool.com/
+
+Mass change fields like SSN to clear unless your state requires it for some reason. You'll want to search all records.
+
+Just tackle it one issue at a time.
+
+---------------------
+
+Comment ID: mdrazap
+Comment Author: combobulated
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdrazap/
+Parent comment file: 33_4.txt
+Content: Thanks.
+That's definitely the plan.

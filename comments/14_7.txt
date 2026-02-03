@@ -1,0 +1,20 @@
+Comment ID: m7112hs
+Comment Author: NorthernVenomFang
+Up/Down: 16/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m7112hs/
+Parent comment file: 14.txt
+Content: I did some research on the weekend and found over 150 school divisions/districts/states/provinces that reported being part of this breach.   That was just using Google and DuckDuckGo.
+
+
+As to how we got here...  Shoddy security practices;  remote access application for management put behind a public facing website with no 2FA/MFA, plus a remote access support option being turned on by default.   That should have never been publicly accessible, and the remote access should have been set to be on for only 24 - 72hrs... Not 30 days that they talked about in the webinar...  There commitment to security is appalling.
+
+I watched this video on their YouTube channel from last year and I wanted to hurl:  https://youtu.be/OnPeOHyEGT8?si=ff9vQb87gct_LbkQ
+
+---------------------
+
+Comment ID: m727lq3
+Comment Author: thetran209
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m727lq3/
+Parent comment file: 14_3.txt
+Content: Is there a list of which districts or schools that were breached ?

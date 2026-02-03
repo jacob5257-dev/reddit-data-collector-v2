@@ -1,0 +1,17 @@
+Comment ID: ng7in8t
+Comment Author: sarge21
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1nqfbsy/powerschool_sis_hosted_districts_check_your/ng7in8t/
+Parent comment file: 55.txt
+Content: System uptime can't be used to determine last patch, because hotpatches exist.
+
+---------------------
+
+Comment ID: ng7lhag
+Comment Author: linus_b3
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1nqfbsy/powerschool_sis_hosted_districts_check_your/ng7lhag/
+Parent comment file: 55_6.txt
+Content: They confirmed their delayed patching practices in writing.  
+
+They also agreed to patch my instance sooner on multiple support tickets.  Every time, it has required a reboot.  They also stated they use BigFix to patch, which does not support hotpatching on Windows Server 2019.

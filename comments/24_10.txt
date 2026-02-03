@@ -1,0 +1,28 @@
+Comment ID: m8tjhgr
+Comment Author: combobulated
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8tjhgr/
+Parent comment file: 24.txt
+Content: This is why we have cyber security insurance.
+
+If the costs get to be past what we're comfortable just paying out of pocket, then we go to the insurance. 
+
+So far, our costs aren't expected to exceed what our deductible for said insurance would be.  We're a small, private school.
+
+There's certainly a lot of new talk about contracts and obligations, to go with the already existing talk about such things.  And it's all good and important.
+
+But at the end of the day - there's not always a lot of choices.  And when there are choices, it's not always up to the people who you'd prefer.  And when it is up to certain people, security isn't always at the top of their list.  This is how it's always been.  And incidents like there *hopefully* move the needle a bit on that.  As a small, independent school - we're pretty much at the mercy of vendors and hopefully that larger districts (with more pull...) band together to force change for everyone.  Let's face it, no vendor is going to just willingly accept more risk/accountability than they are forced to.
+
+
+For us, more of "what we learn" is about knowing what information we actually ARE storing/giving and who/when/where it is.  
+
+Fun fact - There is data you cannot DELETE in Powerschool.  So while you "own" the data, you don't really have full control over it.  The workaround seems to be to just "overwrite" it with false data.  And to the best of my knowledge, there's no tools built-in or available 3rd party to do such thing in a controlled, scheduled, audited, automated, and managed way.
+
+---------------------
+
+Comment ID: m8uaqvx
+Comment Author: aplarsen
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i87jzh/question_to_those_dealing_with_the_powerschool/m8uaqvx/
+Parent comment file: 24_8.txt
+Content: I've been thinking about spinning up something to archive the historical data in a controlled way. I can envision a way where this becomes a service available to anyone.

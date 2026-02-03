@@ -1,0 +1,70 @@
+Post ID: 1itikdo
+Post Title: Powerschool SIS - Security, Responsibility, Best Practice, and what have you got?
+Post Author: combobulated
+Up/Down: 8.0/0.0
+Content: Apologies for another Powerschool post - I suspect many of you (like me) are honestly tired of hearing/dealing with Powerschool ANYTHING at this point.
+ 
+ Wall of text incoming - thanks for those who survive to the end.
+ 
+ But as I continue diving into things on our end, I'm finding more and more issues and have more and more questions. 
+ 
+ Like most other PS users, we were part of the recent massive data breach they had. (We're 100% hosted). That was the catalyst to looking deeper into all things Powerschool here.
+ 
+ And I'd also bet that another similarity to many others is that in our school, Powerschool has been around for a long time (15+ years here) and has passed through the hands of many "administrators" .
+ 
+ For us (a small, private school with about 400 current students and ~100 active staff) Powerschool has mostly been a "school administration" asset. The IT department helped with some of the initial setup and working on grades and such (long ago) but overall support and maintenance was part of our then Technology Coordinator's job. Just shy of a decade ago, we had turnover at that position and the Powerschool duties were primarily put into the hands of our school Administrative Assistant. There was an informal agreement at that time that no one else would be entering data related to users (staff/students) so that we didn't have issues with knowing who did what. 
+ 
+ And that's where it sat for several years. In the IT Department, we never touched Powerschool. If someone had a PS question/issue, I'd direct them to the Administrative Assistant. Our current Technology Coordinator would sometimes act as a backup support person if the AA was unavailable. 
+ 
+ AA attended several trainings and seemed to have a grasp on the day-to-day operation of Powerschool for our needs.
+ 
+ Not sure if you can already see the problem coming here or not.
+ 
+ Anyway, fast forward to the breach last month. Suddenly, lots of higher-up people here have a whole lot of questions and concerns about PS and how we use it. Most started with "Well, who "owns" it here? Who is in charge? Who's our expert?" (perhaps code-word for "whose fault is this?"...) and of course IT was part of those meetings to hear and respond to questions. 
+ 
+ It makes some sense - on one hand, it IS data. And in general that'd lump into "This is the IT Department's responsibility". But I explained that IT has had basically nothing to do with it for probably over a decade.
+ 
+ It's immediately clear that our AA has no real idea how any of it works outside of the simple checklist she may follow to complete her assigned tasks.
+ 
+ So now we (our 2 person IT Department - Me SysAdmin and a Helpdesk tech) are involved again trying to gather information as it pertains to this particular breach. 
+ 
+ It's quickly clear that I'm shining light on things that haven't seen light in a long, long time. Questions that I had for our AA had no answer ("Who entered this data?" "Why is this data here?" "What's the practice for removing data?). We learn that some staff have all sorts of PII in Powerschool - the full bit, SSN, DOB, Address, Phone, Email, etc. About 1/3 of them. And no one knows why - we don't need/use any of that data in Powerschool. It's likely some past employee was entering it (likely with good intentions) years ago.
+ 
+ So I'm stuck trying to figure out what we have, what we need, what was compromised, and how to clean it up moving forward.
+ 
+ A simple question of "Well, who has admin access?" is suddenly not so simple as I dig in... I ask our AA about Security Groups in PS - and she has no idea what I'm talking about. I ask about user roles and permissions - again, not anything she's familiar with. I ask about page permissions - nope. I ask about any routine/practice for handling terminated staff - it's not consistent or formally documented. 
+ 
+ And I learn that with Powerschool, you simply CAN'T remove records. I can't delete users. Can't delete groups. You can mark them as "inactive". Outside of that, I plan on just "blanking" or filling in fields with gibberish instead of actual PII.
+ 
+ Ok, so there must be some other built-in pruning/cleaning/wiping/overwriting process, right? Nope. Maybe there's a 3rd party tool? Otherwise, better get comfortable with the art of creating report queries and exporting data to CSV files to then edit and re-import. And plan on building a process/policy that plans on doing that manually at whatever regular interval you feel is sufficient.
+ 
+ I've been banging my head against the wall here. The Powerschool Community is so hit-and-miss with data that I haven't gotten much value out of it, But I'm not sure where else to turn (hence, this too long post...). Our "rep" that reached out shortly after the breach has provided just about zero assistance with my specific questions. 
+ 
+ And as I'm spending hours attempting to learn the ins and outs of Powerschool - plus put that in context of how we use it and our practices - it again dawns on me that it's still not formally my responsibility. Much of the time I feel like I'm just the middle man : Powerschool says XYZ - so I go to our AA and ask about XYZ and they either know nothing about it or give their limited understanding in context of how the school handles it. Then I go back and try to put the pieces together. So I feel like I'm not learning someone else's job...
+ 
+ I don't have an issue if PS is clearly marked as part of my job description and reasonability. But I don't want to find myself walking on thin ice of someone else's frozen pond of mistakes.
+ 
+ So how are you handling it? How is it at your school (bonus points if you're a small /private school)?
+ 
+ Whose job/responsibility/accountability is your SiS? Do you have policy in place for addressing data security, retention, and PII as it relates to Powerschool (or any other hosted platform!) Would you be willing to share it? How are you handling retention in a system that doesn't allow deletion of records??
+ 
+ Is it an IT thing at your school? How are you auditing things like permissions and users? *Are* you auditing them?
+ 
+ Is there a better place for Powerschool Admins/experts/wanna-be learners to converse? 
+ 
+ Does anyone use Veracross (https://www.veracross.com/) as their SiS? I hadn't heard of them previously, but I've heard good things about their security approach. I'm afraid going with a smaller SiS will limit our integrations and available tools. (Not that I'm sure there's a change in SiS in our future anyway...)
+ 
+ Anyway - it all leads into a quest for resources to do a full data security audit - one that must include 3rd party hosted/cloud platforms. As it is, I don't know what's in the software platforms used by Food service, accounting, facilities, or any other department as they each operate in their own (3rd party, cloud) data silos. We'd gladly pay for an Expert to come in and facilitate that. But I can't find such a thing. Sure, general "cyber security" audits, pen testing, etc are common. But we've done that and they don't cover this particular item.
+
+---------------------
+
+Comment ID: mdstkxf
+Comment Author: Road_Trail_Roll
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1itikdo/powerschool_sis_security_responsibility_best/mdstkxf/
+Parent comment file: 33.txt
+Content: I’m sure others have already started this but start with your state PS user group for help. PS hadn’t been helpful at all , in fact, our legal advisor believes they are intentionally stone walling to avoid further liability. 
+
+If you don’t have a good state group, look up Marcia Brenner Associates(MBA). They’re not cheap but their training is typically very good. They’re primarily sale plugins for PS but they also have a robust training network. 
+
+Past experience, if the “higher ups” are looking for someone to blame it’s because they screwed up and don’t want to be left holding the bag. Do you report to a director or assistant superintendent? They should have caught that no one was involved in data security. I have a PS admin that works for me but she’s not responsible for data security. She’s responsible for making sure our data is accurate and that state and federal reports are done correctly and delivered on time.

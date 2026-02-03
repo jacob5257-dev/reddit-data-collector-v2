@@ -1,0 +1,15 @@
+Comment ID: m65zq9s
+Comment Author: ZaMelonZonFire
+Up/Down: 14/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m65zq9s/
+Parent comment file: 7_1.txt
+Content: I’m just finding it impossible that they claim the data isn’t available online.  There’s no way a district could know that for certain.
+
+---------------------
+
+Comment ID: m66501k
+Comment Author: mybrotherhasabbgun
+Up/Down: 3/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m66501k/
+Parent comment file: 7_3.txt
+Content: The dark web monitoring tools are getting pretty good. We get info on leaks related to our accounts from our MDR and Kaduu.

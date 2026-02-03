@@ -1,0 +1,15 @@
+Comment ID: m641kg0
+Comment Author: PorteringLloyd
+Up/Down: 11/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m641kg0/
+Parent comment file: 4.txt
+Content: This is SIS only, correct? We are Schoology and School Messenger customers. Their email said SIS only but I wonder if they confirmed or addressed that directly in other comms or the webinar.
+
+---------------------
+
+Comment ID: m643d85
+Comment Author: Stephen_A_Bayless
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hwthy5/powerschool_breach_webinar/m643d85/
+Parent comment file: 4_9.txt
+Content: SIS only. More specifically, student and teacher tables within the SIS.

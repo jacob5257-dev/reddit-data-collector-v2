@@ -1,0 +1,16 @@
+Post ID: 1i2t4os
+Post Title: PowerSchool breach worse than thought, company says "all" student and teacher data accessed
+Post Author: Snowfish52
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m8yeq9s
+Comment Author: dontshootog
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m8yeq9s/
+Parent comment file: 59.txt
+Content: I'm amazed by the critical path, depth, and breadth of this leak. In my old life I worked as an analyst in post-secondary education. Because post-secondary learned some hard lessons, it grew to have best in class cybersecurity requirements. I'm absolutely shocked that same-as standards are not in place for individuals who are not even adults. It seems Primary and Secondary education seem to be playing fast and loose with data. Kinda problematic when migrating legacy data into an insecure system when those individuals haven't authorized this data-use. Even more problematic when it's active children's information they're stewards of. Network layers of security combined with application security should have prevented this.
+
+If this happened in post-secondary, the news would be MASSIVE and a lot of people would be losing their jobs.

@@ -1,0 +1,15 @@
+Comment ID: m9r554o
+Comment Author: CoffeeCatsAndCurses
+Up/Down: 14/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9r554o/
+Parent comment file: 60_2.txt
+Content: Teacher here.  Received a memo today stating that over a thousand teachers had their social insurance numbers stolen in the breach.  I simply do not understand why the social insurance numbers of staff were loaded into PowerSchool.  Like, what the fuck?  Do they use the program to pay us?  I just don’t understand.
+
+---------------------
+
+Comment ID: m9rebgm
+Comment Author: KingM00NRacer
+Up/Down: 8/0
+Link: https://reddit.com/r/newfoundland/comments/1icbzl2/powerschool_data_breach_affects_over_271000/m9rebgm/
+Parent comment file: 60_20.txt
+Content: Agreed, the data should have been obfuscated or encrypted.

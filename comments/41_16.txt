@@ -1,0 +1,23 @@
+Comment ID: mr5gv37
+Comment Author: CptUnderpants-
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5gv37/
+Parent comment file: 41_7.txt
+Content: >And this is why you don't pay the ransom.
+
+Immediately discarding the option of paying is the wrong approach. You rely on your cybersecurity experts and insurance provider to advise on the best course of action.
+
+Unless you are a top-tier cybersecurity specialist in this area, your suggestion is without merit. 
+
+Do you know what is going to happen to ShinyHunters? They'll disappear. The ransomware industry is a multi-billion dollar sector and they take care of their own. If people stop paying the ransom, their income disappears.
+
+There are numerous examples of smaller groups being targeted by the bigger ones for causing victims to lose confidence in the process.
+
+---------------------
+
+Comment ID: mr5lugq
+Comment Author: 07C9
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr5lugq/
+Parent comment file: 41_14.txt
+Content: That's a reasonable take. However, I don't think you have to be a Cyber Security expert to know that *generally speaking* paying the ransom isn't advisable. This is the direct guidance of FBI, CISA, etc. I agree there are variables and every situation is different. And that if this happened to us, obviously we're going to take the advice of experts. I guess it comes down to the reputation of the TA. Clearly this one didn't care. So sure, maybe it's more nuanced than 'just don't pay it ever'... but in most situations I still think it's the recommended approach. PS essentially took your advice and still got burned. Also, how do you know that a TA isn't impersonating another TA that has a good reputation of not releasing stolen data? Pretty sure PS hired a third-party company (cybersteward.com) to negotiate with the TA. Sounds like they both got played.

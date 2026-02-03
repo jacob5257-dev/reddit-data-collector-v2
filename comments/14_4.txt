@@ -1,0 +1,20 @@
+Comment ID: m70lzpd
+Comment Author: k12-tech
+Up/Down: 17/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m70lzpd/
+Parent comment file: 14.txt
+Content: How did we get here? Complete negligence and ignoring all industry standards.
+
+This will be settled by a lawsuit. And unfortunately the costs will then be passed on to their customers. I’m sure next year costs will remain flat as a “gesture of goodwill”, then they’ll hit everyone with 10% increases for the next five years to “increase our cybersecurity infrastructure to meet the growing needs of our clients”. 
+
+Get out while you can!
+
+---------------------
+
+Comment ID: m711hbu
+Comment Author: NorthernVenomFang
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1i0s99y/one_week_later_and_we_still_have_questions_about/m711hbu/
+Parent comment file: 14_1.txt
+Content: Lawsuits already started to popup on Friday:
+https://news.bloomberglaw.com/litigation/powerschool-sued-over-december-breach-of-student-teacher-data

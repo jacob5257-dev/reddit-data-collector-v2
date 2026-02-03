@@ -1,0 +1,25 @@
+Comment ID: m6hhthm
+Comment Author: vawlk
+Up/Down: 1/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6hhthm/
+Parent comment file: 7_28.txt
+Content: maybe. there's no 100% way to know either way. but if attackers didn't keep their word in these situations no one would ever pay. 
+
+see the thing is, the data wasn't that valuable. it contains mostly the same information that you fill out when you create an account on a website somewhere. there's no financial information, there's no medical records, no social security numbers, no passwords, it's basically just names addresses and phone numbers.
+
+there were a lot more sensitive information that could have been exported but the attackers only exported two tables out of the whole database on each system. 
+
+they can try to sell them in a few years but at best it would require a metric shit ton of social engineering for every single student record in order to try to gain from the data. 
+
+the data was simply way more valuable to PowerSchool and their reputation then it's actual value on the black market, imo.
+
+my kids information is in this hack, and it doesn't worry me at all because I know exactly what they got, and it wasn't anything they haven't already given out.
+
+---------------------
+
+Comment ID: m6hi443
+Comment Author: NorthernVenomFang
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6hi443/
+Parent comment file: 7_29.txt
+Content: Except for the boards/division/districts who where required to store SSN and Health care numbers...

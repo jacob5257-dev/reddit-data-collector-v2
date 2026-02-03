@@ -1,0 +1,20 @@
+Comment ID: m99o16n
+Comment Author: ThePorko
+Up/Down: 2/0
+Link: https://reddit.com/r/cybersecurity/comments/1iafidv/what_learnings_can_i_present_from_the_powerschool/m99o16n/
+Parent comment file: 26.txt
+Content: Google? It is all over most cybersecurity podcasts and other medium by now.
+
+---------------------
+
+Comment ID: m99ofdz
+Comment Author: Kartoos69
+Up/Down: -1/0
+Link: https://reddit.com/r/cybersecurity/comments/1iafidv/what_learnings_can_i_present_from_the_powerschool/m99ofdz/
+Parent comment file: 26_1.txt
+Content: Yaa but other than 
+MFA
+Monitoring 
+Shifting security left
+
+Other than these what can I present?

@@ -1,0 +1,15 @@
+Comment ID: mr4xlu9
+Comment Author: lower_intelligence
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr4xlu9/
+Parent comment file: 41_8.txt
+Content: Yes, they were provided with data samples per the news articles.
+
+---------------------
+
+Comment ID: mr54acx
+Comment Author: sarge21
+Up/Down: 6/0
+Link: https://reddit.com/r/k12sysadmin/comments/1kh4kya/powerschool_cyber_security_incident_update/mr54acx/
+Parent comment file: 41_9.txt
+Content: Which articles say this?

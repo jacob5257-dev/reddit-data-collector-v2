@@ -1,0 +1,24 @@
+Comment ID: m5yq1yp
+Comment Author: Digisticks
+Up/Down: 57/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5yq1yp/
+Parent comment file: 1.txt
+Content: We were affected and got early access to a webinar today an hour and a half after notice went out. Essentially here's what we got...
+
+1. We were affected if the email said we were.
+2. The issue came from PowerSchool, not a school/district.
+3. PowerSchool partnered with a company to "ensure data was deleted" while in contact with breachers.
+4. Student and Teacher data tables breached and exported.
+5. PowerSchool has taken action (that probably should have been implemented prior) to ensure this doesn't happen again.
+6. It's at least US and Canada impacted.
+
+There is a news story out of Tennessee (of all places) about it. Only one out there as of 7:03 EST
+
+---------------------
+
+Comment ID: m5z5q6z
+Comment Author: linus_b3
+Up/Down: 64/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hw1m3x/so_powerschool_had_a_breach/m5z5q6z/
+Parent comment file: 1_39.txt
+Content: Not buying the "ensure data was deleted" thing.  There's simply no way they can say that for certain.

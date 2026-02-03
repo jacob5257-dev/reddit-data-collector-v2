@@ -1,0 +1,16 @@
+Post ID: 1i2t4os
+Post Title: PowerSchool breach worse than thought, company says "all" student and teacher data accessed
+Post Author: Snowfish52
+Up/Down: nan/nan
+Content: nan
+
+---------------------
+
+Comment ID: m9vybwb
+Comment Author: SuzanneSmalley
+Up/Down: 1/0
+Link: https://reddit.com/r/cybersecurity/comments/1i2t4os/powerschool_breach_worse_than_thought_company/m9vybwb/
+Parent comment file: 59.txt
+Content: I am a reporter writing a story about the PowerSchool breach and am looking for parents and teachers who have been impacted to speak with me. My most recent story on the hack reported that in Toronto PowerSchool's cybersecurity practices led the malicious actor to obtain student disciplinary records and special ed accommodations. There is a lot more to this breach and few of the stories have contained the voices of those affected. Please help me change that! I can be reached at 202-931-9538 or [suzanne.smalley@therecord.media](mailto:suzanne.smalley@therecord.media) 
+
+[https://therecord.media/disciplinary-special-records-toronto-powerschool](https://therecord.media/disciplinary-special-records-toronto-powerschool)

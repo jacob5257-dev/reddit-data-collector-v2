@@ -1,0 +1,17 @@
+Comment ID: m683u4v
+Comment Author: vawlk
+Up/Down: 7/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m683u4v/
+Parent comment file: 7_13.txt
+Content: this is how it works.
+
+if the attackers never kept their word, no one would ever pay.
+
+---------------------
+
+Comment ID: m6gqr68
+Comment Author: NorthernVenomFang
+Up/Down: 2/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hx2hhh/what_we_know_about_the_powerschool_breach_so_far/m6gqr68/
+Parent comment file: 7_18.txt
+Content: Yes and it only takes one attacker say "f@ck it, I want more" and sell the data anyways.  I wouldn't be surprised if the data is on some hard drive in a safe/safety deposit box in a bank somewhere for the attackers just waiting for everything to blow over in a couple years to cash it out.

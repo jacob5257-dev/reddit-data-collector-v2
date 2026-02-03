@@ -1,0 +1,16 @@
+Post ID: 1hxedsq
+Post Title: PowerSchool Users what are you telling parents?
+Post Author: Road_Trail_Roll
+Up/Down: 24.0/0.0
+Content: We're working on a message to our parents and staff. I'm curious, what has everyone else sent out to explain what happened and what your steps are?
+
+---------------------
+
+Comment ID: m68oq47
+Comment Author: Oneota
+Up/Down: 10/0
+Link: https://reddit.com/r/k12sysadmin/comments/1hxedsq/powerschool_users_what_are_you_telling_parents/m68oq47/
+Parent comment file: 8.txt
+Content: We're one of the lucky districts that was not impacted (thanks to a Geo-block on our firewall preventing access by all non-US IP addresses).
+
+We'll prepare some canned responses to parents/media once this story blows up in the news, but I don't think we're currently planning to send anything else out, unless we just get inundated with questions about whether we were impacted.

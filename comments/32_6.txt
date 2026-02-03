@@ -1,0 +1,16 @@
+Post ID: 1iqh5s8
+Post Title: PowerSchool incident further problems?
+Post Author: zumaro
+Up/Down: 14.0/0.0
+Content: One of our parents affected by the PowerSchool breach has received an email from PowerSchool <Ps-sis-incident@mail1.csid.com> following closely the template that PowerSchool suggested we send out to families. It lists her daughter and was sent to her personal email address. 
+ 
+ This looks on the face of it to be a phishing attempt with the stolen information?
+
+---------------------
+
+Comment ID: md0zv4w
+Comment Author: Digisticks
+Up/Down: 5/0
+Link: https://reddit.com/r/k12sysadmin/comments/1iqh5s8/powerschool_incident_further_problems/md0zv4w/
+Parent comment file: 32.txt
+Content: I want to think my state association sent an email out the other day about PowerSchool changing the domain to add the 1 in there. It looked kind of spammy before this, but PS had the information posted on a Q and A page that was being sent out.

@@ -1,0 +1,22 @@
+Post ID: 1kd27dr
+Post Title: Class Action against Pembina Trails & PowerSchool over cyber security incident?
+Post Author: ThisisMyThirdPenName
+Up/Down: 0.0/0.0
+Content: Today I have to enroll my five-year-old child in identity protection monitoring services because of the Pembina Trails cyber security breach which was first revealed back on December 4, 2024.
+ 
+ The incident involved the PowerSchool software, but the email we received today from PowerSchool offering two years of free identity protection services was the first time "PowerSchool" was actually mentioned in relation to the Pembina Trails incident.
+ 
+ Does anyone know if a class action suit is being organized against Pembina Trails or PowerSchool in relation to the breach? Is such a thing even feasible / practical? 
+ 
+ I'm just livid / heartbroken that I have to enroll a Kindergarten-age-child in identity monitoring already.
+
+---------------------
+
+Comment ID: mq7e47h
+Comment Author: MrPerfect4069
+Up/Down: 20/0
+Link: https://reddit.com/r/Winnipeg/comments/1kd27dr/class_action_against_pembina_trails_powerschool/mq7e47h/
+Parent comment file: 39.txt
+Content: I hate to break it to you but compromises and leaked data is just a fact of life these days. If we had class action against every single company that leaked personal data the only careers that would exist is being those lawyers. 
+
+Have a look at haveibeenpwned just to see how big of a problem it really is.
