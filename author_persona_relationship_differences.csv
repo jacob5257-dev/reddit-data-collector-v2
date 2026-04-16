@@ -1,0 +1,416 @@
+author,file_name,id,persona,relationship,engagement,irrelevant
+981flacht6,2_15.txt,m5zr276,School IT/admin,Unaffected,Speculation,False
+981flacht6,43_27.txt,mrj2ubf,General observser,Unaffected,Misc.,False
+Billy_Bob_Joe_Mcoy,10.txt,1hxqotl,General observser,Possibly affected,Information/News-sharing,False
+Billy_Bob_Joe_Mcoy,10_1.txt,m6baide,,,,True
+Billy_Bob_Joe_Mcoy,10_9.txt,m6bh8bq,General observser,Unaffected,Blame attribution,False
+Billy_Bob_Joe_Mcoy,10_11.txt,m6bhsjs,,,,True
+Billy_Bob_Joe_Mcoy,10_18.txt,m6btbmj,Privacy/policy advocate,Unaffected,Sarcasm/humor,False
+Billy_Bob_Joe_Mcoy,10_20.txt,m6buhfg,General observser,Unaffected,Misc.,False
+Billy_Bob_Joe_Mcoy,10_23.txt,m6c02j4,IT/security professional,Unaffected,"Frustration/Anger, Blame attribution, Express wish",False
+Billy_Bob_Joe_Mcoy,10_24.txt,m6c0rx8,General observser,Unaffected,Speculation,False
+Billy_Bob_Joe_Mcoy,10_34.txt,m6g5ehg,General observser,Unaffected,"Express agreement, Express wish, Speculation",False
+Billy_Bob_Joe_Mcoy,10_35.txt,m6g5pam,Parent/guardian,Affected,"Frustration/Anger, Blame attribution",False
+Billy_Bob_Joe_Mcoy,10_36.txt,m6g5z6l,General observser,Unaffected,Information/News-sharing,False
+Billy_Bob_Joe_Mcoy,10_37.txt,m6g65ak,,,,True
+Chuckfromis,1.txt,1hw1m3x,School IT/admin,Affected,Information/News-sharing,False
+Chuckfromis,1_3.txt,m5xp32g,School IT/admin,Possibly affected,Information-seeking,False
+Chuckfromis,1_5.txt,m5xqw95,School IT/admin,Unaffected,Sarcasm/humor,False
+Chuckfromis,1_12.txt,m5xujfz,School IT/admin,Possibly affected,Blame attribution,False
+Chuckfromis,1_16.txt,m5xwhyl,,,,True
+Chuckfromis,1_70.txt,m62kgor,School IT/admin,Affected,Information/News-sharing,False
+Chuckfromis,1_86.txt,m6ff9sr,School IT/admin,Affected,"Advice-giving, Information/News-sharing, Factual confusion/clarification",False
+CivilReaction,23_5.txt,m8cqie3,Student,Unaffected,"Information/News-sharing, Sarcasm/humor, Express Concern",False
+CivilReaction,23_8.txt,m8d5pnj,Student,Affected,Express agreement,False
+Cmd-Line-Interface,59_29.txt,m7kkfrq,IT/security professional,Possibly affected,Information-seeking,False
+Cmd-Line-Interface,59_45.txt,m7kuq6n,IT/security professional,Unaffected,Surprise,False
+CptUnderpants-,41_14.txt,mr5gv37,IT/security professional,Unaffected,"Advice-giving, Information/News-sharing",False
+CptUnderpants-,41_18.txt,mr5uzj2,School IT/admin,Unaffected,"Information/News-sharing, Advice-giving, Factual confusion/clarification",False
+Crystalvibes,11_9.txt,m6etuh9,School IT/admin,Possibly affected,"Surprise, Information-seeking, Factual confusion/clarification, Blame attribution, Frustration/Anger",False
+Crystalvibes,11_19.txt,m6fm6aj,School IT/admin,Unsure/Unclear,"Frustration/Anger, Factual confusion/clarification, Misc.",False
+Daraca,4_26.txt,m64un3i,,,,True
+Daraca,4_36.txt,m65v7mk,School IT/admin,Unaffected,"Information/News-sharing, Factual confusion/clarification",False
+Daraca,33_1.txt,mdph84l,School IT/admin,Unsure/Unclear,"Advice-giving, Information/News-sharing",False
+Digisticks,1_39.txt,m5yq1yp,School IT/admin,Affected,Information/News-sharing,False
+Digisticks,1_41.txt,m5yvnvh,School IT/admin,Affected,Information/News-sharing,False
+Digisticks,1_47.txt,m5z67by,School IT/admin,Affected,"Information/News-sharing, Factual confusion/clarification",False
+Digisticks,1_52.txt,m5zju79,School IT/admin,Affected,Frustration/Anger,False
+Digisticks,1_54.txt,m5zkgiw,School IT/admin,Affected,"Surprise, Information/News-sharing",False
+Digisticks,8_18.txt,m6bylr0,School IT/admin,Affected,Information/News-sharing,False
+Digisticks,32_6.txt,md0zv4w,School IT/admin,Affected,Information/News-sharing,False
+Digisticks,38_2.txt,mm4heyw,School IT/admin,Possibly affected,Information/News-sharing,False
+Disastrous-Spell-573,4_40.txt,m66y9ur,School IT/admin,Affected,Information/News-sharing,False
+Disastrous-Spell-573,4_41.txt,m66yjlg,School IT/admin,Possibly affected,"Frustration/Anger, Express wish",False
+Disastrous-Spell-573,4_42.txt,m66z5ig,School IT/admin,Affected,"Factual confusion/clarification, Frustration/Anger",False
+Disastrous-Spell-573,7_14.txt,m67947j,School IT/admin,Unaffected,Sarcasm/humor,False
+Disastrous-Spell-573,4_43.txt,m67h6uw,,,,True
+Disastrous-Spell-573,3_4.txt,m67hx7t,School IT/admin,Unsure/Unclear,"Express agreement, Misc.",False
+Disastrous-Spell-573,1_87.txt,m6g2o0p,School IT/admin,Affected,Factual confusion/clarification,False
+EdTechYYC,1_22.txt,m5y10dc,School IT/admin,Affected,"Information-seeking, Advice-seeking",False
+EdTechYYC,11_5.txt,m6eik1i,School IT/admin,Unaffected,"Information/News-sharing, Frustration/Anger",False
+EdTechYYC,19_6.txt,m806nfp,School IT/admin,Affected,Frustration/Anger,False
+Fair_Scientist2347,40.txt,1kgxoyn,Parent/guardian,Affected,"Frustration/Anger, Information-seeking",False
+Fair_Scientist2347,40_2.txt,mr2xe64,Parent/guardian,Affected,"Frustration/Anger, Information-seeking",False
+Fair_Scientist2347,40_6.txt,mr6hm8u,Parent/guardian,Affected,Information-seeking,False
+Fair_Scientist2347,40_7.txt,mr6hskr,,,,True
+Fair_Scientist2347,40_10.txt,mr9gw8i,Parent/guardian,Possibly affected,Information/News-sharing,False
+Hazy_Arc,1_2.txt,m5xok1w,School IT/admin,Affected,"Information/News-sharing, Frustration/Anger",False
+Hazy_Arc,1_4.txt,m5xqp2u,School IT/admin,Affected,"Speculation, Information/News-sharing",False
+Hazy_Arc,1_10.txt,m5xtamv,School IT/admin,Affected,Speculation,False
+Hazy_Arc,1_15.txt,m5xw2w6,School IT/admin,Affected,Information/News-sharing,False
+Hazy_Arc,1_17.txt,m5xxqyr,School IT/admin,Possibly affected,"Information-seeking, Advice-seeking",False
+Hazy_Arc,1_51.txt,m5zjngc,,,,True
+Hazy_Arc,1_53.txt,m5zk7uk,School IT/admin,Unaffected,"Surprise, Information/News-sharing",False
+Hazy_Arc,41_21.txt,mr9b2xg,School IT/admin,Possibly affected,Sarcasm/humor,False
+IntelligentGinger,5_20.txt,m68by03,Teacher/educator,Affected,"Express disagreement, Frustration/Anger",False
+IntelligentGinger,5_23.txt,m68jp3p,School IT/admin,Affected,"Express agreement, Blame attribution, Surprise",False
+Interesting_Tea5715,25_29.txt,m8wsv0i,IT/security professional,Unaffected,"Blame attribution, Frustration/Anger, Express wish",False
+Interesting_Tea5715,25_30.txt,m8wtqsm,General observser,Unsure/Unclear,"Information/News-sharing, Blame attribution",False
+J_de_Silentio,1_36.txt,m5yinh7,School IT/admin,Affected,"Information/News-sharing, Factual confusion/clarification",False
+J_de_Silentio,1_37.txt,m5yit5j,,,,True
+J_de_Silentio,1_49.txt,m5z73jx,School IT/admin,Possibly affected,"Information-seeking, Factual confusion/clarification",False
+J_de_Silentio,1_78.txt,m64x0bx,School IT/admin,Unaffected,"Information/News-sharing, Technical explanation",False
+J_de_Silentio,8_19.txt,m6c091t,School IT/admin,Unaffected,Information/News-sharing,False
+J_de_Silentio,38_3.txt,mmt7eap,School IT/admin,Affected,Information-seeking,False
+LuckyNumber3_13,48_3.txt,ms62nln,Privacy/policy advocate,Unaffected,"Factual confusion/clarification, Information-seeking, Advice-giving",False
+LuckyNumber3_13,48_15.txt,ms6jx0d,Student,Affected,"Information/News-sharing, Advice-giving",False
+LyokoMan95,24_3.txt,m8rdw9t,School IT/admin,Possibly affected,"Information/News-sharing, Factual confusion/clarification",False
+LyokoMan95,32_7.txt,md24wfd,General observser,Unaffected,Information/News-sharing,False
+Mevakel,13_16.txt,m6oe97k,Teacher/educator,Possibly affected,"Information/News-sharing, Express agreement",False
+Mevakel,13_18.txt,m6of1wc,Teacher/educator,Unsure/Unclear,"Information/News-sharing, Express agreement",False
+MrPerfect4069,59_74.txt,m7tjmal,Student,Possibly affected,Frustration/Anger,False
+MrPerfect4069,39_11.txt,mq7e47h,General observser,Unaffected,Information/News-sharing,False
+Mundane-Penalty9596,18.txt,1i3525l,General observser,Affected,Information/News-sharing,False
+Mundane-Penalty9596,10_38.txt,m6ij0ck,General observser,Unsure/Unclear,"Information/News-sharing, Relief",False
+No-Effort-9291,29.txt,1ibsdbm,Teacher/educator,Unaffected,"Information/News-sharing, Factual confusion/clarification, Information-seeking, Advice-seeking",False
+No-Effort-9291,29_8.txt,m9qgdmh,Teacher/educator,Affected,"Frustration/Anger, Misc.",False
+No-Effort-9291,29_9.txt,m9qggmr,,,,True
+No-Effort-9291,29_11.txt,m9wxlmp,,,,True
+NorthernVenomFang,19.txt,1i4hbrr,School IT/admin,Possibly affected,"Information/News-sharing, Information-seeking, Express Concern",False
+NorthernVenomFang,7_26.txt,m6gpyun,School IT/admin,Affected,"Information/News-sharing, Technical explanation, Factual confusion/clarification",False
+NorthernVenomFang,7_27.txt,m6gq8k6,School IT/admin,Affected,Information/News-sharing,False
+NorthernVenomFang,7_28.txt,m6gqr68,School IT/admin,Possibly affected,"Express agreement, Speculation, Frustration/Anger",False
+NorthernVenomFang,7_30.txt,m6hi443,School IT/admin,Possibly affected,Factual confusion/clarification,False
+NorthernVenomFang,14_3.txt,m7112hs,School IT/admin,Affected,"Information/News-sharing, Blame attribution, Speculation",False
+NorthernVenomFang,14_4.txt,m711hbu,School IT/admin,Unaffected,Information/News-sharing,False
+NorthernVenomFang,14_8.txt,m729ee7,School IT/admin,Possibly affected,Information/News-sharing,False
+NorthernVenomFang,19_4.txt,m7wkvx7,School IT/admin,Affected,Information/News-sharing,False
+NorthernVenomFang,24_15.txt,m8wlish,School IT/admin,Possibly affected,"Information/News-sharing, Speculation, Technical explanation",False
+NorthernVenomFang,27_5.txt,m9c4dta,School IT/admin,Possibly affected,"Express agreement, Express wish",False
+NorthernVenomFang,27_6.txt,m9c4i8a,School IT/admin,Unsure/Unclear,"Express agreement, Advice-giving",False
+NorthernVenomFang,34_5.txt,me7vwb7,School IT/admin,Possibly affected,"Frustration/Anger, Information/News-sharing, Blame attribution, Speculation",False
+Oneota,1_30.txt,m5y72aw,School IT/admin,Possibly affected,Information/News-sharing,False
+Oneota,4_49.txt,m68itzu,School IT/admin,Unaffected,"Information/News-sharing, Technical explanation",False
+Oneota,8_3.txt,m68oq47,School IT/admin,Unaffected,Information/News-sharing,False
+Oneota,8_12.txt,m691zgf,School IT/admin,Unaffected,"Information/News-sharing, Technical explanation, Express disagreement",False
+Oneota,8_13.txt,m695dtv,School IT/admin,Unaffected,Information/News-sharing,False
+PermissionSoggy891,59_23.txt,m7k6opu,General observser,Unaffected,Sarcasm/humor,False
+PermissionSoggy891,59_24.txt,m7k8hy4,IT/security professional,Unaffected,"Blame attribution, Frustration/Anger, Factual confusion/clarification, Sarcasm/humor",False
+PermissionSoggy891,59_25.txt,m7k8jjj,,,,True
+Pseudothink,59_54.txt,m7lxtiz,Teacher/educator,Affected,"Information/News-sharing, Relief",False
+Pseudothink,59_55.txt,m7ly61h,IT/security professional,Unaffected,"Information/News-sharing, Express Concern",False
+RevolutionaryPizza64,41_11.txt,mr5da5y,School IT/admin,Affected,Information/News-sharing,False
+RevolutionaryPizza64,41_12.txt,mr5e89f,School IT/admin,Possibly affected,"Factual confusion/clarification, Information-seeking, Sarcasm/humor, Information/News-sharing, Express disagreement",False
+RevolutionaryPizza64,41_17.txt,mr5oh20,School IT/admin,Affected,"Information/News-sharing, Express agreement, Sarcasm/humor",False
+Robbbbbbbbb,59_39.txt,m7ksecn,Privacy/policy advocate,Unaffected,"Frustration/Anger, Information/News-sharing",False
+Robbbbbbbbb,59_40.txt,m7ksorp,School IT/admin,Affected,"Information/News-sharing, Factual confusion/clarification",False
+Robbbbbbbbb,59_41.txt,m7kt3nb,IT/security professional,Unaffected,"Frustration/Anger, Speculation, Information/News-sharing",False
+Robbbbbbbbb,59_42.txt,m7ktf3i,General observser,Unaffected,"Express agreement, Information/News-sharing",False
+Robbbbbbbbb,59_43.txt,m7ktiux,IT/security professional,Unaffected,Information/News-sharing,False
+Robbbbbbbbb,59_62.txt,m7mtav9,Privacy/policy advocate,Unaffected,"Information/News-sharing, Factual confusion/clarification",False
+Robbbbbbbbb,58_6.txt,nr4xw3m,General observser,Unsure/Unclear,"Blame attribution, Frustration/Anger, Information/News-sharing, Advice-giving",False
+Sk1llPo1nt,1_69.txt,m62cd44,School IT/admin,Possibly affected,"Factual confusion/clarification, Advice-seeking",False
+Sk1llPo1nt,1_85.txt,m6f65bp,School IT/admin,Affected,Information-seeking,False
+SnowLepor,10_25.txt,m6c1qye,Student,Affected,Frustration/Anger,False
+SnowLepor,10_27.txt,m6c38gy,"Student, Parent/guardian",Affected,"Information/News-sharing, Frustration/Anger",False
+Spurgeonist,13_31.txt,m727zn7,Teacher/educator,Affected,"Information/News-sharing, Factual confusion/clarification, Blame attribution, Advice-giving, Frustration/Anger",False
+Spurgeonist,13_32.txt,m728ifr,General observser,Possibly affected,Speculation,False
+Spurgeonist,13_33.txt,m729ahy,General observser,Unsure/Unclear,Information/News-sharing,False
+Square_Pear1784,15.txt,1i16nj9,School IT/admin,Unaffected,"Advice-seeking, Express Concern",False
+Square_Pear1784,16.txt,1i1xqiw,School IT/admin,Affected,"Factual confusion/clarification, Advice-seeking, Frustration/Anger",False
+Square_Pear1784,7_17.txt,m683fc4,School IT/admin,Possibly affected,Advice-seeking,False
+Square_Pear1784,15_7.txt,m740mtk,School IT/admin,Unaffected,Speculation,False
+Square_Pear1784,15_8.txt,m740nro,School IT/admin,Unaffected,Speculation,False
+Square_Pear1784,16_3.txt,m79va0a,School IT/admin,Affected,"Information/News-sharing, Frustration/Anger",False
+Square_Pear1784,16_4.txt,m79vnpb,School IT/admin,Affected,Information/News-sharing,False
+Subpxl,59_26.txt,m7kefoe,IT/security professional,Unaffected,Express disagreement,False
+Subpxl,59_35.txt,m7kq1wh,,,,True
+Subpxl,59_36.txt,m7kq32b,,,,True
+Subpxl,59_44.txt,m7ktnuz,IT/security professional,Unaffected,"Speculation, Express wish",False
+Subpxl,59_48.txt,m7kxjvz,School IT/admin,Affected,Information/News-sharing,False
+Subpxl,59_60.txt,m7mjr3b,General observser,Unaffected,"Express disagreement, Speculation",False
+Sunitha_Sundar_5980,43.txt,1khqnbw,General observser,Unaffected,"Information/News-sharing, Information-seeking, Express Concern",False
+Sunitha_Sundar_5980,43_26.txt,mrfcrbm,General observser,Unaffected,"Information/News-sharing, Surprise",False
+Sunitha_Sundar_5980,43_31.txt,mrx68bf,General observser,Unaffected,Misc.,False
+Sunitha_Sundar_5980,43_32.txt,mrxaql2,Privacy/policy advocate,Unaffected,"Frustration/Anger, Express Concern",False
+Sunitha_Sundar_5980,43_33.txt,mrxb0lq,IT/security professional,Unaffected,"Factual confusion/clarification, Advice-giving",False
+Sunitha_Sundar_5980,43_34.txt,mrxb4nf,IT/security professional,Unaffected,Express wish,False
+ThePorko,59_65.txt,m7owt14,IT/security professional,Unaffected,"Blame attribution, Information/News-sharing",False
+ThePorko,26_1.txt,m99o16n,,,,True
+ThePorko,43_11.txt,mr9l2cf,General observser,Unaffected,Sarcasm/humor,False
+TheShootDawg,8_11.txt,m68zax2,School IT/admin,Possibly affected,Information/News-sharing,False
+TheShootDawg,16_10.txt,m7a717k,School IT/admin,Unsure/Unclear,Advice-giving,False
+TheShootDawg,34_2.txt,me5nq9e,School IT/admin,Possibly affected,"Express disagreement, Technical explanation, Speculation",False
+TheShootDawg,34_4.txt,me62ruw,School IT/admin,Unaffected,"Information-seeking, Information/News-sharing",False
+Timewyrm007,3.txt,1hwt7ox,School IT/admin,Affected,Information/News-sharing,False
+Timewyrm007,1_42.txt,m5yz6uj,School IT/admin,Affected,Information/News-sharing,False
+Timewyrm007,4_4.txt,m63w42u,School IT/admin,Possibly affected,"Speculation, Express disagreement, Information/News-sharing",False
+Timewyrm007,11_11.txt,m6ewznu,School IT/admin,Unsure/Unclear,Sarcasm/humor,False
+Tr0yticus,1_44.txt,m5z0wdv,School IT/admin,Possibly affected,Information/News-sharing,False
+Tr0yticus,4_30.txt,m6553ow,School IT/admin,Possibly affected,Express agreement,False
+Tr0yticus,15_9.txt,m762qgx,School IT/admin,Unsure/Unclear,"Advice-giving, Information/News-sharing, Technical explanation",False
+Tr0yticus,15_10.txt,m763awh,School IT/admin,Unaffected,Advice-giving,False
+Tr0yticus,15_11.txt,m764bkq,,,,True
+Tr0yticus,24_20.txt,m906hmz,School IT/admin,Possibly affected,"Express agreement, Information/News-sharing",False
+TravisVZ,24_4.txt,m8rjxla,School IT/admin,Possibly affected,"Blame attribution, Frustration/Anger, Information/News-sharing",False
+TravisVZ,24_6.txt,m8sol7c,School IT/admin,Affected,"Blame attribution, Frustration/Anger",False
+TravisVZ,24_12.txt,m8ui6il,School IT/admin,Affected,"Express agreement, Factual confusion/clarification",False
+Tycho_Jissard,9.txt,1hxewgl,IT/security professional,Unaffected,Information/News-sharing,False
+Tycho_Jissard,52.txt,1krn49t,General observser,Unaffected,Information/News-sharing,False
+Tycho_Jissard,9_1.txt,m68groz,,,,True
+Vast_Equal8,35.txt,1iz108m,Teacher/educator,Affected,"Information/News-sharing, Frustration/Anger, Blame attribution, Information-seeking",False
+Vast_Equal8,35_4.txt,mezp8fe,General observser,Affected,Misc.,False
+ZaMelonZonFire,4_1.txt,m63t4wg,School IT/admin,Affected,"Factual confusion/clarification, Information-seeking, Frustration/Anger",False
+ZaMelonZonFire,7_3.txt,m65zq9s,School IT/admin,Unaffected,Surprise,False
+ZaMelonZonFire,11_25.txt,m6gwyt5,School IT/admin,Unaffected,"Information/News-sharing, Blame attribution, Express Concern, Frustration/Anger",False
+ZaMelonZonFire,14_10.txt,m73sqgb,School IT/admin,Affected,"Information/News-sharing, Express wish, Frustration/Anger",False
+adstretch,2_8.txt,m5z5hm4,,,,True
+adstretch,2_9.txt,m5z6tij,School IT/admin,Possibly affected,"Factual confusion/clarification, Information-seeking",False
+adstretch,2_14.txt,m5zgq42,,,,True
+adstretch,1_60.txt,m61t305,School IT/admin,Possibly affected,Information-seeking,False
+adstretch,2_17.txt,m61t54g,,,,True
+adstretch,7_7.txt,m664tpq,School IT/admin,Possibly affected,"Speculation, Express disagreement",False
+adstretch,7_9.txt,m6651ic,School IT/admin,Unsure/Unclear,Surprise,False
+adstretch,7_20.txt,m68szdr,School IT/admin,Unaffected,Express agreement,False
+adstretch,27_4.txt,m9aotl9,School IT/admin,Unsure/Unclear,Express wish,False
+antilochus79,4_15.txt,m645ydg,School IT/admin,Possibly affected,"Information/News-sharing, Factual confusion/clarification",False
+antilochus79,4_35.txt,m65s6lq,School IT/admin,Affected,Express wish,False
+antilochus79,58_4.txt,nr4khi7,General observser,Unaffected,"Factual confusion/clarification, Information-seeking, Information/News-sharing, Blame attribution, Technical explanation",False
+aplarsen,1_56.txt,m5ztj84,School IT/admin,Unsure/Unclear,"Factual confusion/clarification, Information/News-sharing",False
+aplarsen,7_1.txt,m65uozy,School IT/admin,Possibly affected,Information/News-sharing,False
+aplarsen,11_28.txt,m6j6u26,,,,True
+aplarsen,14_5.txt,m717vgl,School IT/admin,Unaffected,Express agreement,False
+aplarsen,24_9.txt,m8uahgv,School IT/admin,Unaffected,"Factual confusion/clarification, Information/News-sharing",False
+aplarsen,24_10.txt,m8uaqvx,School IT/admin,Unaffected,Information/News-sharing,False
+aplarsen,33_24.txt,mdwnvn6,School IT/admin,Affected,Advice-giving,False
+aplarsen,34_6.txt,me8f89q,School IT/admin,Unsure/Unclear,Technical explanation,False
+bad_brown,1_32.txt,m5y9k43,,,,True
+bad_brown,4_14.txt,m645ed1,,,,True
+bad_brown,4_55.txt,m6c1oid,School IT/admin,Affected,"Express Concern, Speculation",False
+bad_brown,4_56.txt,m6c1w4w,School IT/admin,Unaffected,"Factual confusion/clarification, Information/News-sharing",False
+bad_brown,4_58.txt,m6c4js0,School IT/admin,Affected,"Advice-giving, Technical explanation, Information/News-sharing",False
+bad_brown,4_60.txt,m6cexf0,School IT/admin,Affected,"Technical explanation, Factual confusion/clarification",False
+bad_brown,4_62.txt,m6fvl46,School IT/admin,Affected,"Technical explanation, Information/News-sharing, Express wish",False
+bad_brown,14_2.txt,m710shc,School IT/admin,Possibly affected,Speculation,False
+bad_brown,16_1.txt,m79tcb6,School IT/admin,Affected,"Advice-giving, Frustration/Anger",False
+bad_brown,59_13.txt,m7ji4m2,School IT/admin,Affected,"Information/News-sharing, Blame attribution, Frustration/Anger, Speculation",False
+bad_brown,24_11.txt,m8ubtfc,School IT/admin,Affected,"Express disagreement, Frustration/Anger, Information/News-sharing, Blame attribution",False
+bad_brown,27_3.txt,m9amrd4,School IT/admin,Possibly affected,"Surprise, Information/News-sharing",False
+bad_brown,27_12.txt,maaaq4c,School IT/admin,Unaffected,"Technical explanation, Information/News-sharing, Advice-giving",False
+bad_brown,32_4.txt,md0glfg,School IT/admin,Affected,Frustration/Anger,False
+bad_brown,38_1.txt,mm487ft,School IT/admin,Affected,"Information-seeking, Blame attribution, Frustration/Anger",False
+bradrel,59_8.txt,m7ite2x,,,,True
+bradrel,42_5.txt,mr55gn2,IT/security professional,Unaffected,"Information/News-sharing, Sarcasm/humor",False
+bradrel,42_8.txt,mr5f453,School IT/admin,Unsure/Unclear,"Factual confusion/clarification, Technical explanation, Information/News-sharing",False
+chickentenders54,4_10.txt,m641q0o,School IT/admin,Unsure/Unclear,Sarcasm/humor,False
+chickentenders54,4_25.txt,m64ubzz,School IT/admin,Possibly affected,"Factual confusion/clarification, Information/News-sharing",False
+chickentenders54,11_10.txt,m6euu4i,School IT/admin,Unsure/Unclear,Speculation,False
+chickentenders54,15_1.txt,m73o01s,,,,True
+cleveradmin,42.txt,1kh4xlx,School IT/admin,Possibly affected,"Surprise, Sarcasm/humor, Information/News-sharing",False
+cleveradmin,42_10.txt,mr8bo70,,,,True
+cleveradmin,42_14.txt,mrg4fr0,IT/security professional,Unaffected,Information/News-sharing,False
+combobulated,33.txt,1itikdo,School IT/admin,Affected,"Information-seeking, Advice-seeking, Information/News-sharing, Blame attribution, Frustration/Anger",False
+combobulated,1_7.txt,m5xrryv,School IT/admin,Affected,"Factual confusion/clarification, Frustration/Anger, Information-seeking",False
+combobulated,1_71.txt,m62oi2d,,,,True
+combobulated,1_81.txt,m68tia6,,,,True
+combobulated,1_82.txt,m68tq63,School IT/admin,Affected,Information/News-sharing,False
+combobulated,1_83.txt,m68u5xp,School IT/admin,Affected,Information-seeking,False
+combobulated,1_84.txt,m68uy5a,School IT/admin,Affected,"Speculation, Factual confusion/clarification",False
+combobulated,7_22.txt,m68xfgt,,,,True
+combobulated,8_10.txt,m68y6g7,School IT/admin,Affected,Frustration/Anger,False
+combobulated,4_53.txt,m6911pu,School IT/admin,Affected,"Speculation, Express disagreement",False
+combobulated,4_61.txt,m6fn1qb,School IT/admin,Affected,"Information-seeking, Factual confusion/clarification, Technical explanation, Express Concern",False
+combobulated,16_16.txt,m7cd8rj,School IT/admin,Affected,Advice-giving,False
+combobulated,24_8.txt,m8tjhgr,School IT/admin,Affected,"Advice-giving, Express Concern, Express wish, Information/News-sharing",False
+combobulated,33_2.txt,mdpqffs,School IT/admin,Affected,"Express gratitude, Information/News-sharing, Factual confusion/clarification",False
+combobulated,33_5.txt,mdrazap,,,,True
+combobulated,33_13.txt,mdtsjrb,School IT/admin,Unaffected,Misc.,False
+combobulated,33_14.txt,mdtsnjx,,,,True
+combobulated,33_15.txt,mdtt8pq,School IT/admin,Possibly affected,"Information/News-sharing, Information-seeking",False
+combobulated,33_16.txt,mdtufwp,School IT/admin,Affected,Advice-seeking,False
+combobulated,33_17.txt,mdtv2an,School IT/admin,Affected,"Information-seeking, Express agreement, Advice-seeking, Express wish",False
+combobulated,33_18.txt,mdtw6hf,School IT/admin,Affected,Information/News-sharing,False
+combobulated,33_21.txt,mdvyh20,School IT/admin,Affected,Information-seeking,False
+combobulated,33_22.txt,mdvz0vu,School IT/admin,Affected,"Factual confusion/clarification, Information-seeking",False
+da_chicken,2_5.txt,m5y9qr4,School IT/admin,Unaffected,Misc.,False
+da_chicken,7_12.txt,m66diox,,,,True
+da_chicken,54_1.txt,ned4qxg,School IT/admin,Possibly affected,Express Concern,False
+dallywolf,11_24.txt,m6g86yi,School IT/admin,Possibly affected,"Frustration/Anger, Factual confusion/clarification, Information/News-sharing",False
+dallywolf,16_15.txt,m7bsson,School IT/admin,Affected,"Information/News-sharing, Advice-giving",False
+discgman,25_5.txt,m8tlp2a,General observser,Unsure/Unclear,"Speculation, Blame attribution",False
+discgman,43_3.txt,mr8z7q7,School IT/admin,Affected,"Information/News-sharing, Frustration/Anger",False
+discgman,43_16.txt,mr9p5ve,School IT/admin,Affected,Information/News-sharing,False
+donaldrowens,7_23.txt,m69f92n,School IT/admin,Possibly affected,Information/News-sharing,False
+donaldrowens,7_24.txt,m69fzqb,School IT/admin,Affected,"Factual confusion/clarification, Information/News-sharing",False
+donaldrowens,27_9.txt,m9jattk,,,,True
+eldonhughes,4_28.txt,m6521oj,Parent/guardian,Unaffected,"Speculation, Information/News-sharing",False
+eldonhughes,4_46.txt,m680akp,School IT/admin,Unsure/Unclear,"Express agreement, Speculation",False
+eldonhughes,4_52.txt,m68yf3k,School IT/admin,Affected,"Blame attribution, Frustration/Anger, Sarcasm/humor",False
+eldonhughes,4_64.txt,m6m1hvx,School IT/admin,Affected,Express agreement,False
+fergal-dude,33_20.txt,mdujrym,School IT/admin,Possibly affected,"Blame attribution, Information/News-sharing",False
+fergal-dude,33_26.txt,mdzya7h,School IT/admin,Unsure/Unclear,"Advice-giving, Frustration/Anger",False
+flunky_the_majestic,4.txt,1hwthy5,,,,True
+flunky_the_majestic,1_21.txt,m5y0t9y,,,,True
+flunky_the_majestic,4_13.txt,m644i38,School IT/admin,Unaffected,"Factual confusion/clarification, Information/News-sharing",False
+flunky_the_majestic,4_34.txt,m65r7x7,School IT/admin,Unsure/Unclear,"Information/News-sharing, Express disagreement",False
+flunky_the_majestic,4_47.txt,m689t52,School IT/admin,Possibly affected,"Speculation, Express agreement",False
+flunky_the_majestic,15_15.txt,m7bgfqm,School IT/admin,Unsure/Unclear,"Factual confusion/clarification, Information-seeking, Advice-giving",False
+flunky_the_majestic,15_16.txt,m7bhgn3,,,,True
+flunky_the_majestic,15_17.txt,m7bhvmf,,,,True
+hurricanesfan66,10_3.txt,m6bdidb,School IT/admin,Affected,"Sarcasm/humor, Information-seeking",False
+hurricanesfan66,10_8.txt,m6bgot2,General observser,Unaffected,"Sarcasm/humor, Express agreement",False
+hurricanesfan66,10_19.txt,m6btt2x,,,,True
+hurricanesfan66,10_21.txt,m6bvgdr,General observser,Unaffected,"Speculation, Information/News-sharing, Blame attribution",False
+justanameform,40_12.txt,mrb458f,Parent/guardian,Affected,"Factual confusion/clarification, Information/News-sharing",False
+justanameform,40_13.txt,mrb4h8w,Parent/guardian,Affected,Information/News-sharing,False
+justanameform,40_15.txt,mrbjvch,General observser,Unaffected,Information-seeking,False
+justanameform,40_16.txt,mrc3wua,Parent/guardian,Affected,"Factual confusion/clarification, Information/News-sharing",False
+k12techpro,7.txt,1hx2hhh,School IT/admin,Affected,"Information/News-sharing, Express Concern",False
+k12techpro,20.txt,1i5rluo,,,,True
+k12techpro,21.txt,1i5rqf2,Reporter/Media People,Unaffected,Information/News-sharing,False
+k12techpro,27.txt,1iah8vv,School IT/admin,Possibly affected,Information/News-sharing,False
+k12techpro,44.txt,1khu3sh,School IT/admin,Unaffected,Information/News-sharing,False
+k12techpro,49.txt,1kp9hwn,School IT/admin,Unaffected,Information/News-sharing,False
+k12techpro,50.txt,1krlo2d,School IT/admin,Unsure/Unclear,Information/News-sharing,False
+k12techpro,1_66.txt,m629pvi,School IT/admin,Unaffected,Information/News-sharing,False
+k12techpro,6_2.txt,m664g44,School IT/admin,Unaffected,Information/News-sharing,False
+k12techpro,6_4.txt,m666310,School IT/admin,Possibly affected,"Information/News-sharing, Advice-giving",False
+k12techpro,6_6.txt,m6gobhx,,,,True
+k12techpro,14_12.txt,m74ymyp,Reporter/Media People,Unaffected,Information/News-sharing,False
+kiddo19951997,40_9.txt,mr9cviy,Parent/guardian,Unaffected,Information/News-sharing,False
+kiddo19951997,40_11.txt,mr9lmuw,School IT/admin,Unaffected,"Factual confusion/clarification, Information/News-sharing",False
+lifeisaparody,1_57.txt,m604guz,School IT/admin,Possibly affected,Information/News-sharing,False
+lifeisaparody,4_37.txt,m662rh0,School IT/admin,Affected,"Frustration/Anger, Factual confusion/clarification, Information-seeking",False
+lifeisaparody,7_5.txt,m663g29,,,,True
+lifeisaparody,7_10.txt,m665wk9,School IT/admin,Unsure/Unclear,"Information/News-sharing, Frustration/Anger",False
+lifeisaparody,7_15.txt,m679dhf,,,,True
+lifeisaparody,4_57.txt,m6c3j9y,School IT/admin,Affected,Factual confusion/clarification,False
+lifeisaparody,4_59.txt,m6cena3,School IT/admin,Affected,"Factual confusion/clarification, Information-seeking",False
+lifeisaparody,7_32.txt,m6pl44t,School IT/admin,Affected,"Express Concern, Technical explanation",False
+lifeisaparody,14_11.txt,m74174h,School IT/admin,Unaffected,"Information/News-sharing, Express agreement",False
+lifeisaparody,24_16.txt,m8xkmgj,School IT/admin,Unsure/Unclear,Advice-giving,False
+lifeisaparody,24_17.txt,m8xm1jb,School IT/admin,Possibly affected,"Information/News-sharing, Technical explanation, Express Concern",False
+lifeisaparody,24_18.txt,m8xmp03,School IT/admin,Affected,"Blame attribution, Express agreement",False
+lifeisaparody,33_6.txt,mdsml14,School IT/admin,Unaffected,"Advice-giving, Technical explanation",False
+lifeisaparody,33_7.txt,mdsogx1,School IT/admin,Unaffected,"Express agreement, Information/News-sharing, Advice-giving, Express Concern",False
+lifeisaparody,33_12.txt,mdtr8yd,IT/security professional,Unaffected,Advice-giving,False
+lifeisaparody,58_8.txt,nr5689m,IT/security professional,Unaffected,"Information/News-sharing, Express Concern",False
+linus_b3,1_46.txt,m5z5q6z,General observser,Possibly affected,Frustration/Anger,False
+linus_b3,1_48.txt,m5z6lpj,School IT/admin,Possibly affected,"Factual confusion/clarification, Information/News-sharing",False
+linus_b3,4_18.txt,m64b6s7,School IT/admin,Affected,"Information/News-sharing, Express disagreement",False
+linus_b3,4_45.txt,m6800gu,School IT/admin,Unsure/Unclear,"Information/News-sharing, Express agreement",False
+linus_b3,4_51.txt,m68sdce,School IT/admin,Possibly affected,"Information/News-sharing, Express disagreement, Factual confusion/clarification",False
+linus_b3,11_3.txt,m6egqee,School IT/admin,Unsure/Unclear,Information/News-sharing,False
+linus_b3,16_9.txt,m7a45ii,School IT/admin,Possibly affected,"Information/News-sharing, Blame attribution, Frustration/Anger, Surprise",False
+linus_b3,34_7.txt,me8r92m,School IT/admin,Unsure/Unclear,"Frustration/Anger, Blame attribution, Express Concern",False
+linus_b3,41_5.txt,mr43pzs,School IT/admin,Affected,"Blame attribution, Frustration/Anger",False
+lower_intelligence,41_2.txt,mr3zdct,School IT/admin,Affected,Frustration/Anger,False
+lower_intelligence,41_9.txt,mr4xlu9,School IT/admin,Possibly affected,"Factual confusion/clarification, Information/News-sharing",False
+lutiana,1_26.txt,m5y4skf,School IT/admin,Possibly affected,"Frustration/Anger, Factual confusion/clarification, Information-seeking",False
+lutiana,1_28.txt,m5y6bwp,,,,True
+lutiana,1_29.txt,m5y713n,School IT/admin,Possibly affected,"Factual confusion/clarification, Information-seeking, Information/News-sharing",False
+lutiana,1_43.txt,m5z0hcu,School IT/admin,Affected,Information/News-sharing,False
+lutiana,1_72.txt,m62papk,,,,True
+m3gunner,1_76.txt,m64ceed,School IT/admin,Unaffected,"Speculation, Information/News-sharing",False
+m3gunner,16_21.txt,m879827,School IT/admin,Possibly affected,Information/News-sharing,False
+macaroni_monster,29_5.txt,m9l55ff,General observser,Unsure/Unclear,Advice-giving,False
+macaroni_monster,29_10.txt,m9qj8jv,Teacher/educator,Unaffected,"Advice-giving, Information/News-sharing",False
+macaroni_monster,35_6.txt,mf01do4,General observser,Unaffected,Advice-giving,False
+mybrotherhasabbgun,4_32.txt,m65kotm,School IT/admin,Unaffected,Information/News-sharing,False
+mybrotherhasabbgun,7_8.txt,m66501k,School IT/admin,Unsure/Unclear,"Information/News-sharing, Factual confusion/clarification",False
+mybrotherhasabbgun,11_4.txt,m6eihnw,School IT/admin,Possibly affected,Information/News-sharing,False
+mybrotherhasabbgun,11_18.txt,m6fi7oo,School IT/admin,Possibly affected,Information/News-sharing,False
+mybrotherhasabbgun,58_2.txt,nr4jftz,"IT/security professional , Privacy/policy advocate",Unaffected,"Advice-giving, Blame attribution",False
+namon295,8_14.txt,m69881a,School IT/admin,Affected,"Advice-giving, Information/News-sharing, Frustration/Anger",False
+namon295,19_1.txt,m7v76lh,School IT/admin,Unsure/Unclear,"Blame attribution, Speculation",False
+namon295,27_2.txt,m9al76i,School IT/admin,Unaffected,"Frustration/Anger, Information/News-sharing",False
+orphantech,41.txt,1kh4kya,School IT/admin,Affected,Information/News-sharing,False
+orphantech,8_17.txt,m6bt1d1,School IT/admin,Affected,"Information/News-sharing, Advice-giving",False
+orphantech,16_2.txt,m79ti4p,School IT/admin,Affected,"Advice-giving, Information/News-sharing, Express Concern",False
+orphantech,16_7.txt,m7a0g0m,School IT/admin,Affected,"Advice-giving, Information/News-sharing",False
+orphantech,33_4.txt,mdqk2r0,School IT/admin,Possibly affected,"Information/News-sharing, Advice-giving",False
+pheen,1_24.txt,m5y3d1r,School IT/admin,Affected,"Information-seeking, Factual confusion/clarification",False
+pheen,1_25.txt,m5y3k8w,School IT/admin,Affected,Information/News-sharing,False
+pheen,1_27.txt,m5y554d,School IT/admin,Affected,Information/News-sharing,False
+pheen,1_45.txt,m5z3j45,School IT/admin,Affected,"Factual confusion/clarification, Express agreement",False
+pheen,1_61.txt,m61u1z6,,,,True
+pheen,1_64.txt,m61vaw8,School IT/admin,Affected,Express agreement,False
+pheen,4_11.txt,m641sr5,School IT/admin,Unaffected,Technical explanation,False
+pheen,8_15.txt,m69dy2g,School IT/admin,Affected,Frustration/Anger,False
+pheen,16_12.txt,m7agw5o,School IT/admin,Affected,"Advice-seeking, Frustration/Anger",False
+pheen,16_14.txt,m7bfxsp,School IT/admin,Affected,"Advice-seeking, Factual confusion/clarification",False
+philr79,11.txt,1hy4bgy,School IT/admin,Possibly affected,"Advice-seeking, Frustration/Anger, Express Concern",False
+philr79,32_8.txt,md99dnz,School IT/admin,Unaffected,"Information/News-sharing, Technical explanation, Information-seeking",False
+pvilkas,25_18.txt,m8unnmb,General observser,Unaffected,Sarcasm/humor,False
+pvilkas,25_19.txt,m8uo1ic,EdTech developer/employee,Unaffected,"Blame attribution, Express agreement",False
+rilian4,2_4.txt,m5y207i,,,,True
+rilian4,7_19.txt,m68pdy6,School IT/admin,Unsure/Unclear,"Factual confusion/clarification, Information/News-sharing",False
+rilian4,11_27.txt,m6hkjty,School IT/admin,Unaffected,"Express agreement, Information/News-sharing, Speculation",False
+sarge21,1_1.txt,m5xo9n5,School IT/admin,Affected,"Advice-giving, Technical explanation, Information/News-sharing",False
+sarge21,1_14.txt,m5xvppr,School IT/admin,Affected,"Advice-giving, Technical explanation",False
+sarge21,2_3.txt,m5xxoua,School IT/admin,Affected,"Advice-giving, Technical explanation",False
+sarge21,1_19.txt,m5xxzq9,School IT/admin,Possibly affected,"Technical explanation, Information/News-sharing",False
+sarge21,1_23.txt,m5y1pbx,School IT/admin,Affected,Information/News-sharing,False
+sarge21,4_16.txt,m648c81,School IT/admin,Affected,Information/News-sharing,False
+sarge21,16_17.txt,m7cmyas,School IT/admin,Possibly affected,Information/News-sharing,False
+sarge21,41_8.txt,mr4kzva,School IT/admin,Possibly affected,"Information-seeking, Factual confusion/clarification",False
+sarge21,41_10.txt,mr54acx,School IT/admin,Possibly affected,Information-seeking,False
+sarge21,41_13.txt,mr5e9bm,School IT/admin,Affected,Misc.,False
+sarge21,42_12.txt,mrajtcb,,,,True
+sarge21,50_7.txt,mthqi74,School IT/admin,Possibly affected,"Factual confusion/clarification, Information-seeking",False
+schmag,11_15.txt,m6fao4f,School IT/admin,Unaffected,Frustration/Anger,False
+schmag,11_16.txt,m6fc5ol,School IT/admin,Possibly affected,"Speculation, Information/News-sharing",False
+schmag,11_22.txt,m6frjnz,School IT/admin,Possibly affected,Information/News-sharing,False
+sharpeone,4_5.txt,m63x5he,School IT/admin,Affected,"Blame attribution, Speculation, Technical explanation",False
+sharpeone,4_7.txt,m63yad8,School IT/admin,Unaffected,,True
+sharpeone,7_4.txt,m6618fb,School IT/admin,Possibly affected,Information/News-sharing,False
+sharpeone,3_3.txt,m661zb1,School IT/admin,Affected,"Frustration/Anger, Blame attribution",False
+sharpeone,7_6.txt,m664alr,School IT/admin,Affected,Information/News-sharing,False
+sharpeone,4_48.txt,m689v3q,School IT/admin,Affected,"Frustration/Anger, Express agreement, Sarcasm/humor",False
+smerritt244,7_11.txt,m667vc7,School IT/admin,Unaffected,Information/News-sharing,False
+smerritt244,44_6.txt,msd2gsa,School IT/admin,Affected,"Frustration/Anger, Express wish",False
+sounds_familiar_too,23.txt,1i6j2jo,Parent/guardian,Affected,"Information/News-sharing, Advice-seeking, Express wish",False
+sounds_familiar_too,23_7.txt,m8cxpsk,General observser,Unaffected,"Express disagreement, Factual confusion/clarification",False
+spacebulb,16_5.txt,m79x7vl,School IT/admin,Unaffected,Advice-giving,False
+spacebulb,16_6.txt,m79xtlv,School IT/admin,Unsure/Unclear,Advice-giving,False
+spacebulb,16_13.txt,m7be55x,School IT/admin,Affected,Advice-giving,False
+sy029,4_44.txt,m67hif9,School IT/admin,Unaffected,"Information-seeking, Information/News-sharing",False
+sy029,27_7.txt,m9e4udu,School IT/admin,Possibly affected,"Information/News-sharing, Information-seeking",False
+sy029,50_3.txt,mtg4ngl,,,,True
+sync-centre,4_8.txt,m6412sf,School IT/admin,Unsure/Unclear,Blame attribution,False
+sync-centre,14_9.txt,m73hq5a,School IT/admin,Unaffected,Technical explanation,False
+the_house_hippo,60_12.txt,m9qeowa,Student,Affected,"Information-seeking, Factual confusion/clarification, Frustration/Anger",False
+the_house_hippo,60_14.txt,m9qf864,General observser,Unaffected,Factual confusion/clarification,False
+the_house_hippo,60_23.txt,m9tecnx,Student,Affected,"Factual confusion/clarification, Information-seeking",False
+theatreeducator,31_1.txt,mb1fkfq,Teacher/educator,Possibly affected,"Factual confusion/clarification, Information-seeking, Information/News-sharing",False
+theatreeducator,31_4.txt,mb1gynk,"Parent/guardian, Teacher/educator",Affected,"Factual confusion/clarification, Speculation, Information/News-sharing",False
+vawlk,1_8.txt,m5xrup4,School IT/admin,Affected,Information/News-sharing,False
+vawlk,4_20.txt,m64op7i,School IT/admin,Affected,Speculation,False
+vawlk,4_21.txt,m64p93e,School IT/admin,Affected,Speculation,False
+vawlk,4_29.txt,m652kyw,School IT/admin,Affected,"Speculation, Information/News-sharing",False
+vawlk,3_1.txt,m6543uy,School IT/admin,Possibly affected,Misc.,False
+vawlk,7_18.txt,m683u4v,School IT/admin,Possibly affected,"Express agreement, Misc.",False
+vawlk,4_50.txt,m68rmhf,,,,True
+vawlk,8_4.txt,m68seni,,,,True
+vawlk,8_7.txt,m68v3cs,School IT/admin,Affected,Information/News-sharing,False
+vawlk,8_8.txt,m68vbla,School IT/admin,Possibly affected,Information/News-sharing,False
+vawlk,7_21.txt,m68vm92,School IT/admin,Possibly affected,Advice-giving,False
+vawlk,7_29.txt,m6hhthm,Parent/guardian,Affected,"Information/News-sharing, Misc.",False
+vawlk,7_31.txt,m6i59nc,School IT/admin,Possibly affected,"Information/News-sharing, Factual confusion/clarification, Frustration/Anger",False
+vawlk,33_10.txt,mdt0s2o,School IT/admin,Affected,Information/News-sharing,False
+vawlk,33_19.txt,mdtzcjm,School IT/admin,Affected,Information/News-sharing,False
+vawlk,33_25.txt,mdztqbc,School IT/admin,Affected,Information/News-sharing,False
+vawlk,50_6.txt,mth103g,,,,True
+vawlk,50_9.txt,mto5ar1,,,,True
+whutchamacallit,25_12.txt,m8tzm38,General observser,Unaffected,Information/News-sharing,False
+whutchamacallit,25_26.txt,m8v7ohc,IT/security professional,Unaffected,Misc.,False
